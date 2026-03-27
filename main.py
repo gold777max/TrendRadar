@@ -2750,7 +2750,7 @@ def send_to_feishu(
 
     now = get_beijing_time()
     payload = {
-        "msg_type": "text",
+        "msg_type": "post",
         "content": {
             "total_titles": total_titles,
             "timestamp": now.strftime("%Y-%m-%d %H:%M:%S"),
