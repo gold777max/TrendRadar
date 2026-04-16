@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-17T04:07:43.676287+08:00",
-  "total_titles_processed": 420,
+  "generated_at": "2026-04-17T07:12:53.515490+08:00",
+  "total_titles_processed": 503,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai ai+ ai人工智能 人工智能 风险识别 商业风险识别 痛点 需求 商业风险 伊朗 rwa 趋势 热点 热门",
-      "match_count": 47,
+      "match_count": 56,
       "titles": [
         {
           "title": "伊朗：将就官员被暗杀追究美以责任",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时56分 ~ 04时07分]"
+          "appearance_count": 4,
+          "time_info": "[00时56分 ~ 07时12分]"
         },
         {
           "title": "美对伊启动“经济狂怒”行动、施压达成协议，伊朗斥为经济恐怖主义，称敌人误判战局",
@@ -28,8 +28,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时56分 ~ 04时07分]"
+          "appearance_count": 4,
+          "time_info": "[00时56分 ~ 07时12分]"
         },
         {
           "title": "美军喊话 ：要去伊朗的船立即掉头，否则我们就动武",
@@ -39,8 +39,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时56分 ~ 04时07分]"
+          "appearance_count": 4,
+          "time_info": "[00时56分 ~ 07时12分]"
         },
         {
           "title": "番茄作者AI代笔,读者白追",
@@ -50,8 +50,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时56分 ~ 04时07分]"
+          "appearance_count": 4,
+          "time_info": "[00时56分 ~ 07时12分]"
         },
         {
           "title": "伊朗战争丨美参联会主席：将全球追击挂伊朗国旗船只",
@@ -65,17 +65,6 @@
           "time_info": "[00时56分 ~ 00时57分]"
         },
         {
-          "title": "伊朗战争丨特朗普：伊朗已同意不拥有核武器",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时07分"
-        },
-        {
           "title": "特朗普：美国“很有可能”在4月下旬英国国王访美前与伊朗达成协议",
           "url": "https://wallstreetcn.com/articles/3770081",
           "source": "华尔街见闻",
@@ -84,8 +73,41 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时56分 ~ 04时07分]"
+          "appearance_count": 4,
+          "time_info": "[00时56分 ~ 07时12分]"
+        },
+        {
+          "title": "伊朗战争丨特朗普：伊朗已同意不拥有核武器",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时07分"
+        },
+        {
+          "title": "伊朗战争丨伊朗总统：民众对美国不再抱有任何信任",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时12分"
+        },
+        {
+          "title": "中东紧张局势持续，美股勉强新高，原油两连涨，美债下挫，美元终结连跌趋势",
+          "url": "https://wallstreetcn.com/articles/3770109",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时12分"
         },
         {
           "title": "英国央行货币政策委员泰勒：劳动力市场对伊朗战争的反应是英国央行决策的关键。",
@@ -106,19 +128,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时56分 ~ 04时07分]"
-        },
-        {
-          "title": "警惕人工智能让人类陷入“自恋”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32976727",
-          "source": "澎湃新闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时56分 ~ 04时07分]"
+          "appearance_count": 4,
+          "time_info": "[00时56分 ~ 07时12分]"
         },
         {
           "title": "美方对伊朗启动代号为「经济狂怒」的行动，其具体措施与以往制裁会有何差异？可能对双方谈判有怎样的影响？",
@@ -129,8 +140,33 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时56分 ~ 04时07分]"
+          "appearance_count": 4,
+          "time_info": "[00时56分 ~ 07时12分]"
+        },
+        {
+          "title": "警惕人工智能让人类陷入“自恋”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32976727",
+          "source": "澎湃新闻",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时56分 ~ 07时12分]"
+        },
+        {
+          "title": "美方对伊朗启动代号为“经济狂怒”的行动",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32986818",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            17,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时56分 ~ 07时12分]"
         },
         {
           "title": "“AI需求极其强劲”！台积电法说会实录：供不应求将持续至至少2027年",
@@ -141,8 +177,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时56分 ~ 04时07分]"
+          "appearance_count": 4,
+          "time_info": "[00时56分 ~ 07时12分]"
         },
         {
           "title": "AI需求强劲支撑涨势 美股三大期指小幅走高 | 今夜看点",
@@ -153,8 +189,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时56分 ~ 04时07分]"
+          "appearance_count": 4,
+          "time_info": "[00时56分 ~ 07时12分]"
         },
         {
           "title": "美称伊朗最高领袖已受伤但仍活着",
@@ -165,8 +201,56 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时56分 ~ 04时07分]"
+          "appearance_count": 4,
+          "time_info": "[00时56分 ~ 07时12分]"
+        },
+        {
+          "title": "美防长称伊朗最高领袖受伤但活着",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E9%98%B2%E9%95%BF%E7%A7%B0%E4%BC%8A%E6%9C%97%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E5%8F%97%E4%BC%A4%E4%BD%86%E6%B4%BB%E7%9D%80%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29,
+            24,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时56分 ~ 07时12分]"
+        },
+        {
+          "title": "伊朗总统感谢中国",
+          "url": "https://www.toutiao.com/trending/7628829127155826738/",
+          "source": "今日头条",
+          "ranks": [
+            24,
+            18,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时56分 ~ 07时12分]"
+        },
+        {
+          "title": "AI承诺赔10万,用户索赔败诉",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353249&amp;topic_name=AI%E6%89%BF%E8%AF%BA%E8%B5%9410%E4%B8%87%2C%E7%94%A8%E6%88%B7%E7%B4%A2%E8%B5%94%E8%B4%A5%E8%AF%89",
+          "source": "贴吧",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时56分 ~ 07时12分]"
+        },
+        {
+          "title": "玩家AI生图捧洛克,网友一秒戳穿",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353287&amp;topic_name=%E7%8E%A9%E5%AE%B6AI%E7%94%9F%E5%9B%BE%E6%8D%A7%E6%B4%9B%E5%85%8B%2C%E7%BD%91%E5%8F%8B%E4%B8%80%E7%A7%92%E6%88%B3%E7%A9%BF",
+          "source": "贴吧",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时56分 ~ 07时12分]"
         },
         {
           "title": "巴基斯坦外交部称下一轮美伊会谈日期尚未确定，伊朗称伊斯兰堡是与美国进行谈判的唯一地点，为何是伊斯兰堡？",
@@ -181,62 +265,28 @@
           "time_info": "[00时56分 ~ 04时07分]"
         },
         {
-          "title": "美方对伊朗启动代号为“经济狂怒”的行动",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32986818",
-          "source": "澎湃新闻",
+          "title": "伊朗武装部队：已做好全面防御准备",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%AD%A6%E8%A3%85%E9%83%A8%E9%98%9F%EF%BC%9A%E5%B7%B2%E5%81%9A%E5%A5%BD%E5%85%A8%E9%9D%A2%E9%98%B2%E5%BE%A1%E5%87%86%E5%A4%87",
+          "source": "百度热搜",
           "ranks": [
-            18,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时56分 ~ 04时07分]"
-        },
-        {
-          "title": "伊朗总统感谢中国",
-          "url": "https://www.toutiao.com/trending/7628829127155826738/",
-          "source": "今日头条",
-          "ranks": [
-            24,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时56分 ~ 04时07分]"
-        },
-        {
-          "title": "AI承诺赔10万,用户索赔败诉",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353249&amp;topic_name=AI%E6%89%BF%E8%AF%BA%E8%B5%9410%E4%B8%87%2C%E7%94%A8%E6%88%B7%E7%B4%A2%E8%B5%94%E8%B4%A5%E8%AF%89",
-          "source": "贴吧",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时56分 ~ 04时07分]"
-        },
-        {
-          "title": "美防长称伊朗最高领袖受伤但活着",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E9%98%B2%E9%95%BF%E7%A7%B0%E4%BC%8A%E6%9C%97%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E5%8F%97%E4%BC%A4%E4%BD%86%E6%B4%BB%E7%9D%80%23&t=31&band_rank=29&Refer=top",
-          "source": "微博",
-          "ranks": [
-            29,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时56分 ~ 04时07分]"
-        },
-        {
-          "title": "玩家AI生图捧洛克,网友一秒戳穿",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353287&amp;topic_name=%E7%8E%A9%E5%AE%B6AI%E7%94%9F%E5%9B%BE%E6%8D%A7%E6%B4%9B%E5%85%8B%2C%E7%BD%91%E5%8F%8B%E4%B8%80%E7%A7%92%E6%88%B3%E7%A9%BF",
-          "source": "贴吧",
-          "ranks": [
+            12,
             26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时56分 ~ 04时07分]"
+          "appearance_count": 2,
+          "time_info": "[04时07分 ~ 07时12分]"
+        },
+        {
+          "title": "伊朗早有后手",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E6%97%A9%E6%9C%89%E5%90%8E%E6%89%8B%23&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时07分 ~ 07时12分]"
         },
         {
           "title": "Upscale AI洽谈获得20亿美元估值，该公司的投资者包括老虎环球。",
@@ -245,7 +295,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时07分"
         },
@@ -267,7 +317,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时07分"
         },
@@ -278,7 +328,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时07分"
         },
@@ -322,9 +372,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时07分"
+        },
+        {
+          "title": "曝常春藤名校用打字机对抗AI",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9B%9D%E5%B8%B8%E6%98%A5%E8%97%A4%E5%90%8D%E6%A0%A1%E7%94%A8%E6%89%93%E5%AD%97%E6%9C%BA%E5%AF%B9%E6%8A%97AI",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时12分"
         },
         {
           "title": "欧洲央行首席经济学家连恩：我没有看到关于伊朗局势影响的决定性信息。",
@@ -355,18 +416,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时07分"
-        },
-        {
-          "title": "伊朗武装部队：已做好全面防御准备",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%AD%A6%E8%A3%85%E9%83%A8%E9%98%9F%EF%BC%9A%E5%B7%B2%E5%81%9A%E5%A5%BD%E5%85%A8%E9%9D%A2%E9%98%B2%E5%BE%A1%E5%87%86%E5%A4%87",
-          "source": "百度热搜",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时07分"
         },
@@ -377,7 +427,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时07分"
         },
@@ -399,7 +449,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时07分"
         },
@@ -421,9 +471,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时07分"
+        },
+        {
+          "title": "美国和伊朗打了一个多月，一共烧了多少钱？",
+          "url": "https://www.zhihu.com/question/2027115873823973436",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时12分"
         },
         {
           "title": "OpenAI：推出新模型GPT-Rosalind，旨在服务于生命科学研究。该模型最初将以研究预览版的形式提供给部分企业客户。",
@@ -432,7 +493,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时07分"
         },
@@ -443,7 +504,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时07分"
         },
@@ -454,7 +515,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时07分"
         },
@@ -476,7 +537,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时07分"
         },
@@ -487,9 +548,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时07分"
+        },
+        {
+          "title": "伊朗外交部：对在黎巴嫩实现停火表示欢迎",
+          "url": "https://flash.jin10.com/detail/20260417051934237800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时12分"
         },
         {
           "title": "伊朗代表：霍尔木兹海峡的稳定需以尊重伊朗权利为前提",
@@ -498,18 +570,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时07分"
-        },
-        {
-          "title": "伊朗早有后手",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E6%97%A9%E6%9C%89%E5%90%8E%E6%89%8B%23&t=31&band_rank=25&Refer=top",
-          "source": "微博",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时07分"
         },
@@ -520,9 +581,31 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时07分"
+        },
+        {
+          "title": "伊朗议长：黎巴嫩是地区全面停火不可或缺一环",
+          "url": "https://wallstreetcn.com/livenews/3089592",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时12分"
+        },
+        {
+          "title": "美国总统特朗普：意大利（在发动伊朗战争方面）不支持我们，我们将来也不会支持他们。",
+          "url": "https://wallstreetcn.com/livenews/3089591",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时12分"
         },
         {
           "title": "特朗普称或前往巴基斯坦推动与伊朗达成协议",
@@ -531,9 +614,31 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时07分"
+        },
+        {
+          "title": "伊朗外交部：对在黎巴嫩实现停火表示欢迎",
+          "url": "https://wallstreetcn.com/livenews/3089590",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时12分"
+        },
+        {
+          "title": "伊朗总统：美国多次违约 伊朗人民已对其完全失去信任",
+          "url": "https://wallstreetcn.com/livenews/3089589",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时12分"
         }
       ]
     }
