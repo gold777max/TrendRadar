@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-21T14:25:07.221047+08:00",
-  "total_titles_processed": 771,
+  "generated_at": "2026-04-21T18:56:09.849555+08:00",
+  "total_titles_processed": 982,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai ai+ ai人工智能 人工智能 风险识别 商业风险识别 痛点 需求 商业风险 伊朗 rwa 趋势 热点 热门",
-      "match_count": 105,
+      "match_count": 118,
       "titles": [
         {
           "title": "特朗普：若有突破进展 愿同伊朗高级别领导人会面",
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时03分 ~ 14时25分]"
+          "appearance_count": 9,
+          "time_info": "[00时03分 ~ 18时56分]"
         },
         {
           "title": "到底谈不谈？伊朗议员：谈判“今天或明天”进行，伊外交部：暂无第二轮谈判计划",
@@ -79,6 +79,56 @@
           "time_info": "[00时03分 ~ 07时29分]"
         },
         {
+          "title": "AI围剿影视圈,演员签卖身契",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353493&amp;topic_name=AI%E5%9B%B4%E5%89%BF%E5%BD%B1%E8%A7%86%E5%9C%88%2C%E6%BC%94%E5%91%98%E7%AD%BE%E5%8D%96%E8%BA%AB%E5%A5%91",
+          "source": "贴吧",
+          "ranks": [
+            7,
+            9,
+            17,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时03分 ~ 18时56分]"
+        },
+        {
+          "title": "满仓都是导弹 伊朗军方自曝库存",
+          "url": "https://www.toutiao.com/trending/7630112244986105350/",
+          "source": "今日头条",
+          "ranks": [
+            11,
+            15,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时03分 ~ 18时56分]"
+        },
+        {
+          "title": "特朗普称21日美伊谈判、如未达成协议“几无可能”延长停火，伊朗最高领袖重申三大立场",
+          "url": "https://wallstreetcn.com/articles/3770427",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时24分 ~ 18时56分]"
+        },
+        {
+          "title": "伊朗最高领袖重申三项基本立场",
+          "url": "https://news.ifeng.com/c/8sUi4SYlv7W",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时24分 ~ 18时56分]"
+        },
+        {
           "title": "七嘴八舌 | 爱奇艺的“先斩后奏”，才是这场“AI艺人库”风波的雷点",
           "url": "https://m.thepaper.cn/newsDetail_forward_33011101",
           "source": "澎湃新闻",
@@ -110,19 +160,6 @@
           "ranks": [
             8,
             9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时03分 ~ 14时25分]"
-        },
-        {
-          "title": "AI围剿影视圈,演员签卖身契",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353493&amp;topic_name=AI%E5%9B%B4%E5%89%BF%E5%BD%B1%E8%A7%86%E5%9C%88%2C%E6%BC%94%E5%91%98%E7%AD%BE%E5%8D%96%E8%BA%AB%E5%A5%91",
-          "source": "贴吧",
-          "ranks": [
-            7,
-            9,
-            17
           ],
           "is_new": false,
           "appearance_count": 7,
@@ -162,16 +199,15 @@
           "time_info": "[14时24分 ~ 14时25分]"
         },
         {
-          "title": "满仓都是导弹 伊朗军方自曝库存",
-          "url": "https://www.toutiao.com/trending/7630112244986105350/",
-          "source": "今日头条",
+          "title": "伊朗战争丨霍尔木兹海峡博弈，给中国带来哪些启示？",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
           "ranks": [
-            11,
-            15
+            1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时03分 ~ 14时25分]"
+          "appearance_count": 2,
+          "time_info": "[18时55分 ~ 18时56分]"
         },
         {
           "title": "爱奇艺称AI艺人库仅是合作意愿",
@@ -187,17 +223,6 @@
           "time_info": "[00时03分 ~ 07时29分]"
         },
         {
-          "title": "特朗普称21日美伊谈判、如未达成协议“几无可能”延长停火，伊朗最高领袖重申三大立场",
-          "url": "https://wallstreetcn.com/articles/3770427",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时24分 ~ 14时25分]"
-        },
-        {
           "title": "特朗普：美军武力拦截并控制一艘伊朗货船",
           "url": "https://news.ifeng.com/c/8sSpivPG8Fy",
           "source": "凤凰网",
@@ -209,15 +234,15 @@
           "time_info": "[00时03分 ~ 00时04分]"
         },
         {
-          "title": "伊朗最高领袖重申三项基本立场",
-          "url": "https://news.ifeng.com/c/8sUi4SYlv7W",
-          "source": "凤凰网",
+          "title": "你每天用的AI 可能被“投毒”了",
+          "url": "https://www.baidu.com/s?wd=%E4%BD%A0%E6%AF%8F%E5%A4%A9%E7%94%A8%E7%9A%84AI+%E5%8F%AF%E8%83%BD%E8%A2%AB%E2%80%9C%E6%8A%95%E6%AF%92%E2%80%9D%E4%BA%86",
+          "source": "百度热搜",
           "ranks": [
-            3
+            4
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时24分 ~ 14时25分]"
+          "time_info": "[18时55分 ~ 18时56分]"
         },
         {
           "title": "爆料：至少26艘涉伊朗航运船只突破美军封锁",
@@ -293,7 +318,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时25分"
         },
@@ -337,7 +362,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时25分"
         },
@@ -370,7 +395,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时25分"
         },
@@ -496,6 +521,41 @@
           "time_info": "[00时03分 ~ 07时29分]"
         },
         {
+          "title": "美以袭击伊朗进入第 53 天，当前局势如何？还有哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2029682687414203990",
+          "source": "知乎",
+          "ranks": [
+            6,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时24分 ~ 18时56分]"
+        },
+        {
+          "title": "特朗普：伊朗将进行谈判，希望双方能够达成“公平协议”",
+          "url": "https://news.ifeng.com/c/8sUsyyCLV6x",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时24分 ~ 18时56分]"
+        },
+        {
+          "title": "爱奇艺AI艺人库争议背后：为何要推进，如何保证演员和观众权益？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33011865",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时24分 ~ 18时56分]"
+        },
+        {
           "title": "美军：已指令27艘船只掉头或返回伊朗港口",
           "url": "https://news.ifeng.com/c/8sUEtyjK76q",
           "source": "凤凰网",
@@ -505,6 +565,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时03分 ~ 04时08分]"
+        },
+        {
+          "title": "伊朗男足备战世界杯",
+          "url": "https://www.douyin.com/hot/2473160",
+          "source": "抖音",
+          "ranks": [
+            15,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时24分 ~ 18时56分]"
         },
         {
           "title": "伊朗官员：最高领袖完全健康",
@@ -624,15 +696,15 @@
           "time_info": "[04时07分 ~ 04时08分]"
         },
         {
-          "title": "美以袭击伊朗进入第 53 天，当前局势如何？还有哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2029682687414203990",
-          "source": "知乎",
+          "title": "万斯将赴巴基斯坦推进新一轮美伊谈判，伊朗再反转：没派代表团前往",
+          "url": "https://wallstreetcn.com/articles/3770465",
+          "source": "华尔街见闻",
           "ranks": [
-            6
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时24分 ~ 14时25分]"
+          "time_info": "[18时55分 ~ 18时56分]"
         },
         {
           "title": "AI短剧是如何诞生的",
@@ -657,15 +729,15 @@
           "time_info": "[14时24分 ~ 14时25分]"
         },
         {
-          "title": "特朗普：伊朗将进行谈判，希望双方能够达成“公平协议”",
-          "url": "https://news.ifeng.com/c/8sUsyyCLV6x",
+          "title": "凤凰女记者：巴外长不断给伊朗做工作，特朗普态度成关键",
+          "url": "https://news.ifeng.com/c/8sVQzCFVrqc",
           "source": "凤凰网",
           "ranks": [
-            8
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时24分 ~ 14时25分]"
+          "time_info": "[18时55分 ~ 18时56分]"
         },
         {
           "title": "AI 投入猛增，字节跳动去年净利下滑超 70%，如何解读该业绩？是暂时战略牺牲还是经营基本面出问题了？",
@@ -679,15 +751,15 @@
           "time_info": "[14时24分 ~ 14时25分]"
         },
         {
-          "title": "爱奇艺AI艺人库争议背后：为何要推进，如何保证演员和观众权益？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33011865",
+          "title": "上海楼市“金三银四”实探：二手房置换链向上传导，“卖旧买新”激活新房需求",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33011796",
           "source": "澎湃新闻",
           "ranks": [
-            13
+            14
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时24分 ~ 14时25分]"
+          "time_info": "[18时55分 ~ 18时56分]"
         },
         {
           "title": "中方就伊朗向印度船只开火表态",
@@ -699,17 +771,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时07分 ~ 04时08分]"
-        },
-        {
-          "title": "伊朗男足备战世界杯",
-          "url": "https://www.douyin.com/hot/2473160",
-          "source": "抖音",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时24分 ~ 14时25分]"
         },
         {
           "title": "爱奇艺 CEO 龚宇称 AI 影视化无法阻挡，真人实拍可能成为非物质文化遗产，你认同他的观点吗？",
@@ -743,6 +804,39 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时24分 ~ 14时25分]"
+        },
+        {
+          "title": "又一伊朗油轮突破美国封锁后返回伊朗",
+          "url": "https://www.toutiao.com/trending/7630538859985698858/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时55分 ~ 18时56分]"
+        },
+        {
+          "title": "伊朗明日起恢复国内航班",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%98%8E%E6%97%A5%E8%B5%B7%E6%81%A2%E5%A4%8D%E5%9B%BD%E5%86%85%E8%88%AA%E7%8F%AD",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时55分 ~ 18时56分]"
+        },
+        {
+          "title": "伊朗明起恢复国内航班",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E6%98%8E%E8%B5%B7%E6%81%A2%E5%A4%8D%E5%9B%BD%E5%86%85%E8%88%AA%E7%8F%AD%23&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时55分 ~ 18时56分]"
         },
         {
           "title": "AI版成何体统逐玉",
@@ -806,7 +900,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时25分"
         },
@@ -817,7 +911,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时25分"
         },
@@ -842,6 +936,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时08分"
+        },
+        {
+          "title": "伊朗武装部队最高指挥层表示，不会让“撒谎、妄想”的特朗普歪曲战场现实。",
+          "url": "https://flash.jin10.com/detail/20260421182442866800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时56分"
         },
         {
           "title": "加拿大央行：调查结果表明，通胀预期遭到伊朗战争的冲击。",
@@ -965,6 +1070,17 @@
           "time_info": "04时08分"
         },
         {
+          "title": "2026福布斯AI 50榜单发布",
+          "url": "https://wallstreetcn.com/livenews/3091749",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时56分"
+        },
+        {
           "title": "伊朗外交部声明：伊朗外长告知巴基斯坦外长，美国“持续违反停火协议”是外交进程继续推进的主要障碍。 德黑兰在综合考虑各方面因素后，将就如何推进此事做出决定。",
           "url": "https://wallstreetcn.com/livenews/3091294",
           "source": "华尔街见闻-快讯",
@@ -1009,6 +1125,17 @@
           "time_info": "04时08分"
         },
         {
+          "title": "汇丰行政总裁称该行在伊朗没有业务或相关活动。",
+          "url": "https://wallstreetcn.com/livenews/3091744",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时56分"
+        },
+        {
           "title": "一艘悬挂伊朗国旗的货船正通过霍尔木兹海峡",
           "url": "https://flash.jin10.com/detail/20260421061917487800",
           "source": "金十数据",
@@ -1018,6 +1145,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时29分"
+        },
+        {
+          "title": "2026福布斯AI 50榜单发布",
+          "url": "https://flash.jin10.com/detail/20260421181913746800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时56分"
         },
         {
           "title": "特朗普称正在赢得战争 在达成“协议”前不会解除对伊朗的封锁",
@@ -1059,7 +1197,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时25分"
         },
@@ -1081,7 +1219,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时25分"
         },
@@ -1114,7 +1252,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时25分"
         },
@@ -1141,6 +1279,17 @@
           "time_info": "04时08分"
         },
         {
+          "title": "汇丰行政总裁称该行在伊朗没有业务或相关活动。",
+          "url": "https://flash.jin10.com/detail/20260421181715640800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时56分"
+        },
+        {
           "title": "标普500指数跌幅扩大至0.5%，此前美国总统特朗普声称“极不可能”延长与伊朗的停火协议。",
           "url": "https://wallstreetcn.com/livenews/3091226",
           "source": "华尔街见闻-快讯",
@@ -1158,7 +1307,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时25分"
         },
