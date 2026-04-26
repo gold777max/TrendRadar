@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-26T10:27:49.997215+08:00",
-  "total_titles_processed": 674,
+  "generated_at": "2026-04-26T13:37:11.773563+08:00",
+  "total_titles_processed": 842,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai ai+ ai人工智能 人工智能 风险识别 商业风险识别 痛点 需求 商业风险 伊朗 rwa 趋势 热点 热门",
-      "match_count": 117,
+      "match_count": 123,
       "titles": [
         {
           "title": "伊朗战争丨伊朗外长已离开巴基斯坦",
@@ -27,8 +27,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时38分 ~ 10时27分]"
+          "appearance_count": 14,
+          "time_info": "[00时38分 ~ 13时37分]"
         },
         {
           "title": "观察｜团结还是分裂？新旧秩序交叠下的伊朗政权谜题",
@@ -97,11 +97,12 @@
           "ranks": [
             1,
             3,
-            15
+            15,
+            28
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时38分 ~ 10时27分]"
+          "appearance_count": 10,
+          "time_info": "[00时38分 ~ 13时37分]"
         },
         {
           "title": "沐曦股份携手FlagOS、上海人工智能实验室，完成DeepSeek-V4 Day 0适配",
@@ -159,11 +160,12 @@
           "ranks": [
             8,
             9,
-            10
+            10,
+            13
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时38分 ~ 10时27分]"
+          "appearance_count": 14,
+          "time_info": "[00时38分 ~ 13时37分]"
         },
         {
           "title": "伊朗代表团已离开巴基斯坦",
@@ -199,11 +201,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353704&amp;topic_name=AI%E5%9B%BE%E4%BB%A5%E5%81%87%E4%B9%B1%E7%9C%9F%2C%E6%81%90%E6%80%96%E8%B0%B7%E6%95%88%E5%BA%94%E6%8B%89%E6%BB%A1",
           "source": "贴吧",
           "ranks": [
-            14
+            14,
+            19
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时38分 ~ 10时27分]"
+          "appearance_count": 14,
+          "time_info": "[00时38分 ~ 13时37分]"
         },
         {
           "title": "伊朗最高领袖发表致辞",
@@ -353,6 +356,17 @@
           "time_info": "[05时35分 ~ 07时35分]"
         },
         {
+          "title": "特朗普被伊朗气坏了",
+          "url": "https://news.ifeng.com/c/8sd8zVVWM0m",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时27分 ~ 13时37分]"
+        },
+        {
           "title": "伊朗绞死受以色列指使的特工",
           "url": "https://www.toutiao.com/trending/7631499896784748590/",
           "source": "今日头条",
@@ -441,17 +455,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时35分 ~ 07时35分]"
-        },
-        {
-          "title": "特朗普被伊朗气坏了",
-          "url": "https://news.ifeng.com/c/8sd8zVVWM0m",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时27分"
         },
         {
           "title": "伊朗政府发言人：我们希望外交能够带来持久和平，但我们也坚定捍卫我们的国家。",
@@ -577,6 +580,32 @@
           "time_info": "[00时38分 ~ 02时45分]"
         },
         {
+          "title": "美军称将继续对进出伊朗港口船只实施全面封锁",
+          "url": "https://wallstreetcn.com/livenews/3094418",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            13,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时35分 ~ 13时37分]"
+        },
+        {
+          "title": "仍有谈判窗口？伊朗外长将再次访巴 特朗普：想谈直接打电话",
+          "url": "https://wallstreetcn.com/livenews/3094417",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            14,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时35分 ~ 13时37分]"
+        },
+        {
           "title": "伊朗司法总监：敌人遭受了重大损失，可能会采取进一步行动。",
           "url": "https://flash.jin10.com/detail/20260426011458220800",
           "source": "金十数据",
@@ -601,18 +630,6 @@
           "time_info": "[02时45分 ~ 03时42分]"
         },
         {
-          "title": "美军称将继续对进出伊朗港口船只实施全面封锁",
-          "url": "https://wallstreetcn.com/livenews/3094418",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时35分 ~ 10时27分]"
-        },
-        {
           "title": "美国总统特朗普：伊朗领导层内部正陷入严重的内讧与混乱之中。没人知道究竟谁说了算——就连他们自己也搞不清楚。",
           "url": "https://flash.jin10.com/detail/20260426002923524800",
           "source": "金十数据",
@@ -635,18 +652,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时36分 ~ 02时45分]"
-        },
-        {
-          "title": "仍有谈判窗口？伊朗外长将再次访巴 特朗普：想谈直接打电话",
-          "url": "https://wallstreetcn.com/livenews/3094417",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时35分 ~ 10时27分]"
         },
         {
           "title": "美国共和党参议员格雷厄姆：让我们继续封锁，开放海峡，必要时恢复军事行动，确保伊朗永远无法重蹈覆辙。",
@@ -724,6 +729,28 @@
           "time_info": "[04时36分 ~ 07时35分]"
         },
         {
+          "title": "伊朗称“已形成霍尔木兹海峡综合管理方案”，“须缴纳相关费用，里亚尔支付优先”，美军称将继续对进出伊朗港口船只实施全面封锁",
+          "url": "https://wallstreetcn.com/articles/3770901",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时27分 ~ 13时37分]"
+        },
+        {
+          "title": "伊朗战争丨穆杰塔巴下令霍尔木兹海峡不得恢复战前状态",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时27分 ~ 13时37分]"
+        },
+        {
           "title": "美国中央司令部：我们继续对伊朗港口实施海上封锁。",
           "url": "https://flash.jin10.com/detail/20260426050019917800",
           "source": "金十数据",
@@ -734,6 +761,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时35分 ~ 07时35分]"
+        },
+        {
+          "title": "美以袭击伊朗进入第 58 天，当前局势如何？还有哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2031511362854024172",
+          "source": "知乎",
+          "ranks": [
+            6,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时27分 ~ 13时37分]"
         },
         {
           "title": "美国中央司令部：在阿拉伯海拦截了一艘与伊朗有关的船只。",
@@ -772,6 +811,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时42分 ~ 05时35分]"
+        },
+        {
+          "title": "伊朗最高领袖敦促海湾国家保持警惕",
+          "url": "https://www.toutiao.com/trending/7632514962371464758/",
+          "source": "今日头条",
+          "ranks": [
+            8,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时27分 ~ 13时37分]"
         },
         {
           "title": "伊朗官员称美伊可能在未来几天举行第二轮谈判",
@@ -820,6 +871,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时35分 ~ 07时35分]"
+        },
+        {
+          "title": "伊朗最高领袖已明确下令，霍尔木兹海峡不得恢复战前状态，会是永久战略吗？对国际市场意味着什么？",
+          "url": "https://www.zhihu.com/question/2031646484894937327",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时36分 ~ 13时37分]"
         },
         {
           "title": "伊朗最高领袖敦促海湾国家：保持警惕",
@@ -906,6 +968,41 @@
           "time_info": "[03时42分 ~ 04时36分]"
         },
         {
+          "title": "伊朗副议长：穆杰塔巴下令霍尔木兹海峡不得恢复战前状态",
+          "url": "https://wallstreetcn.com/livenews/3094423",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时27分 ~ 13时37分]"
+        },
+        {
+          "title": "巴基斯坦总理同伊朗总统通电话 讨论地区局势",
+          "url": "https://wallstreetcn.com/livenews/3094422",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时27分 ~ 13时37分]"
+        },
+        {
+          "title": "枪击是否与伊朗战争有关？特朗普回应",
+          "url": "https://news.ifeng.com/c/8sdOgZksONK",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时36分 ~ 13时37分]"
+        },
+        {
           "title": "四艘空载伊朗油轮试图返航伊朗，现已在巴基斯坦专属经济区内被发现。",
           "url": "https://flash.jin10.com/detail/20260426005657977800",
           "source": "金十数据",
@@ -930,6 +1027,18 @@
           "time_info": "[03时42分 ~ 04时36分]"
         },
         {
+          "title": "以军总参谋长建议告知美国应重启对伊朗打击",
+          "url": "https://wallstreetcn.com/livenews/3094421",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时27分 ~ 13时37分]"
+        },
+        {
           "title": "据半岛电视台：美国总统特朗普谈结束伊朗停火：“我甚至都没想过这事儿。”",
           "url": "https://flash.jin10.com/detail/20260426025149294800",
           "source": "金十数据",
@@ -940,6 +1049,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时42分 ~ 04时36分]"
+        },
+        {
+          "title": "伊朗政府发言人：国内各政治力量立场一致 敌对势力不要误判",
+          "url": "https://wallstreetcn.com/livenews/3094420",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时27分 ~ 13时37分]"
         },
         {
           "title": "据伊朗伊斯兰共和国通讯社（IRNA）：伊朗政府发言人表示，战争期间国家自豪感增强。",
@@ -964,6 +1085,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时42分 ~ 04时36分]"
+        },
+        {
+          "title": "伊朗总统：不会在压力、威胁和封锁下进行谈判",
+          "url": "https://wallstreetcn.com/livenews/3094419",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时27分 ~ 13时37分]"
         },
         {
           "title": "伊朗军方警告称，如果美国的非法海上封锁继续，将作出果断回应。",
@@ -1025,48 +1158,15 @@
           "time_info": "[05时34分 ~ 05时35分]"
         },
         {
-          "title": "伊朗称“已形成霍尔木兹海峡综合管理方案”，“须缴纳相关费用，里亚尔支付优先”，美军称将继续对进出伊朗港口船只实施全面封锁",
-          "url": "https://wallstreetcn.com/articles/3770901",
-          "source": "华尔街见闻",
+          "title": "特朗普否认枪击事件与伊朗战争有关",
+          "url": "https://wallstreetcn.com/livenews/3094441",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时27分"
-        },
-        {
-          "title": "伊朗战争丨穆杰塔巴下令霍尔木兹海峡不得恢复战前状态",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时27分"
-        },
-        {
-          "title": "美以袭击伊朗进入第 58 天，当前局势如何？还有哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2031511362854024172",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时27分"
-        },
-        {
-          "title": "伊朗最高领袖敦促海湾国家保持警惕",
-          "url": "https://www.toutiao.com/trending/7632514962371464758/",
-          "source": "今日头条",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时27分"
+          "time_info": "13时37分"
         },
         {
           "title": "印尼财长：考虑效仿伊朗，在马六甲海峡收“过路费”！",
@@ -1080,35 +1180,13 @@
           "time_info": "07时35分"
         },
         {
-          "title": "伊朗副议长：穆杰塔巴下令霍尔木兹海峡不得恢复战前状态",
-          "url": "https://wallstreetcn.com/livenews/3094423",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时27分"
-        },
-        {
-          "title": "巴基斯坦总理同伊朗总统通电话 讨论地区局势",
-          "url": "https://wallstreetcn.com/livenews/3094422",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时27分"
-        },
-        {
           "title": "谷歌云CEO：自研TPU构筑竞争护城河，第八代芯片即将发布，外部需求已超供给上限",
           "url": "https://wallstreetcn.com/articles/3770884",
           "source": "华尔街见闻",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时27分"
         },
@@ -1135,26 +1213,15 @@
           "time_info": "02时45分"
         },
         {
-          "title": "以军总参谋长建议告知美国应重启对伊朗打击",
-          "url": "https://wallstreetcn.com/livenews/3094421",
-          "source": "华尔街见闻-快讯",
+          "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850514&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/04/q4Q2a2QjEHCw5Z7dhreuL.jpg/lite\" height=\"120\"/></a>",
+          "url": "https://flash.jin10.com/detail/20260426120715740800",
+          "source": "金十数据",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时27分"
-        },
-        {
-          "title": "伊朗政府发言人：国内各政治力量立场一致 敌对势力不要误判",
-          "url": "https://wallstreetcn.com/livenews/3094420",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时27分"
+          "time_info": "13时37分"
         },
         {
           "title": "特朗普谈及伊朗谈判，表示通过电话沟通同样可行。",
@@ -1166,17 +1233,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时38分"
-        },
-        {
-          "title": "伊朗总统：不会在压力、威胁和封锁下进行谈判",
-          "url": "https://wallstreetcn.com/livenews/3094419",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时27分"
         },
         {
           "title": "伊朗外长抵达阿曼",
@@ -1232,6 +1288,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时36分"
+        },
+        {
+          "title": "美国总统特朗普：这起事件不会阻止我在伊朗战争中获胜。",
+          "url": "https://flash.jin10.com/detail/20260426110401312800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时37分"
         },
         {
           "title": "伊朗代表团已离开巴基斯坦",
@@ -1339,7 +1406,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时27分"
         },
@@ -1350,9 +1417,20 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时27分"
+        },
+        {
+          "title": "美国总统特朗普：（在被问及枪击事件是否与伊朗冲突有关时表示）我不这么认为。",
+          "url": "https://flash.jin10.com/detail/20260426105452412800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时37分"
         },
         {
           "title": "据伊朗媒体报道，伊朗外交部长阿拉格奇在会见巴基斯坦官员后已离开伊斯兰堡。",
@@ -1372,7 +1450,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时27分"
         },
