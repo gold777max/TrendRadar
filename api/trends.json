@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-28T13:57:06.751127+08:00",
-  "total_titles_processed": 997,
+  "generated_at": "2026-04-28T16:23:50.740972+08:00",
+  "total_titles_processed": 1158,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai ai+ ai人工智能 人工智能 风险识别 商业风险识别 痛点 需求 商业风险 伊朗 rwa 趋势 热点 热门",
-      "match_count": 116,
+      "match_count": 122,
       "titles": [
         {
           "title": "伊朗提出一项分三阶段解决的谈判方案：先谈终止战争，然后霍尔木兹海峡，最后才是核问题",
@@ -27,11 +27,12 @@
             2,
             4,
             6,
-            13
+            13,
+            17
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时19分 ~ 13时57分]"
+          "appearance_count": 12,
+          "time_info": "[01时19分 ~ 16时23分]"
         },
         {
           "title": "伊朗宣布暂停66类钢铁产品出口，此前70%钢铁产能被以色列摧毁",
@@ -42,11 +43,12 @@
             8,
             7,
             4,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时19分 ~ 13时57分]"
+          "appearance_count": 12,
+          "time_info": "[01时19分 ~ 16时23分]"
         },
         {
           "title": "美国以涉伊朗为由制裁中企 中方表态",
@@ -101,6 +103,30 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时19分 ~ 10时37分]"
+        },
+        {
+          "title": "伊朗代表：美国“如同海盗和恐怖分子”",
+          "url": "https://news.ifeng.com/c/8sgbI0j3nvZ",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时37分 ~ 16时23分]"
+        },
+        {
+          "title": "伊朗外长称美方请求谈判、伊方正考虑，美国务卿称伊重开霍尔木兹提议不可接受",
+          "url": "https://wallstreetcn.com/articles/3771035",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时37分 ~ 16时23分]"
         },
         {
           "title": "国芯+国模！DeepSeek适配国产芯片 AI算力底座迈向多样化",
@@ -167,28 +193,16 @@
           "time_info": "[10时37分 ~ 13时57分]"
         },
         {
-          "title": "伊朗代表：美国“如同海盗和恐怖分子”",
-          "url": "https://news.ifeng.com/c/8sgbI0j3nvZ",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时37分 ~ 13时57分]"
-        },
-        {
-          "title": "伊朗外长称美方请求谈判、伊方正考虑，美国务卿称伊重开霍尔木兹提议不可接受",
-          "url": "https://wallstreetcn.com/articles/3771035",
-          "source": "华尔街见闻",
+          "title": "广东发布十五五规划纲要，事关AI、商业航天、光伏等",
+          "url": "https://www.cls.cn/detail/2357658",
+          "source": "财联社热门",
           "ranks": [
             5,
             3
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[10时37分 ~ 13时57分]"
+          "time_info": "[13时56分 ~ 16时23分]"
         },
         {
           "title": "美股三大存储股齐刷新高！分析师：存储强劲需求料持续至2030年",
@@ -200,6 +214,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时37分 ~ 13时57分]"
+        },
+        {
+          "title": "“AI光算力第一股”来了！上海曦智科技今登陆港交所 全球知名机构争做基石投资者",
+          "url": "https://www.cls.cn/detail/2357540",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时37分 ~ 16时23分]"
         },
         {
           "title": "消息人士：伊朗提出一项分三阶段解决的谈判方案",
@@ -228,15 +254,16 @@
           "time_info": "[01时19分 ~ 06时57分]"
         },
         {
-          "title": "广东发布十五五规划纲要，事关AI、商业航天、光伏等",
-          "url": "https://www.cls.cn/detail/2357658",
-          "source": "财联社热门",
+          "title": "美以袭击伊朗进入第 60 天，当前局势如何？还有哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2032226305366647567",
+          "source": "知乎",
           "ranks": [
-            5
+            6,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时56分 ~ 13时57分]"
+          "appearance_count": 6,
+          "time_info": "[07时54分 ~ 16时23分]"
         },
         {
           "title": "伊朗外长抵达圣彼得堡将同普京举行会谈，会谈些啥？美伊局势转向会迎来重要契机吗？",
@@ -251,6 +278,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时19分 ~ 06时57分]"
+        },
+        {
+          "title": "中央政治局会议重磅定调！事关扩大内需、人工智能、房地产市场",
+          "url": "https://www.cls.cn/detail/2357874",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时23分"
         },
         {
           "title": "伊朗外交部长：我们欢迎俄罗斯对外交的支持。",
@@ -289,18 +327,6 @@
           "time_info": "03时15分"
         },
         {
-          "title": "“AI光算力第一股”来了！上海曦智科技今登陆港交所 全球知名机构争做基石投资者",
-          "url": "https://www.cls.cn/detail/2357540",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时37分 ~ 13时57分]"
-        },
-        {
           "title": "伊朗高级军事顾问表示，美国无法封锁石油出口。",
           "url": "https://flash.jin10.com/detail/20260428004340107800",
           "source": "金十数据",
@@ -312,6 +338,30 @@
           "time_info": "01时20分"
         },
         {
+          "title": "如何评价红果下架播放量 8 亿的 AI 短剧《菩提临世》？问题出在哪？AI 短剧创作要注意什么？",
+          "url": "https://www.zhihu.com/question/2032163714355263384",
+          "source": "知乎",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时56分 ~ 16时23分]"
+        },
+        {
+          "title": "美伊分歧难弥合！美官员：特朗普“不喜欢”伊朗新提案 核问题须优先解决",
+          "url": "https://www.cls.cn/detail/2357692",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时56分 ~ 16时23分]"
+        },
+        {
           "title": "伊拉克什叶派联盟提名Ali al-Zaidi为总理。（伊拉克国家新闻机构）",
           "url": "https://wallstreetcn.com/livenews/3095185",
           "source": "华尔街见闻-快讯",
@@ -321,18 +371,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时15分"
-        },
-        {
-          "title": "美以袭击伊朗进入第 60 天，当前局势如何？还有哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2032226305366647567",
-          "source": "知乎",
-          "ranks": [
-            6,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时54分 ~ 13时57分]"
         },
         {
           "title": "报道：特朗普对伊朗的霍尔木兹海峡方案持怀疑态度",
@@ -458,6 +496,19 @@
           "time_info": "[05时59分 ~ 06时57分]"
         },
         {
+          "title": "普京：全世界都钦佩伊朗人民抵抗美国",
+          "url": "https://www.toutiao.com/trending/7632898398869474879/",
+          "source": "今日头条",
+          "ranks": [
+            11,
+            17,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时37分 ~ 16时23分]"
+        },
+        {
           "title": "普京会见伊朗外长阿拉格齐",
           "url": "https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E4%BC%9A%E8%A7%81%E4%BC%8A%E6%9C%97%E5%A4%96%E9%95%BF%E9%98%BF%E6%8B%89%E6%A0%BC%E9%BD%90",
           "source": "百度热搜",
@@ -483,6 +534,17 @@
           "time_info": "[07时54分 ~ 10时37分]"
         },
         {
+          "title": "伊朗战争丨与特朗普说法不同，鲁比奥称伊朗仍有半数导弹库存",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时56分 ~ 16时23分]"
+        },
+        {
           "title": "经济学家警告：伊朗战争对美国经济的冲击或贯穿整个2026年",
           "url": "https://www.cls.cn/detail/2357269",
           "source": "财联社热门",
@@ -500,18 +562,6 @@
           "source": "财联社热门",
           "ranks": [
             8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时37分 ~ 13时57分]"
-        },
-        {
-          "title": "普京：全世界都钦佩伊朗人民抵抗美国",
-          "url": "https://www.toutiao.com/trending/7632898398869474879/",
-          "source": "今日头条",
-          "ranks": [
-            11,
-            17
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -556,6 +606,18 @@
           "time_info": "[04时59分 ~ 06时57分]"
         },
         {
+          "title": "伊朗“蚊子舰队”如何控制海峡",
+          "url": "https://www.toutiao.com/trending/7632881081640976430/",
+          "source": "今日头条",
+          "ranks": [
+            14,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时56分 ~ 16时23分]"
+        },
+        {
           "title": "美国共和党参议员格雷厄姆：伊朗提出的所谓新提议是不可接受的。",
           "url": "https://flash.jin10.com/detail/20260428035812262800",
           "source": "金十数据",
@@ -582,6 +644,18 @@
           "time_info": "[04时59分 ~ 06时57分]"
         },
         {
+          "title": "歌手2026回应ai海报",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%AD%8C%E6%89%8B2026%E5%9B%9E%E5%BA%94ai%E6%B5%B7%E6%8A%A5%23&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时56分 ~ 16时23分]"
+        },
+        {
           "title": "伊朗战争丨特朗普及其国安团队开会讨论伊朗新提案",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
           "source": "凤凰网",
@@ -591,39 +665,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时59分 ~ 06时57分]"
-        },
-        {
-          "title": "伊朗战争丨与特朗普说法不同，鲁比奥称伊朗仍有半数导弹库存",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时56分 ~ 13时57分]"
-        },
-        {
-          "title": "如何评价红果下架播放量 8 亿的 AI 短剧《菩提临世》？问题出在哪？AI 短剧创作要注意什么？",
-          "url": "https://www.zhihu.com/question/2032163714355263384",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时56分 ~ 13时57分]"
-        },
-        {
-          "title": "美伊分歧难弥合！美官员：特朗普“不喜欢”伊朗新提案 核问题须优先解决",
-          "url": "https://www.cls.cn/detail/2357692",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时56分 ~ 13时57分]"
         },
         {
           "title": "伊朗：德黑兰本轮冲突中受损住宅已修复约80%",
@@ -673,17 +714,6 @@
           "time_info": "[13时56分 ~ 13时57分]"
         },
         {
-          "title": "伊朗“蚊子舰队”如何控制海峡",
-          "url": "https://www.toutiao.com/trending/7632881081640976430/",
-          "source": "今日头条",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时56分 ~ 13时57分]"
-        },
-        {
           "title": "纳斯达克金龙中国指数收跌1.20%，报6868.78点。 热门中概股里，亚朵初步收跌5.4%，世纪互联跌4.2%，再鼎医药、华住、大全新能源至少跌3.5%，万国数据、B站、阿里跌超2%，蔚来涨0.6%，网易涨0.7%，新东方涨1.3%，文远知行涨2.4%。 ETF中，中概互联网指数ETF（KWEB）收跌1.63%，中国科技指数ETF（CQQQ）收涨0.36%。 德银嘉实沪深300指数ETF（ASHR）收跌0.49%，XtrackersHarvest中证50（ASHS）收涨0.71%。",
           "url": "https://wallstreetcn.com/livenews/3095216",
           "source": "华尔街见闻-快讯",
@@ -694,6 +724,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时59分 ~ 05时59分]"
+        },
+        {
+          "title": "期货热点追踪",
+          "url": "https://flash.jin10.com/detail/20260428094420938800",
+          "source": "金十数据",
+          "ranks": [
+            27,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时37分 ~ 16时23分]"
         },
         {
           "title": "美国财长贝森特：上周五与欧盟委员会副主席谢夫乔维奇举行会谈。强调了应对伊朗对霍尔木兹海峡构成的威胁的必要性，并着重指出美国担任G20轮值主席国期间将重点关注粮食与化肥供应链问题。",
@@ -711,17 +753,6 @@
           "title": "美以袭击致伊朗医疗教育设施严重受损",
           "url": "https://www.toutiao.com/trending/7633415236166565931/",
           "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时56分 ~ 13时57分]"
-        },
-        {
-          "title": "歌手2026回应ai海报",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%AD%8C%E6%89%8B2026%E5%9B%9E%E5%BA%94ai%E6%B5%B7%E6%8A%A5%23&t=31&band_rank=26&Refer=top",
-          "source": "微博",
           "ranks": [
             26
           ],
@@ -752,6 +783,17 @@
           "time_info": "10时37分"
         },
         {
+          "title": "工信部：下一步将开展“人工智能+软件”专项行动",
+          "url": "https://wallstreetcn.com/livenews/3095572",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时23分"
+        },
+        {
           "title": "金十图示：2026年04月27日（周一）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260428003152536800",
           "source": "金十数据",
@@ -780,7 +822,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时57分"
         },
@@ -860,6 +902,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时20分"
+        },
+        {
+          "title": "市值突破800亿港元！全球AI硅光芯片第一股，何以落在上海？|聚焦",
+          "url": "https://www.cls.cn/detail/2357610",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时23分"
         },
         {
           "title": "美国驻联合国代表：伊朗违反海洋法，在霍尔木兹海峡进行海盗行为。",
@@ -945,7 +998,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时57分"
         },
@@ -967,7 +1020,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时57分"
         },
@@ -989,9 +1042,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时57分"
+        },
+        {
+          "title": "伊朗三阶段和平建议讨论之时，贝森特称伊朗石油工业即将崩溃，储油罐爆满、汽油短缺将出现，对此你怎么看？",
+          "url": "https://www.zhihu.com/question/2032385595960451834",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时23分"
         },
         {
           "title": "报道：谷歌员工敦促Pichai阻止美国军方使用其AI技术",
@@ -1077,7 +1141,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时57分"
         },
@@ -1148,6 +1212,17 @@
           "time_info": "03时15分"
         },
         {
+          "title": "美媒：特朗普对伊朗新方案不满意",
+          "url": "https://www.toutiao.com/trending/7633339570876170294/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时23分"
+        },
+        {
           "title": "俄防长会见伊朗副防长",
           "url": "https://flash.jin10.com/detail/20260428032557405800",
           "source": "金十数据",
@@ -1203,6 +1278,17 @@
           "time_info": "01时20分"
         },
         {
+          "title": "据伊朗学生通讯社：政府发言人表示，随着情况的正常化，伊朗互联网状况必将发生变化。",
+          "url": "https://flash.jin10.com/detail/20260428152901320800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时23分"
+        },
+        {
           "title": "美驱逐舰拦截一艘驶往伊朗港口油轮",
           "url": "https://wallstreetcn.com/livenews/3095328",
           "source": "华尔街见闻-快讯",
@@ -1220,7 +1306,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时57分"
         },
@@ -1245,17 +1331,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时15分"
-        },
-        {
-          "title": "期货热点追踪",
-          "url": "https://flash.jin10.com/detail/20260428094420938800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时37分"
         },
         {
           "title": "美官员：特朗普不满伊朗新提案 核问题须优先解决",
