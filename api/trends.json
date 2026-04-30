@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-30T16:15:40.254218+08:00",
-  "total_titles_processed": 1154,
+  "generated_at": "2026-04-30T18:52:46.675320+08:00",
+  "total_titles_processed": 1315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai ai+ ai人工智能 人工智能 风险识别 商业风险识别 痛点 需求 商业风险 伊朗 rwa 趋势 热点 热门",
-      "match_count": 101,
+      "match_count": 119,
       "titles": [
         {
           "title": "特朗普公布持枪造型，威胁伊朗“放聪明点”",
@@ -17,6 +17,21 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时25分 ~ 10时38分]"
+        },
+        {
+          "title": "AI魔改黑袍,星光姐被玩坏",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353890&amp;topic_name=AI%E9%AD%94%E6%94%B9%E9%BB%91%E8%A2%8D%2C%E6%98%9F%E5%85%89%E5%A7%90%E8%A2%AB%E7%8E%A9%E5%9D%8F",
+          "source": "贴吧",
+          "ranks": [
+            5,
+            6,
+            9,
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时25分 ~ 18时52分]"
         },
         {
           "title": "最火“五一假期”预订：多地中小学生喜提超长假，热门景区搜索热度数倍增长",
@@ -31,18 +46,16 @@
           "time_info": "[01时25分 ~ 07时53分]"
         },
         {
-          "title": "AI魔改黑袍,星光姐被玩坏",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353890&amp;topic_name=AI%E9%AD%94%E6%94%B9%E9%BB%91%E8%A2%8D%2C%E6%98%9F%E5%85%89%E5%A7%90%E8%A2%AB%E7%8E%A9%E5%9D%8F",
-          "source": "贴吧",
+          "title": "普京与特朗普通话，谈及伊朗和乌克兰问题",
+          "url": "https://news.ifeng.com/c/8sjOWWpBUaQ",
+          "source": "凤凰网",
           "ranks": [
-            5,
-            6,
-            9,
-            11
+            1,
+            3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时25分 ~ 16时15分]"
+          "appearance_count": 5,
+          "time_info": "[07时53分 ~ 18时52分]"
         },
         {
           "title": "美伊悬而未决，OpenAI“鬼故事”扰动，美股美债齐跌，半导体回调，WTI破百，金银大跌",
@@ -91,18 +104,6 @@
           "time_info": "[01时25分 ~ 07时53分]"
         },
         {
-          "title": "普京与特朗普通话，谈及伊朗和乌克兰问题",
-          "url": "https://news.ifeng.com/c/8sjOWWpBUaQ",
-          "source": "凤凰网",
-          "ranks": [
-            1,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时53分 ~ 16时15分]"
-        },
-        {
           "title": "智谱、Minimax即将进入恒生科技和港股通--AI重塑港股的时刻来了",
           "url": "https://wallstreetcn.com/articles/3771194",
           "source": "华尔街见闻",
@@ -116,6 +117,17 @@
           "time_info": "[01时25分 ~ 10时38分]"
         },
         {
+          "title": "特朗普放话：伊朗不求饶，海峡不解封",
+          "url": "https://news.ifeng.com/c/8sjt504KI9b",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时56分 ~ 18时52分]"
+        },
+        {
           "title": "因OpenAI未能达成目标，软银股价创六个月来最大跌幅，甲骨文、AMD也被拖累",
           "url": "https://wallstreetcn.com/articles/3771151",
           "source": "华尔街见闻",
@@ -126,6 +138,31 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时25分 ~ 06时08分]"
+        },
+        {
+          "title": "停火岌岌可危？特朗普被曝将听取打击伊朗新方案 目标或包括基础设施",
+          "url": "https://www.cls.cn/detail/2360703",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时56分 ~ 18时52分]"
+        },
+        {
+          "title": "特朗普将听取打击伊朗新方案 打击目标很有可能包括伊朗的基础设施",
+          "url": "https://www.cls.cn/detail/2360629",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时56分 ~ 18时52分]"
         },
         {
           "title": "传奇投资者Tudor Jones：凌晨2:30起床看盘，称“巴菲特是复利鼻祖”，“所有伟大财富，都来自长期持有趋势”",
@@ -154,6 +191,21 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[05时01分 ~ 16时15分]"
+        },
+        {
+          "title": "伊朗高级官员：将以“前所未有的军事行动”回应美“海盗行为”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33079146",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            8,
+            6,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时53分 ~ 18时52分]"
         },
         {
           "title": "【早报】美联储“按兵不动”，鲍威尔重磅表态；特朗普：同伊朗的谈判正通过电话进行",
@@ -193,17 +245,6 @@
           "time_info": "[10时38分 ~ 13时56分]"
         },
         {
-          "title": "特朗普放话：伊朗不求饶，海峡不解封",
-          "url": "https://news.ifeng.com/c/8sjt504KI9b",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时56分 ~ 16时15分]"
-        },
-        {
           "title": "伊朗：将以前所未有军事行动回应美",
           "url": "https://www.toutiao.com/trending/7633112393258172443/",
           "source": "今日头条",
@@ -216,28 +257,18 @@
           "time_info": "[01时25分 ~ 07时53分]"
         },
         {
-          "title": "停火岌岌可危？特朗普被曝将听取打击伊朗新方案 目标或包括基础设施",
-          "url": "https://www.cls.cn/detail/2360703",
-          "source": "财联社热门",
+          "title": "算力需求驱动，寒武纪Q1营收同比增160%，净利飙升185%，章建平退出十大股东｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3771278",
+          "source": "华尔街见闻",
           "ranks": [
-            5,
-            2
+            10,
+            7,
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时56分 ~ 16时15分]"
-        },
-        {
-          "title": "特朗普将听取打击伊朗新方案 打击目标很有可能包括伊朗的基础设施",
-          "url": "https://www.cls.cn/detail/2360629",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时56分 ~ 16时15分]"
+          "appearance_count": 6,
+          "time_info": "[06时08分 ~ 18时52分]"
         },
         {
           "title": "俄罗斯总统普京与美国总统特朗普讨论了伊朗问题。",
@@ -310,6 +341,28 @@
           "time_info": "10时38分"
         },
         {
+          "title": "伊朗最高领袖将“很快”发表声明。（伊朗国家电视台）",
+          "url": "https://wallstreetcn.com/livenews/3097419",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时52分"
+        },
+        {
+          "title": "伊朗最高领袖穆杰塔巴：霍尔木兹海峡的新管理方式将使该地区受益。",
+          "url": "https://flash.jin10.com/detail/20260430183902130800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时52分"
+        },
+        {
           "title": "软银计划让旗下一家新的人工智能与机器人公司在美上市，软银正寻求为该AI公司（名为Roze）争取高达1000亿美元的估值。（英国金融时报）",
           "url": "https://wallstreetcn.com/livenews/3097003",
           "source": "华尔街见闻-快讯",
@@ -321,32 +374,26 @@
           "time_info": "07时53分"
         },
         {
-          "title": "算力需求驱动，寒武纪Q1营收同比增160%，净利飙升185%，章建平退出十大股东｜财报见闻",
-          "url": "https://wallstreetcn.com/articles/3771278",
-          "source": "华尔街见闻",
+          "title": "伊朗最高领袖将就“波斯湾日”发表声明。",
+          "url": "https://wallstreetcn.com/livenews/3097418",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10,
-            7,
-            8,
-            6
+            3
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时08分 ~ 16时15分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时52分"
         },
         {
-          "title": "伊朗高级官员：将以“前所未有的军事行动”回应美“海盗行为”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33079146",
-          "source": "澎湃新闻",
+          "title": "伊朗最高领袖穆杰塔巴：伊朗人民不会接受敌人的侵略。",
+          "url": "https://flash.jin10.com/detail/20260430183853593800",
+          "source": "金十数据",
           "ranks": [
-            12,
-            8,
-            6,
-            5
+            4
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时53分 ~ 16时15分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时52分"
         },
         {
           "title": "伊朗议长呼吁民众保持团结挫败敌人阴谋",
@@ -371,6 +418,17 @@
           "time_info": "05时01分"
         },
         {
+          "title": "伊朗最高领袖：波斯湾和霍尔木兹海峡正在开启新的篇章",
+          "url": "https://flash.jin10.com/detail/20260430183814144800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时52分"
+        },
+        {
           "title": "伊朗海军司令：将向敌人展示一种“可怕的武器”",
           "url": "https://wallstreetcn.com/livenews/3097001",
           "source": "华尔街见闻-快讯",
@@ -380,6 +438,21 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时53分"
+        },
+        {
+          "title": "不再当好好先生！特朗普发AI持枪图威胁伊朗",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33079055",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            13,
+            14,
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时53分 ~ 18时52分]"
         },
         {
           "title": "美股芯片股跳水，OpenAI 用户和营收不及预期，CFO 担心付不起数据中心账单，哪些信息值得关注？",
@@ -428,6 +501,19 @@
           "time_info": "[05时01分 ~ 06时08分]"
         },
         {
+          "title": "美以袭击伊朗进入第 62 天，当前局势如何？还有哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2032954547836907965",
+          "source": "知乎",
+          "ranks": [
+            6,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时38分 ~ 18时52分]"
+        },
+        {
           "title": "伊媒：已有6名遭美军扣押伊朗船员获释",
           "url": "https://wallstreetcn.com/livenews/3096939",
           "source": "华尔街见闻-快讯",
@@ -440,32 +526,6 @@
           "time_info": "[05时01分 ~ 06时08分]"
         },
         {
-          "title": "不再当好好先生！特朗普发AI持枪图威胁伊朗",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33079055",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            13,
-            14,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时53分 ~ 16时15分]"
-        },
-        {
-          "title": "美以袭击伊朗进入第 62 天，当前局势如何？还有哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2032954547836907965",
-          "source": "知乎",
-          "ranks": [
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时38分 ~ 16时15分]"
-        },
-        {
           "title": "谷歌母公司Q1营收超预期增长22%，AI驱动多板块业务增长，云业务大增63%",
           "url": "https://wallstreetcn.com/articles/3771311",
           "source": "华尔街见闻",
@@ -475,8 +535,20 @@
             8
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时38分 ~ 18时52分]"
+        },
+        {
+          "title": "美股科技“四巨头”同日放榜 “AI烧钱”大战愈演愈烈",
+          "url": "https://www.cls.cn/detail/2360653",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[10时38分 ~ 16时15分]"
+          "time_info": "[13时56分 ~ 18时52分]"
         },
         {
           "title": "北京车展前后超过 15 款大六座 SUV 密集发布，真的有这么多「家庭」场景需求吗？",
@@ -524,18 +596,6 @@
           "time_info": "[10时38分 ~ 13时56分]"
         },
         {
-          "title": "美股科技“四巨头”同日放榜 “AI烧钱”大战愈演愈烈",
-          "url": "https://www.cls.cn/detail/2360653",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时56分 ~ 16时15分]"
-        },
-        {
           "title": "特朗普“为无限期封锁伊朗”做准备，但对达成临时协议持开放态度",
           "url": "https://wallstreetcn.com/articles/3771197",
           "source": "华尔街见闻",
@@ -546,6 +606,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时25分 ~ 07时53分]"
+        },
+        {
+          "title": "美军拟以高超音速导弹打击伊朗 系首次实战部署",
+          "url": "https://www.cls.cn/detail/2360722",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时15分 ~ 18时52分]"
         },
         {
           "title": "美媒称特朗普准备长期封锁伊朗，旨在迫使伊朗做出「核让步」，如何看待美国这一举动？目前美伊局势如何？",
@@ -611,9 +683,31 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时15分"
+        },
+        {
+          "title": "伊朗战争丨伊朗最高领袖，“最详细伤情”披露",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时52分"
+        },
+        {
+          "title": "伊朗最高领袖穆杰塔巴：德黑兰将确保海湾地区的安全，并消除敌人对（霍尔木兹）水道的滥用。",
+          "url": "https://flash.jin10.com/detail/20260430183810187800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时52分"
         },
         {
           "title": "特朗普：正与伊朗进行“电话谈判”，彻底放弃核武器是协议前提！",
@@ -625,6 +719,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时38分"
+        },
+        {
+          "title": "伊朗最高领袖穆杰塔巴：德黑兰与海湾邻国命运与共，“作恶的外来者”只有葬身“水底”这一条路。",
+          "url": "https://flash.jin10.com/detail/20260430183702053800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时52分"
         },
         {
           "title": "美国防部称伊朗战事已耗资250亿美元，赫格塞思接受国会质询遭批",
@@ -649,6 +754,17 @@
           "time_info": "01时25分"
         },
         {
+          "title": "美军拟以“高超音速导弹”打击伊朗，周四将向特朗普汇报新“打击计划”",
+          "url": "https://wallstreetcn.com/articles/3771344",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时52分"
+        },
+        {
           "title": "伊朗议长怼特朗普的“三天爆炸论”：油井没炸，油价要炸——140美元见",
           "url": "https://flash.jin10.com/detail/20260430133618075800",
           "source": "金十数据",
@@ -658,6 +774,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时56分"
+        },
+        {
+          "title": "美国海军陆战队于周二在阿拉伯海登上了一艘名为“蓝星三号”的商船，以确认该船不会停靠伊朗港口。美国中央司令部发布的画面显示，一架直升机飞向该船，海军陆战队员随即登船。",
+          "url": "https://flash.jin10.com/detail/20260430183605035800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时52分"
         },
         {
           "title": "亚马逊一季度净销售1815.2亿美元，分析师预期1772.3亿美元。 一季度AWS净销售375.9亿美元，分析师预期366.8亿美元。 一季度北美净销售1041.4亿美元，分析师预期1020.8亿美元。 一季度实体店净销售57.9亿美元，分析师预期58.1亿美元。 一季度运营利润238.5亿美元，分析师预期207.5亿美元。 一季度每股收益（EPS）为2.78美元，分析师预期1.62美元。 对物业与设备的购买同比增长593亿美元，体现出对AI的投资。 预计二季度净销售1940亿-1990亿美元，分析师预期1891.5亿美元。 预计二季度运营利润200亿-240亿美元，分析师预期228.6亿美元。 亚马逊（AMZN）盘后跌4.8%。",
@@ -677,9 +804,31 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时15分"
+        },
+        {
+          "title": "不是AI芯片！索罗斯门徒：电气化才是未来十年主线，看好铜、铝、电缆",
+          "url": "https://wallstreetcn.com/articles/3771280",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时52分"
+        },
+        {
+          "title": "欧元区经济增长意外放缓 伊朗冲突加剧滞胀风险",
+          "url": "https://wallstreetcn.com/livenews/3097407",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时52分"
         },
         {
           "title": "大猩猩狠拽女游客头发视频系AI",
@@ -693,17 +842,6 @@
           "time_info": "10时38分"
         },
         {
-          "title": "美军拟以高超音速导弹打击伊朗 系首次实战部署",
-          "url": "https://www.cls.cn/detail/2360722",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时15分"
-        },
-        {
           "title": "OpenAI：开发者大会9月29日在旧金山举行。",
           "url": "https://flash.jin10.com/detail/20260430010327901800",
           "source": "金十数据",
@@ -713,6 +851,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时25分"
+        },
+        {
+          "title": "伊朗最高领袖穆杰塔巴：没有美国存在的海湾地区将拥有光明的未来。",
+          "url": "https://flash.jin10.com/detail/20260430183454372800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时52分"
         },
         {
           "title": "燃料电池牛股化身“AI供电新贵” Bloom Energy绩后暴涨再创新高",
@@ -732,7 +881,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时15分"
         },
@@ -746,6 +895,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时53分"
+        },
+        {
+          "title": "伊朗最高领袖穆杰塔巴：今天，距离世界暴君在该地区进行最大规模军事动员和侵略已经过去两个月，美国在其自身策划中遭遇了丢脸的失败，波斯湾和霍尔木兹海峡正翻开新的篇章。",
+          "url": "https://flash.jin10.com/detail/20260430183250713800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时52分"
         },
         {
           "title": "特朗普施压伊朗签署协议 或延长对伊朗港口封锁措施",
@@ -809,7 +969,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时15分"
         },
@@ -869,13 +1029,24 @@
           "time_info": "01时25分"
         },
         {
+          "title": "日本首相高市早苗与伊朗总统通电话。（日本共同社）",
+          "url": "https://wallstreetcn.com/livenews/3097396",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时52分"
+        },
+        {
           "title": "用AI代替员工的快开不起工资了",
           "url": "https://s.weibo.com/weibo?q=%23%E7%94%A8AI%E4%BB%A3%E6%9B%BF%E5%91%98%E5%B7%A5%E7%9A%84%E5%BF%AB%E5%BC%80%E4%B8%8D%E8%B5%B7%E5%B7%A5%E8%B5%84%E4%BA%86%23&t=31&band_rank=15&Refer=top",
           "source": "微博",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时15分"
         },
@@ -900,6 +1071,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时53分"
+        },
+        {
+          "title": "中国电信董事长：Token经营的本质就是为用户提供AI服务",
+          "url": "https://wallstreetcn.com/livenews/3097395",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时52分"
         },
         {
           "title": "美称伊朗战事已耗资250亿美元",
@@ -952,7 +1134,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时15分"
         },
@@ -1056,6 +1238,17 @@
           "time_info": "05时01分"
         },
         {
+          "title": "超懂UP主的AI创作助手",
+          "url": "https://search.bilibili.com/all?keyword=%E8%B6%85%E6%87%82UP%E4%B8%BB%E7%9A%84AI%E5%88%9B%E4%BD%9C%E5%8A%A9%E6%89%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时52分"
+        },
+        {
           "title": "美国企图没收在海上扣押的、与伊朗相关的油轮。财长贝森特认为，油价将在伊朗冲突结束后下跌。WTI原油跌破108美元/桶关口，目前报107.99美元/桶。",
           "url": "https://wallstreetcn.com/livenews/3096947",
           "source": "华尔街见闻-快讯",
@@ -1076,6 +1269,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时38分"
+        },
+        {
+          "title": "日本首相高市早苗：与伊朗总统佩泽希齐扬进行了电话会谈。",
+          "url": "https://flash.jin10.com/detail/20260430182224413800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时52分"
         },
         {
           "title": "美国财政部长贝森特声称：消费者和股市正在看淡伊朗局势。",
