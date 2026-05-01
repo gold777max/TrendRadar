@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-01T21:19:02.982435+08:00",
-  "total_titles_processed": 1477,
+  "generated_at": "2026-05-01T22:54:19.713933+08:00",
+  "total_titles_processed": 1617,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai ai+ ai人工智能 人工智能 风险识别 商业风险识别 痛点 需求 商业风险 伊朗 rwa 趋势 热点 热门",
-      "match_count": 130,
+      "match_count": 140,
       "titles": [
         {
           "title": "美军拟以“高超音速导弹”打击伊朗，周四将向特朗普汇报新“打击计划”",
@@ -40,11 +40,23 @@
           "source": "财联社热门",
           "ranks": [
             6,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时44分 ~ 21时19分]"
+          "appearance_count": 9,
+          "time_info": "[10时44分 ~ 22时54分]"
+        },
+        {
+          "title": "伊朗最高领袖、总统、议长、外长、革命卫队密集发声",
+          "url": "https://news.ifeng.com/c/8slqGlLgVRj",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时58分 ~ 22时54分]"
         },
         {
           "title": "假如AI能模拟去世亲人",
@@ -59,17 +71,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时17分 ~ 07时51分]"
-        },
-        {
-          "title": "伊朗最高领袖、总统、议长、外长、革命卫队密集发声",
-          "url": "https://news.ifeng.com/c/8slqGlLgVRj",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时58分 ~ 21时19分]"
         },
         {
           "title": "云计算三巨头验证AI商业化前景 日元汇率剧烈波动 | 今夜看点",
@@ -98,8 +99,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[05时57分 ~ 21时19分]"
+          "appearance_count": 13,
+          "time_info": "[05时57分 ~ 22时54分]"
         },
         {
           "title": "AI魔改黑袍,星光姐被玩坏",
@@ -113,8 +114,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[01时17分 ~ 21时19分]"
+          "appearance_count": 18,
+          "time_info": "[01时17分 ~ 22时54分]"
         },
         {
           "title": "AI古代铠甲勇士完结篇",
@@ -125,11 +126,25 @@
             6,
             18,
             20,
-            21
+            21,
+            30
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时44分 ~ 21时19分]"
+          "appearance_count": 9,
+          "time_info": "[10时44分 ~ 22时54分]"
+        },
+        {
+          "title": "伊朗总统表示美国海上封锁不可容忍 特朗普称已摧毁伊朗核能力 | 环球市场",
+          "url": "https://www.cls.cn/detail/2361654",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[10时44分 ~ 22时54分]"
         },
         {
           "title": "“五一”假期首日热门目的地出炉",
@@ -143,18 +158,6 @@
           "time_info": "[16时58分 ~ 19时57分]"
         },
         {
-          "title": "伊朗总统表示美国海上封锁不可容忍 特朗普称已摧毁伊朗核能力 | 环球市场",
-          "url": "https://www.cls.cn/detail/2361654",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时44分 ~ 21时19分]"
-        },
-        {
           "title": "美议员邀中国科学家给AI“设卡”，美国舆论炸锅",
           "url": "https://news.ifeng.com/c/8slj4BER3rc",
           "source": "凤凰网",
@@ -164,6 +167,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[14时14分 ~ 18时26分]"
+        },
+        {
+          "title": "24小时接收6500吨装备，以防长称或“很快恢复”对伊朗军事行动",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33086074",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[14时14分 ~ 22时54分]"
         },
         {
           "title": "深圳14岁男孩用AI备考押中奥赛题",
@@ -181,29 +197,6 @@
           "time_info": "[01时17分 ~ 06时53分]"
         },
         {
-          "title": "24小时接收6500吨装备，以防长称或“很快恢复”对伊朗军事行动",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33086074",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时14分 ~ 21时19分]"
-        },
-        {
-          "title": "伊朗代表团亚沙会单日斩获7金",
-          "url": "https://www.toutiao.com/trending/7633661538721251338/",
-          "source": "今日头条",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时18分 ~ 21时19分]"
-        },
-        {
           "title": "特朗普回应伊朗赴美踢世界杯：我没意见",
           "url": "https://news.ifeng.com/c/8slyIPscfsJ",
           "source": "凤凰网",
@@ -211,8 +204,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时58分 ~ 21时19分]"
+          "appearance_count": 7,
+          "time_info": "[16时58分 ~ 22时54分]"
         },
         {
           "title": "谷歌母公司Q1营收超预期增长22%，AI驱动多板块业务增长，云业务大增63%",
@@ -283,6 +276,29 @@
           "time_info": "16时59分"
         },
         {
+          "title": "伊朗代表团亚沙会单日斩获7金",
+          "url": "https://www.toutiao.com/trending/7633661538721251338/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时18分 ~ 22时54分]"
+        },
+        {
+          "title": "美辩称袭击伊朗系“自卫”，伊朗怒斥",
+          "url": "https://news.ifeng.com/c/8sm4vXslE7P",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时26分 ~ 22时54分]"
+        },
+        {
           "title": "英国央行首席经济学家皮尔：在伊朗战争带来的通胀风险下，收紧金融条件似乎是合理的应对措施。",
           "url": "https://flash.jin10.com/detail/20260501195220467800",
           "source": "金十数据",
@@ -292,6 +308,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时57分"
+        },
+        {
+          "title": "伊朗足协主席：国家队是否赴美参加世界杯仍需与国际足联沟通协调",
+          "url": "https://flash.jin10.com/detail/20260501221603622800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时54分"
         },
         {
           "title": "女子被AI误导闯入毒蛇窝",
@@ -304,6 +331,20 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[19时57分 ~ 21时19分]"
+        },
+        {
+          "title": "根据53年前颁布的这项法案，今天以后特朗普还能继续打伊朗吗？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33084769",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            14,
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时26分 ~ 22时54分]"
         },
         {
           "title": "苹果公司CEO库克：将需要好几个月才会满足Mac Mining和Studio需求。 第三财季存储芯片成本“显然更高”。 第三财季之后，存储芯片对（苹果公司）业务的“影响将增强”。",
@@ -365,17 +406,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时51分 ~ 10时44分]"
-        },
-        {
-          "title": "美辩称袭击伊朗系“自卫”，伊朗怒斥",
-          "url": "https://news.ifeng.com/c/8sm4vXslE7P",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时26分 ~ 21时19分]"
         },
         {
           "title": "据华尔街日报：Meta Platforms CEO扎克伯格表示，公司将缩减公司各部门团队，伊朗战争导致公司销售出现“轨迹变化”。",
@@ -458,19 +488,6 @@
             8,
             15,
             25
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时26分 ~ 21时19分]"
-        },
-        {
-          "title": "根据53年前颁布的这项法案，今天以后特朗普还能继续打伊朗吗？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33084769",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            14,
-            12
           ],
           "is_new": false,
           "appearance_count": 4,
@@ -728,6 +745,17 @@
           "time_info": "19时57分"
         },
         {
+          "title": "伊朗战争丨伊方已递交最新谈判方案",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时54分"
+        },
+        {
           "title": "OpenAI CFO回应未达目标质疑：需求依然强劲",
           "url": "https://flash.jin10.com/detail/20260501100005491800",
           "source": "金十数据",
@@ -756,9 +784,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时19分"
+        },
+        {
+          "title": "伊朗谈判方案已被转交美国",
+          "url": "https://wallstreetcn.com/livenews/3097938",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时54分"
         },
         {
           "title": "伊朗外交部：期待伊美谈判迅速达成结果并不现实",
@@ -811,7 +850,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时19分"
         },
@@ -877,7 +916,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时19分"
         },
@@ -899,9 +938,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时19分"
+        },
+        {
+          "title": "谷歌、卡特彼勒成“大赢家”，AI和财报压倒战争，4月的美股创2020年以来最强",
+          "url": "https://wallstreetcn.com/articles/3771451",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时54分"
         },
         {
           "title": "2026世界杯购票需求达5亿份",
@@ -932,7 +982,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时19分"
         },
@@ -976,9 +1026,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时19分"
+        },
+        {
+          "title": "伊朗足协主席：国家队是否赴美参加世界杯仍需与国际足联沟通协调",
+          "url": "https://wallstreetcn.com/livenews/3097934",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时54分"
         },
         {
           "title": "以色列紧急向阿联酋提供激光系统，以帮助其防御伊朗导弹。",
@@ -1003,6 +1064,17 @@
           "time_info": "19时57分"
         },
         {
+          "title": "埃克森美孚石油(XOM.N)CEO：伊朗战争并未改变埃克森美孚对其液化天然气投资组合的看法。",
+          "url": "https://flash.jin10.com/detail/20260501221048562800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时54分"
+        },
+        {
           "title": "美国能源信息署（EIA）：美国2月石油与石油产品需求创2025年8月份以来新高。 2月航空燃油需求创一年新低。 2月精炼燃油需求创四年新高。",
           "url": "https://wallstreetcn.com/livenews/3097639",
           "source": "华尔街见闻-快讯",
@@ -1014,6 +1086,17 @@
           "time_info": "01时18分"
         },
         {
+          "title": "5月2日起机票价格“大跳水” 多条热门航线价格低至300元",
+          "url": "https://wallstreetcn.com/livenews/3097933",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时54分"
+        },
+        {
           "title": "据伊朗迈赫尔通讯社：德黑兰部分地区传出防空警报声，原因不明。",
           "url": "https://flash.jin10.com/detail/20260501040217326800",
           "source": "金十数据",
@@ -1023,6 +1106,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时57分"
+        },
+        {
+          "title": "沙特媒体：伊朗同意谈核并长期冻结铀浓缩",
+          "url": "https://flash.jin10.com/detail/20260501220750863800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时54分"
         },
         {
           "title": "伊朗外长同欧盟外交与安全政策高级代表通话 讨论地区局势",
@@ -1207,7 +1301,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时19分"
         },
@@ -1306,7 +1400,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时19分"
         },
@@ -1377,6 +1471,17 @@
           "time_info": "18时26分"
         },
         {
+          "title": "美国于周一向伊朗提交了一份修订清单。（AXIOS）",
+          "url": "https://wallstreetcn.com/livenews/3097918",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时54分"
+        },
+        {
           "title": "以媒：美国“即将决定”是否重启对伊朗军事行动",
           "url": "https://flash.jin10.com/detail/20260501155758374800",
           "source": "金十数据",
@@ -1405,7 +1510,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时19分"
         },
@@ -1449,7 +1554,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时19分"
         },
@@ -1471,9 +1576,20 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时19分"
+        },
+        {
+          "title": "伊朗递交最新谈判方案",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E9%80%92%E4%BA%A4%E6%9C%80%E6%96%B0%E8%B0%88%E5%88%A4%E6%96%B9%E6%A1%88%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时54分"
         },
         {
           "title": "受AI相关需求提振，韩国出口继续激增",
