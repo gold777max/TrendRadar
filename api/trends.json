@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-02T03:13:42.207569+08:00",
-  "total_titles_processed": 469,
+  "generated_at": "2026-05-02T04:49:13.703244+08:00",
+  "total_titles_processed": 549,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai ai+ ai人工智能 人工智能 风险识别 商业风险识别 痛点 需求 商业风险 伊朗 rwa 趋势 热点 热门",
-      "match_count": 78,
+      "match_count": 90,
       "titles": [
         {
           "title": "美防长：“60天时限”已“暂停” 对伊朗军事行动无需寻求国会授权",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时55分 ~ 03时13分]"
+          "appearance_count": 6,
+          "time_info": "[00时55分 ~ 04时49分]"
         },
         {
           "title": "伊朗最高领袖、总统、议长、外长、革命卫队密集发声",
@@ -27,8 +27,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时55分 ~ 03时13分]"
+          "appearance_count": 6,
+          "time_info": "[00时55分 ~ 04时49分]"
         },
         {
           "title": "伊朗提新谈判方案，美股高开，苹果绩后一度涨近6%，美油盘中跌超5%",
@@ -36,11 +36,48 @@
           "source": "华尔街见闻",
           "ranks": [
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时57分 ~ 03时13分]"
+          "appearance_count": 5,
+          "time_info": "[01时57分 ~ 04时49分]"
+        },
+        {
+          "title": "根据53年前颁布的这项法案，今天以后特朗普还能继续打伊朗吗？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33084769",
+          "source": "澎湃新闻",
+          "ranks": [
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时55分 ~ 04时49分]"
+        },
+        {
+          "title": "美辩称袭击伊朗系“自卫”，伊朗怒斥",
+          "url": "https://news.ifeng.com/c/8sm4vXslE7P",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时55分 ~ 04时49分]"
+        },
+        {
+          "title": "伊朗总统表示美国海上封锁不可容忍 特朗普称已摧毁伊朗核能力 | 环球市场",
+          "url": "https://www.cls.cn/detail/2361654",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时55分 ~ 04时49分]"
         },
         {
           "title": "金十图示：2026年05月01日（周五）热门中概股行情一览（美股盘中）",
@@ -71,7 +108,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时13分"
         },
@@ -85,6 +122,31 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时55分"
+        },
+        {
+          "title": "谷歌、卡特彼勒成“大赢家”，AI和财报压倒战争，4月的美股创2020年以来最强",
+          "url": "https://wallstreetcn.com/articles/3771451",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时55分 ~ 04时49分]"
+        },
+        {
+          "title": "AI古代铠甲勇士完结篇",
+          "url": "https://search.bilibili.com/all?keyword=AI%E5%8F%A4%E4%BB%A3%E9%93%A0%E7%94%B2%E5%8B%87%E5%A3%AB%E5%AE%8C%E7%BB%93%E7%AF%87",
+          "source": "bilibili 热搜",
+          "ranks": [
+            17,
+            23,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时55分 ~ 04时49分]"
         },
         {
           "title": "美媒：美军在中东8国16处军事设施在伊朗袭击中受损",
@@ -104,7 +166,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时13分"
         },
@@ -115,22 +177,42 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时13分"
         },
         {
-          "title": "根据53年前颁布的这项法案，今天以后特朗普还能继续打伊朗吗？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33084769",
-          "source": "澎湃新闻",
+          "title": "伊朗战争丨特朗普：对伊朗最新的谈判方案不满意",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
+          "source": "凤凰网",
           "ranks": [
-            7,
-            6,
-            5
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时55分 ~ 03时13分]"
+          "appearance_count": 5,
+          "time_info": "[01时57分 ~ 04时49分]"
+        },
+        {
+          "title": "伊朗：外长与欧盟外交政策负责任通电话。",
+          "url": "https://wallstreetcn.com/livenews/3098053",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时49分"
+        },
+        {
+          "title": "以军：如果不能移除伊朗的浓缩铀，就是“巨大的失败”",
+          "url": "https://news.ifeng.com/c/8smcP2ejt6D",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时57分 ~ 04时49分]"
         },
         {
           "title": "伊朗提新谈判方案，美股高开高走，苹果绩后一度涨近6%，美油盘中跌超5%",
@@ -144,6 +226,28 @@
           "time_info": "00时55分"
         },
         {
+          "title": "金十图示：2026年05月01日（周五）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260502040603336800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时49分"
+        },
+        {
+          "title": "美国航空公司Spirit Airlines准备最早周六美东时间03:00停止营业。（纽约时报）",
+          "url": "https://wallstreetcn.com/livenews/3098052",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时49分"
+        },
+        {
           "title": "美国总统特朗普：（关于伊朗）我感到不满。",
           "url": "https://flash.jin10.com/detail/20260502003003874800",
           "source": "金十数据",
@@ -153,6 +257,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时55分"
+        },
+        {
+          "title": "金十图示：2026年05月01日（周五）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260502040600017800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时49分"
         },
         {
           "title": "伊朗议会议长：伊朗将迎来新的建设阶段",
@@ -179,17 +294,6 @@
           "time_info": "[01时58分 ~ 03时13分]"
         },
         {
-          "title": "美辩称袭击伊朗系“自卫”，伊朗怒斥",
-          "url": "https://news.ifeng.com/c/8sm4vXslE7P",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时55分 ~ 03时13分]"
-        },
-        {
           "title": "以官员：以军将能否移除伊朗浓缩铀视为战事“成败关键”",
           "url": "https://wallstreetcn.com/livenews/3097969",
           "source": "华尔街见闻-快讯",
@@ -200,18 +304,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时55分 ~ 01时58分]"
-        },
-        {
-          "title": "伊朗总统表示美国海上封锁不可容忍 特朗普称已摧毁伊朗核能力 | 环球市场",
-          "url": "https://www.cls.cn/detail/2361654",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时55分 ~ 03时13分]"
         },
         {
           "title": "特朗普暗示不会就持续对伊朗军事行动寻求国会批准",
@@ -226,50 +318,52 @@
           "time_info": "[01时58分 ~ 03时13分]"
         },
         {
-          "title": "谷歌、卡特彼勒成“大赢家”，AI和财报压倒战争，4月的美股创2020年以来最强",
-          "url": "https://wallstreetcn.com/articles/3771451",
+          "title": "伊朗递交最新谈判方案",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E9%80%92%E4%BA%A4%E6%9C%80%E6%96%B0%E8%B0%88%E5%88%A4%E6%96%B9%E6%A1%88",
+          "source": "百度热搜",
+          "ranks": [
+            30,
+            26,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时58分 ~ 04时49分]"
+        },
+        {
+          "title": "女子被AI误导闯入毒蛇窝",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%A2%ABAI%E8%AF%AF%E5%AF%BC%E9%97%AF%E5%85%A5%E6%AF%92%E8%9B%87%E7%AA%9D%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时13分 ~ 04时49分]"
+        },
+        {
+          "title": "伊朗递交最新伊美谈判方案",
+          "url": "https://www.toutiao.com/trending/7634159062485450795/",
+          "source": "今日头条",
+          "ranks": [
+            29,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时13分 ~ 04时49分]"
+        },
+        {
+          "title": "伊朗经调解方转交谈判新方案，特朗普称“不满意”、告知国会与伊战事已“结束”",
+          "url": "https://wallstreetcn.com/articles/3771465",
           "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时55分 ~ 03时13分]"
-        },
-        {
-          "title": "AI古代铠甲勇士完结篇",
-          "url": "https://search.bilibili.com/all?keyword=AI%E5%8F%A4%E4%BB%A3%E9%93%A0%E7%94%B2%E5%8B%87%E5%A3%AB%E5%AE%8C%E7%BB%93%E7%AF%87",
-          "source": "bilibili 热搜",
-          "ranks": [
-            17,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时55分 ~ 03时13分]"
-        },
-        {
-          "title": "伊朗战争丨特朗普：对伊朗最新的谈判方案不满意",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
-          "source": "凤凰网",
           "ranks": [
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时57分 ~ 03时13分]"
-        },
-        {
-          "title": "以军：如果不能移除伊朗的浓缩铀，就是“巨大的失败”",
-          "url": "https://news.ifeng.com/c/8smcP2ejt6D",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时57分 ~ 03时13分]"
+          "appearance_count": 2,
+          "time_info": "[04时48分 ~ 04时49分]"
         },
         {
           "title": "特朗普：对伊朗提出的最新谈判方案“不满意”",
@@ -284,16 +378,15 @@
           "time_info": "[01时58分 ~ 03时13分]"
         },
         {
-          "title": "伊朗递交最新谈判方案",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E9%80%92%E4%BA%A4%E6%9C%80%E6%96%B0%E8%B0%88%E5%88%A4%E6%96%B9%E6%A1%88",
-          "source": "百度热搜",
+          "title": "对话把151件伊朗国宝从战火中带来中国的策展人：只要人在，生活方式就会保留｜907编辑部",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33085021",
+          "source": "澎湃新闻",
           "ranks": [
-            30,
-            26
+            14
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时58分 ~ 03时13分]"
+          "time_info": "[04时48分 ~ 04时49分]"
         },
         {
           "title": "伊朗战争丨美军最大航母“福特”号已离开中东",
@@ -335,7 +428,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时13分"
         },
@@ -390,7 +483,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时13分"
         },
@@ -423,9 +516,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时13分"
+        },
+        {
+          "title": "航空公司Spirit Airlines预计将于美东时间周六03:00左右停止运营。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3098046",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时49分"
         },
         {
           "title": "伊朗革命卫队：波斯湾管理新规已确立，将依据最高领袖的历史性指令予以实施。",
@@ -434,7 +538,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时13分"
         },
@@ -456,7 +560,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时13分"
         },
@@ -467,7 +571,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时13分"
         },
@@ -478,7 +582,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时13分"
         },
@@ -500,7 +604,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时13分"
         },
@@ -533,7 +637,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时13分"
         },
@@ -558,6 +662,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时58分"
+        },
+        {
+          "title": "伊朗革命卫队：将把霍尔木兹海域打造为“安全与繁荣之源”",
+          "url": "https://flash.jin10.com/detail/20260502035839783800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时49分"
         },
         {
           "title": "美国总统特朗普：伊朗提出了我无法同意的事。",
@@ -626,6 +741,28 @@
           "time_info": "00时55分"
         },
         {
+          "title": "纳斯达克金龙中国指数收跌0.59%，报6887.43点，本周累计下跌0.94%，整体呈现出V形走势。 热门中概股里，蔚来跌7.1%，小鹏跌2.7%，理想跌1.4%，阿里跌0.2%，腾讯涨0.3%，网易涨0.3%，百胜中国涨0.7%。 ETF中，XtrackersHarvest中证50（ASHS）收涨0.60%，本周反弹3.73%； 德银嘉实沪深300指数ETF（ASHR）收涨0.23%，本周累涨1.46%； 中国科技指数ETF（CQQQ）收涨0.29%，本周反弹2.20%； 中概互联网指数ETF（KWEB）收涨0.03%，本周累跌0.17%——延续上周下挫5.32%的表现。",
+          "url": "https://wallstreetcn.com/livenews/3098037",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时49分"
+        },
+        {
+          "title": "特朗普告诉国会，伊朗战争已“终止”，美国参议院少数党领袖舒默对此回应称：“这真是胡说八道。 这是一场非法战争，每一天共和党人继续同谋并允许其继续，都是在让生命处于危险之中，混乱加剧，物价上涨，而美国人却在为此买单。 ”",
+          "url": "https://flash.jin10.com/detail/20260502034433058800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时49分"
+        },
+        {
           "title": "美国总统特朗普被问及可能对伊朗发动袭击时，声称：“我为什么要告诉你？” WTI原油5分钟内上涨0.61美元/桶，报102.53美元/桶。",
           "url": "https://wallstreetcn.com/livenews/3097978",
           "source": "华尔街见闻-快讯",
@@ -646,6 +783,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时55分"
+        },
+        {
+          "title": "伊朗最高领袖呼吁民众争取经济和文化斗争胜利",
+          "url": "https://wallstreetcn.com/livenews/3098033",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时49分"
         },
         {
           "title": "美国制裁三家伊朗外汇公司。",
@@ -687,7 +835,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时13分"
         },
@@ -731,7 +879,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时13分"
         },
@@ -808,18 +956,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时13分"
-        },
-        {
-          "title": "伊朗递交最新伊美谈判方案",
-          "url": "https://www.toutiao.com/trending/7634159062485450795/",
-          "source": "今日头条",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时13分"
         },
@@ -846,26 +983,26 @@
           "time_info": "00时55分"
         },
         {
-          "title": "女子被AI误导闯入毒蛇窝",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%A2%ABAI%E8%AF%AF%E5%AF%BC%E9%97%AF%E5%85%A5%E6%AF%92%E8%9B%87%E7%AA%9D%23&t=31&band_rank=29&Refer=top",
-          "source": "微博",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时13分"
-        },
-        {
           "title": "据伊朗媒体报道，伊朗西北部发生一起战争遗留未爆弹药爆炸事故，导致14名伊朗革命卫队成员身亡。",
           "url": "https://flash.jin10.com/detail/20260502013510052800",
           "source": "金十数据",
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时13分"
+        },
+        {
+          "title": "美媒：特朗普告知国会，对伊朗战事已“结束”",
+          "url": "https://wallstreetcn.com/livenews/3098021",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时49分"
         },
         {
           "title": "伊朗递交最新谈判方案",
