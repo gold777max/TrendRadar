@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-01T18:26:40.309258+08:00",
-  "total_titles_processed": 1245,
+  "generated_at": "2026-05-01T19:57:56.630712+08:00",
+  "total_titles_processed": 1366,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai ai+ ai人工智能 人工智能 风险识别 商业风险识别 痛点 需求 商业风险 伊朗 rwa 趋势 热点 热门",
-      "match_count": 101,
+      "match_count": 116,
       "titles": [
         {
           "title": "美军拟以“高超音速导弹”打击伊朗，周四将向特朗普汇报新“打击计划”",
@@ -49,6 +49,21 @@
           "time_info": "[01时17分 ~ 07时51分]"
         },
         {
+          "title": "时代杂志评选2026年十大最具影响力AI公司 字节、阿里、智谱上榜",
+          "url": "https://www.cls.cn/detail/2361533",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10,
+            8,
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[05时57分 ~ 19时57分]"
+        },
+        {
           "title": "云计算三巨头验证AI商业化前景 日元汇率剧烈波动 | 今夜看点",
           "url": "https://www.cls.cn/detail/2361477",
           "source": "财联社热门",
@@ -69,26 +84,35 @@
           "ranks": [
             20,
             22,
-            27
+            27,
+            28
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时17分 ~ 18时26分]"
+          "appearance_count": 15,
+          "time_info": "[01时17分 ~ 19时57分]"
         },
         {
-          "title": "时代杂志评选2026年十大最具影响力AI公司 字节、阿里、智谱上榜",
-          "url": "https://www.cls.cn/detail/2361533",
-          "source": "财联社热门",
+          "title": "“五一”假期首日热门目的地出炉",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E4%BA%94%E4%B8%80%E2%80%9D%E5%81%87%E6%9C%9F%E9%A6%96%E6%97%A5%E7%83%AD%E9%97%A8%E7%9B%AE%E7%9A%84%E5%9C%B0%E5%87%BA%E7%82%89",
+          "source": "百度热搜",
           "ranks": [
-            12,
-            10,
-            8,
-            11,
-            9
+            3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[05时57分 ~ 18时26分]"
+          "appearance_count": 4,
+          "time_info": "[16时58分 ~ 19时57分]"
+        },
+        {
+          "title": "美防长：“60天时限”已“暂停” 对伊朗军事行动无需寻求国会授权",
+          "url": "https://www.cls.cn/detail/2361658",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时44分 ~ 19时57分]"
         },
         {
           "title": "美议员邀中国科学家给AI“设卡”，美国舆论炸锅",
@@ -100,6 +124,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[14时14分 ~ 18时26分]"
+        },
+        {
+          "title": "伊朗最高领袖、总统、议长、外长、革命卫队密集发声",
+          "url": "https://news.ifeng.com/c/8slqGlLgVRj",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时58分 ~ 19时57分]"
         },
         {
           "title": "深圳14岁男孩用AI备考押中奥赛题",
@@ -117,40 +152,6 @@
           "time_info": "[01时17分 ~ 06时53分]"
         },
         {
-          "title": "“五一”假期首日热门目的地出炉",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E4%BA%94%E4%B8%80%E2%80%9D%E5%81%87%E6%9C%9F%E9%A6%96%E6%97%A5%E7%83%AD%E9%97%A8%E7%9B%AE%E7%9A%84%E5%9C%B0%E5%87%BA%E7%82%89",
-          "source": "百度热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时58分 ~ 18时26分]"
-        },
-        {
-          "title": "美防长：“60天时限”已“暂停” 对伊朗军事行动无需寻求国会授权",
-          "url": "https://www.cls.cn/detail/2361658",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时44分 ~ 18时26分]"
-        },
-        {
-          "title": "伊朗最高领袖、总统、议长、外长、革命卫队密集发声",
-          "url": "https://news.ifeng.com/c/8slqGlLgVRj",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时58分 ~ 18时26分]"
-        },
-        {
           "title": "AI古代铠甲勇士完结篇",
           "url": "https://search.bilibili.com/all?keyword=AI%E5%8F%A4%E4%BB%A3%E9%93%A0%E7%94%B2%E5%8B%87%E5%A3%AB%E5%AE%8C%E7%BB%93%E7%AF%87",
           "source": "bilibili 热搜",
@@ -158,11 +159,24 @@
             3,
             6,
             18,
-            20
+            20,
+            21
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时44分 ~ 18时26分]"
+          "appearance_count": 6,
+          "time_info": "[10时44分 ~ 19时57分]"
+        },
+        {
+          "title": "伊朗总统表示美国海上封锁不可容忍 特朗普称已摧毁伊朗核能力 | 环球市场",
+          "url": "https://www.cls.cn/detail/2361654",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时44分 ~ 19时57分]"
         },
         {
           "title": "谷歌母公司Q1营收超预期增长22%，AI驱动多板块业务增长，云业务大增63%",
@@ -200,16 +214,15 @@
           "time_info": "03时16分"
         },
         {
-          "title": "伊朗总统表示美国海上封锁不可容忍 特朗普称已摧毁伊朗核能力 | 环球市场",
-          "url": "https://www.cls.cn/detail/2361654",
-          "source": "财联社热门",
+          "title": "伊朗外长与多国外长通话 通报结束战争最新立场",
+          "url": "https://wallstreetcn.com/livenews/3097890",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            7,
-            6
+            3
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时44分 ~ 18时26分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时57分"
         },
         {
           "title": "女子被AI误导闯入响尾蛇窝",
@@ -243,6 +256,62 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时59分"
+        },
+        {
+          "title": "女子被AI误导闯入毒蛇窝",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%A2%ABAI%E8%AF%AF%E5%AF%BC%E9%97%AF%E5%85%A5%E6%AF%92%E8%9B%87%E7%AA%9D%23&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时57分"
+        },
+        {
+          "title": "英国央行首席经济学家皮尔：在伊朗战争带来的通胀风险下，收紧金融条件似乎是合理的应对措施。",
+          "url": "https://flash.jin10.com/detail/20260501195220467800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时57分"
+        },
+        {
+          "title": "五角大楼的MICHAEL：在人工智能方面不能只依赖一个合作伙伴。",
+          "url": "https://wallstreetcn.com/livenews/3097888",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时57分"
+        },
+        {
+          "title": "24小时接收6500吨装备，以防长称或“很快恢复”对伊朗军事行动",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33086074",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时14分 ~ 19时57分]"
+        },
+        {
+          "title": "特朗普回应伊朗赴美踢世界杯：我没意见",
+          "url": "https://news.ifeng.com/c/8slyIPscfsJ",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时58分 ~ 19时57分]"
         },
         {
           "title": "苹果公司CEO库克：将需要好几个月才会满足Mac Mining和Studio需求。 第三财季存储芯片成本“显然更高”。 第三财季之后，存储芯片对（苹果公司）业务的“影响将增强”。",
@@ -330,6 +399,19 @@
           "time_info": "[04时57分 ~ 05时57分]"
         },
         {
+          "title": "伊朗总统：美国海上封锁“不可容忍”",
+          "url": "https://www.toutiao.com/trending/7633995165912465444/",
+          "source": "今日头条",
+          "ranks": [
+            6,
+            10,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时58分 ~ 19时57分]"
+        },
+        {
           "title": "伊朗称最高领袖身体健康",
           "url": "https://wallstreetcn.com/livenews/3097843",
           "source": "华尔街见闻-快讯",
@@ -340,18 +422,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时59分 ~ 18时26分]"
-        },
-        {
-          "title": "24小时接收6500吨装备，以防长称或“很快恢复”对伊朗军事行动",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33086074",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时14分 ~ 18时26分]"
         },
         {
           "title": "特朗普称美国结束对伊朗战争",
@@ -394,29 +464,6 @@
           "source": "凤凰网",
           "ranks": [
             6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时58分 ~ 18时26分]"
-        },
-        {
-          "title": "特朗普回应伊朗赴美踢世界杯：我没意见",
-          "url": "https://news.ifeng.com/c/8slyIPscfsJ",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时58分 ~ 18时26分]"
-        },
-        {
-          "title": "伊朗总统：美国海上封锁“不可容忍”",
-          "url": "https://www.toutiao.com/trending/7633995165912465444/",
-          "source": "今日头条",
-          "ranks": [
-            6,
-            10
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -468,6 +515,17 @@
           "time_info": "[06时53分 ~ 07时51分]"
         },
         {
+          "title": "美辩称袭击伊朗系“自卫”，伊朗怒斥",
+          "url": "https://news.ifeng.com/c/8sm4vXslE7P",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时26分 ~ 19时57分]"
+        },
+        {
           "title": "美国防长：对伊朗军事行动“60天期限”已因停火“中止”",
           "url": "https://wallstreetcn.com/livenews/3097704",
           "source": "华尔街见闻-快讯",
@@ -490,6 +548,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时51分 ~ 10时44分]"
+        },
+        {
+          "title": "女子被AI误导闯入响尾蛇窝：无比后怕",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%A2%ABAI%E8%AF%AF%E5%AF%BC%E9%97%AF%E5%85%A5%E5%93%8D%E5%B0%BE%E8%9B%87%E7%AA%9D%EF%BC%9A%E6%97%A0%E6%AF%94%E5%90%8E%E6%80%95",
+          "source": "百度热搜",
+          "ranks": [
+            8,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时26分 ~ 19时57分]"
         },
         {
           "title": "西部数据预计季度营收将超出预期，得益于人工智能存储需求",
@@ -551,6 +621,18 @@
           "time_info": "[10时44分 ~ 14时14分]"
         },
         {
+          "title": "根据53年前颁布的这项法案，今天以后特朗普还能继续打伊朗吗？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33084769",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时26分 ~ 19时57分]"
+        },
+        {
           "title": "OpenAI 被曝联手联发科、高通开发手机芯片，高通涨逾 10%，这对 AI 手机市场来说意味着什么？",
           "url": "https://www.zhihu.com/question/2032183066840360184",
           "source": "知乎",
@@ -593,6 +675,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时51分"
+        },
+        {
+          "title": "伊朗战争丨伊朗司法部长：伊方从未离开谈判桌 但也不害怕战争",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时57分"
         },
         {
           "title": "OpenAI CFO回应未达目标质疑：需求依然强劲",
@@ -661,28 +754,6 @@
           "time_info": "07时51分"
         },
         {
-          "title": "女子被AI误导闯入响尾蛇窝：无比后怕",
-          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%A2%ABAI%E8%AF%AF%E5%AF%BC%E9%97%AF%E5%85%A5%E5%93%8D%E5%B0%BE%E8%9B%87%E7%AA%9D%EF%BC%9A%E6%97%A0%E6%AF%94%E5%90%8E%E6%80%95",
-          "source": "百度热搜",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时26分"
-        },
-        {
-          "title": "美辩称袭击伊朗系“自卫”，伊朗怒斥",
-          "url": "https://news.ifeng.com/c/8sm4vXslE7P",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时26分"
-        },
-        {
           "title": "金十图示：2026年04月30日（周四）热门中概股行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260501040532985800",
           "source": "金十数据",
@@ -727,6 +798,17 @@
           "time_info": "16时59分"
         },
         {
+          "title": "伊朗外长与多国外长通话 通报结束战争最新立场",
+          "url": "https://flash.jin10.com/detail/20260501194914036800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时57分"
+        },
+        {
           "title": "康菲石油：预计2026年下半年将于美国二叠纪盆地（Permian Basin）增加一座钻井平台。 预计全球石油需求将与去年持平；如果中东冲突持续，需求将面临更大的下行风险。 依赖进口的国家最终将在进入6月和7月时面临严重的供应短缺。",
           "url": "https://wallstreetcn.com/livenews/3097643",
           "source": "华尔街见闻-快讯",
@@ -744,7 +826,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时26分"
         },
@@ -782,6 +864,17 @@
           "time_info": "14时14分"
         },
         {
+          "title": "五角大楼宣布网络人工智能协议",
+          "url": "https://wallstreetcn.com/livenews/3097883",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时57分"
+        },
+        {
           "title": "以色列紧急向阿联酋提供激光系统，以帮助其防御伊朗导弹。",
           "url": "https://flash.jin10.com/detail/20260501040234281800",
           "source": "金十数据",
@@ -791,6 +884,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时57分"
+        },
+        {
+          "title": "美国防部与7家AI公司达成协议",
+          "url": "https://flash.jin10.com/detail/20260501194509832800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时57分"
         },
         {
           "title": "美国能源信息署（EIA）：美国2月石油与石油产品需求创2025年8月份以来新高。 2月航空燃油需求创一年新低。 2月精炼燃油需求创四年新高。",
@@ -821,7 +925,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时26分"
         },
@@ -843,9 +947,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时26分"
+        },
+        {
+          "title": "五角大楼将扩大英伟达和微软人工智能技术在机密网络中的应用。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3097879",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时57分"
         },
         {
           "title": "苹果CEO库克：MacBook Neo的需求极其火爆",
@@ -870,15 +985,15 @@
           "time_info": "04时57分"
         },
         {
-          "title": "根据53年前颁布的这项法案，今天以后特朗普还能继续打伊朗吗？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33084769",
-          "source": "澎湃新闻",
+          "title": "中方：日本囤积远超民用需求的钚材料",
+          "url": "https://www.toutiao.com/trending/7634362557830332452/",
+          "source": "今日头条",
           "ranks": [
             15
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时26分"
+          "time_info": "19时57分"
         },
         {
           "title": "伊朗外长：美对伊战争已致美国损失1000亿美元",
@@ -887,9 +1002,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时26分"
+        },
+        {
+          "title": "美国国防部副部长迈克尔：不能只依赖单一的人工智能合作伙伴。",
+          "url": "https://flash.jin10.com/detail/20260501194029217800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时57分"
         },
         {
           "title": "AI 正在拿走初级程序员的「练级场」，新人还怎么熬成高手？",
@@ -925,6 +1051,17 @@
           "time_info": "01时18分"
         },
         {
+          "title": "AI踩平量化门槛，普通人入局机会在哪？",
+          "url": "https://flash.jin10.com/detail/20260501193515187800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时57分"
+        },
+        {
           "title": "4月30日，马斯克重返证人席，接受OpenAI律师反询问。",
           "url": "https://wallstreetcn.com/livenews/3097631",
           "source": "华尔街见闻-快讯",
@@ -945,6 +1082,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时16分"
+        },
+        {
+          "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850519&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/04/iahqvFRhLOCuS-TXYlZQU.jpg/lite\" height=\"120\"/></a>",
+          "url": "https://flash.jin10.com/detail/20260501193512844800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时57分"
         },
         {
           "title": "高通CEO表示：新型AI芯片业务将在2027年贡献显著营收。",
@@ -997,7 +1145,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时26分"
         },
@@ -1022,6 +1170,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时14分"
+        },
+        {
+          "title": "美国五角大楼宣布达成网络人工智能相关协议，已与SpaceX、OpenAI、谷歌(GOOG.O)和英伟达(NVDA.O)签署协议。",
+          "url": "https://flash.jin10.com/detail/20260501193320957800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时57分"
         },
         {
           "title": "美国官员称伊朗战争耗资接近500亿美元，较一天前说法“翻倍”",
@@ -1052,7 +1211,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时26分"
         },
@@ -1085,7 +1244,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时26分"
         },
@@ -1107,7 +1266,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时26分"
         },
@@ -1118,9 +1277,20 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时26分"
+        },
+        {
+          "title": "土耳其外交消息人士：土耳其外交部长在与伊朗外长的通话中讨论了美伊谈判的最新情况。",
+          "url": "https://flash.jin10.com/detail/20260501192240316800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时57分"
         },
         {
           "title": "美国总统特朗普：我们在发动伊朗战争方面并不曾需要（来自北约的）任何帮助。",
