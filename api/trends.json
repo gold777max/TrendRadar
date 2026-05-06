@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-07T04:20:27.839078+08:00",
-  "total_titles_processed": 457,
+  "generated_at": "2026-05-07T05:58:27.535306+08:00",
+  "total_titles_processed": 535,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai ai+ ai人工智能 人工智能 风险识别 商业风险识别 痛点 需求 商业风险 伊朗 rwa 趋势 热点 热门",
-      "match_count": 70,
+      "match_count": 90,
       "titles": [
         {
           "title": "伊朗战争丨“若美方不作出必要让步，已准备好开火”",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时26分 ~ 04时20分]"
+          "appearance_count": 4,
+          "time_info": "[00时26分 ~ 05时58分]"
         },
         {
           "title": "一图看懂 | 全球AI链迎史诗级共振暴涨，A股市场跑出了哪些“黑马”？",
@@ -27,8 +27,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时26分 ~ 04时20分]"
+          "appearance_count": 4,
+          "time_info": "[00时26分 ~ 05时58分]"
         },
         {
           "title": "以军总参谋长：在伊朗仍有一系列目标尚待打击",
@@ -38,8 +38,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时26分 ~ 04时20分]"
+          "appearance_count": 4,
+          "time_info": "[00时26分 ~ 05时58分]"
         },
         {
           "title": "美军部署超10万个人工智能体，欲打造“算法铁幕”谋求算法霸权",
@@ -49,8 +49,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时26分 ~ 04时20分]"
+          "appearance_count": 4,
+          "time_info": "[00时26分 ~ 05时58分]"
         },
         {
           "title": "伊朗最大岛屿传出巨响",
@@ -60,8 +60,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时26分 ~ 04时20分]"
+          "appearance_count": 4,
+          "time_info": "[00时26分 ~ 05时58分]"
         },
         {
           "title": "王毅同伊朗外长阿拉格齐会谈",
@@ -71,8 +71,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时26分 ~ 04时20分]"
+          "appearance_count": 4,
+          "time_info": "[00时26分 ~ 05时58分]"
         },
         {
           "title": "AI基建涨疯了，但数据中心烧钱也快烧光了，债务泡沫开始破裂",
@@ -82,8 +82,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时26分 ~ 04时20分]"
+          "appearance_count": 4,
+          "time_info": "[00时26分 ~ 05时58分]"
         },
         {
           "title": "王毅同伊朗外长阿拉格齐会谈",
@@ -125,7 +125,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时20分"
         },
@@ -158,7 +158,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时20分"
         },
@@ -181,8 +181,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时26分 ~ 04时20分]"
+          "appearance_count": 4,
+          "time_info": "[00时26分 ~ 05时58分]"
         },
         {
           "title": "知情人士：白宫认为与伊朗接近达成停战谅解备忘录",
@@ -193,19 +193,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时26分 ~ 04时20分]"
-        },
-        {
-          "title": "有AI真好 放以前没十几亿下不来",
-          "url": "https://s.weibo.com/weibo?q=%E6%9C%89AI%E7%9C%9F%E5%A5%BD%20%E6%94%BE%E4%BB%A5%E5%89%8D%E6%B2%A1%E5%8D%81%E5%87%A0%E4%BA%BF%E4%B8%8B%E4%B8%8D%E6%9D%A5&t=31&band_rank=9&Refer=top",
-          "source": "微博",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时26分 ~ 04时20分]"
+          "appearance_count": 4,
+          "time_info": "[00时26分 ~ 05时58分]"
         },
         {
           "title": "知情人：伊朗将同意将铀浓缩材料运出",
@@ -216,8 +205,20 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时26分 ~ 04时20分]"
+          "appearance_count": 4,
+          "time_info": "[00时26分 ~ 05时58分]"
+        },
+        {
+          "title": "有AI真好 放以前没十几亿下不来",
+          "url": "https://s.weibo.com/weibo?q=%E6%9C%89AI%E7%9C%9F%E5%A5%BD%20%E6%94%BE%E4%BB%A5%E5%89%8D%E6%B2%A1%E5%8D%81%E5%87%A0%E4%BA%BF%E4%B8%8B%E4%B8%8D%E6%9D%A5&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时26分 ~ 05时58分]"
         },
         {
           "title": "伊朗：若美方不让步 已准备好开火",
@@ -227,8 +228,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时26分 ~ 04时20分]"
+          "appearance_count": 4,
+          "time_info": "[00时26分 ~ 05时58分]"
         },
         {
           "title": "伊朗外长访华为何引发世界关注",
@@ -238,8 +239,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时26分 ~ 04时20分]"
+          "appearance_count": 4,
+          "time_info": "[00时26分 ~ 05时58分]"
         },
         {
           "title": "OpenAI 推出 GPT-5.5 Instant，有哪些值得关注的技术亮点？使用感受如何？",
@@ -247,11 +248,36 @@
           "source": "知乎",
           "ranks": [
             15,
+            18,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时26分 ~ 05时58分]"
+        },
+        {
+          "title": "马上评｜当AI收费遇到“搜黎元洪给出范伟”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33101097",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
             18
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时26分 ~ 05时58分]"
+        },
+        {
+          "title": "特朗普：如果伊朗同意美方条款，“史诗怒火”行动将宣告结束",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33102780",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            14
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[00时26分 ~ 04时20分]"
+          "time_info": "[02时14分 ~ 05时58分]"
         },
         {
           "title": "火到欧美的韩国棒球女神是AI生成",
@@ -267,16 +293,17 @@
           "time_info": "[00时26分 ~ 04时20分]"
         },
         {
-          "title": "马上评｜当AI收费遇到“搜黎元洪给出范伟”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33101097",
-          "source": "澎湃新闻",
+          "title": "10后小孩哥用AI帮妈妈管店",
+          "url": "https://www.baidu.com/s?wd=10%E5%90%8E%E5%B0%8F%E5%AD%A9%E5%93%A5%E7%94%A8AI%E5%B8%AE%E5%A6%88%E5%A6%88%E7%AE%A1%E5%BA%97",
+          "source": "百度热搜",
           "ranks": [
-            17,
-            18
+            27,
+            18,
+            23
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[00时26分 ~ 04时20分]"
+          "time_info": "[02时14分 ~ 05时58分]"
         },
         {
           "title": "法国财政部：数据显示，法国精炼油销售毛利润已经恢复至（与伊朗战争相关的）危机爆发之前的水平。 由于需求减少，法国4月份车用燃料消费量下降11%。 政府将继续密切关注利润率，以确保其不会过度上涨。",
@@ -291,18 +318,6 @@
           "time_info": "[00时26分 ~ 02时14分]"
         },
         {
-          "title": "特朗普：如果伊朗同意美方条款，“史诗怒火”行动将宣告结束",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33102780",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时14分 ~ 04时20分]"
-        },
-        {
           "title": "上海把健身房开进地铁站，是瞄准了什么需求？地铁站的空气质量会影响健身的体验感吗？",
           "url": "https://www.zhihu.com/question/2033147392866739155",
           "source": "知乎",
@@ -313,18 +328,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时26分 ~ 02时14分]"
-        },
-        {
-          "title": "10后小孩哥用AI帮妈妈管店",
-          "url": "https://www.baidu.com/s?wd=10%E5%90%8E%E5%B0%8F%E5%AD%A9%E5%93%A5%E7%94%A8AI%E5%B8%AE%E5%A6%88%E5%A6%88%E7%AE%A1%E5%BA%97",
-          "source": "百度热搜",
-          "ranks": [
-            27,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时14分 ~ 04时20分]"
         },
         {
           "title": "美国芝加哥联储主席Goolsbee（2027年FOMC票委）：如果人们将未来预期的收入提前用于当前消费，很容易导致经济过热。 如果人工智能真如宣传的那样出色，那将是“一件好事”，但美联储仍需警惕经济过热。",
@@ -349,6 +352,17 @@
           "time_info": "02时14分"
         },
         {
+          "title": "伊朗官员：美军动用所有军事手段也无法开通霍尔木兹海峡",
+          "url": "https://flash.jin10.com/detail/20260507051942098800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时58分"
+        },
+        {
           "title": "金十图示：2026年05月06日（周三）热门中概股行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260507012919807800",
           "source": "金十数据",
@@ -366,7 +380,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时20分"
         },
@@ -388,7 +402,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时20分"
         },
@@ -426,6 +440,17 @@
           "time_info": "02时14分"
         },
         {
+          "title": "如何看待蔡浩宇的硅谷 AI 公司战略转向，LLM 团队整体回流国内？",
+          "url": "https://www.zhihu.com/question/2035415081798869913",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时58分"
+        },
+        {
           "title": "伊朗外交部发言人：德黑兰方面尚未向巴基斯坦传达其针对美国就伊朗“14点提议”所持观点的回复。（伊朗国家广播IRIB）",
           "url": "https://wallstreetcn.com/livenews/3099481",
           "source": "华尔街见闻-快讯",
@@ -443,7 +468,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时20分"
         },
@@ -454,9 +479,42 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时20分"
+        },
+        {
+          "title": "海湾合作委员会表示，伊朗的误导性言论是其针对该地区国家采取的升级对峙、挑衅性做法的延续。",
+          "url": "https://flash.jin10.com/detail/20260507051148673800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时58分"
+        },
+        {
+          "title": "Meta支持的Scale AI获五角大楼5亿美元AI合同",
+          "url": "https://wallstreetcn.com/livenews/3099573",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时58分"
+        },
+        {
+          "title": "海湾合作委员会表示，伊朗对阿联酋的指控毫无根据。",
+          "url": "https://flash.jin10.com/detail/20260507050830869800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时58分"
         },
         {
           "title": "伊朗议长卡利巴夫：军事袭击的可能性并不低。 “敌人”寄希望于施加经济压力。",
@@ -479,6 +537,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时14分"
+        },
+        {
+          "title": "据CNBC：随着苹果(AAPL.O)加大对人工智能的投资力度，截至三月当季，苹果(AAPL.O)的研发支出占营收的比例达到10.3%。",
+          "url": "https://flash.jin10.com/detail/20260507050409862800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时58分"
         },
         {
           "title": "卡夫亨氏（Kraft Heinz）：截至2026年第一季度，伊朗冲突未对我们的经营业绩产生重大影响。 受伊朗冲突等因素影响，预计2026年全年通胀压力将有所增加。 截至3月28日，预计在2026年余下时间内裁减400个职位，主要集中在北美以外地区。 季度重组活动产生了2,300万美元的净收益，其他重组成本产生了4,500万美元的净收益。 截至3月28日，《One Big Beautiful Bill》法案未对我们的总税收计提产生重大影响。 预计2026年资本支出约为9亿美元。",
@@ -509,9 +578,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时20分"
+        },
+        {
+          "title": "Scale AI获美国防部价值5亿美元的合同",
+          "url": "https://flash.jin10.com/detail/20260507050033181800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时58分"
         },
         {
           "title": "OpenAI推出B2B Signals，称是OpenAI Signals的商业扩展版。",
@@ -520,7 +600,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时20分"
         },
@@ -558,6 +638,17 @@
           "time_info": "02时14分"
         },
         {
+          "title": "伊朗：各港口已准备好提供一般海事服务和支持",
+          "url": "https://wallstreetcn.com/livenews/3099568",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时58分"
+        },
+        {
           "title": "伊朗最高领袖军事顾问：美国必须赔偿伊朗损失",
           "url": "https://flash.jin10.com/detail/20260507011601378800",
           "source": "金十数据",
@@ -567,6 +658,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时14分"
+        },
+        {
+          "title": "伊朗称各港口已准备好提供一般海事服务和支持",
+          "url": "https://flash.jin10.com/detail/20260507045754907800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时58分"
         },
         {
           "title": "美国总统特朗普：伊朗希望达成一份协议。",
@@ -619,7 +721,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时20分"
         },
@@ -633,6 +735,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时14分"
+        },
+        {
+          "title": "伊朗向霍尔木兹海峡的商船发布通告，称伊朗的港口已全面准备好为船只提供一般海事服务和支持。（伊朗伊斯兰共和国通讯社）",
+          "url": "https://flash.jin10.com/detail/20260507044456564800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时58分"
         },
         {
           "title": "以军总参谋长：随时准备重启对伊朗军事行动",
@@ -657,6 +770,28 @@
           "time_info": "02时14分"
         },
         {
+          "title": "在伊朗核谈判前景不明之际，美国外交官们被提醒警惕线上预测市场。",
+          "url": "https://flash.jin10.com/detail/20260507044241056800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时58分"
+        },
+        {
+          "title": "伊朗官员：美军动用所有军事手段也无法开通霍尔木兹海峡",
+          "url": "https://wallstreetcn.com/livenews/3099583",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时58分"
+        },
+        {
           "title": "伊朗赞赏中方始终站在历史正确一边",
           "url": "https://www.toutiao.com/trending/7636368072584544298/",
           "source": "今日头条",
@@ -679,15 +814,59 @@
           "time_info": "02时14分"
         },
         {
+          "title": "美联储古尔斯比称伊朗战争的影响更像是一场通胀冲击",
+          "url": "https://flash.jin10.com/detail/20260507043235708800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时58分"
+        },
+        {
+          "title": "得益于AI数据中心需求的激增，Arm营收展望高于预期",
+          "url": "https://flash.jin10.com/detail/20260507042524989800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时58分"
+        },
+        {
+          "title": "伊朗称该国国家足球队将在世界杯开始前14天抵美",
+          "url": "https://wallstreetcn.com/livenews/3099578",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时58分"
+        },
+        {
           "title": "伊朗总统：对美不信任源于美方的敌对行为",
           "url": "https://wallstreetcn.com/livenews/3099523",
           "source": "华尔街见闻-快讯",
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时20分"
+        },
+        {
+          "title": "Arm控股第四财季营收14.9亿美元，IBES预期14.7亿美元。 第四财季调整后每股收益（EPS）为0.60美元，IBES预期0.58美元。 Arm AGI CPU需求强劲，预计2027-28年规模将超过20亿美元。 预计第一财季营收12.6亿美元，IBES预期12.5亿美元。 预计第一财季调整后EPS为0.40美元，IBES预期0.36美元。",
+          "url": "https://wallstreetcn.com/livenews/3099561",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时58分"
         },
         {
           "title": "伊朗国防部发言人：美国必须和以色列保持距离",
@@ -699,6 +878,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时14分"
+        },
+        {
+          "title": "市场消息：由Meta支持的Scale AI公司获得了一份价值5亿美元的美国国防部合同。",
+          "url": "https://flash.jin10.com/detail/20260507042354436800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时58分"
+        },
+        {
+          "title": "伊朗称该国国家足球队将在世界杯开始前14天抵美",
+          "url": "https://flash.jin10.com/detail/20260507041645321800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时58分"
         },
         {
           "title": "特朗普：伊朗战事“很有可能结束”，双方正接近达成协议",
@@ -718,7 +919,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时20分"
         },
@@ -729,7 +930,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时20分"
         },
@@ -762,7 +963,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时20分"
         },
@@ -787,6 +988,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时14分"
+        },
+        {
+          "title": "苹果研发投入占营收比重突破10%，AI竞赛引发“紧迫感”",
+          "url": "https://wallstreetcn.com/livenews/3099557",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时58分"
+        },
+        {
+          "title": "美联储Goolsbee：如果低消费者信心转化为消费支出下降，他将警惕需求“过冷”。 对思考通胀的新方式持开放态度。 美联储应尽可能纳入所有数据，但他认为解决通胀问题没有万灵药。 美联储主席提名人凯文·沃什（Kevin Warsh）有一些值得思考的新颖观点。 改革央行的通胀框架“并非易事”。",
+          "url": "https://wallstreetcn.com/livenews/3099556",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时58分"
         }
       ]
     }
