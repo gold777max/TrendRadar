@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-08T19:13:23.007466+08:00",
-  "total_titles_processed": 1398,
+  "generated_at": "2026-05-08T21:27:34.112274+08:00",
+  "total_titles_processed": 1552,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai ai+ ai人工智能 人工智能 风险识别 商业风险识别 痛点 需求 商业风险 伊朗 rwa 趋势 热点 热门",
-      "match_count": 176,
+      "match_count": 190,
       "titles": [
         {
           "title": "“人工智能+”走向智能经济新形态",
@@ -32,6 +32,19 @@
           "time_info": "[00时09分 ~ 19时13分]"
         },
         {
+          "title": "霍尔木兹局势又紧张！伊朗称美违反停火空袭、已反击，美军称拦截伊发起的无端袭击",
+          "url": "https://wallstreetcn.com/articles/3771778",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[07时59分 ~ 21时27分]"
+        },
+        {
           "title": "这只热门ETF又溢价到停牌，年内净值涨72%，停牌多达52次",
           "url": "https://www.cls.cn/detail/2365330",
           "source": "财联社热门",
@@ -43,19 +56,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时09分 ~ 07时59分]"
-        },
-        {
-          "title": "霍尔木兹局势又紧张！伊朗称美违反停火空袭、已反击，美军称拦截伊发起的无端袭击",
-          "url": "https://wallstreetcn.com/articles/3771778",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时59分 ~ 19时13分]"
         },
         {
           "title": "伊朗战争丨特朗普与教皇争吵后，鲁比奥访问梵蒂冈",
@@ -170,6 +170,20 @@
           "time_info": "[02时22分 ~ 11时29分]"
         },
         {
+          "title": "华为“天才少年”选择创业：用AI重构先进制造业，目标实现国产超越",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33105333",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            15,
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时29分 ~ 21时27分]"
+        },
+        {
           "title": "【早报】美方：定点打击伊军事设施；伊朗武装部队实施反击",
           "url": "https://www.cls.cn/detail/2365519",
           "source": "财联社热门",
@@ -194,6 +208,18 @@
           "time_info": "[07时59分 ~ 13时55分]"
         },
         {
+          "title": "美国 3 艘军舰穿越霍尔木兹海峡遭伊朗袭击，局势会升级吗？当前双方诉求是什么？",
+          "url": "https://www.zhihu.com/question/2036007359844020985",
+          "source": "知乎",
+          "ranks": [
+            13,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时55分 ~ 21时27分]"
+        },
+        {
           "title": "伊朗战争丨美军对伊朗格什姆岛及阿巴斯港发动袭击",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
           "source": "凤凰网",
@@ -216,6 +242,17 @@
           "time_info": "[11时29分 ~ 13时55分]"
         },
         {
+          "title": "伊朗战争丨鲁比奥：期待伊朗今日作出回应",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时26分 ~ 21时27分]"
+        },
+        {
           "title": "伊朗总统和最高领袖举行会面",
           "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%80%BB%E7%BB%9F%E5%92%8C%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E4%B8%BE%E8%A1%8C%E4%BC%9A%E9%9D%A2",
           "source": "百度热搜",
@@ -228,6 +265,21 @@
         },
         {
           "title": "美中央司令部：对伊朗军事设施实施定点打击",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33118500",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19,
+            17,
+            16,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时29分 ~ 21时27分]"
+        },
+        {
+          "title": "美中央司令部：对伊朗军事设施实施定点打击",
           "url": "https://www.cls.cn/detail/2365492",
           "source": "财联社热门",
           "ranks": [
@@ -237,6 +289,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[06时59分 ~ 13时55分]"
+        },
+        {
+          "title": "哈里斯谈伊朗战争时爆粗然后大笑，现场响起雷鸣般的掌声",
+          "url": "https://v.ifeng.com/c/8sxW6y1Facc",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时26分 ~ 21时27分]"
         },
         {
           "title": "美以袭击伊朗进入第 70 天，当前局势如何？哪些信息值得关注？",
@@ -273,7 +336,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时13分"
         },
@@ -300,6 +363,17 @@
           "time_info": "04时13分"
         },
         {
+          "title": "美国白宫国家经济委员会主任哈塞特：数据显示人们在工作中使用人工智能工具。",
+          "url": "https://flash.jin10.com/detail/20260508211242198800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时27分"
+        },
+        {
           "title": "沙特媒体称伊朗预计今天回应美国方案",
           "url": "https://wallstreetcn.com/livenews/3100582",
           "source": "华尔街见闻-快讯",
@@ -311,18 +385,15 @@
           "time_info": "17时16分"
         },
         {
-          "title": "华为“天才少年”选择创业：用AI重构先进制造业，目标实现国产超越",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33105333",
-          "source": "澎湃新闻",
+          "title": "伊朗称正在评估美国提出的止战方案。（塔斯尼姆通讯社）",
+          "url": "https://wallstreetcn.com/livenews/3100756",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            16,
-            15,
-            11,
-            10
+            1
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时29分 ~ 19时13分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时27分"
         },
         {
           "title": "美媒：伊朗推行霍尔木兹海峡新规 要求船只通行前向“波斯湾海峡管理局”申报",
@@ -347,6 +418,17 @@
           "time_info": "04时13分"
         },
         {
+          "title": "美国白宫国家经济委员会主任哈塞特：人们应该利用人工智能工具来保护职业安全。",
+          "url": "https://flash.jin10.com/detail/20260508211238364800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时27分"
+        },
+        {
           "title": "期货热点追踪",
           "url": "https://flash.jin10.com/detail/20260508152553360800",
           "source": "金十数据",
@@ -356,6 +438,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时37分"
+        },
+        {
+          "title": "美国白宫国家经济委员会主任哈塞特：（谈AI导致的失业）如今我们正目睹AI创造就业。",
+          "url": "https://flash.jin10.com/detail/20260508211217764800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时27分"
         },
         {
           "title": "特朗普称美伊“很可能”达成协议、威胁谈不成更强力轰炸，伊朗指美报道失实、称还在审阅美方提案",
@@ -387,7 +480,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时13分"
         },
@@ -412,18 +505,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时37分"
-        },
-        {
-          "title": "美国 3 艘军舰穿越霍尔木兹海峡遭伊朗袭击，局势会升级吗？当前双方诉求是什么？",
-          "url": "https://www.zhihu.com/question/2036007359844020985",
-          "source": "知乎",
-          "ranks": [
-            13,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时55分 ~ 19时13分]"
         },
         {
           "title": "伊朗武装部队：美军袭击油轮并空袭沿海地区 伊方已进行反击",
@@ -468,23 +549,9 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时13分"
-        },
-        {
-          "title": "美中央司令部：对伊朗军事设施实施定点打击",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33118500",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19,
-            17,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时29分 ~ 19时13分]"
         },
         {
           "title": "美国军方：美国中央司令部已消除来袭威胁，并瞄准了袭击美军的伊朗军事设施。",
@@ -596,6 +663,44 @@
           "time_info": "[11时29分 ~ 15时37分]"
         },
         {
+          "title": "SK 海力士因 AI 热潮发数百万元人均奖金，三星员工因待遇落差拟罢工，如何评价？反映了怎样的行业现状？",
+          "url": "https://www.zhihu.com/question/2035827414475993469",
+          "source": "知乎",
+          "ranks": [
+            13,
+            7,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时16分 ~ 21时27分]"
+        },
+        {
+          "title": "华尔街“传奇大佬”都铎琼斯：AI牛市“还能再持续一两年”，沃什“绝不可能”让美联储降息",
+          "url": "https://wallstreetcn.com/articles/3771771",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时16分 ~ 21时27分]"
+        },
+        {
+          "title": "美军空袭伊朗港口",
+          "url": "https://www.douyin.com/hot/2491798",
+          "source": "抖音",
+          "ranks": [
+            11,
+            15,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时16分 ~ 21时27分]"
+        },
+        {
           "title": "伊朗打击美舰 美袭击伊油轮",
           "url": "https://www.toutiao.com/trending/7637289576934936100/",
           "source": "今日头条",
@@ -618,6 +723,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时55分 ~ 15时37分]"
+        },
+        {
+          "title": "日本右翼重金炮制AI假视频抹黑中国",
+          "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E5%8F%B3%E7%BF%BC%E9%87%8D%E9%87%91%E7%82%AE%E5%88%B6AI%E5%81%87%E8%A7%86%E9%A2%91%E6%8A%B9%E9%BB%91%E4%B8%AD%E5%9B%BD",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时26分 ~ 21时27分]"
         },
         {
           "title": "伊朗打击美舰 美空袭伊沿海地区",
@@ -704,18 +820,6 @@
           "time_info": "[06时59分 ~ 07时59分]"
         },
         {
-          "title": "SK 海力士因 AI 热潮发数百万元人均奖金，三星员工因待遇落差拟罢工，如何评价？反映了怎样的行业现状？",
-          "url": "https://www.zhihu.com/question/2035827414475993469",
-          "source": "知乎",
-          "ranks": [
-            13,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时16分 ~ 19时13分]"
-        },
-        {
           "title": "知名爆料人：苹果首款AI视觉TWS设备已进入开发后期阶段",
           "url": "https://www.cls.cn/detail/2365476",
           "source": "财联社热门",
@@ -752,17 +856,6 @@
           "time_info": "[06时59分 ~ 07时59分]"
         },
         {
-          "title": "华尔街“传奇大佬”都铎琼斯：AI牛市“还能再持续一两年”，沃什“绝不可能”让美联储降息",
-          "url": "https://wallstreetcn.com/articles/3771771",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时16分 ~ 19时13分]"
-        },
-        {
           "title": "券商All in AI要多大财力？IT投入实力较量最新排行榜",
           "url": "https://www.cls.cn/detail/2365785",
           "source": "财联社热门",
@@ -797,18 +890,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时55分 ~ 06时59分]"
-        },
-        {
-          "title": "美军空袭伊朗港口",
-          "url": "https://www.douyin.com/hot/2491798",
-          "source": "抖音",
-          "ranks": [
-            11,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时16分 ~ 19时13分]"
         },
         {
           "title": "伊朗：最高领袖穆杰塔巴全面掌控局势",
@@ -894,6 +975,17 @@
           "time_info": "[15时36分 ~ 15时37分]"
         },
         {
+          "title": "GAI专辑先行曲星梦",
+          "url": "https://www.douyin.com/hot/2491118",
+          "source": "抖音",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时26分 ~ 21时27分]"
+        },
+        {
           "title": "国际能源署署长比罗尔：一旦伊朗战争结束，供应将逐步恢复，这将导致市场波动。",
           "url": "https://flash.jin10.com/detail/20260508020549649800",
           "source": "金十数据",
@@ -922,7 +1014,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时13分"
         },
@@ -971,6 +1063,17 @@
           "time_info": "00时09分"
         },
         {
+          "title": "美国白宫国家经济委员会主任哈塞特：过去两个月的就业数据非常亮眼。 就业市场“异常火爆”。 现在我们看到人工智能正在创造就业。 尽管石油价格和就业形势，但核心通胀率依然保持稳定。 没有迹象表明通胀失控，美联储无需加息。 我认为我们今年会看到降息，因为美联储主席提名人沃什。",
+          "url": "https://wallstreetcn.com/livenews/3100750",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时27分"
+        },
+        {
           "title": "美军称袭击伊朗军事设施",
           "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%86%9B%E7%A7%B0%E8%A2%AD%E5%87%BB%E4%BC%8A%E6%9C%97%E5%86%9B%E4%BA%8B%E8%AE%BE%E6%96%BD%23&t=31&band_rank=7&Refer=top",
           "source": "微博",
@@ -1013,6 +1116,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时13分"
+        },
+        {
+          "title": "伊朗南部霍尔木兹甘省一港口城市传出爆炸声",
+          "url": "https://wallstreetcn.com/livenews/3100749",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时27分"
         },
         {
           "title": "伊朗针对霍尔木兹海峡通行制定新规要求提交多类信息。",
@@ -1142,7 +1256,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时13分"
         },
@@ -1263,7 +1377,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时13分"
         },
@@ -1277,6 +1391,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时23分"
+        },
+        {
+          "title": "伊朗迈赫尔通讯社：伊朗锡里克（靠近霍尔木兹海峡）传出爆炸声，原因不明。",
+          "url": "https://flash.jin10.com/detail/20260508210502884800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时27分"
         },
         {
           "title": "亚太盘初，标普500股指期货跌0.3%，纳指期货跌0.4%。黄金价格大致持平，暂报4690美元/盎司，WTI原油期货持平，暂报97.77美元/桶，布伦特原油期货涨0.2%，暂报103.50美元。据新华社报道，伊朗南部一海军基地遭美以袭击，美媒称美军空袭伊朗港口。",
@@ -1411,6 +1536,17 @@
           "time_info": "13时55分"
         },
         {
+          "title": "贝莱德：非农对美联储意味着维持现状 宏观叙事已被AI主题主导",
+          "url": "https://flash.jin10.com/detail/20260508210349784800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时27分"
+        },
+        {
           "title": "OpenAI与博通的AI芯片交易遭遇180亿美元融资障碍。（The Information）",
           "url": "https://wallstreetcn.com/livenews/3100153",
           "source": "华尔街见闻-快讯",
@@ -1461,7 +1597,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时13分"
         },
@@ -1475,6 +1611,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时09分"
+        },
+        {
+          "title": "美国务卿：美方尚未收到伊朗方面的正式回应，但预计“今天会得到回复”，希望美伊进入严肃谈判进程",
+          "url": "https://wallstreetcn.com/livenews/3100738",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时27分"
         },
         {
           "title": "国内一年仅卖 2763 万台彩电，创十年新低，反映了哪些消费趋势和市场变化？",
@@ -1494,7 +1641,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时13分"
         },
@@ -1714,7 +1861,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时13分"
         },
@@ -1769,7 +1916,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时13分"
         },
@@ -1802,7 +1949,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时13分"
         },
@@ -1846,7 +1993,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时13分"
         },
@@ -1970,6 +2117,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时29分"
+        },
+        {
+          "title": "美国国务卿鲁比奥：（谈伊朗小型船队）他们现在没有海军了，但他们会开出那种小型捕鲸船，试图围攻我们。如果那些船敢朝我们开过来，我们就把它们炸掉。",
+          "url": "https://flash.jin10.com/detail/20260508205310733800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时27分"
         },
         {
           "title": "高盛：波斯湾以外地区强劲的原油出口以及中国需求的疲软，正在帮助部分抵消由于海湾出口极低所导致的市场紧缩。 波斯湾原油及凝析油出口遭受的冲击中有45%正被抵消，这主要得益于美洲出口的增加。然而，精炼产品出口的下滑目前还没有看到净抵消效应。 出口量的增加并不等同于产量的提高，因为出口量可能来自库存消耗。这一点在美国市场已有所体现。",
