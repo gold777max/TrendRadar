@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-09T22:48:53.178522+08:00",
-  "total_titles_processed": 1423,
+  "generated_at": "2026-05-09T23:49:04.379267+08:00",
+  "total_titles_processed": 1469,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai ai+ ai人工智能 人工智能 风险识别 商业风险识别 痛点 需求 商业风险 伊朗 rwa 趋势 热点 热门",
-      "match_count": 111,
+      "match_count": 114,
       "titles": [
         {
           "title": "“台湾病例与邮轮事件无关联” A股“汉坦病毒”概念躁动背后有几分真实需求？",
@@ -40,11 +40,12 @@
             6,
             4,
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[03时13分 ~ 22时48分]"
+          "appearance_count": 19,
+          "time_info": "[03时13分 ~ 23时49分]"
         },
         {
           "title": "专访中芯国际创始人张汝京：利基市场成半导体行业核心突围切口 看好AI场景化应用 赛道“小巨人”是破局关键",
@@ -56,8 +57,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[15时06分 ~ 22时48分]"
+          "appearance_count": 12,
+          "time_info": "[15时06分 ~ 23时49分]"
         },
         {
           "title": "“百度AI称一律师被判刑”构成侵权：百度辩称AI幻觉无法预见，法院判其书面道歉",
@@ -72,8 +73,22 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时21分 ~ 22时48分]"
+          "appearance_count": 13,
+          "time_info": "[12时21分 ~ 23时49分]"
+        },
+        {
+          "title": "报道：字节跳动计划将AI基础设施支出增加25%",
+          "url": "https://wallstreetcn.com/articles/3771900",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[18时55分 ~ 23时49分]"
         },
         {
           "title": "伊朗驻华大使：美国没法施压中国，改变对伊朗关系",
@@ -84,8 +99,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时21分 ~ 22时48分]"
+          "appearance_count": 13,
+          "time_info": "[12时21分 ~ 23时49分]"
         },
         {
           "title": "伊朗南部霍尔木兹甘省一港口城市传出爆炸声",
@@ -108,8 +123,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时21分 ~ 22时48分]"
+          "appearance_count": 13,
+          "time_info": "[12时21分 ~ 23时49分]"
         },
         {
           "title": "冲击中国AI融资王！报道：DeepSeek首轮融资目标500亿元，估值或突破3500亿元",
@@ -147,19 +162,6 @@
           "time_info": "[01时18分 ~ 08时04分]"
         },
         {
-          "title": "报道：字节跳动计划将AI基础设施支出增加25%",
-          "url": "https://wallstreetcn.com/articles/3771900",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时55分 ~ 22时48分]"
-        },
-        {
           "title": "华为“天才少年”选择创业：用AI重构先进制造业，目标实现国产超越",
           "url": "https://m.thepaper.cn/newsDetail_forward_33105333",
           "source": "澎湃新闻",
@@ -170,6 +172,33 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时18分 ~ 07时01分]"
+        },
+        {
+          "title": "特朗普：可能恢复“自由计划”行动，伊朗：正制定霍尔木兹海峡相关法律草案",
+          "url": "https://wallstreetcn.com/articles/3771883",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[17时16分 ~ 23时49分]"
+        },
+        {
+          "title": "24岁掌管55亿美元！从被OpenAI扫地出门到华尔街投资新王：Leopold的“开挂人生”",
+          "url": "https://www.cls.cn/detail/2366815",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            8,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[17时16分 ~ 23时49分]"
         },
         {
           "title": "摆脱传统试错模式，“90后”创业者用AI解决化工研发痛点",
@@ -184,8 +213,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时21分 ~ 22时48分]"
+          "appearance_count": 13,
+          "time_info": "[12时21分 ~ 23时49分]"
         },
         {
           "title": "伊朗战争丨美军再次对多艘伊朗油轮发动空袭",
@@ -199,31 +228,16 @@
           "time_info": "[01时18分 ~ 06时00分]"
         },
         {
-          "title": "特朗普：可能恢复“自由计划”行动，伊朗：正制定霍尔木兹海峡相关法律草案",
-          "url": "https://wallstreetcn.com/articles/3771883",
+          "title": "彻底撕破脸了！OpenAI官司法庭辩论上演“人身攻击”：马斯克“不懂AI且暴躁”，Altman“人品低劣又虚伪”",
+          "url": "https://wallstreetcn.com/articles/3771878",
           "source": "华尔街见闻",
           "ranks": [
-            9,
-            8,
-            7
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时16分 ~ 22时48分]"
-        },
-        {
-          "title": "24岁掌管55亿美元！从被OpenAI扫地出门到华尔街投资新王：Leopold的“开挂人生”",
-          "url": "https://www.cls.cn/detail/2366815",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            8,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时16分 ~ 22时48分]"
+          "appearance_count": 9,
+          "time_info": "[17时16分 ~ 23时49分]"
         },
         {
           "title": "霍尔木兹局势又紧张！伊朗称美违反停火空袭、已反击，美军称拦截伊发起的无端袭击",
@@ -264,6 +278,32 @@
           "time_info": "[15时06分 ~ 21时10分]"
         },
         {
+          "title": "被AI造谣？比亚迪、特斯拉、蔚小理等辟谣“被约谈”：不实！",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33139979",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            15,
+            14,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[18时55分 ~ 23时49分]"
+        },
+        {
+          "title": "霍梅尼之孙：伊朗最高领袖对各项事务保持监督",
+          "url": "https://wallstreetcn.com/livenews/3101078",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时10分 ~ 23时49分]"
+        },
+        {
           "title": "伊朗战争丨伊朗官员披露穆杰塔巴伤情",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
           "source": "凤凰网",
@@ -273,18 +313,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[15时06分 ~ 19时50分]"
-        },
-        {
-          "title": "彻底撕破脸了！OpenAI官司法庭辩论上演“人身攻击”：马斯克“不懂AI且暴躁”，Altman“人品低劣又虚伪”",
-          "url": "https://wallstreetcn.com/articles/3771878",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时16分 ~ 22时48分]"
         },
         {
           "title": "伊朗战争丨因储油罐已满而向大海排石油？伊朗回应",
@@ -312,16 +340,29 @@
           "time_info": "[01时18分 ~ 08时04分]"
         },
         {
-          "title": "霍梅尼之孙：伊朗最高领袖对各项事务保持监督",
-          "url": "https://wallstreetcn.com/livenews/3101078",
-          "source": "华尔街见闻-快讯",
+          "title": "怕中俄再否决涉伊朗决议，美国删了",
+          "url": "https://news.ifeng.com/c/8szOjsLMPzh",
+          "source": "凤凰网",
           "ranks": [
-            1,
-            3
+            4
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[21时10分 ~ 22时48分]"
+          "time_info": "[23时48分 ~ 23时49分]"
+        },
+        {
+          "title": "伊朗官员否认“美国袭击伊朗民用船致多人失踪”消息",
+          "url": "https://wallstreetcn.com/livenews/3101051",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            19,
+            28,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时55分 ~ 23时49分]"
         },
         {
           "title": "伊朗战争丨特朗普称可能恢复“自由计划”",
@@ -357,20 +398,6 @@
           "time_info": "03时13分"
         },
         {
-          "title": "被AI造谣？比亚迪、特斯拉、蔚小理等辟谣“被约谈”：不实！",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33139979",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            15,
-            14,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时55分 ~ 22时48分]"
-        },
-        {
           "title": "伊朗：已做好全面准备回击任何侵略",
           "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%EF%BC%9A%E5%B7%B2%E5%81%9A%E5%A5%BD%E5%85%A8%E9%9D%A2%E5%87%86%E5%A4%87%E5%9B%9E%E5%87%BB%E4%BB%BB%E4%BD%95%E4%BE%B5%E7%95%A5",
           "source": "百度热搜",
@@ -391,6 +418,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时04分"
+        },
+        {
+          "title": "伊朗官员：全国油田生产持续 暂无哈尔克岛石油泄漏相关报告",
+          "url": "https://wallstreetcn.com/livenews/3101068",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时50分 ~ 23时49分]"
         },
         {
           "title": "据伊朗塔斯尼姆通讯社：一位军方消息人士透露，波斯湾地区的冲突目前虽已平息，但如果美国对伊朗船只制造麻烦，冲突仍有可能重燃。",
@@ -461,20 +501,6 @@
           "time_info": "03时13分"
         },
         {
-          "title": "伊朗官员否认“美国袭击伊朗民用船致多人失踪”消息",
-          "url": "https://wallstreetcn.com/livenews/3101051",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            19,
-            28,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时55分 ~ 22时48分]"
-        },
-        {
           "title": "GAI新歌星梦MV",
           "url": "https://search.bilibili.com/all?keyword=GAI%E6%96%B0%E6%AD%8C%E6%98%9F%E6%A2%A6MV",
           "source": "bilibili 热搜",
@@ -497,6 +523,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[17时16分 ~ 19时50分]"
+        },
+        {
+          "title": "停火期间遇袭，伊朗会强硬反击吗？伊朗大使回应凤凰",
+          "url": "https://news.ifeng.com/c/8szLTDMoDY1",
+          "source": "凤凰网",
+          "ranks": [
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[21时09分 ~ 23时49分]"
         },
         {
           "title": "美中央司令部：对伊朗军事设施实施定点打击",
@@ -571,19 +609,6 @@
           "time_info": "[06时00分 ~ 08时04分]"
         },
         {
-          "title": "伊朗官员：全国油田生产持续 暂无哈尔克岛石油泄漏相关报告",
-          "url": "https://wallstreetcn.com/livenews/3101068",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时50分 ~ 22时48分]"
-        },
-        {
           "title": "鲁比奥访意公开施压 质疑为何不支持对伊朗动武",
           "url": "https://wallstreetcn.com/livenews/3101019",
           "source": "华尔街见闻-快讯",
@@ -618,6 +643,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时17分 ~ 18时55分]"
+        },
+        {
+          "title": "德国AI动力无人机初创公司Helsing正计划以约180亿美元的估值筹集新一轮资金。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/3101062",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            17,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时50分 ~ 23时49分]"
         },
         {
           "title": "标普：（关于以色列）预计美国-伊朗和以色列-哈马斯停火协议将广泛生效。",
@@ -699,28 +737,50 @@
           "time_info": "[21时09分 ~ 22时48分]"
         },
         {
-          "title": "德国AI动力无人机初创公司Helsing正计划以约180亿美元的估值筹集新一轮资金。（英国金融时报）",
-          "url": "https://wallstreetcn.com/livenews/3101062",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            17,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时50分 ~ 22时48分]"
-        },
-        {
-          "title": "停火期间遇袭，伊朗会强硬反击吗？伊朗大使回应凤凰",
-          "url": "https://news.ifeng.com/c/8szLTDMoDY1",
-          "source": "凤凰网",
+          "title": "大空头：当前AI热潮酷似2000年互联网泡沫“破灭前几个月”",
+          "url": "https://wallstreetcn.com/articles/3771893",
+          "source": "华尔街见闻",
           "ranks": [
             10
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[21时09分 ~ 22时48分]"
+          "time_info": "[22时48分 ~ 23时49分]"
+        },
+        {
+          "title": "伊朗官员：全国油田生产持续 暂无哈尔克岛石油泄漏相关报告",
+          "url": "https://flash.jin10.com/detail/20260509193905160800",
+          "source": "金十数据",
+          "ranks": [
+            14,
+            22,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时10分 ~ 23时49分]"
+        },
+        {
+          "title": "35 岁主管被公司用 AI 替岗，月薪从 2.5 万降到 1.5 万，拒绝后被裁，面对技术替代，劳动者该怎么办？",
+          "url": "https://www.zhihu.com/question/2034624017219499142",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时48分 ~ 23时49分]"
+        },
+        {
+          "title": "为什么 ChatGPT 跟中文用户对话时，「我会稳稳地接住你」常会莫名其妙冒出来？你还发现 AI 的哪些怪癖？",
+          "url": "https://www.zhihu.com/question/2036152296388523178",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时48分 ~ 23时49分]"
         },
         {
           "title": "伊朗哈尔克岛附近疑似发生石油泄漏",
@@ -733,6 +793,40 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时57分 ~ 06时00分]"
+        },
+        {
+          "title": "伊朗战争丨伊朗驻华大使澄清中国油轮遇袭传言",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时48分 ~ 23时49分]"
+        },
+        {
+          "title": "SK 海力士利润率 72% 碾压英伟达，人均年终奖超 60 万元，带飞韩国楼市婚恋市场，这场 AI 造富能持续多久？",
+          "url": "https://www.zhihu.com/question/2036476955948799322",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时48分 ~ 23时49分]"
+        },
+        {
+          "title": "机构：伊朗战争正以前所未有的速度消耗全球石油缓冲库存",
+          "url": "https://flash.jin10.com/detail/20260509214114227800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时48分 ~ 23时49分]"
         },
         {
           "title": "伊朗官员否认“美国袭击伊朗民用船致多人失踪”消息",
@@ -757,6 +851,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时01分 ~ 08时04分]"
+        },
+        {
+          "title": "霍梅尼之孙：伊朗最高领袖对各项事务保持监督",
+          "url": "https://flash.jin10.com/detail/20260509211628079800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时48分 ~ 23时49分]"
         },
         {
           "title": "工信部启动人工智能科技伦理审查与服务先导计划，加快推动审查工作落地实施",
@@ -817,18 +923,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时18分 ~ 03时13分]"
-        },
-        {
-          "title": "伊朗官员：全国油田生产持续 暂无哈尔克岛石油泄漏相关报告",
-          "url": "https://flash.jin10.com/detail/20260509193905160800",
-          "source": "金十数据",
-          "ranks": [
-            14,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时10分 ~ 22时48分]"
         },
         {
           "title": "伊朗常驻联合国代表：美袭击伊朗油轮违反停火协议",
@@ -958,28 +1052,6 @@
           "time_info": "17时17分"
         },
         {
-          "title": "机构：伊朗战争正以前所未有的速度消耗全球石油缓冲库存",
-          "url": "https://flash.jin10.com/detail/20260509214114227800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时48分"
-        },
-        {
-          "title": "霍梅尼之孙：伊朗最高领袖对各项事务保持监督",
-          "url": "https://flash.jin10.com/detail/20260509211628079800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时48分"
-        },
-        {
           "title": "伊朗官员：最高领袖非常健康",
           "url": "https://flash.jin10.com/detail/20260509113830997800",
           "source": "金十数据",
@@ -1011,17 +1083,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时04分"
-        },
-        {
-          "title": "大空头：当前AI热潮酷似2000年互联网泡沫“破灭前几个月”",
-          "url": "https://wallstreetcn.com/articles/3771893",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时48分"
         },
         {
           "title": "Anthropic PBC与Akamai签署18亿美元计算协议。Akamai涨幅迅速扩大至28%。",
@@ -1145,17 +1206,6 @@
           "time_info": "03时13分"
         },
         {
-          "title": "35 岁主管被公司用 AI 替岗，月薪从 2.5 万降到 1.5 万，拒绝后被裁，面对技术替代，劳动者该怎么办？",
-          "url": "https://www.zhihu.com/question/2034624017219499142",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时48分"
-        },
-        {
           "title": "伊朗媒体：美伊波斯湾交火目前已停，地区类似冲突可能重燃",
           "url": "https://wallstreetcn.com/livenews/3100843",
           "source": "华尔街见闻-快讯",
@@ -1165,17 +1215,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时18分"
-        },
-        {
-          "title": "为什么 ChatGPT 跟中文用户对话时，「我会稳稳地接住你」常会莫名其妙冒出来？你还发现 AI 的哪些怪癖？",
-          "url": "https://www.zhihu.com/question/2036152296388523178",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时48分"
         },
         {
           "title": "黄仁勋称铜线已无法满足需求",
