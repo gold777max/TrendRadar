@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-11T10:48:24.281687+08:00",
-  "total_titles_processed": 784,
+  "generated_at": "2026-05-11T14:37:51.437831+08:00",
+  "total_titles_processed": 969,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai ai+ ai人工智能 人工智能 风险识别 商业风险识别 痛点 需求 商业风险 伊朗 rwa 趋势 热点 热门",
-      "match_count": 126,
+      "match_count": 141,
       "titles": [
         {
           "title": "放行卡塔尔商船，伊朗向海湾国家释放积极信号",
@@ -54,8 +54,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时51分 ~ 10时48分]"
+          "appearance_count": 13,
+          "time_info": "[00时51分 ~ 14时37分]"
         },
         {
           "title": "AI时代如何评价各专业",
@@ -125,8 +125,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时51分 ~ 10时48分]"
+          "appearance_count": 13,
+          "time_info": "[00时51分 ~ 14时37分]"
         },
         {
           "title": "南京大学校长谈AI教育悖论：把开放的课程装进了旧框架，形成“马车拉蒸汽机”",
@@ -211,6 +211,17 @@
           "time_info": "[00时52分 ~ 05时45分]"
         },
         {
+          "title": "伊朗知情人士：特朗普不满意反而更好",
+          "url": "https://news.ifeng.com/c/8t246befcan",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时48分 ~ 14时37分]"
+        },
+        {
           "title": "美元走高，特朗普声称“不喜欢伊朗”对和平方案的回复",
           "url": "https://wallstreetcn.com/livenews/3101174",
           "source": "华尔街见闻-快讯",
@@ -253,7 +264,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时48分"
         },
@@ -294,20 +305,32 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时48分"
         },
         {
-          "title": "伊朗知情人士：特朗普不满意反而更好",
-          "url": "https://news.ifeng.com/c/8t246befcan",
+          "title": "伊朗战争丨一艘超大型油轮通过霍尔木兹海",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
           "source": "凤凰网",
           "ranks": [
-            3
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时48分"
+          "time_info": "14时37分"
+        },
+        {
+          "title": "【早报】伊朗回应美国所提结束战争方案，美称“完全不可接受”；全球芯片LOF、中韩半导体ETF华泰柏瑞停牌1小时",
+          "url": "https://www.cls.cn/detail/2367370",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时49分 ~ 14时37分]"
         },
         {
           "title": "伊朗军方称将猛烈反击任何侵略",
@@ -316,9 +339,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时48分"
+        },
+        {
+          "title": "论文严查AI使用率是否合理",
+          "url": "https://search.bilibili.com/all?keyword=%E8%AE%BA%E6%96%87%E4%B8%A5%E6%9F%A5AI%E4%BD%BF%E7%94%A8%E7%8E%87%E6%98%AF%E5%90%A6%E5%90%88%E7%90%86",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时37分"
         },
         {
           "title": "特朗普拒绝伊朗和平方案：完全不可接受！",
@@ -439,18 +473,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[04时00分 ~ 07时49分]"
-        },
-        {
-          "title": "【早报】伊朗回应美国所提结束战争方案，美称“完全不可接受”；全球芯片LOF、中韩半导体ETF华泰柏瑞停牌1小时",
-          "url": "https://www.cls.cn/detail/2367370",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时49分 ~ 10时48分]"
         },
         {
           "title": "伊朗：摧毁一架入侵的敌方无人机",
@@ -876,6 +898,18 @@
           "time_info": "[07时49分 ~ 10时48分]"
         },
         {
+          "title": "美伊局势再度紧张，油价跳涨、黄金下跌，AI浪潮下韩股涨超4%，SK海力士涨10%、三星再创新高",
+          "url": "https://wallstreetcn.com/articles/3771942",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时48分 ~ 14时37分]"
+        },
+        {
           "title": "美国能源部长对美国全国广播公司（NBC）表示，下一阶段我们对伊朗不排除任何选项，包括军事手段。",
           "url": "https://flash.jin10.com/detail/20260511002527478800",
           "source": "金十数据",
@@ -910,6 +944,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时45分 ~ 06时43分]"
+        },
+        {
+          "title": "伊朗回应“提议30天内撤销石油制裁”，特朗普称“完全不可接受”，内塔尼亚胡“美以对伊朗的军事行动尚未结束”",
+          "url": "https://wallstreetcn.com/articles/3771940",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时48分 ~ 14时37分]"
+        },
+        {
+          "title": "伊朗最高领袖会见武装部队司令并下达新指令",
+          "url": "https://www.cls.cn/detail/2367274",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时48分 ~ 14时37分]"
         },
         {
           "title": "美国能源部长：与伊朗达成的分阶段协议可能无法解决与核计划相关的所有担忧。",
@@ -1268,37 +1326,37 @@
           "time_info": "07时49分"
         },
         {
-          "title": "伊朗回应“提议30天内撤销石油制裁”，特朗普称“完全不可接受”，内塔尼亚胡“美以对伊朗的军事行动尚未结束”",
-          "url": "https://wallstreetcn.com/articles/3771940",
-          "source": "华尔街见闻",
+          "title": "杰富瑞：美伊维持不战不和，但伊朗占据时间优势",
+          "url": "https://flash.jin10.com/detail/20260511142844967800",
+          "source": "金十数据",
           "ranks": [
-            9
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时48分"
+          "time_info": "14时37分"
         },
         {
-          "title": "美伊局势再度紧张，油价跳涨、黄金下跌，AI浪潮下韩股涨超4%，SK海力士涨10%、三星再创新高",
-          "url": "https://wallstreetcn.com/articles/3771942",
+          "title": "今年的AI+能化，相当于2023~2024年的AI+红利，2025年的AI+资源",
+          "url": "https://wallstreetcn.com/articles/3771929",
           "source": "华尔街见闻",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时48分"
+          "time_info": "14时37分"
         },
         {
-          "title": "伊朗最高领袖会见武装部队司令并下达新指令",
-          "url": "https://www.cls.cn/detail/2367274",
-          "source": "财联社热门",
+          "title": "花生AI是什么",
+          "url": "https://search.bilibili.com/all?keyword=%E8%8A%B1%E7%94%9FAI%E6%98%AF%E4%BB%80%E4%B9%88",
+          "source": "bilibili 热搜",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时48分"
+          "time_info": "14时37分"
         },
         {
           "title": "给淘宝AI试穿评个夯",
@@ -1307,9 +1365,31 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时48分"
+        },
+        {
+          "title": "韩国央行：自从伊朗战争爆发以来，讨论降息事宜已变得极为困难。 韩元的价值被严重低估了。 芯片行业预计在未来一到两年内将保持强劲态势。",
+          "url": "https://wallstreetcn.com/livenews/3101394",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时37分"
+        },
+        {
+          "title": "CPU、存储、光通信……华尔街解读AI股史诗级狂热：市场热衷追逐“瓶颈”！",
+          "url": "https://www.cls.cn/detail/2367427",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时37分"
         },
         {
           "title": "伊朗官媒：伊朗已拒绝美国方案",
@@ -1329,9 +1409,31 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时48分"
+        },
+        {
+          "title": "阿里或将整合千问与淘宝，打造 AI 对话式购物，你会把购物交给 AI 吗？",
+          "url": "https://www.zhihu.com/question/2037110129963661155",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时37分"
+        },
+        {
+          "title": "高盛认为AI推动韩国呈现K型化 利率面临压力",
+          "url": "https://wallstreetcn.com/livenews/3101384",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时37分"
         },
         {
           "title": "伊媒：伊朗不会为取悦美方而制定计划",
@@ -1356,15 +1458,37 @@
           "time_info": "07时49分"
         },
         {
+          "title": "一艘油轮在伊朗协调下通过霍尔木兹海峡",
+          "url": "https://wallstreetcn.com/livenews/3101379",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时37分"
+        },
+        {
           "title": "伊朗已回应美国提出的结束战争方案",
           "url": "https://m.thepaper.cn/newsDetail_forward_33152346",
           "source": "澎湃新闻",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时48分"
+        },
+        {
+          "title": "伊朗最高领袖下达最新指令",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E4%B8%8B%E8%BE%BE%E6%9C%80%E6%96%B0%E6%8C%87%E4%BB%A4%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时37分"
         },
         {
           "title": "美国能源部长：目标不是移除伊朗的浓缩铀，而是结束伊朗的核计划。",
@@ -1439,7 +1563,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时48分"
         },
@@ -1461,9 +1585,20 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时48分"
+        },
+        {
+          "title": "AI原创短片国产爱死机",
+          "url": "https://search.bilibili.com/all?keyword=AI%E5%8E%9F%E5%88%9B%E7%9F%AD%E7%89%87%E5%9B%BD%E4%BA%A7%E7%88%B1%E6%AD%BB%E6%9C%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时37分"
         },
         {
           "title": "以色列总理内塔尼亚胡：我不会讨论军事手段，但获取伊朗高浓缩铀是可行的。",
@@ -1475,6 +1610,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时52分"
+        },
+        {
+          "title": "欧洲央行管委Kocher：如果伊朗战争持续较长时间且能源价格保持高位，二次效应的风险将会增加。 欧洲央行将保持警惕，并在必要时及时、果断地采取行动。 中长期通胀预期对利率决策更为重要。 虽然目前这些预期没有出现重大变化，但已经有初步迹象。 除非局势显著改善，否则近期内加息将不可避免。 欧洲央行的目标很明确：在中期内将通胀保持在2%。 管委会将采取一切必要措施实现这一目标。",
+          "url": "https://wallstreetcn.com/livenews/3101366",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时37分"
+        },
+        {
+          "title": "AI 掠夺水资源",
+          "url": "https://s.weibo.com/weibo?q=AI%20%E6%8E%A0%E5%A4%BA%E6%B0%B4%E8%B5%84%E6%BA%90&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时37分"
         },
         {
           "title": "以色列总理内塔尼亚胡：我不会给出获取伊朗浓缩铀的具体时间表，但我要说的是，这是一项至关重要的任务。",
@@ -1516,9 +1673,20 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时48分"
+        },
+        {
+          "title": "欧洲央行管委Kocher：经济复苏目前正面临风险，由于中东冲突，通胀风险有所上升。 尽管经济和劳动力市场依然具有韧性，但不能排除出现滞胀趋势的风险。 冲突持续的时间将是决定性因素。 在4月推迟加息的决定是合理的。",
+          "url": "https://wallstreetcn.com/livenews/3101364",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时37分"
         },
         {
           "title": "以色列总理内塔尼亚胡：与伊朗的战争尚未结束。",
@@ -1549,7 +1717,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时48分"
         }
