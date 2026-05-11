@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-11T18:36:49.053316+08:00",
-  "total_titles_processed": 1184,
+  "generated_at": "2026-05-11T21:46:39.611460+08:00",
+  "total_titles_processed": 1353,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai ai+ ai人工智能 人工智能 风险识别 商业风险识别 痛点 需求 商业风险 伊朗 rwa 趋势 热点 热门",
-      "match_count": 153,
+      "match_count": 165,
       "titles": [
         {
           "title": "放行卡塔尔商船，伊朗向海湾国家释放积极信号",
@@ -67,11 +67,12 @@
             10,
             8,
             5,
-            21
+            21,
+            16
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时51分 ~ 10时48分]"
+          "appearance_count": 13,
+          "time_info": "[00时51分 ~ 21时46分]"
         },
         {
           "title": "字节再加码！全球AI资本开支持续上修 算力步入全链通胀",
@@ -123,11 +124,12 @@
             18,
             19,
             15,
-            28
+            28,
+            26
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时51分 ~ 18时36分]"
+          "appearance_count": 15,
+          "time_info": "[00时51分 ~ 21时46分]"
         },
         {
           "title": "南京大学校长谈AI教育悖论：把开放的课程装进了旧框架，形成“马车拉蒸汽机”",
@@ -212,6 +214,17 @@
           "time_info": "[00时52分 ~ 05时45分]"
         },
         {
+          "title": "美国以协助伊朗为由制裁3家中国公司，外交部回应",
+          "url": "https://news.ifeng.com/c/8t2b0FtT2VP",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时36分 ~ 21时46分]"
+        },
+        {
           "title": "伊朗知情人士：特朗普不满意反而更好",
           "url": "https://news.ifeng.com/c/8t246befcan",
           "source": "凤凰网",
@@ -221,6 +234,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时48分 ~ 14时37分]"
+        },
+        {
+          "title": "美方称“完全不可接受”，伊朗提了哪些要求？",
+          "url": "https://news.ifeng.com/c/8t2gHVbjqdI",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时36分 ~ 21时46分]"
         },
         {
           "title": "美元走高，特朗普声称“不喜欢伊朗”对和平方案的回复",
@@ -257,17 +281,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时49分"
-        },
-        {
-          "title": "美国以协助伊朗为由制裁3家中国公司，外交部回应",
-          "url": "https://news.ifeng.com/c/8t2b0FtT2VP",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时36分"
         },
         {
           "title": "“大空头”伯里与传奇大佬琼斯齐声警告：AI狂热像极了2000年崩盘前夜",
@@ -345,6 +358,19 @@
           "time_info": "[07时49分 ~ 14时37分]"
         },
         {
+          "title": "伊朗回应“提议30天内撤销石油制裁”，特朗普称“完全不可接受”，内塔尼亚胡“美以对伊朗的军事行动尚未结束”",
+          "url": "https://wallstreetcn.com/articles/3771940",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时48分 ~ 21时46分]"
+        },
+        {
           "title": "伊朗军方称将猛烈反击任何侵略",
           "url": "https://flash.jin10.com/detail/20260511104335706800",
           "source": "金十数据",
@@ -356,15 +382,26 @@
           "time_info": "10时48分"
         },
         {
-          "title": "美方称“完全不可接受”，伊朗提了哪些要求？",
-          "url": "https://news.ifeng.com/c/8t2gHVbjqdI",
-          "source": "凤凰网",
+          "title": "以色列总理内塔尼亚胡：我认为（在中东问题上）取得了很大成就，但还没有结束，因为伊朗还有核材料、浓缩铀需要被移除。",
+          "url": "https://flash.jin10.com/detail/20260511214111166800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时46分"
+        },
+        {
+          "title": "特朗普拒绝伊朗和平提案 美股期指集体走低 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2368275",
+          "source": "财联社热门",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时36分"
+          "time_info": "21时46分"
         },
         {
           "title": "特朗普拒绝伊朗和平方案：完全不可接受！",
@@ -437,7 +474,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时36分"
         },
@@ -496,19 +533,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[04时00分 ~ 07时49分]"
-        },
-        {
-          "title": "伊朗回应“提议30天内撤销石油制裁”，特朗普称“完全不可接受”，内塔尼亚胡“美以对伊朗的军事行动尚未结束”",
-          "url": "https://wallstreetcn.com/articles/3771940",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时48分 ~ 18时36分]"
         },
         {
           "title": "伊朗：摧毁一架入侵的敌方无人机",
@@ -611,6 +635,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时01分 ~ 05时45分]"
+        },
+        {
+          "title": "【每日收评】沪指涨超1%站上4200点，两市成交额突破3.5万亿，半导体、AI硬件持续爆发",
+          "url": "https://www.cls.cn/detail/2367918",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时36分 ~ 21时46分]"
         },
         {
           "title": "伊朗外交部：伊朗新任驻越南大使与越南外长会面。",
@@ -1149,6 +1185,18 @@
           "time_info": "[00时51分 ~ 00时52分]"
         },
         {
+          "title": "十大券商看后市｜A股向上趋势不改，以波段思维应对事件窗口",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33153911",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时36分 ~ 21时46分]"
+        },
+        {
           "title": "法拉第未来正式任命贾跃亭为全球唯一首席执行官，同时任命王佳伟为全球执行董事长；公司将于下周公布升级版转型计划，开启作为物理人工智能公司的新增长篇章。",
           "url": "https://flash.jin10.com/detail/20260511030929783800",
           "source": "金十数据",
@@ -1219,6 +1267,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时57分 ~ 05时45分]"
+        },
+        {
+          "title": "外交部回应伊朗局势",
+          "url": "https://www.toutiao.com/trending/7638457937534451721/",
+          "source": "今日头条",
+          "ranks": [
+            12,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时36分 ~ 21时46分]"
         },
         {
           "title": "据华尔街日报：伊朗对美国的回应中提出稀释浓缩铀并将其部分转移至第三国的建议。",
@@ -1328,6 +1388,18 @@
           "time_info": "[00时52分 ~ 01时49分]"
         },
         {
+          "title": "AI原创短片国产爱死机",
+          "url": "https://search.bilibili.com/all?keyword=AI%E5%8E%9F%E5%88%9B%E7%9F%AD%E7%89%87%E5%9B%BD%E4%BA%A7%E7%88%B1%E6%AD%BB%E6%9C%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            27,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时37分 ~ 21时46分]"
+        },
+        {
           "title": "伊朗军方：对伊制裁国家“在通过霍尔木兹海峡时将面临困难”",
           "url": "https://wallstreetcn.com/livenews/3101109",
           "source": "华尔街见闻-快讯",
@@ -1357,18 +1429,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时36分"
-        },
-        {
-          "title": "【每日收评】沪指涨超1%站上4200点，两市成交额突破3.5万亿，半导体、AI硬件持续爆发",
-          "url": "https://www.cls.cn/detail/2367918",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时36分"
         },
@@ -1401,7 +1462,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时36分"
         },
@@ -1415,6 +1476,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时37分"
+        },
+        {
+          "title": "伊朗：谈判优先事项是结束战争，浓缩铀问题适时作出决定",
+          "url": "https://wallstreetcn.com/articles/3771985",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时46分"
         },
         {
           "title": "花生AI是什么",
@@ -1461,6 +1533,17 @@
           "time_info": "14时37分"
         },
         {
+          "title": "市场消息：英国在对伊朗制裁名单下新增12个指定制裁对象。",
+          "url": "https://flash.jin10.com/detail/20260511213443168800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时46分"
+        },
+        {
           "title": "伊朗官媒：伊朗已拒绝美国方案",
           "url": "https://wallstreetcn.com/livenews/3101180",
           "source": "华尔街见闻-快讯",
@@ -1472,15 +1555,15 @@
           "time_info": "06时43分"
         },
         {
-          "title": "外交部回应伊朗局势",
-          "url": "https://www.toutiao.com/trending/7638457937534451721/",
-          "source": "今日头条",
+          "title": "Wedbush分析师怼上“大空头”：“唱衰者自会唱衰”，我预计AI热潮将推动纳指一年内达到万点",
+          "url": "https://wallstreetcn.com/livenews/3101693",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时36分"
+          "time_info": "21时46分"
         },
         {
           "title": "新兴市场在伊朗战争期间表现良好 贝莱德等机构称传统投资策略已过时",
@@ -1500,18 +1583,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时36分"
-        },
-        {
-          "title": "十大券商看后市｜A股向上趋势不改，以波段思维应对事件窗口",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33153911",
-          "source": "澎湃新闻",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时36分"
         },
@@ -1525,6 +1597,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时37分"
+        },
+        {
+          "title": "AI会取代哪些职业？多个AI意见不统一",
+          "url": "https://www.baidu.com/s?wd=AI%E4%BC%9A%E5%8F%96%E4%BB%A3%E5%93%AA%E4%BA%9B%E8%81%8C%E4%B8%9A%EF%BC%9F%E5%A4%9A%E4%B8%AAAI%E6%84%8F%E8%A7%81%E4%B8%8D%E7%BB%9F%E4%B8%80",
+          "source": "百度热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时46分"
         },
         {
           "title": "高盛认为AI推动韩国呈现K型化 利率面临压力",
@@ -1544,9 +1627,31 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时36分"
+        },
+        {
+          "title": "布鲁克菲尔德将投资5亿美元，与OpenAI建立战略合作伙伴关系。",
+          "url": "https://wallstreetcn.com/livenews/3101686",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时46分"
+        },
+        {
+          "title": "OpenAI将收购咨询公司以组建私募股权合资企业",
+          "url": "https://wallstreetcn.com/livenews/3101685",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时46分"
         },
         {
           "title": "伊媒：伊朗不会为取悦美方而制定计划",
@@ -1569,6 +1674,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时49分"
+        },
+        {
+          "title": "OpenAI将收购咨询公司Tomoro并成立AI部署团队",
+          "url": "https://flash.jin10.com/detail/20260511213100424800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时46分"
         },
         {
           "title": "一艘油轮在伊朗协调下通过霍尔木兹海峡",
@@ -1621,9 +1737,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时36分"
+        },
+        {
+          "title": "美股开盘，道指跌0.12%、标普500指数跌0.16%、纳指跌0.44%。AI芯片股走势分化，高通(QCOM.O)涨近超6%，英特尔(INTC.O)涨近5%，英伟达(NVDA.O)跌0.3%。",
+          "url": "https://flash.jin10.com/detail/20260511213029030800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时46分"
         },
         {
           "title": "PIMCO：伊朗战争可能导致美联储加息",
@@ -1646,6 +1773,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时43分"
+        },
+        {
+          "title": "AI正把韩国推成全球最疯狂牛市",
+          "url": "https://www.toutiao.com/trending/7638535831472311827/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时46分"
         },
         {
           "title": "伊朗方面敦促国际原子能机构放弃“政治信息传递”，专注于其职责。",
@@ -1720,20 +1858,9 @@
           "ranks": [
             26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时36分"
-        },
-        {
-          "title": "AI原创短片国产爱死机",
-          "url": "https://search.bilibili.com/all?keyword=AI%E5%8E%9F%E5%88%9B%E7%9F%AD%E7%89%87%E5%9B%BD%E4%BA%A7%E7%88%B1%E6%AD%BB%E6%9C%BA",
-          "source": "bilibili 热搜",
-          "ranks": [
-            27
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时37分"
+          "time_info": "18时36分"
         },
         {
           "title": "以色列总理内塔尼亚胡：我不会讨论军事手段，但获取伊朗高浓缩铀是可行的。",
@@ -1855,6 +1982,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时48分"
+        },
+        {
+          "title": "工信部：把握人工智能发展重大机遇，带领企业向智能化、绿色化、融合化升级跃迁",
+          "url": "https://wallstreetcn.com/livenews/3101668",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时46分"
         }
       ]
     }
