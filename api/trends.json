@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-12T19:52:44.643656+08:00",
-  "total_titles_processed": 1301,
+  "generated_at": "2026-05-12T22:16:57.763779+08:00",
+  "total_titles_processed": 1453,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai ai+ ai人工智能 人工智能 风险识别 商业风险识别 痛点 需求 商业风险 伊朗 rwa 趋势 热点 热门",
-      "match_count": 104,
+      "match_count": 117,
       "titles": [
         {
           "title": "美国以协助伊朗为由制裁3家中国公司，外交部回应",
@@ -17,6 +17,19 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时31分 ~ 10时40分]"
+        },
+        {
+          "title": "韩国政策高层：AI产业的超额利润应返还全民，提议设立“公民红利”",
+          "url": "https://wallstreetcn.com/articles/3772036",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时40分 ~ 22时16分]"
         },
         {
           "title": "伊朗回应“提议30天内撤销石油制裁”，特朗普称“完全不可接受”，内塔尼亚胡“美以对伊朗的军事行动尚未结束”",
@@ -72,19 +85,6 @@
           "time_info": "[00时31分 ~ 10时40分]"
         },
         {
-          "title": "韩国政策高层：AI产业的超额利润应返还全民，提议设立“公民红利”",
-          "url": "https://wallstreetcn.com/articles/3772036",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时40分 ~ 19时52分]"
-        },
-        {
           "title": "论文严查AI使用率是否合理",
           "url": "https://search.bilibili.com/all?keyword=%E8%AE%BA%E6%96%87%E4%B8%A5%E6%9F%A5AI%E4%BD%BF%E7%94%A8%E7%8E%87%E6%98%AF%E5%90%A6%E5%90%88%E7%90%86",
           "source": "bilibili 热搜",
@@ -94,11 +94,12 @@
             24,
             23,
             21,
-            13
+            13,
+            16
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时31分 ~ 19时52分]"
+          "appearance_count": 11,
+          "time_info": "[00时31分 ~ 22时16分]"
         },
         {
           "title": "AI原创短片国产爱死机",
@@ -113,8 +114,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时31分 ~ 17时35分]"
+          "appearance_count": 13,
+          "time_info": "[00时31分 ~ 22时16分]"
         },
         {
           "title": "AI时代如何评价各专业",
@@ -147,6 +148,44 @@
           "time_info": "[14时12分 ~ 19时52分]"
         },
         {
+          "title": "知情人士披露：美国或考虑恢复对伊朗军事行动",
+          "url": "https://www.cls.cn/detail/2368816",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时34分 ~ 22时16分]"
+        },
+        {
+          "title": "伊朗官员：若再次遭袭，伊方或选择将浓缩铀丰度提升至90%",
+          "url": "https://news.ifeng.com/c/8t4DYs3Ow88",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时34分 ~ 22时16分]"
+        },
+        {
+          "title": "僵局难解：伊朗称美坚持“不合理要求”，特朗普称伊方回应愚蠢、停火协议“岌岌可危”",
+          "url": "https://wallstreetcn.com/articles/3772005",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[07时56分 ~ 22时16分]"
+        },
+        {
           "title": "伊朗：谈判优先事项是结束战争，浓缩铀问题适时作出决定",
           "url": "https://wallstreetcn.com/articles/3771985",
           "source": "华尔街见闻",
@@ -172,18 +211,6 @@
           "time_info": "[14时12分 ~ 19时52分]"
         },
         {
-          "title": "知情人士披露：美国或考虑恢复对伊朗军事行动",
-          "url": "https://www.cls.cn/detail/2368816",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时34分 ~ 19时52分]"
-        },
-        {
           "title": "十大券商看后市｜A股向上趋势不改，以波段思维应对事件窗口",
           "url": "https://m.thepaper.cn/newsDetail_forward_33153911",
           "source": "澎湃新闻",
@@ -193,30 +220,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时31分 ~ 07时56分]"
-        },
-        {
-          "title": "伊朗官员：若再次遭袭，伊方或选择将浓缩铀丰度提升至90%",
-          "url": "https://news.ifeng.com/c/8t4DYs3Ow88",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时34分 ~ 19时52分]"
-        },
-        {
-          "title": "僵局难解：伊朗称美坚持“不合理要求”，特朗普称伊方回应愚蠢、停火协议“岌岌可危”",
-          "url": "https://wallstreetcn.com/articles/3772005",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            6,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时56分 ~ 19时52分]"
         },
         {
           "title": "“全民分红”来临？韩国政策高层提议将AI超额利润回馈给全体公民",
@@ -251,6 +254,20 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时31分 ~ 00时32分]"
+        },
+        {
+          "title": "从加法到减法：人工智能时代最难的，不是创新，而是割舍",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33149674",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            11,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时12分 ~ 22时16分]"
         },
         {
           "title": "据华尔街日报：消息人士称，美国总统特朗普上个月在伊朗战争相关事件后，曾私下向代理司法部长抱怨媒体泄密问题。代理司法部长承诺将申请传票，目标涉及报道国家安全新闻的记者相关记录。",
@@ -319,6 +336,28 @@
           "time_info": "10时40分"
         },
         {
+          "title": "特朗普称封锁致伊朗经济崩溃，断言伊朗“100%”会放弃核武器",
+          "url": "https://flash.jin10.com/detail/20260512214840065800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时16分"
+        },
+        {
+          "title": "伊朗就美在“12日战争”中行为向国际仲裁机构提起诉讼",
+          "url": "https://wallstreetcn.com/livenews/3102361",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时16分"
+        },
+        {
           "title": "伊朗官员：伊美就浓缩铀处置方式存在严重分歧",
           "url": "https://news.ifeng.com/c/8t3NrhrUsGT",
           "source": "凤凰网",
@@ -385,19 +424,6 @@
           "time_info": "00时32分"
         },
         {
-          "title": "从加法到减法：人工智能时代最难的，不是创新，而是割舍",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33149674",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时12分 ~ 19时52分]"
-        },
-        {
           "title": "伊朗议长：除了接受伊朗14点提案外别无他法",
           "url": "https://flash.jin10.com/detail/20260512043724901800",
           "source": "金十数据",
@@ -422,6 +448,18 @@
           "time_info": "[04时46分 ~ 06时05分]"
         },
         {
+          "title": "世界杯将至，伊朗队仍在等待入境美国",
+          "url": "https://news.ifeng.com/c/8t4Ge0tB5EZ",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时34分 ~ 22时16分]"
+        },
+        {
           "title": "一季度投资需求大增近50%！全民囤金热潮遭遇供给收缩，业内：或催生更多高端投资产品",
           "url": "https://www.cls.cn/detail/2368262",
           "source": "财联社热门",
@@ -431,17 +469,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时56分 ~ 06时05分]"
-        },
-        {
-          "title": "世界杯将至，伊朗队仍在等待入境美国",
-          "url": "https://news.ifeng.com/c/8t4Ge0tB5EZ",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时34分 ~ 19时52分]"
         },
         {
           "title": "美媒曝阿联酋四月初曾空袭伊朗炼油厂",
@@ -454,6 +481,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时46分 ~ 06时05分]"
+        },
+        {
+          "title": "伊朗官员：若再次遭袭 伊方或选择将浓缩铀丰度提升至90%",
+          "url": "https://www.cls.cn/detail/2368941",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时52分 ~ 22时16分]"
         },
         {
           "title": "期货热点追踪",
@@ -575,7 +614,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时52分"
         },
@@ -602,6 +641,17 @@
           "time_info": "02时56分"
         },
         {
+          "title": "金十图示：2026年05月12日（周二）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20260512214618436800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时16分"
+        },
+        {
           "title": "白宫新闻副秘书Kelly：美国总统特朗普对伊朗局势拥有各种选项。",
           "url": "https://wallstreetcn.com/livenews/3101813",
           "source": "华尔街见闻-快讯",
@@ -611,6 +661,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时56分"
+        },
+        {
+          "title": "巴基斯坦否认在巴伊朗飞机涉军事用途",
+          "url": "https://www.toutiao.com/trending/7638987373572984347/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时16分"
         },
         {
           "title": "美国总统特朗普：与伊朗达成外交解决方案的可能性仍然存在。",
@@ -701,17 +762,6 @@
           "time_info": "07时56分"
         },
         {
-          "title": "伊朗官员：若再次遭袭 伊方或选择将浓缩铀丰度提升至90%",
-          "url": "https://www.cls.cn/detail/2368941",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时52分"
-        },
-        {
           "title": "美国总统特朗普：我们等了伊朗四天，而他们的那份文件准备起来其实十分钟都用不了。",
           "url": "https://flash.jin10.com/detail/20260512000657529800",
           "source": "金十数据",
@@ -734,6 +784,17 @@
           "time_info": "02时56分"
         },
         {
+          "title": "金十图示：2026年05月12日（周二）热门中概股行情一览",
+          "url": "https://flash.jin10.com/detail/20260512214454951800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时16分"
+        },
+        {
           "title": "纳斯达克金龙中国指数初步收涨1%。 热门中概股里，再鼎医药初步收涨5.1%，晶科能源、理想至少涨4.6%，大全新能源、小鹏、百度、蔚来至多涨3.8%，阿里跌2.2%，新东方跌2.7%。",
           "url": "https://wallstreetcn.com/livenews/3101842",
           "source": "华尔街见闻-快讯",
@@ -743,6 +804,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时46分"
+        },
+        {
+          "title": "特朗普：我们百分之百会拿到伊朗的核材料。 伊朗问题只是时间问题。 我们不必操之过急。 伊朗不能拥有核武器。",
+          "url": "https://wallstreetcn.com/livenews/3102353",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时16分"
         },
         {
           "title": "美国总统特朗普：现在没人想当伊朗总统。",
@@ -855,6 +927,17 @@
           "time_info": "14时13分"
         },
         {
+          "title": "周大生：公司董事管佩伟、陈寿平、职工代表董事夏洪川及高级管理人员许金卓，因个人资金使用需求，计划于今年6月至9月通过集中竞价方式减持公司股份，合计减持数量不超过32.37万股，占公司总股本比例0.0298%。",
+          "url": "https://wallstreetcn.com/livenews/3102345",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时16分"
+        },
+        {
           "title": "伊朗议会议长卡利巴夫：我们的武装部队已准备好对任何侵略行为，并作出具有教训意义的回应。",
           "url": "https://flash.jin10.com/detail/20260512022115208800",
           "source": "金十数据",
@@ -943,6 +1026,17 @@
           "time_info": "06时05分"
         },
         {
+          "title": "团队成员对涨薪升职毫无需求，如何调动积极性？",
+          "url": "https://www.zhihu.com/question/2009900844053701299",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时16分"
+        },
+        {
           "title": "据路透社/益普索调查：66%的美国人表示特朗普没有清楚解释美国在伊朗战争中的目标。",
           "url": "https://flash.jin10.com/detail/20260512021907048800",
           "source": "金十数据",
@@ -987,6 +1081,17 @@
           "time_info": "04时46分"
         },
         {
+          "title": "五角大楼主计长：伊朗战争成本目前约为290亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3102342",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时16分"
+        },
+        {
           "title": "特朗普称伊朗对美方案的回应愚蠢",
           "url": "https://flash.jin10.com/detail/20260512000040779800",
           "source": "金十数据",
@@ -1007,6 +1112,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时56分"
+        },
+        {
+          "title": "美国总统特朗普：（关于伊朗）我们不必急于做任何事情。",
+          "url": "https://flash.jin10.com/detail/20260512213621074800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时16分"
         },
         {
           "title": "美国总统特朗普抱怨称，伊朗与美方达成共识，后来又反悔了。",
@@ -1042,6 +1158,17 @@
           "time_info": "07时56分"
         },
         {
+          "title": "美国总统特朗普重申伊朗不能拥有核武器。",
+          "url": "https://flash.jin10.com/detail/20260512213608268800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时16分"
+        },
+        {
           "title": "伊朗议长：伊武装部队已做好准备应对任何侵略行为",
           "url": "https://wallstreetcn.com/livenews/3101828",
           "source": "华尔街见闻-快讯",
@@ -1064,6 +1191,17 @@
           "time_info": "14时13分"
         },
         {
+          "title": "美国总统特朗普：伊朗问题只是时间问题。",
+          "url": "https://flash.jin10.com/detail/20260512213559184800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时16分"
+        },
+        {
           "title": "伊朗官员：伊美就浓缩铀处置方式存在严重分歧",
           "url": "https://wallstreetcn.com/livenews/3101827",
           "source": "华尔街见闻-快讯",
@@ -1073,6 +1211,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时46分"
+        },
+        {
+          "title": "芝商所将创建用于支持人工智能的算力期货市场",
+          "url": "https://wallstreetcn.com/livenews/3102339",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时16分"
         },
         {
           "title": "白宫副新闻秘书凯利：特朗普对伊朗问题并不着急，所有选项都在考虑之中。",
