@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-14T10:48:23.050568+08:00",
-  "total_titles_processed": 798,
+  "generated_at": "2026-05-14T14:35:28.260687+08:00",
+  "total_titles_processed": 987,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai ai+ ai人工智能 人工智能 风险识别 商业风险识别 痛点 需求 商业风险 伊朗 rwa 趋势 热点 热门",
-      "match_count": 64,
+      "match_count": 76,
       "titles": [
         {
           "title": "阿里电话会：AI ARR年底超过300亿元，服务器“没有一张卡是闲置的” ，资本支出将超过3800亿元",
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时20分 ~ 10时48分]"
+          "appearance_count": 8,
+          "time_info": "[00时20分 ~ 14时35分]"
         },
         {
           "title": "马化腾回应AI掉队",
@@ -45,8 +45,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时20分 ~ 10时48分]"
+          "appearance_count": 8,
+          "time_info": "[00时20分 ~ 14时35分]"
         },
         {
           "title": "马化腾：一年前以为上了AI的船结果发现漏水了，现在站上去但还坐不下去",
@@ -60,8 +60,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时20分 ~ 10时48分]"
+          "appearance_count": 8,
+          "time_info": "[00时20分 ~ 14时35分]"
         },
         {
           "title": "高校硬查AI率,复旦教授怒了",
@@ -69,11 +69,24 @@
           "source": "贴吧",
           "ranks": [
             9,
-            10
+            10,
+            17
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时20分 ~ 10时48分]"
+          "appearance_count": 8,
+          "time_info": "[00时20分 ~ 14时35分]"
+        },
+        {
+          "title": "JUMP总编怒喷热门漫画拉垮",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354230&amp;topic_name=JUMP%E6%80%BB%E7%BC%96%E6%80%92%E5%96%B7%E7%83%AD%E9%97%A8%E6%BC%AB%E7%94%BB%E6%8B%89%E5%9E%AE",
+          "source": "贴吧",
+          "ranks": [
+            15,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时20分 ~ 14时35分]"
         },
         {
           "title": "AI续写轻音少女第三季",
@@ -85,17 +98,6 @@
             21,
             18,
             13
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时20分 ~ 10时48分]"
-        },
-        {
-          "title": "JUMP总编怒喷热门漫画拉垮",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354230&amp;topic_name=JUMP%E6%80%BB%E7%BC%96%E6%80%92%E5%96%B7%E7%83%AD%E9%97%A8%E6%BC%AB%E7%94%BB%E6%8B%89%E5%9E%AE",
-          "source": "贴吧",
-          "ranks": [
-            15
           ],
           "is_new": false,
           "appearance_count": 7,
@@ -153,15 +155,26 @@
           "time_info": "02时55分"
         },
         {
-          "title": "AI订单大爆发 思科全年业绩指引超预期 股价盘后暴涨17%",
-          "url": "https://www.cls.cn/detail/2370695",
-          "source": "财联社热门",
+          "title": "特朗普访华，伊朗民众：期待中国调停美伊冲突",
+          "url": "https://news.ifeng.com/c/8t6SA2yPI37",
+          "source": "凤凰网",
           "ranks": [
-            5
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时48分"
+          "time_info": "14时35分"
+        },
+        {
+          "title": "鸿海：AI服务器需求强劲。",
+          "url": "https://wallstreetcn.com/livenews/3103497",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时35分"
         },
         {
           "title": "美国副总统万斯：特朗普总统的核心目标是让世界和美国人民免受伊朗拥有核武器的威胁。",
@@ -219,6 +232,18 @@
           "time_info": "[00时20分 ~ 06时12分]"
         },
         {
+          "title": "马化腾回应腾讯 AI 是否落后，「AI 的船现在站上去但还坐不下去」，怎样看待这一言论？",
+          "url": "https://www.zhihu.com/question/2037950969506428373",
+          "source": "知乎",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时48分 ~ 14时35分]"
+        },
+        {
           "title": "伊朗外长阿拉格齐：任何与以色列勾连、试图制造分裂的人，都将被追究责任。",
           "url": "https://flash.jin10.com/detail/20260514042124677800",
           "source": "金十数据",
@@ -255,6 +280,18 @@
           "time_info": "[06时12分 ~ 07时54分]"
         },
         {
+          "title": "AI订单大爆发 思科全年业绩指引超预期 股价盘后暴涨17%",
+          "url": "https://www.cls.cn/detail/2370695",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时48分 ~ 14时35分]"
+        },
+        {
           "title": "据知情人士透露，人工智能芯片制造商Cerebras Systems预计将把其美国IPO定价定为每股185美元。",
           "url": "https://flash.jin10.com/detail/20260514041527500800",
           "source": "金十数据",
@@ -274,8 +311,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时12分 ~ 10时48分]"
+          "appearance_count": 4,
+          "time_info": "[06时12分 ~ 14时35分]"
         },
         {
           "title": "消息人士：微软正探索与人工智能初创公司达成交易，以为“后OpenAI时代”做准备。微软曾考虑收购Cursor，但因反垄断担忧而放弃。微软已与人工智能初创公司Inception讨论交易事宜。Inception已聘请一家银行，就至少10亿美元的交易进行谈判。",
@@ -290,6 +327,18 @@
           "time_info": "[04时31分 ~ 06时12分]"
         },
         {
+          "title": "“没有一张卡是空的”！大厂AI资本开支再提速 腾讯、阿里同日上调预期",
+          "url": "https://www.cls.cn/detail/2370802",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时48分 ~ 14时35分]"
+        },
+        {
           "title": "思科(CSCO.O)：公司正推进一项重组计划，以投资于硅、光学、安全及人工智能等关键增长机会。公司目前预计将确认与此次重组计划相关最高10亿美元的税前费用。预计将在2026财年第四季度确认约4.5亿美元费用，其余部分预计将在2027财年确认。",
           "url": "https://flash.jin10.com/detail/20260514040852808800",
           "source": "金十数据",
@@ -300,6 +349,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时31分 ~ 06时12分]"
+        },
+        {
+          "title": "日本批量生成AI视频抹黑中国",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%89%B9%E9%87%8F%E7%94%9F%E6%88%90AI%E8%A7%86%E9%A2%91%E6%8A%B9%E9%BB%91%E4%B8%AD%E5%9B%BD",
+          "source": "百度热搜",
+          "ranks": [
+            21,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时48分 ~ 14时35分]"
         },
         {
           "title": "阿联酋总统顾问安瓦尔·加尔加什（Anwar Gargash）：阿联酋重申政治解决方案与谈判的重要性。 阿联酋并不寻求战争，并曾真诚地致力于避免战争。 海湾地区的阿拉伯与伊朗关系不能建立在对抗和冲突之上。",
@@ -314,15 +375,16 @@
           "time_info": "[02时55分 ~ 04时31分]"
         },
         {
-          "title": "马化腾回应腾讯 AI 是否落后，「AI 的船现在站上去但还坐不下去」，怎样看待这一言论？",
-          "url": "https://www.zhihu.com/question/2037950969506428373",
-          "source": "知乎",
+          "title": "日媒曝光日本批量生成AI视频抹黑中国",
+          "url": "https://www.toutiao.com/trending/7639005443850797110/",
+          "source": "今日头条",
           "ranks": [
-            6
+            16,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时48分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时48分 ~ 14时35分]"
         },
         {
           "title": "美国副总统万斯：我们正在积极进行外交努力，以确保伊朗不拥有核武器。",
@@ -347,6 +409,17 @@
           "time_info": "02时55分"
         },
         {
+          "title": "阿里云发布万小智2.0：打通AI建站、域名备案到上线运营全流程",
+          "url": "https://wallstreetcn.com/livenews/3103490",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时35分"
+        },
+        {
           "title": "据以色列第12频道：内塔尼亚胡正在召开安全会议，讨论包括黎巴嫩和伊朗在内的议题。",
           "url": "https://flash.jin10.com/detail/20260514024024403800",
           "source": "金十数据",
@@ -356,6 +429,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时55分"
+        },
+        {
+          "title": "尽管受伊朗战事影响，Wizz Air仍预计夏季营收将实现增长",
+          "url": "https://flash.jin10.com/detail/20260514142144596800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时35分"
         },
         {
           "title": "市场消息：法国科技与人工智能公司Mistral为无法使用Mythos模型的银行开发新AI模型。",
@@ -380,6 +464,17 @@
           "time_info": "06时12分"
         },
         {
+          "title": "OpenAI回应TanStack供应链攻击：未发现用户数据泄露",
+          "url": "https://wallstreetcn.com/livenews/3103488",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时35分"
+        },
+        {
           "title": "期货热点追踪",
           "url": "https://flash.jin10.com/detail/20260513233821379800",
           "source": "金十数据",
@@ -391,6 +486,17 @@
           "time_info": "00时20分"
         },
         {
+          "title": "鸿海：预计人工智能服务器需求强劲。",
+          "url": "https://flash.jin10.com/detail/20260514141957703800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时35分"
+        },
+        {
           "title": "需求稳步复苏，A股小金属板块公司业绩向好",
           "url": "https://wallstreetcn.com/livenews/3103254",
           "source": "华尔街见闻-快讯",
@@ -400,17 +506,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时54分"
-        },
-        {
-          "title": "“没有一张卡是空的”！大厂AI资本开支再提速 腾讯、阿里同日上调预期",
-          "url": "https://www.cls.cn/detail/2370802",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时48分"
         },
         {
           "title": "Mistral为那些缺乏Mythos获取权限的银行开发新AI模型",
@@ -441,7 +536,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时48分"
         },
@@ -452,7 +547,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时48分"
         },
@@ -474,18 +569,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时48分"
-        },
-        {
-          "title": "日媒曝光日本批量生成AI视频抹黑中国",
-          "url": "https://www.toutiao.com/trending/7639005443850797110/",
-          "source": "今日头条",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时48分"
         },
@@ -534,6 +618,28 @@
           "time_info": "07时54分"
         },
         {
+          "title": "马化腾谈AI：一年前以为上了船后来发现船漏水，现在站上去了还坐不下去",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33174800",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时35分"
+        },
+        {
+          "title": "伊朗外长阿拉格齐：德黑兰呼吁金砖国家成员明确谴责美国和以色列对伊朗的侵略。",
+          "url": "https://flash.jin10.com/detail/20260514141721784800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时35分"
+        },
+        {
           "title": "报道：北约拟邀海湾国家参加峰会，伊朗战争将成议题",
           "url": "https://wallstreetcn.com/livenews/3103127",
           "source": "华尔街见闻-快讯",
@@ -551,7 +657,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时48分"
         },
@@ -567,6 +673,17 @@
           "time_info": "00时20分"
         },
         {
+          "title": "【社论】中国AI企业背后的创新密码",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33172507",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时35分"
+        },
+        {
           "title": "市场消息：马斯克的xAI正加紧推动华尔街公司使用Grok聊天机器人，阿波罗与摩根士丹利已开始在内部使用Grok，并与其他人工智能模型制造商的软件一起使用。",
           "url": "https://flash.jin10.com/detail/20260514034444194800",
           "source": "金十数据",
@@ -578,17 +695,6 @@
           "time_info": "04时31分"
         },
         {
-          "title": "日本批量生成AI视频抹黑中国",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%89%B9%E9%87%8F%E7%94%9F%E6%88%90AI%E8%A7%86%E9%A2%91%E6%8A%B9%E9%BB%91%E4%B8%AD%E5%9B%BD",
-          "source": "百度热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时48分"
-        },
-        {
           "title": "据伊朗媒体Fars News：安全方面的消息人士表示，有无人机袭击了伊拉克埃尔比勒北部的伊朗反对派营地。",
           "url": "https://flash.jin10.com/detail/20260514034350903800",
           "source": "金十数据",
@@ -598,6 +704,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时31分"
+        },
+        {
+          "title": "伊朗外长阿拉格齐：是时候将美国的霸权行为扫进历史的垃圾堆了。",
+          "url": "https://flash.jin10.com/detail/20260514141446316800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时35分"
         },
         {
           "title": "思科盘后涨幅扩大至15%。该公司预计，2026财年，超大规模云服务商（Hyperscalers）AI基础设施订单将高达90亿美元。所给业绩指引超过市场预期，宣布裁员不到4000人。",
@@ -617,9 +734,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时48分"
+        },
+        {
+          "title": "英国经济增长势头强劲，但受伊朗战争和政治动荡威胁",
+          "url": "https://flash.jin10.com/detail/20260514141036438800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时35分"
         },
         {
           "title": "加拿大央行会议纪要：重申新关税可能会激发央行采取降息行动，伊朗战争则可能会触发加息。 央行官员们对美国墨西哥加拿大贸易协议（USMCA）潜在的审议结果、伊朗战争的后果、央行政策路径都有“一系列的看法”。",
@@ -697,6 +825,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时20分"
+        },
+        {
+          "title": "阿里云发布万小智2.0：打通AI建站、域名备案到上线运营全流程",
+          "url": "https://flash.jin10.com/detail/20260514140756998800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时35分"
         },
         {
           "title": "苹果公司探索在应用商店APP Store纳入AI智能体。（The Information）",
