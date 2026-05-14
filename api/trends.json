@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-14T14:35:28.260687+08:00",
-  "total_titles_processed": 987,
+  "generated_at": "2026-05-14T17:39:49.307598+08:00",
+  "total_titles_processed": 1156,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai ai+ ai人工智能 人工智能 风险识别 商业风险识别 痛点 需求 商业风险 伊朗 rwa 趋势 热点 热门",
-      "match_count": 76,
+      "match_count": 79,
       "titles": [
         {
           "title": "阿里电话会：AI ARR年底超过300亿元，服务器“没有一张卡是闲置的” ，资本支出将超过3800亿元",
@@ -14,11 +14,26 @@
           "ranks": [
             6,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时20分 ~ 14时35分]"
+          "appearance_count": 9,
+          "time_info": "[00时20分 ~ 17时39分]"
+        },
+        {
+          "title": "阿里巴巴Q1营收小幅增长，云收入同比增长38%，首次披露AI产品收入规模 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3772187",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            5,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时20分 ~ 17时39分]"
         },
         {
           "title": "马化腾回应AI掉队",
@@ -35,20 +50,6 @@
           "time_info": "[00时20分 ~ 07时54分]"
         },
         {
-          "title": "阿里巴巴Q1营收小幅增长，云收入同比增长38%，首次披露AI产品收入规模 | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3772187",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6,
-            5,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时20分 ~ 14时35分]"
-        },
-        {
           "title": "马化腾：一年前以为上了AI的船结果发现漏水了，现在站上去但还坐不下去",
           "url": "https://wallstreetcn.com/articles/3772184",
           "source": "华尔街见闻",
@@ -60,8 +61,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时20分 ~ 14时35分]"
+          "appearance_count": 9,
+          "time_info": "[00时20分 ~ 17时39分]"
         },
         {
           "title": "高校硬查AI率,复旦教授怒了",
@@ -70,11 +71,12 @@
           "ranks": [
             9,
             10,
-            17
+            17,
+            22
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时20分 ~ 14时35分]"
+          "appearance_count": 9,
+          "time_info": "[00时20分 ~ 17时39分]"
         },
         {
           "title": "JUMP总编怒喷热门漫画拉垮",
@@ -82,11 +84,12 @@
           "source": "贴吧",
           "ranks": [
             15,
-            22
+            22,
+            26
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时20分 ~ 14时35分]"
+          "appearance_count": 9,
+          "time_info": "[00时20分 ~ 17时39分]"
         },
         {
           "title": "AI续写轻音少女第三季",
@@ -161,9 +164,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时35分"
+        },
+        {
+          "title": "伊朗学者：特朗普访华或影响美伊谈判走向",
+          "url": "https://news.ifeng.com/c/8t7cmt9kbtR",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时39分"
         },
         {
           "title": "鸿海：AI服务器需求强劲。",
@@ -172,7 +186,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时35分"
         },
@@ -221,6 +235,18 @@
           "time_info": "04时31分"
         },
         {
+          "title": "AI转型加速，腾讯Q1营收同比增9%，净利润大增21%，资本开支达370亿元｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3772181",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[06时12分 ~ 17时39分]"
+        },
+        {
           "title": "马化腾：1年前以为上了AI的船结果发现漏水，现在站上去但坐不下",
           "url": "https://tech.ifeng.com/c/8t5w0wxVfbb",
           "source": "凤凰网",
@@ -237,11 +263,12 @@
           "source": "知乎",
           "ranks": [
             6,
-            5
+            5,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时48分 ~ 14时35分]"
+          "appearance_count": 3,
+          "time_info": "[10时48分 ~ 17时39分]"
         },
         {
           "title": "伊朗外长阿拉格齐：任何与以色列勾连、试图制造分裂的人，都将被追究责任。",
@@ -304,15 +331,17 @@
           "time_info": "[04时31分 ~ 06时12分]"
         },
         {
-          "title": "AI转型加速，腾讯Q1营收同比增9%，净利润大增21%，资本开支达370亿元｜财报见闻",
-          "url": "https://wallstreetcn.com/articles/3772181",
-          "source": "华尔街见闻",
+          "title": "“没有一张卡是空的”！大厂AI资本开支再提速 腾讯、阿里同日上调预期",
+          "url": "https://www.cls.cn/detail/2370802",
+          "source": "财联社热门",
           "ranks": [
-            10
+            12,
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时12分 ~ 14时35分]"
+          "appearance_count": 3,
+          "time_info": "[10时48分 ~ 17时39分]"
         },
         {
           "title": "消息人士：微软正探索与人工智能初创公司达成交易，以为“后OpenAI时代”做准备。微软曾考虑收购Cursor，但因反垄断担忧而放弃。微软已与人工智能初创公司Inception讨论交易事宜。Inception已聘请一家银行，就至少10亿美元的交易进行谈判。",
@@ -325,18 +354,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时31分 ~ 06时12分]"
-        },
-        {
-          "title": "“没有一张卡是空的”！大厂AI资本开支再提速 腾讯、阿里同日上调预期",
-          "url": "https://www.cls.cn/detail/2370802",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时48分 ~ 14时35分]"
         },
         {
           "title": "思科(CSCO.O)：公司正推进一项重组计划，以投资于硅、光学、安全及人工智能等关键增长机会。公司目前预计将确认与此次重组计划相关最高10亿美元的税前费用。预计将在2026财年第四季度确认约4.5亿美元费用，其余部分预计将在2027财年确认。",
@@ -373,6 +390,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时55分 ~ 04时31分]"
+        },
+        {
+          "title": "马化腾谈AI：一年前以为上了船后来发现船漏水，现在站上去了还坐不下去",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33174800",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时35分 ~ 17时39分]"
         },
         {
           "title": "日媒曝光日本批量生成AI视频抹黑中国",
@@ -415,7 +444,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时35分"
         },
@@ -437,7 +466,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时35分"
         },
@@ -470,7 +499,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时35分"
         },
@@ -492,7 +521,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时35分"
         },
@@ -506,6 +535,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时54分"
+        },
+        {
+          "title": "AI引爆全球芯片市场？台积电重磅预测：2030年市场规模将达1.5万亿美元！",
+          "url": "https://www.cls.cn/detail/2370937",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时39分"
         },
         {
           "title": "Mistral为那些缺乏Mythos获取权限的银行开发新AI模型",
@@ -550,6 +590,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时48分"
+        },
+        {
+          "title": "网友相信豆包「机票退票只扣 5% 手续费」，退票后发现与实际不符遂起诉字节，AI 该为传达错误信息担责吗？",
+          "url": "https://www.zhihu.com/question/2037926535315677917",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时39分"
         },
         {
           "title": "美联储调查：人工智能用户更可能预期其能改善职业发展，而非取代他们的工作。",
@@ -618,24 +669,13 @@
           "time_info": "07时54分"
         },
         {
-          "title": "马化腾谈AI：一年前以为上了船后来发现船漏水，现在站上去了还坐不下去",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33174800",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时35分"
-        },
-        {
           "title": "伊朗外长阿拉格齐：德黑兰呼吁金砖国家成员明确谴责美国和以色列对伊朗的侵略。",
           "url": "https://flash.jin10.com/detail/20260514141721784800",
           "source": "金十数据",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时35分"
         },
@@ -679,7 +719,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时35分"
         },
@@ -712,7 +752,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时35分"
         },
@@ -745,7 +785,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时35分"
         },
@@ -833,7 +873,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时35分"
         },
