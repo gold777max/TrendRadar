@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-15T17:52:35.565708+08:00",
-  "total_titles_processed": 1170,
+  "generated_at": "2026-05-15T19:53:27.955275+08:00",
+  "total_titles_processed": 1303,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai ai+ ai人工智能 人工智能 风险识别 商业风险识别 痛点 需求 商业风险 伊朗 rwa 趋势 热点 热门",
-      "match_count": 80,
+      "match_count": 91,
       "titles": [
         {
           "title": "伊朗学者：特朗普访华或影响美伊谈判走向",
@@ -69,6 +69,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时48分 ~ 14时32分]"
+        },
+        {
+          "title": "AI全员娘化,豆包变呆瓜",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354319&amp;topic_name=AI%E5%85%A8%E5%91%98%E5%A8%98%E5%8C%96%2C%E8%B1%86%E5%8C%85%E5%8F%98%E5%91%86%E7%93%9C",
+          "source": "贴吧",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时52分 ~ 19时53分]"
         },
         {
           "title": "苹果与OpenAI合作关系紧张 潜在法律纠纷一触即发",
@@ -182,6 +193,17 @@
           "time_info": "06时08分"
         },
         {
+          "title": "北自科技：公司关注到市场对人形机器人概念关注度较高，经自查，截至本公告披露日，公司聚焦产业化落地，未生产人形机器人本体及零部件，亦未发现其他可能或已经对公司股票交易价格产生影响的媒体报道、市场传闻或涉及其他热点概念的事项。",
+          "url": "https://wallstreetcn.com/livenews/3104405",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时53分"
+        },
+        {
           "title": "公开撕破脸！伊朗外长指控阿联酋直接介入战事",
           "url": "https://flash.jin10.com/detail/20260515102244254800",
           "source": "金十数据",
@@ -193,15 +215,18 @@
           "time_info": "10时48分"
         },
         {
-          "title": "AI全员娘化,豆包变呆瓜",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354319&amp;topic_name=AI%E5%85%A8%E5%91%98%E5%A8%98%E5%8C%96%2C%E8%B1%86%E5%8C%85%E5%8F%98%E5%91%86%E7%93%9C",
-          "source": "贴吧",
+          "title": "有没有人试过把全世界已有的佛经喂给 AI 看看最后能不能生成一个赛博在世佛祖?",
+          "url": "https://www.zhihu.com/question/2018783635805860978",
+          "source": "知乎",
           "ranks": [
-            5
+            5,
+            12,
+            6,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时52分"
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时48分 ~ 19时53分]"
         },
         {
           "title": "AI续写轻音少女第三季",
@@ -230,19 +255,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时18分 ~ 06时08分]"
-        },
-        {
-          "title": "有没有人试过把全世界已有的佛经喂给 AI 看看最后能不能生成一个赛博在世佛祖?",
-          "url": "https://www.zhihu.com/question/2018783635805860978",
-          "source": "知乎",
-          "ranks": [
-            5,
-            12,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时48分 ~ 17时52分]"
         },
         {
           "title": "期货热点追踪",
@@ -294,6 +306,19 @@
           "time_info": "[01时18分 ~ 04时27分]"
         },
         {
+          "title": "AI热潮催生2026最大IPO！“英伟达挑战者”Cerebras首秀盘中翻倍高涨",
+          "url": "https://wallstreetcn.com/articles/3772300",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时32分 ~ 19时53分]"
+        },
+        {
           "title": "AI还原烂梗有多毒",
           "url": "https://s.weibo.com/weibo?q=AI%E8%BF%98%E5%8E%9F%E7%83%82%E6%A2%97%E6%9C%89%E5%A4%9A%E6%AF%92&t=31&band_rank=23&Refer=top",
           "source": "微博",
@@ -331,16 +356,40 @@
           "time_info": "[01时18分 ~ 04时27分]"
         },
         {
-          "title": "AI热潮催生2026最大IPO！“英伟达挑战者”Cerebras首秀盘中翻倍高涨",
-          "url": "https://wallstreetcn.com/articles/3772300",
-          "source": "华尔街见闻",
+          "title": "AI涨价风吹到利基型存储：原厂停产引发结构性缺货 SLC NAND年内预计再涨120%",
+          "url": "https://www.cls.cn/detail/2372257",
+          "source": "财联社热门",
           "ranks": [
-            10,
+            8,
             7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时32分 ~ 17时52分]"
+          "time_info": "[17时52分 ~ 19时53分]"
+        },
+        {
+          "title": "云南小伙用AI制作短片爆红",
+          "url": "https://www.douyin.com/hot/2499805",
+          "source": "抖音",
+          "ranks": [
+            11,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时52分 ~ 19时53分]"
+        },
+        {
+          "title": "美国已拒绝伊朗就结束战争提出的书面方案",
+          "url": "https://www.cls.cn/detail/2372496",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时52分 ~ 19时53分]"
         },
         {
           "title": "金十图示：2026年05月14日（周四）美股热门股票行情一览（美股收盘）",
@@ -414,6 +463,17 @@
           "time_info": "14时32分"
         },
         {
+          "title": "伊朗总统佩泽希齐扬呼吁与伊拉克开展战略合作。",
+          "url": "https://flash.jin10.com/detail/20260515191642928800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时53分"
+        },
+        {
           "title": "伊朗外长阿拉格齐：任何以尊重的语言与伊朗对话的人，都会得到同样语言的回应。",
           "url": "https://flash.jin10.com/detail/20260515022123441800",
           "source": "金十数据",
@@ -425,6 +485,17 @@
           "time_info": "02时56分"
         },
         {
+          "title": "伊朗外长说美方认真才可能重启谈判",
+          "url": "https://flash.jin10.com/detail/20260515191611579800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时53分"
+        },
+        {
           "title": "AI概念股普遍收涨，Nebius涨6.7%，博通涨超5.5%，台积电、英伟达、C3.ai涨超4%",
           "url": "https://wallstreetcn.com/livenews/3103910",
           "source": "华尔街见闻-快讯",
@@ -434,17 +505,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时08分"
-        },
-        {
-          "title": "AI涨价风吹到利基型存储：原厂停产引发结构性缺货 SLC NAND年内预计再涨120%",
-          "url": "https://www.cls.cn/detail/2372257",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时52分"
         },
         {
           "title": "金十图示：2026年05月14日（周四）美股热门股票行情一览（美股盘中）",
@@ -480,17 +540,6 @@
           "time_info": "10时48分"
         },
         {
-          "title": "美国已拒绝伊朗就结束战争提出的书面方案",
-          "url": "https://www.cls.cn/detail/2372496",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时52分"
-        },
-        {
           "title": "xAI正式推出Grok Build早期测试版，旨在为超级Grok重度用户提供编码代理服务。",
           "url": "https://flash.jin10.com/detail/20260515021742369800",
           "source": "金十数据",
@@ -524,6 +573,17 @@
           "time_info": "04时27分"
         },
         {
+          "title": "伊朗外长说美方认真才可能重启谈判",
+          "url": "https://wallstreetcn.com/livenews/3104398",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时53分"
+        },
+        {
           "title": "金十图示：2026年05月14日（周四）热门中概股行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260515003025050800",
           "source": "金十数据",
@@ -541,7 +601,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时52分"
         },
@@ -566,17 +626,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时56分"
-        },
-        {
-          "title": "云南小伙用AI制作短片爆红",
-          "url": "https://www.douyin.com/hot/2499805",
-          "source": "抖音",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时52分"
         },
         {
           "title": "AI芯片公司Cerebras纳斯达克首秀暴涨近一倍 市值一度突破800亿美元",
@@ -640,7 +689,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时52分"
         },
@@ -678,6 +727,17 @@
           "time_info": "01时18分"
         },
         {
+          "title": "如何看待 Anthropic 估值反超 OpenAI ？",
+          "url": "https://www.zhihu.com/question/2038588162453104310",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时53分"
+        },
+        {
           "title": "伊朗外交部：外长阿拉格奇与俄罗斯外长拉夫罗夫会晤，双方讨论并回顾了德黑兰与莫斯科在政治、能源、交通及地区合作领域的合作情况。双方还就西亚地区的最新发展及与伊朗核问题相关的谈判交换了意见。",
           "url": "https://flash.jin10.com/detail/20260515015238925800",
           "source": "金十数据",
@@ -687,6 +747,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时56分"
+        },
+        {
+          "title": "伊朗外长：霍尔木兹海峡仍对友好国家商业船只开放",
+          "url": "https://wallstreetcn.com/livenews/3104378",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时53分"
         },
         {
           "title": "伊朗司法机构发言人：扣押在霍尔木兹海峡违规的美国油轮是基于国内法和国际法的。",
@@ -720,6 +791,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时55分"
+        },
+        {
+          "title": "特朗普：我们可以袭击伊朗的桥梁和电力设施。",
+          "url": "https://wallstreetcn.com/livenews/3104377",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时53分"
         },
         {
           "title": "伊朗革命卫队指挥官贾法里：伊朗坚持谈判的前提条件。",
@@ -766,6 +848,17 @@
           "time_info": "04时27分"
         },
         {
+          "title": "伊朗外长：伊朗不寻求发展核武器",
+          "url": "https://wallstreetcn.com/livenews/3104374",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时53分"
+        },
+        {
           "title": "AI扩建，驱动美国最大电网电费暴涨76%",
           "url": "https://wallstreetcn.com/livenews/3103927",
           "source": "华尔街见闻-快讯",
@@ -786,6 +879,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时18分"
+        },
+        {
+          "title": "美国总统特朗普：（谈及伊朗浓缩铀材料）可能在合适的时机获得。如果我们得不到伊朗的核尘埃，我们就会采取行动。",
+          "url": "https://flash.jin10.com/detail/20260515190350101800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时53分"
         },
         {
           "title": "美国纽约联储主席威廉姆斯：生产力强劲，不仅仅与AI有关。 预计生产力将继续强劲增长。 理解市场为何对经济的未来感到乐观。",
@@ -827,7 +931,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时52分"
         },
@@ -838,7 +942,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时52分"
         },
@@ -876,13 +980,24 @@
           "time_info": "10时48分"
         },
         {
+          "title": "世界杯热门小组赛前瞻",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%96%E7%95%8C%E6%9D%AF%E7%83%AD%E9%97%A8%E5%B0%8F%E7%BB%84%E8%B5%9B%E5%89%8D%E7%9E%BB",
+          "source": "bilibili 热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时53分"
+        },
+        {
           "title": "市场消息：阿联酋曾试图与沙特阿拉伯协调应对伊朗的行动，但未能成功。",
           "url": "https://flash.jin10.com/detail/20260515170151778800",
           "source": "金十数据",
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时52分"
         },
@@ -907,6 +1022,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时48分"
+        },
+        {
+          "title": "美国总统特朗普对《纽约时报》记者表示，其关于伊朗的报道是“叛国行为”。",
+          "url": "https://flash.jin10.com/detail/20260515185905831800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时53分"
         },
         {
           "title": "我和长春有个colorwalk",
