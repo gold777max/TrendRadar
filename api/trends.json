@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-16T00:06:33.803855+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-05-16T02:21:23.916560+08:00",
+  "total_titles_processed": 411,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai ai+ ai人工智能 人工智能 风险识别 商业风险识别 痛点 需求 商业风险 伊朗 rwa 趋势 热点 热门",
-      "match_count": 16,
+      "match_count": 22,
       "titles": [
         {
           "title": "OpenAI与Plaid构建合作伙伴关系，将利用ChatGPT提供个性化金融顾问服务。",
@@ -19,15 +19,85 @@
           "time_info": "00时06分"
         },
         {
+          "title": "巴基斯坦外长：20名被美国军方扣押的伊朗人已被送回国。",
+          "url": "https://flash.jin10.com/detail/20260516020531535800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时21分"
+        },
+        {
           "title": "AI威胁逼近，底特律三巨头已削减超2万个美国受薪职位",
           "url": "https://wallstreetcn.com/livenews/3104552",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            28
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时06分"
+          "appearance_count": 2,
+          "time_info": "[00时06分 ~ 02时21分]"
+        },
+        {
+          "title": "美国已拒绝伊朗就结束战争提出的书面方案",
+          "url": "https://www.cls.cn/detail/2372496",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时06分 ~ 02时21分]"
+        },
+        {
+          "title": "AI全员娘化,豆包变呆瓜",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354319&amp;topic_name=AI%E5%85%A8%E5%91%98%E5%A8%98%E5%8C%96%2C%E8%B1%86%E5%8C%85%E5%8F%98%E5%91%86%E7%93%9C",
+          "source": "贴吧",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时06分 ~ 02时21分]"
+        },
+        {
+          "title": "AI热潮催生2026最大IPO！“英伟达挑战者”Cerebras首秀盘中翻倍高涨",
+          "url": "https://wallstreetcn.com/articles/3772300",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时06分 ~ 02时21分]"
+        },
+        {
+          "title": "美以袭击伊朗进入第 77 天，当前局势如何？哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2038396347775022033",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时06分 ~ 02时21分]"
+        },
+        {
+          "title": "为什么我们总怪父母没抓住房产和互联网红利，可轮到自己面对 AI 时代红利时，也没好好抓住？",
+          "url": "https://www.zhihu.com/question/2035685308566610183",
+          "source": "知乎",
+          "ranks": [
+            19,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时06分 ~ 02时21分]"
         },
         {
           "title": "据华尔街日报：Anthropic正寻求再融资300亿美元，人工智能实验室正在吸纳风险投资的大部分资金。",
@@ -41,31 +111,9 @@
           "time_info": "00时06分"
         },
         {
-          "title": "美国已拒绝伊朗就结束战争提出的书面方案",
-          "url": "https://www.cls.cn/detail/2372496",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时06分"
-        },
-        {
           "title": "伊朗战争冲击供应 美国炼油厂加速满负荷生产",
           "url": "https://flash.jin10.com/detail/20260515232817376800",
           "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时06分"
-        },
-        {
-          "title": "AI全员娘化,豆包变呆瓜",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354319&amp;topic_name=AI%E5%85%A8%E5%91%98%E5%A8%98%E5%8C%96%2C%E8%B1%86%E5%8C%85%E5%8F%98%E5%91%86%E7%93%9C",
-          "source": "贴吧",
           "ranks": [
             7
           ],
@@ -85,17 +133,6 @@
           "time_info": "00时06分"
         },
         {
-          "title": "AI热潮催生2026最大IPO！“英伟达挑战者”Cerebras首秀盘中翻倍高涨",
-          "url": "https://wallstreetcn.com/articles/3772300",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时06分"
-        },
-        {
           "title": "阿联酋发表声明，明确拒绝伊朗在金砖国家会议期间提出的指控，以及其试图为针对阿联酋的袭击行为进行辩护的企图。",
           "url": "https://flash.jin10.com/detail/20260515232148401800",
           "source": "金十数据",
@@ -105,6 +142,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时06分"
+        },
+        {
+          "title": "市场消息：OpenAI告知员工将启动重组，整合全线业务产品。",
+          "url": "https://flash.jin10.com/detail/20260516014944429800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时21分"
         },
         {
           "title": "汽车与AI提振美国制造业产量，战争引发的供应短缺隐忧浮现",
@@ -118,15 +166,15 @@
           "time_info": "00时06分"
         },
         {
-          "title": "美以袭击伊朗进入第 77 天，当前局势如何？哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2038396347775022033",
-          "source": "知乎",
+          "title": "伊朗驻联合国大使：巴勒斯坦的未来应由巴勒斯坦人民自己决定。",
+          "url": "https://flash.jin10.com/detail/20260516014504278800",
+          "source": "金十数据",
           "ranks": [
             11
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时06分"
+          "time_info": "02时21分"
         },
         {
           "title": "波罗的海干散货运价指数下跌，因海岬型船需求下降",
@@ -140,15 +188,26 @@
           "time_info": "00时06分"
         },
         {
-          "title": "为什么我们总怪父母没抓住房产和互联网红利，可轮到自己面对 AI 时代红利时，也没好好抓住？",
-          "url": "https://www.zhihu.com/question/2035685308566610183",
-          "source": "知乎",
+          "title": "云南小伙用AI制作短片爆红",
+          "url": "https://www.douyin.com/hot/2499805",
+          "source": "抖音",
           "ranks": [
-            19
+            13
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时06分"
+          "time_info": "02时21分"
+        },
+        {
+          "title": "据沙特媒体Alhadath：以色列方面表示，为可能与伊朗恢复战斗做好准备。恢复对伊朗的战争决定仍然取决于特朗普总统。",
+          "url": "https://flash.jin10.com/detail/20260516010528421800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时21分"
         },
         {
           "title": "土耳其提议建设12亿美元燃料管道 以满足北约的东欧盟国能源需求",
@@ -160,6 +219,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时06分"
+        },
+        {
+          "title": "OpenAI联手Plaid，为大众提供量身定制的财务咨询",
+          "url": "https://wallstreetcn.com/livenews/3104554",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时21分"
         },
         {
           "title": "伊朗外长：谈判前提是各方认真对待",
