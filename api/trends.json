@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-17T14:20:58.448712+08:00",
-  "total_titles_processed": 759,
+  "generated_at": "2026-05-17T17:03:14.227848+08:00",
+  "total_titles_processed": 877,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai ai+ ai人工智能 人工智能 风险识别 商业风险识别 痛点 需求 商业风险 伊朗 rwa 趋势 热点 热门",
-      "match_count": 51,
+      "match_count": 57,
       "titles": [
         {
           "title": "中国顶流私募Q1调仓揭秘：重仓AI和半导体 中概核心稳中有调",
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时56分 ~ 14时20分]"
+          "appearance_count": 13,
+          "time_info": "[00时56分 ~ 17时03分]"
         },
         {
           "title": "谈判濒临破裂，美以被曝最早下周恢复对伊朗打击，选项包括地面夺取核材料",
@@ -41,8 +41,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时56分 ~ 14时20分]"
+          "appearance_count": 13,
+          "time_info": "[00时56分 ~ 17时03分]"
         },
         {
           "title": "全球通胀加剧债市风暴，动摇AI牛市，“现在一切取决于石油”",
@@ -76,8 +76,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时56分 ~ 14时20分]"
+          "appearance_count": 13,
+          "time_info": "[00时56分 ~ 17时03分]"
         },
         {
           "title": "特朗普在「空军一号」接受采访，释放大量关于贸易、台湾、伊朗等议题信号，哪些内容值得关注？",
@@ -115,11 +115,12 @@
           "source": "贴吧",
           "ranks": [
             20,
-            21
+            21,
+            23
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时56分 ~ 14时20分]"
+          "appearance_count": 13,
+          "time_info": "[00时56分 ~ 17时03分]"
         },
         {
           "title": "伊朗股市将于下周二重新开放。（伊朗国家媒体）",
@@ -128,11 +129,12 @@
           "ranks": [
             1,
             8,
-            19
+            19,
+            24
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[03时01分 ~ 14时20分]"
+          "appearance_count": 8,
+          "time_info": "[03时01分 ~ 17时03分]"
         },
         {
           "title": "伊朗一机油工厂发生火灾致至少10人受伤",
@@ -202,6 +204,18 @@
           "time_info": "[00时56分 ~ 10时46分]"
         },
         {
+          "title": "国安部：境外间谍对我稀土、光伏、半导体、高端芯片、人工智能等领域实施窃密",
+          "url": "https://www.cls.cn/detail/2373269",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时20分 ~ 17时03分]"
+        },
+        {
           "title": "据伊朗官方媒体：伊朗股市将于下周二重开。",
           "url": "https://flash.jin10.com/detail/20260517023242958800",
           "source": "金十数据",
@@ -214,6 +228,20 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[03时01分 ~ 07时50分]"
+        },
+        {
+          "title": "伊朗布什尔核电站二号机组恢复建设",
+          "url": "https://wallstreetcn.com/livenews/3104819",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            14,
+            25,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[04时05分 ~ 17时03分]"
         },
         {
           "title": "OpenAI与马耳他达成协议，所有马耳他民众都能使用ChatGPT Plus",
@@ -242,28 +270,15 @@
           "time_info": "[00时56分 ~ 07时50分]"
         },
         {
-          "title": "伊朗布什尔核电站二号机组恢复建设",
-          "url": "https://wallstreetcn.com/livenews/3104819",
-          "source": "华尔街见闻-快讯",
+          "title": "伊朗与阿联酋爆发言辞冲突，金砖外长会未发表联合公报",
+          "url": "https://news.ifeng.com/c/8tBrZpkE9r7",
+          "source": "凤凰网",
           "ranks": [
-            7,
-            14,
-            25
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[04时05分 ~ 14时20分]"
-        },
-        {
-          "title": "北约情报机构认为伊朗仍保有大部分导弹库存及设施",
-          "url": "https://flash.jin10.com/detail/20260517141106720800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时20分"
+          "appearance_count": 5,
+          "time_info": "[10时45分 ~ 17时03分]"
         },
         {
           "title": "法国文化部长：今后不会资助“用人工智能取代创作者”的影视作品",
@@ -303,15 +318,17 @@
           "time_info": "[04时05分 ~ 07时50分]"
         },
         {
-          "title": "国安部：境外间谍对我稀土、光伏、半导体、高端芯片、人工智能等领域实施窃密",
-          "url": "https://www.cls.cn/detail/2373269",
+          "title": "伊朗宣布5月19日起恢复股票市场交易",
+          "url": "https://www.cls.cn/detail/2373254",
           "source": "财联社热门",
           "ranks": [
-            5
+            11,
+            8,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时20分"
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时45分 ~ 17时03分]"
         },
         {
           "title": "特朗普：如果不能达成和平协议，伊朗将面临“非常糟糕的处境”",
@@ -342,6 +359,56 @@
           "time_info": "[01时55分 ~ 05时44分]"
         },
         {
+          "title": "伊朗宣布5月19日起恢复股票市场交易",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33189620",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时45分 ~ 17时03分]"
+        },
+        {
+          "title": "“商品老将”：美股就像“冲向沙滩的孩子”，看不到“远方游弋的鲨鱼鳍”，AI算力的本质是石油",
+          "url": "https://wallstreetcn.com/articles/3772431",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时20分 ~ 17时03分]"
+        },
+        {
+          "title": "如何看待《桃花坞》方媛因作息需求坚持要住男生单人间，导致 9 名男生共用 1 个卫生间？有更好的解决方法吗？",
+          "url": "https://www.zhihu.com/question/2038356260546765094",
+          "source": "知乎",
+          "ranks": [
+            11,
+            9,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时45分 ~ 17时03分]"
+        },
+        {
+          "title": "北约情报机构认为伊朗仍保有大部分导弹库存及设施",
+          "url": "https://flash.jin10.com/detail/20260517141106720800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时20分 ~ 17时03分]"
+        },
+        {
           "title": "据伊朗国家媒体：伊朗西北部一家发动机油厂火灾已完全扑灭，未报告伤亡情况。",
           "url": "https://flash.jin10.com/detail/20260517002017095800",
           "source": "金十数据",
@@ -368,17 +435,6 @@
           "time_info": "[07时50分 ~ 14时20分]"
         },
         {
-          "title": "伊朗与阿联酋爆发言辞冲突，金砖外长会未发表联合公报",
-          "url": "https://news.ifeng.com/c/8tBrZpkE9r7",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时45分 ~ 14时20分]"
-        },
-        {
           "title": "巴基斯坦内政部长到访伊朗 讨论边境安全等问题",
           "url": "https://flash.jin10.com/detail/20260517042540148800",
           "source": "金十数据",
@@ -403,18 +459,6 @@
           "time_info": "[10时45分 ~ 14时20分]"
         },
         {
-          "title": "伊朗宣布5月19日起恢复股票市场交易",
-          "url": "https://www.cls.cn/detail/2373254",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时45分 ~ 14时20分]"
-        },
-        {
           "title": "特朗普暗示伊朗局势是“风暴前的平静”",
           "url": "https://flash.jin10.com/detail/20260517042429937800",
           "source": "金十数据",
@@ -425,31 +469,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时44分 ~ 07时50分]"
-        },
-        {
-          "title": "伊朗宣布5月19日起恢复股票市场交易",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33189620",
-          "source": "澎湃新闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时45分 ~ 14时20分]"
-        },
-        {
-          "title": "如何看待《桃花坞》方媛因作息需求坚持要住男生单人间，导致 9 名男生共用 1 个卫生间？有更好的解决方法吗？",
-          "url": "https://www.zhihu.com/question/2038356260546765094",
-          "source": "知乎",
-          "ranks": [
-            11,
-            9,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时45分 ~ 14时20分]"
         },
         {
           "title": "伊朗布什尔核电站二号机组恢复建设",
@@ -514,6 +533,28 @@
           "time_info": "[00时56分 ~ 01时55分]"
         },
         {
+          "title": "“AI内存芯片繁荣正在埋下崩盘种子”！这次危险藏在需求端",
+          "url": "https://wallstreetcn.com/articles/3772446",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时02分 ~ 17时03分]"
+        },
+        {
+          "title": "美加墨世界杯十大热门球队前瞻",
+          "url": "https://www.douyin.com/hot/2500692",
+          "source": "抖音",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时02分 ~ 17时03分]"
+        },
+        {
           "title": "德专家：美以对伊朗军事行动影响德国经济复苏",
           "url": "https://flash.jin10.com/detail/20260517094714697800",
           "source": "金十数据",
@@ -536,13 +577,24 @@
           "time_info": "10时46分"
         },
         {
+          "title": "伊朗南部省份发生客车侧翻事故 已致7人死亡",
+          "url": "https://flash.jin10.com/detail/20260517154832016800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时03分"
+        },
+        {
           "title": "伊朗宣布5月19日起恢复股市交易",
           "url": "https://www.douyin.com/hot/2501755",
           "source": "抖音",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时20分"
         },
@@ -558,15 +610,26 @@
           "time_info": "00时56分"
         },
         {
-          "title": "“商品老将”：美股就像“冲向沙滩的孩子”，看不到“远方游弋的鲨鱼鳍”，AI算力的本质是石油",
-          "url": "https://wallstreetcn.com/articles/3772431",
-          "source": "华尔街见闻",
+          "title": "中信证券：今年的AI+能化或与2025年的AI+资源类似",
+          "url": "https://flash.jin10.com/detail/20260517152451542800",
+          "source": "金十数据",
           "ranks": [
-            10
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时20分"
+          "time_info": "17时03分"
+        },
+        {
+          "title": "国轩高科：预计2030年将建成10万吨/年固态电解质产能，可满足100GWh固态电池需求",
+          "url": "https://flash.jin10.com/detail/20260517151346840800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时03分"
         },
         {
           "title": "分析师：债市抛售潮来袭，AI股票狂热或遭冲击",
@@ -600,6 +663,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时56分"
+        },
+        {
+          "title": "卡塔尔外交部：卡塔尔首相兼外交大臣与沙特外交大臣进行了电话会谈。双方回顾了两国的合作关系及进一步支持和强化合作的途径，还讨论了地区局势发展，尤其是涉及美国与伊朗停火的相关事项，以及旨在降级紧张局势、提升地区安全与稳定的努力。",
+          "url": "https://flash.jin10.com/detail/20260517141215258800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时03分"
         },
         {
           "title": "据伊朗国际电视台：伊朗推出了一项针对途经霍尔木兹海峡船只的新海上保险平台。据相关报道，该系统提供数字化保险保单。",
