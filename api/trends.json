@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-18T01:58:15.914479+08:00",
-  "total_titles_processed": 368,
+  "generated_at": "2026-05-18T03:12:01.479657+08:00",
+  "total_titles_processed": 404,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai ai+ ai人工智能 人工智能 风险识别 商业风险识别 痛点 需求 商业风险 伊朗 rwa 趋势 热点 热门",
-      "match_count": 36,
+      "match_count": 41,
       "titles": [
         {
           "title": "报道：美方在回应伊朗提议时列出5个关键条件",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时57分 ~ 01时58分]"
+          "appearance_count": 5,
+          "time_info": "[00时57分 ~ 03时12分]"
         },
         {
           "title": "伊朗宣布5月19日起恢复股票市场交易",
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时57分 ~ 01时58分]"
+          "appearance_count": 5,
+          "time_info": "[00时57分 ~ 03时12分]"
         },
         {
           "title": "国安部：境外间谍对我稀土、光伏、半导体、高端芯片、人工智能等领域实施窃密",
@@ -37,8 +37,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时57分 ~ 01时58分]"
+          "appearance_count": 5,
+          "time_info": "[00时57分 ~ 03时12分]"
         },
         {
           "title": "还想比肩中国？“AI时代，印度正成为最大输家之一”",
@@ -48,8 +48,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时57分 ~ 01时58分]"
+          "appearance_count": 5,
+          "time_info": "[00时57分 ~ 03时12分]"
         },
         {
           "title": "中国顶流私募Q1调仓揭秘：重仓AI和半导体 中概核心稳中有调",
@@ -59,30 +59,108 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时57分 ~ 01时58分]"
+          "appearance_count": 5,
+          "time_info": "[00时57分 ~ 03时12分]"
         },
         {
           "title": "以色列交通部表示，以色列官员在阿布扎比会见了阿布扎比港口集团（AD Ports）和阿联酋铁路公司（Etihad Rail）的CEO，就促进港口、物流和铁路领域的合作进行了讨论。",
           "url": "https://wallstreetcn.com/livenews/3104897",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时57分 ~ 01时58分]"
+          "appearance_count": 3,
+          "time_info": "[00时57分 ~ 03时12分]"
         },
         {
-          "title": "伊朗外交部：伊朗外长与韩国外长进行电话交谈，讨论地区最新动态。",
-          "url": "https://flash.jin10.com/detail/20260518014946022800",
+          "title": "据伊朗Press TV：伊朗副总统表示，伊朗将不再允许敌方的军事装备通过霍尔木兹海峡。",
+          "url": "https://flash.jin10.com/detail/20260518023048693800",
           "source": "金十数据",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时58分"
+          "time_info": "03时12分"
+        },
+        {
+          "title": "伊媒：美对伊朗提出5个关键条件",
+          "url": "https://news.ifeng.com/c/8tCiiAKahND",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时57分 ~ 03时12分]"
+        },
+        {
+          "title": "“AI内存芯片繁荣正在埋下崩盘种子”！这次危险藏在需求端",
+          "url": "https://wallstreetcn.com/articles/3772446",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时57分 ~ 03时12分]"
+        },
+        {
+          "title": "胡锡进：卡利巴夫任伊朗对华事务特别代表，蕴含着重大动向",
+          "url": "https://news.ifeng.com/c/8tCrbKpsiVO",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时57分 ~ 03时12分]"
+        },
+        {
+          "title": "伊朗表示已做好应对美国升级局势的准备",
+          "url": "https://flash.jin10.com/detail/20260518021708433800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时12分"
+        },
+        {
+          "title": "消息人士：美方在回应伊朗提议时列出5个关键条件",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33190671",
+          "source": "澎湃新闻",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时57分 ~ 03时12分]"
+        },
+        {
+          "title": "伊朗宣布5月19日起恢复股票市场交易",
+          "url": "https://www.cls.cn/detail/2373254",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时57分 ~ 03时12分]"
+        },
+        {
+          "title": "AI全员娘化,豆包变呆瓜",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354319&amp;topic_name=AI%E5%85%A8%E5%91%98%E5%A8%98%E5%8C%96%2C%E8%B1%86%E5%8C%85%E5%8F%98%E5%91%86%E7%93%9C",
+          "source": "贴吧",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时57分 ~ 03时12分]"
         },
         {
           "title": "特朗普威胁伊朗：时间在流逝 赶快行动",
@@ -97,6 +175,18 @@
           "time_info": "[00时57分 ~ 01时58分]"
         },
         {
+          "title": "伊朗外交部：伊朗外长与韩国外长进行电话交谈，讨论地区最新动态。",
+          "url": "https://flash.jin10.com/detail/20260518014946022800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时58分 ~ 03时12分]"
+        },
+        {
           "title": "美国总统特朗普：对伊朗来说，时间在流逝，他们最好迅速行动，否则将一无所剩。",
           "url": "https://flash.jin10.com/detail/20260518004343934800",
           "source": "金十数据",
@@ -109,59 +199,28 @@
           "time_info": "[00时57分 ~ 01时58分]"
         },
         {
-          "title": "伊媒：美对伊朗提出5个关键条件",
-          "url": "https://news.ifeng.com/c/8tCiiAKahND",
-          "source": "凤凰网",
+          "title": "中信建投：重点关注AI、光模块、电网设备、人形机器人等",
+          "url": "https://wallstreetcn.com/livenews/3104889",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            10,
+            12
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[00时57分 ~ 01时58分]"
+          "time_info": "[00时57分 ~ 03时12分]"
         },
         {
-          "title": "“AI内存芯片繁荣正在埋下崩盘种子”！这次危险藏在需求端",
-          "url": "https://wallstreetcn.com/articles/3772446",
-          "source": "华尔街见闻",
+          "title": "韩国要求伊朗就韩船只在霍尔木兹海峡遭袭表明立场",
+          "url": "https://wallstreetcn.com/livenews/3104883",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            15,
+            17
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[00时57分 ~ 01时58分]"
-        },
-        {
-          "title": "胡锡进：卡利巴夫任伊朗对华事务特别代表，蕴含着重大动向",
-          "url": "https://news.ifeng.com/c/8tCrbKpsiVO",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时57分 ~ 01时58分]"
-        },
-        {
-          "title": "消息人士：美方在回应伊朗提议时列出5个关键条件",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33190671",
-          "source": "澎湃新闻",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时57分 ~ 01时58分]"
-        },
-        {
-          "title": "伊朗宣布5月19日起恢复股票市场交易",
-          "url": "https://www.cls.cn/detail/2373254",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时57分 ~ 01时58分]"
+          "time_info": "[00时57分 ~ 03时12分]"
         },
         {
           "title": "博主：中国AI算力产业链正在全面腾飞",
@@ -176,70 +235,98 @@
           "time_info": "[00时57分 ~ 01时58分]"
         },
         {
-          "title": "AI全员娘化,豆包变呆瓜",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354319&amp;topic_name=AI%E5%85%A8%E5%91%98%E5%A8%98%E5%8C%96%2C%E8%B1%86%E5%8C%85%E5%8F%98%E5%91%86%E7%93%9C",
-          "source": "贴吧",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时57分 ~ 01时58分]"
-        },
-        {
-          "title": "中信建投：重点关注AI、光模块、电网设备、人形机器人等",
-          "url": "https://wallstreetcn.com/livenews/3104889",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时57分 ~ 01时58分]"
-        },
-        {
-          "title": "韩国要求伊朗就韩船只在霍尔木兹海峡遭袭表明立场",
-          "url": "https://wallstreetcn.com/livenews/3104883",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时57分 ~ 01时58分]"
-        },
-        {
           "title": "伊朗外交部：美以用“维护能源稳定”作借口 为对伊战争辩护",
           "url": "https://wallstreetcn.com/livenews/3104872",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            24
+            24,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时57分 ~ 01时58分]"
+          "appearance_count": 3,
+          "time_info": "[00时57分 ~ 03时12分]"
         },
         {
           "title": "伊朗军方：若美国再次发起军事行动将面临“进攻性回应”",
           "url": "https://wallstreetcn.com/livenews/3104871",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            25
+            25,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时57分 ~ 01时58分]"
+          "appearance_count": 3,
+          "time_info": "[00时57分 ~ 03时12分]"
         },
         {
           "title": "伊朗称美方对伊朗提出5个关键条件",
           "url": "https://wallstreetcn.com/livenews/3104869",
           "source": "华尔街见闻-快讯",
           "ranks": [
+            27,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时57分 ~ 03时12分]"
+        },
+        {
+          "title": "据沙特媒体哈达斯（Alhadath）：以色列媒体报道，针对伊朗的打击目标清单中，包含了华盛顿在上一轮行动中拒绝予以打击的地点。",
+          "url": "https://flash.jin10.com/detail/20260518013851218800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时58分 ~ 03时12分]"
+        },
+        {
+          "title": "以色列广播局援引官方消息称，若特朗普批准恢复（伊朗）战事，将发起联合攻击。",
+          "url": "https://flash.jin10.com/detail/20260518012843928800",
+          "source": "金十数据",
+          "ranks": [
+            11,
             27
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时57分 ~ 01时58分]"
+          "time_info": "[01时58分 ~ 03时12分]"
+        },
+        {
+          "title": "特朗普向伊朗发出武力威胁 下周二讨论军事行动选项",
+          "url": "https://flash.jin10.com/detail/20260518012607481800",
+          "source": "金十数据",
+          "ranks": [
+            13,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时58分 ~ 03时12分]"
+        },
+        {
+          "title": "谁卡住AI算力瓶颈谁就离财富越近",
+          "url": "https://www.toutiao.com/trending/7640834668656332351/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时11分 ~ 03时12分]"
+        },
+        {
+          "title": "据AXIOS网站：美国总统特朗普表示，他仍然认为伊朗希望达成协议，并表示他正在等待伊朗提出更新的方案，希望新方案能比几天前提出的方案更好。他拒绝给出与伊朗谈判的具体期限。",
+          "url": "https://flash.jin10.com/detail/20260518021439286800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时12分"
         },
         {
           "title": "伊朗媒体称，美国在最新的和平提议中“没有做出任何让步”",
@@ -253,37 +340,15 @@
           "time_info": "00时57分"
         },
         {
-          "title": "据沙特媒体哈达斯（Alhadath）：以色列媒体报道，针对伊朗的打击目标清单中，包含了华盛顿在上一轮行动中拒绝予以打击的地点。",
-          "url": "https://flash.jin10.com/detail/20260518013851218800",
+          "title": "伊朗国防部：伊朗完全准备好应对任何新的侵略。",
+          "url": "https://flash.jin10.com/detail/20260518021341985800",
           "source": "金十数据",
           "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时58分"
-        },
-        {
-          "title": "以色列广播局援引官方消息称，若特朗普批准恢复（伊朗）战事，将发起联合攻击。",
-          "url": "https://flash.jin10.com/detail/20260518012843928800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时58分"
-        },
-        {
-          "title": "特朗普向伊朗发出武力威胁 下周二讨论军事行动选项",
-          "url": "https://flash.jin10.com/detail/20260518012607481800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时58分"
+          "time_info": "03时12分"
         },
         {
           "title": "卡塔尔外交部发表声明称，卡塔尔首相与巴基斯坦总理谢赫巴兹·谢里夫通电话，讨论巴基斯坦在伊朗战争中的调解努力。卡塔尔首相重申卡塔尔全力支持巴基斯坦为通过和平手段结束危机而进行的调解努力。",
@@ -314,7 +379,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时58分"
         },
@@ -347,7 +412,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时58分"
         },
@@ -369,7 +434,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时58分"
         },
