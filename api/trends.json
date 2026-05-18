@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-19T05:09:24.251231+08:00",
-  "total_titles_processed": 464,
+  "generated_at": "2026-05-19T06:58:52.342036+08:00",
+  "total_titles_processed": 546,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai ai+ ai人工智能 人工智能 风险识别 商业风险识别 痛点 需求 商业风险 伊朗 rwa 趋势 热点 热门",
-      "match_count": 64,
+      "match_count": 79,
       "titles": [
         {
           "title": "李强：推动人工智能与先进制造业深度融合 加快培育塑造经济发展新动能新优势",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时58分 ~ 05时09分]"
+          "appearance_count": 4,
+          "time_info": "[01时58分 ~ 06时58分]"
         },
         {
           "title": "AI恶意P图白嫖,卖家哭晕",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时58分 ~ 05时09分]"
+          "appearance_count": 4,
+          "time_info": "[01时58分 ~ 06时58分]"
         },
         {
           "title": "报道：美方同意在谈判期间暂时豁免对伊朗的石油制裁",
@@ -37,8 +37,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时58分 ~ 05时09分]"
+          "appearance_count": 4,
+          "time_info": "[01时58分 ~ 06时58分]"
         },
         {
           "title": "伊朗回应特朗普威胁：我们知道如何应对",
@@ -48,8 +48,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时58分 ~ 05时09分]"
+          "appearance_count": 4,
+          "time_info": "[01时58分 ~ 06时58分]"
         },
         {
           "title": "英伟达周三财报夜：决定AI牛市命运的一战来了！",
@@ -59,8 +59,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时58分 ~ 05时09分]"
+          "appearance_count": 4,
+          "time_info": "[01时58分 ~ 06时58分]"
         },
         {
           "title": "伊朗披露穆杰塔巴受伤细节",
@@ -70,8 +70,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时58分 ~ 05时09分]"
+          "appearance_count": 4,
+          "time_info": "[01时58分 ~ 06时58分]"
         },
         {
           "title": "伊朗塔斯尼姆通讯社：伊朗在格什姆岛发现美以无人机。",
@@ -135,7 +135,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时09分"
         },
@@ -146,7 +146,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时09分"
         },
@@ -173,6 +173,40 @@
           "time_info": "03时47分"
         },
         {
+          "title": "伊朗披露最高领袖穆杰塔巴受伤细节",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%8A%AB%E9%9C%B2%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E7%A9%86%E6%9D%B0%E5%A1%94%E5%B7%B4%E5%8F%97%E4%BC%A4%E7%BB%86%E8%8A%82",
+          "source": "百度热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时58分 ~ 06时58分]"
+        },
+        {
+          "title": "美方被曝将暂停对伊朗的石油制裁",
+          "url": "https://news.ifeng.com/c/8tEXAzuY8D3",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时58分 ~ 06时58分]"
+        },
+        {
+          "title": "伊朗哈尔克岛油轮积压创峰值，美军封锁令原油出口陷入瓶颈",
+          "url": "https://wallstreetcn.com/articles/3772533",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时58分 ~ 06时58分]"
+        },
+        {
           "title": "报道：苹果计划为iOS 27推出AI写作助手、快捷指令及壁纸功能",
           "url": "https://wallstreetcn.com/livenews/3105548",
           "source": "华尔街见闻-快讯",
@@ -185,39 +219,6 @@
           "time_info": "[01时58分 ~ 03时47分]"
         },
         {
-          "title": "伊朗披露最高领袖穆杰塔巴受伤细节",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%8A%AB%E9%9C%B2%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E7%A9%86%E6%9D%B0%E5%A1%94%E5%B7%B4%E5%8F%97%E4%BC%A4%E7%BB%86%E8%8A%82",
-          "source": "百度热搜",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时58分 ~ 05时09分]"
-        },
-        {
-          "title": "美方被曝将暂停对伊朗的石油制裁",
-          "url": "https://news.ifeng.com/c/8tEXAzuY8D3",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时58分 ~ 05时09分]"
-        },
-        {
-          "title": "伊朗哈尔克岛油轮积压创峰值，美军封锁令原油出口陷入瓶颈",
-          "url": "https://wallstreetcn.com/articles/3772533",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时58分 ~ 05时09分]"
-        },
-        {
           "title": "伊朗成立管理霍尔木兹海峡新机构",
           "url": "https://news.ifeng.com/c/8tEPWGzaW36",
           "source": "凤凰网",
@@ -225,8 +226,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时58分 ~ 05时09分]"
+          "appearance_count": 4,
+          "time_info": "[01时58分 ~ 06时58分]"
         },
         {
           "title": "【焦点复盘】科创50冲高回落涨0.81%，近端次新股获资金持续抱团，物理AI概念异军突起",
@@ -237,8 +238,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时58分 ~ 05时09分]"
+          "appearance_count": 4,
+          "time_info": "[01时58分 ~ 06时58分]"
         },
         {
           "title": "伊朗称有权对霍尔木兹海峡海底光缆收“管理费”",
@@ -248,8 +249,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时47分 ~ 05时09分]"
+          "appearance_count": 3,
+          "time_info": "[03时47分 ~ 06时58分]"
         },
         {
           "title": "伊朗披露穆杰塔巴受伤细节",
@@ -260,8 +261,31 @@
             26
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时47分 ~ 06时58分]"
+        },
+        {
+          "title": "AI自动驾驶赛车有搞头吗",
+          "url": "https://search.bilibili.com/all?keyword=AI%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E8%B5%9B%E8%BD%A6%E6%9C%89%E6%90%9E%E5%A4%B4%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            29,
+            30
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[03时47分 ~ 05时09分]"
+          "time_info": "[03时47分 ~ 06时58分]"
+        },
+        {
+          "title": "用AI记录早餐奶奶的一生",
+          "url": "https://www.douyin.com/hot/2503064",
+          "source": "抖音",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时58分 ~ 06时58分]"
         },
         {
           "title": "伊朗通过巴基斯坦提交14点谈判文本",
@@ -347,7 +371,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时09分"
         },
@@ -358,7 +382,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时09分"
         },
@@ -369,7 +393,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时09分"
         },
@@ -402,7 +426,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时09分"
         },
@@ -446,7 +470,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时09分"
         },
@@ -468,7 +492,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时09分"
         },
@@ -490,9 +514,31 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时09分"
+        },
+        {
+          "title": "特朗普称将推迟对伊朗发动军事打击",
+          "url": "https://www.cls.cn/detail/2374774",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时58分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗不会拥有核武器。",
+          "url": "https://flash.jin10.com/detail/20260519054721286800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时58分"
         },
         {
           "title": "戴尔AI服务器新增1,000家客户，全力进军企业级用户市场",
@@ -512,9 +558,31 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时09分"
+        },
+        {
+          "title": "美国总统特朗普：中东方面询问是否可以将对伊朗的攻击推迟2到3天，因为这些国家认为协议接近达成。",
+          "url": "https://flash.jin10.com/detail/20260519054708141800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时58分"
+        },
+        {
+          "title": "WTI原油期货7月跌2.1%，特朗普暂缓袭击伊朗的计划。",
+          "url": "https://wallstreetcn.com/livenews/3105634",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时58分"
         },
         {
           "title": "伊朗最高领袖重申将考虑开辟新战线",
@@ -523,9 +591,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时09分"
+        },
+        {
+          "title": "美国总统特朗普：（与伊朗）达成协议的机会似乎很大。",
+          "url": "https://flash.jin10.com/detail/20260519054603211800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时58分"
         },
         {
           "title": "【伊朗最高领袖重申将考虑开辟新战线】伊朗最高领袖穆杰塔巴·哈梅内伊的社交媒体账号18日再次摘发其上任后首份声明，重申将考虑在敌人不擅长的领域开辟新战线。声明说，关于开辟其他战线的问题，相关研究已经完成，“敌人在这些领域经验极少且极度脆弱”。声明表示，如果“战争状态”持续，伊朗将开辟这些新战线。（新华社）",
@@ -534,9 +613,31 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时09分"
+        },
+        {
+          "title": "英伟达：Vera CPU抵达Anthropic、OpenAI、SpaceX、甲骨文的AI实验室。",
+          "url": "https://wallstreetcn.com/livenews/3105632",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时58分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗必须将其不拥有核武器的承诺以书面形式确认。我认为我们在伊朗问题上取得了很大进展。",
+          "url": "https://flash.jin10.com/detail/20260519054443438800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时58分"
         },
         {
           "title": "CNBC记者：美国官员表示，伊朗国家媒体关于美国同意在谈判期间解除石油制裁的报道是虚假的。",
@@ -548,6 +649,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时58分"
+        },
+        {
+          "title": "美国总统特朗普：我们当时正准备在明天发动一场大规模攻击。我已将其推迟一段时间。希望可能是永远，但或许只是一小段时间，因为我们与伊朗进行了非常重要的讨论，我们将拭目以待其结果。",
+          "url": "https://flash.jin10.com/detail/20260519054259918800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时58分"
         },
         {
           "title": "美媒：白宫认为伊朗最新提案无实质性改进 考虑重启军事行动",
@@ -578,9 +690,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时09分"
+        },
+        {
+          "title": "美国总统特朗普：我们将看看与伊朗的谈判是否会有成果。",
+          "url": "https://flash.jin10.com/detail/20260519054033421800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时58分"
         },
         {
           "title": "黄仁勋：预计内存需求将超过产能",
@@ -592,6 +715,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时47分"
+        },
+        {
+          "title": "美国总统特朗普谈及推迟对伊朗发动袭击的决定，称：希望也许永远如此。 各国问我们是否可以短暂地推迟对伊朗的袭击。 （谈及暂停对伊朗发动袭击）这是一个积极的进展。",
+          "url": "https://wallstreetcn.com/livenews/3105627",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时58分"
         },
         {
           "title": "英伟达CEO黄仁勋：内存需求将超过产能。",
@@ -611,9 +745,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时09分"
+        },
+        {
+          "title": "美国总统特朗普：（关于伊朗）如果我们能达成一项协议，让他们无法获得核武器，我们可能会感到满意。",
+          "url": "https://flash.jin10.com/detail/20260519053840594800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时58分"
         },
         {
           "title": "伊朗官员：美国自设打击的最后期限又自行取消",
@@ -622,9 +767,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时09分"
+        },
+        {
+          "title": "花旗预计，如果需求下降不足以抵消供应紧张，未来3个月内铝价有望达到4000美元/吨。",
+          "url": "https://flash.jin10.com/detail/20260519052850048800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时58分"
         },
         {
           "title": "纳斯达克金龙中国指数收跌0.72%，报6790.67点。 热门中概股里，理想初步收跌9.8%，日月光半导体跌6.6%，蔚来、小鹏跌超3%，阿里巴巴涨0.5%，小米涨1.4%，百度涨1.8%。 ETF中，中概互联网指数ETF（KWEB）收跌0.39%，中国科技指数ETF（CQQQ）收涨0.54%。 德银嘉实沪深300指数ETF（ASHR）收跌0.45%，MSCI新兴市场ex中国ETF（EMXC）收跌0.05%，XtrackersHarvest中证50（ASHS）收涨0.06%。",
@@ -633,9 +789,31 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时09分"
+        },
+        {
+          "title": "花旗预计，即使在需求疲软的情况下，今年仍铝市场将出现近270万吨的供应短缺。",
+          "url": "https://flash.jin10.com/detail/20260519052740574800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时58分"
+        },
+        {
+          "title": "花旗：预计铝库存将在未来6-12个月创历史新低。 即便是在2026年需求欠佳的情况下，预计仍然存在将近270万吨供应缺口。",
+          "url": "https://wallstreetcn.com/livenews/3105622",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时58分"
         },
         {
           "title": "【美官员否认美国同意谈判期间暂时豁免对伊朗石油制裁】一名美国官员表示，伊朗方面关于“美国已同意在谈判进行期间解除对伊朗石油制裁”的消息是“虚假的”。当天早些时候，伊朗方面援引谈判团队相关消息人士的话称，美国在最新谈判文本中，已同意在谈判期间对伊朗石油制裁实施临时豁免。（央视）",
@@ -655,9 +833,20 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时09分"
+        },
+        {
+          "title": "报道：AI芯片初创公司Tenstorrent吸引英特尔与高通早期收购兴趣，估值或超50亿美元",
+          "url": "https://wallstreetcn.com/livenews/3105620",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时58分"
         },
         {
           "title": "英国首相热门候选人：若胜选将拒绝修改英国财政规则",
@@ -682,37 +871,15 @@
           "time_info": "03时47分"
         },
         {
-          "title": "AI自动驾驶赛车有搞头吗",
-          "url": "https://search.bilibili.com/all?keyword=AI%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E8%B5%9B%E8%BD%A6%E6%9C%89%E6%90%9E%E5%A4%B4%E5%90%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时47分"
-        },
-        {
           "title": "白宫发言人Anna Kelly：Truth Social贴文凸显出美国总统特朗普的严肃态度。 伊朗不可以拥有浓缩铀。 特朗普一直都拥有所有的选项。",
           "url": "https://wallstreetcn.com/livenews/3105582",
           "source": "华尔街见闻-快讯",
           "ranks": [
             29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时09分"
-        },
-        {
-          "title": "用AI记录早餐奶奶的一生",
-          "url": "https://www.douyin.com/hot/2503064",
-          "source": "抖音",
-          "ranks": [
-            29
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时58分"
+          "time_info": "05时09分"
         }
       ]
     }
