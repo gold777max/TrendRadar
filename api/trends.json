@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-20T17:25:28.778623+08:00",
-  "total_titles_processed": 1022,
+  "generated_at": "2026-05-20T20:22:25.611861+08:00",
+  "total_titles_processed": 1200,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai ai+ ai人工智能 人工智能 风险识别 商业风险识别 痛点 需求 商业风险 伊朗 rwa 趋势 热点 热门",
-      "match_count": 72,
+      "match_count": 76,
       "titles": [
         {
           "title": "伊媒：伊朗格什姆岛传出爆炸声",
@@ -39,11 +39,24 @@
             5,
             8,
             15,
-            17
+            17,
+            19
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时04分 ~ 17时25分]"
+          "appearance_count": 9,
+          "time_info": "[02时04分 ~ 20时22分]"
+        },
+        {
+          "title": "谷歌I/O大会All in AI：Gemini模型上新，搜索框25年来最大改版，AI眼镜回归，Spark智能体首秀",
+          "url": "https://wallstreetcn.com/articles/3772658",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时01分 ~ 20时22分]"
         },
         {
           "title": "原定周二对伊朗攻击！特朗普应海湾三国请求推迟，内塔尼亚胡连续两晚开会备战",
@@ -55,18 +68,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时04分 ~ 06时14分]"
-        },
-        {
-          "title": "谷歌I/O大会All in AI：Gemini模型上新，搜索框25年来最大改版，AI眼镜回归，Spark智能体首秀",
-          "url": "https://wallstreetcn.com/articles/3772658",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时01分 ~ 17时25分]"
         },
         {
           "title": "秘密袭击伊朗，野心与压力碰撞下阿联酋正将海湾变成前线",
@@ -174,7 +175,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时25分"
         },
@@ -219,7 +220,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时25分"
         },
@@ -301,6 +302,17 @@
           "time_info": "02时04分"
         },
         {
+          "title": "韩国周三与伊朗伊斯兰革命卫队就穿越海峡进行了协调。（伊朗电视台）",
+          "url": "https://wallstreetcn.com/livenews/3106713",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时22分"
+        },
+        {
           "title": "5月20日投资避雷针：9天6板人气股提示风险 无AI覆铜板及高速覆铜板产品",
           "url": "https://www.cls.cn/detail/2376131",
           "source": "财联社热门",
@@ -369,6 +381,18 @@
           "time_info": "[04时29分 ~ 08时02分]"
         },
         {
+          "title": "美债风暴只是表象？一文读懂：真正能冲击AI牛的是流动性！",
+          "url": "https://www.cls.cn/detail/2376546",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时25分 ~ 20时22分]"
+        },
+        {
           "title": "谷歌I/O大会今夜揭幕： Gemini 4.0悬念、全栈智能体与AI购物",
           "url": "https://wallstreetcn.com/articles/3772609",
           "source": "华尔街见闻",
@@ -394,6 +418,17 @@
           "time_info": "[08时01分 ~ 13时02分]"
         },
         {
+          "title": "伊朗称有权对霍尔木兹海峡海底光缆收管理费，光缆每天承载超 10 万亿美元的全球金融数据，此举影响力有多大？",
+          "url": "https://www.zhihu.com/question/2040001269360767857",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时25分 ~ 20时22分]"
+        },
+        {
           "title": "纳斯达克金龙中国指数初步大致收平。 热门中概股里，京东、拼多多初步收涨2.5%，腾讯、阿里、美团、小马智行、网易、百度至多涨1.9%。",
           "url": "https://wallstreetcn.com/livenews/3106237",
           "source": "华尔街见闻-快讯",
@@ -403,17 +438,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时29分"
-        },
-        {
-          "title": "伊朗称有权对霍尔木兹海峡海底光缆收管理费，光缆每天承载超 10 万亿美元的全球金融数据，此举影响力有多大？",
-          "url": "https://www.zhihu.com/question/2040001269360767857",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时25分"
         },
         {
           "title": "谷歌首席执行官：AI OVERVIEWS每月有25亿用户，AI MODE有10亿用户。Gemini 拥有9亿月活跃用户。",
@@ -436,17 +460,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时29分"
-        },
-        {
-          "title": "美债风暴只是表象？一文读懂：真正能冲击AI牛的是流动性！",
-          "url": "https://www.cls.cn/detail/2376546",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时25分"
         },
         {
           "title": "美国总统特朗普：（关于伊朗战事）希望我们能以一种好的方式解决它。",
@@ -504,6 +517,17 @@
           "time_info": "06时14分"
         },
         {
+          "title": "高盛交易台预警：市场主导叙事正悄然从AI转向利率",
+          "url": "https://wallstreetcn.com/articles/3772653",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时22分"
+        },
+        {
           "title": "OpenAI担保给予开支水平的算力。",
           "url": "https://wallstreetcn.com/livenews/3106231",
           "source": "华尔街见闻-快讯",
@@ -532,7 +556,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时25分"
         },
@@ -576,7 +600,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时25分"
         },
@@ -614,6 +638,17 @@
           "time_info": "06时14分"
         },
         {
+          "title": "伊朗总统称战争期间能源生产供应未中断",
+          "url": "https://wallstreetcn.com/livenews/3106701",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时22分"
+        },
+        {
           "title": "美联储保尔森：如果伊朗冲突持续，将进一步增加通胀和失业的风险。",
           "url": "https://flash.jin10.com/detail/20260520072823535800",
           "source": "金十数据",
@@ -634,6 +669,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时14分"
+        },
+        {
+          "title": "据伊朗电视台：韩国周三与伊朗伊斯兰革命卫队就穿越海峡进行了协调。",
+          "url": "https://flash.jin10.com/detail/20260520195927813800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时22分"
         },
         {
           "title": "摩根大通：AI掀起产业变革正全方位考验管理层的领导力",
@@ -686,7 +732,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时25分"
         },
@@ -697,7 +743,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时25分"
         },
@@ -730,7 +776,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时25分"
         },
@@ -763,7 +809,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时25分"
         },
@@ -796,7 +842,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时25分"
         },
