@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-22T01:31:57.469417+08:00",
-  "total_titles_processed": 309,
+  "generated_at": "2026-05-22T03:50:09.124656+08:00",
+  "total_titles_processed": 400,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai ai+ ai人工智能 人工智能 风险识别 商业风险识别 痛点 需求 商业风险 伊朗 rwa 趋势 热点 热门",
-      "match_count": 25,
+      "match_count": 39,
       "titles": [
         {
           "title": "美国毕业典礼嘘声四起背后：反AI浪潮浮现，“AI还不如政客受欢迎”",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时31分"
+          "appearance_count": 3,
+          "time_info": "[01时31分 ~ 03时50分]"
         },
         {
           "title": "如何评价 OpenAI 称推翻困扰数学界近 80 年的「平面单位距离猜想」？这一结果的可信度如何？",
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时31分"
+          "appearance_count": 3,
+          "time_info": "[01时31分 ~ 03时50分]"
         },
         {
           "title": "SpaceX招股书揭秘：Starlink是印钞机，xAI是吞金兽，马斯克用卫星养AI",
@@ -37,8 +37,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时31分"
+          "appearance_count": 3,
+          "time_info": "[01时31分 ~ 03时50分]"
+        },
+        {
+          "title": "【每日收评】沪指放量跌超2%失守4100点，AI硬件与半导体等热门赛道大幅回调",
+          "url": "https://www.cls.cn/detail/2377977",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时31分 ~ 03时50分]"
         },
         {
           "title": "OpenAI：AdventHealth正在部署Chatgpt以减轻行政负担，并优化其系统内的临床工作流程。",
@@ -52,6 +63,17 @@
           "time_info": "01时31分"
         },
         {
+          "title": "星巴克在北美全线叫停AI库存盘点工具",
+          "url": "https://wallstreetcn.com/livenews/3107600",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时50分"
+        },
+        {
           "title": "金十图示：2026年05月21日（周四）热门中概股行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260522010102692800",
           "source": "金十数据",
@@ -63,15 +85,15 @@
           "time_info": "01时31分"
         },
         {
-          "title": "【每日收评】沪指放量跌超2%失守4100点，AI硬件与半导体等热门赛道大幅回调",
-          "url": "https://www.cls.cn/detail/2377977",
-          "source": "财联社热门",
+          "title": "消息人士：内部消息称，星巴克终止旨在解决产品短缺的人工智能项目。",
+          "url": "https://flash.jin10.com/detail/20260522025524231800",
+          "source": "金十数据",
           "ranks": [
             5
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时31分"
+          "time_info": "03时50分"
         },
         {
           "title": "三星“百万亿级”罢工戏剧性刹车，劳资博弈如何分配AI狂潮下的巨额利润",
@@ -81,8 +103,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时31分"
+          "appearance_count": 3,
+          "time_info": "[01时31分 ~ 03时50分]"
         },
         {
           "title": "涨停封单最高超百亿元！京东方A签约康宁搅动AI封装产业链",
@@ -92,8 +114,88 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时31分"
+          "appearance_count": 3,
+          "time_info": "[01时31分 ~ 03时50分]"
+        },
+        {
+          "title": "英伟达电话会：需求在加速，Vera Rubin全周期供应受限，独立CPU业务解锁2000亿美元市场",
+          "url": "https://wallstreetcn.com/articles/3772763",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时31分 ~ 03时50分]"
+        },
+        {
+          "title": "困扰人类80年的数学难题，被AI破解了！奥特曼：感受很复杂",
+          "url": "https://wallstreetcn.com/articles/3772780",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时31分 ~ 03时50分]"
+        },
+        {
+          "title": "伊朗最高领袖：接近武器级的铀得留下",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%EF%BC%9A%E6%8E%A5%E8%BF%91%E6%AD%A6%E5%99%A8%E7%BA%A7%E7%9A%84%E9%93%80%E5%BE%97%E7%95%99%E4%B8%8B",
+          "source": "百度热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时31分 ~ 03时50分]"
+        },
+        {
+          "title": "AI还原祖国人注射V1后的战斗力",
+          "url": "https://search.bilibili.com/all?keyword=AI%E8%BF%98%E5%8E%9F%E7%A5%96%E5%9B%BD%E4%BA%BA%E6%B3%A8%E5%B0%84V1%E5%90%8E%E7%9A%84%E6%88%98%E6%96%97%E5%8A%9B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            18,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时31分 ~ 03时50分]"
+        },
+        {
+          "title": "伊朗最高领袖下令：接近武器级的铀必须留在国内",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33205517",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时31分 ~ 03时50分]"
+        },
+        {
+          "title": "伊朗最高领袖下令：接近武器级的铀必须留在国内",
+          "url": "https://wallstreetcn.com/articles/3772837",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时49分 ~ 03时50分]"
+        },
+        {
+          "title": "Anthropic 被曝 300 亿美元融资，投前估值超 9000 亿，AI 泡沫到底有没有天花板？",
+          "url": "https://www.zhihu.com/question/2037993874522629479",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时49分 ~ 03时50分]"
         },
         {
           "title": "美联储巴尔金：我不相信人工智能对就业的净影响会是负面的，但过渡期可能会很困难。",
@@ -107,26 +209,15 @@
           "time_info": "01时31分"
         },
         {
-          "title": "英伟达电话会：需求在加速，Vera Rubin全周期供应受限，独立CPU业务解锁2000亿美元市场",
-          "url": "https://wallstreetcn.com/articles/3772763",
-          "source": "华尔街见闻",
+          "title": "据伊朗国家电视台：伊朗总统佩泽希齐扬称，不会在谈判中退让。",
+          "url": "https://flash.jin10.com/detail/20260522025123533800",
+          "source": "金十数据",
           "ranks": [
             7
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时31分"
-        },
-        {
-          "title": "困扰人类80年的数学难题，被AI破解了！奥特曼：感受很复杂",
-          "url": "https://wallstreetcn.com/articles/3772780",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时31分"
+          "time_info": "03时50分"
         },
         {
           "title": "伊朗战争引发的化肥价格上涨威胁巴西农业经济",
@@ -140,15 +231,15 @@
           "time_info": "01时31分"
         },
         {
-          "title": "伊朗最高领袖：接近武器级的铀得留下",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%EF%BC%9A%E6%8E%A5%E8%BF%91%E6%AD%A6%E5%99%A8%E7%BA%A7%E7%9A%84%E9%93%80%E5%BE%97%E7%95%99%E4%B8%8B",
-          "source": "百度热搜",
+          "title": "据The Information：Anthropic的年化收入近期达到接近450亿美元水平，超过了OpenAI的250亿美元。",
+          "url": "https://flash.jin10.com/detail/20260522022949905800",
+          "source": "金十数据",
           "ranks": [
-            13
+            11
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时31分"
+          "time_info": "03时50分"
         },
         {
           "title": "伊朗外交部：伊朗外长与奥地利外长周四下午进行了电话交谈，讨论了最新的外交动态及双边关系相关问题，进行了意见交流。",
@@ -162,6 +253,28 @@
           "time_info": "01时31分"
         },
         {
+          "title": "据The Information：OpenAI在第一季度创造了57亿美元的收入，领先竞争对手Anthropic 10亿美元",
+          "url": "https://flash.jin10.com/detail/20260522022849271800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时50分"
+        },
+        {
+          "title": "报道：OpenAI在第一季度创造57亿美元收入",
+          "url": "https://wallstreetcn.com/livenews/3107589",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时50分"
+        },
+        {
           "title": "美国总统特朗普：我推迟了人工智能（AI）行政命令签字仪式的会议。 不喜欢行政命令中的某些内容。 AI行政命令可能会妨碍美国在AI领域保持领先地位。",
           "url": "https://wallstreetcn.com/livenews/3107551",
           "source": "华尔街见闻-快讯",
@@ -173,26 +286,26 @@
           "time_info": "01时31分"
         },
         {
-          "title": "伊朗最高领袖下令：接近武器级的铀必须留在国内",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33205517",
-          "source": "澎湃新闻",
+          "title": "战损惨重！伊朗已击毁价值近10亿美元的美国“死神”无人机",
+          "url": "https://wallstreetcn.com/livenews/3107586",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            18
+            16
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时31分"
+          "time_info": "03时50分"
         },
         {
-          "title": "AI还原祖国人注射V1后的战斗力",
-          "url": "https://search.bilibili.com/all?keyword=AI%E8%BF%98%E5%8E%9F%E7%A5%96%E5%9B%BD%E4%BA%BA%E6%B3%A8%E5%B0%84V1%E5%90%8E%E7%9A%84%E6%88%98%E6%96%97%E5%8A%9B",
-          "source": "bilibili 热搜",
+          "title": "美国里士满联储主席Barkin（2027年FOMC票委）：对职责（实现充分就业+维持价格稳定）两个方面的感到神经紧张。 当前不是实施强有力前瞻指引的时机。 我所接触到的每一个人都在谈论AI相关的失业问题。 周二会见了候任美联储主席沃什，他没有透露自己会在美联储做什么。",
+          "url": "https://wallstreetcn.com/livenews/3107583",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             18
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时31分"
+          "time_info": "03时50分"
         },
         {
           "title": "美国总统特朗普：（关于人工智能行政命令）这一政令被推迟，因为我对某些方面不满意。",
@@ -226,6 +339,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时31分"
+        },
+        {
+          "title": "美联储巴尔金：就人工智能的短期与长期影响得出结论很困难。",
+          "url": "https://flash.jin10.com/detail/20260522020549910800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时50分"
         },
         {
           "title": "美国总统特朗普：正就伊朗问题进行谈判。 正在关注阿曼与霍尔木兹海峡通行费的问题。 我们（美国）完全掌控霍尔木兹海峡，封锁是100%有效的。 未经美国批准，任何船只都不能经过伊朗。 一旦伊朗（战争）结束，美国的汽油价格就会下降。 与伊朗的冲突很快就结束。",
@@ -272,6 +396,28 @@
           "time_info": "01时31分"
         },
         {
+          "title": "美联储巴尔金：软件行业以外的雇主尚未因人工智能减少员工人数。",
+          "url": "https://flash.jin10.com/detail/20260522020424744800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时50分"
+        },
+        {
+          "title": "伊朗外交部：现阶段谈判重点是结束所有战线战争",
+          "url": "https://wallstreetcn.com/livenews/3107575",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时50分"
+        },
+        {
           "title": "微软推出必应图像搜索。 微软对其推出由人工智能（AI）引导的升级。",
           "url": "https://wallstreetcn.com/livenews/3107538",
           "source": "华尔街见闻-快讯",
@@ -281,6 +427,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时31分"
+        },
+        {
+          "title": "Kepler依托Claude构建金融服务业可验证AI架构",
+          "url": "https://wallstreetcn.com/livenews/3107573",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时50分"
         }
       ]
     }
