@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-22T03:50:09.124656+08:00",
-  "total_titles_processed": 400,
+  "generated_at": "2026-05-22T05:25:23.336842+08:00",
+  "total_titles_processed": 478,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai ai+ ai人工智能 人工智能 风险识别 商业风险识别 痛点 需求 商业风险 伊朗 rwa 趋势 热点 热门",
-      "match_count": 39,
+      "match_count": 50,
       "titles": [
         {
           "title": "美国毕业典礼嘘声四起背后：反AI浪潮浮现，“AI还不如政客受欢迎”",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时31分 ~ 03时50分]"
+          "appearance_count": 4,
+          "time_info": "[01时31分 ~ 05时25分]"
         },
         {
           "title": "如何评价 OpenAI 称推翻困扰数学界近 80 年的「平面单位距离猜想」？这一结果的可信度如何？",
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时31分 ~ 03时50分]"
+          "appearance_count": 4,
+          "time_info": "[01时31分 ~ 05时25分]"
         },
         {
           "title": "SpaceX招股书揭秘：Starlink是印钞机，xAI是吞金兽，马斯克用卫星养AI",
@@ -37,8 +37,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时31分 ~ 03时50分]"
+          "appearance_count": 4,
+          "time_info": "[01时31分 ~ 05时25分]"
         },
         {
           "title": "【每日收评】沪指放量跌超2%失守4100点，AI硬件与半导体等热门赛道大幅回调",
@@ -48,8 +48,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时31分 ~ 03时50分]"
+          "appearance_count": 4,
+          "time_info": "[01时31分 ~ 05时25分]"
         },
         {
           "title": "OpenAI：AdventHealth正在部署Chatgpt以减轻行政负担，并优化其系统内的临床工作流程。",
@@ -69,7 +69,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时50分"
         },
@@ -91,7 +91,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时50分"
         },
@@ -103,8 +103,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时31分 ~ 03时50分]"
+          "appearance_count": 4,
+          "time_info": "[01时31分 ~ 05时25分]"
         },
         {
           "title": "涨停封单最高超百亿元！京东方A签约康宁搅动AI封装产业链",
@@ -114,8 +114,21 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时31分 ~ 03时50分]"
+          "appearance_count": 4,
+          "time_info": "[01时31分 ~ 05时25分]"
+        },
+        {
+          "title": "困扰人类80年的数学难题，被AI破解了！奥特曼：感受很复杂",
+          "url": "https://wallstreetcn.com/articles/3772780",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时31分 ~ 05时25分]"
         },
         {
           "title": "英伟达电话会：需求在加速，Vera Rubin全周期供应受限，独立CPU业务解锁2000亿美元市场",
@@ -126,20 +139,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时31分 ~ 03时50分]"
-        },
-        {
-          "title": "困扰人类80年的数学难题，被AI破解了！奥特曼：感受很复杂",
-          "url": "https://wallstreetcn.com/articles/3772780",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时31分 ~ 03时50分]"
+          "appearance_count": 4,
+          "time_info": "[01时31分 ~ 05时25分]"
         },
         {
           "title": "伊朗最高领袖：接近武器级的铀得留下",
@@ -149,8 +150,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时31分 ~ 03时50分]"
+          "appearance_count": 4,
+          "time_info": "[01时31分 ~ 05时25分]"
         },
         {
           "title": "AI还原祖国人注射V1后的战斗力",
@@ -161,8 +162,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时31分 ~ 03时50分]"
+          "appearance_count": 4,
+          "time_info": "[01时31分 ~ 05时25分]"
         },
         {
           "title": "伊朗最高领袖下令：接近武器级的铀必须留在国内",
@@ -172,30 +173,32 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时31分 ~ 03时50分]"
+          "appearance_count": 4,
+          "time_info": "[01时31分 ~ 05时25分]"
         },
         {
           "title": "伊朗最高领袖下令：接近武器级的铀必须留在国内",
           "url": "https://wallstreetcn.com/articles/3772837",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时49分 ~ 03时50分]"
+          "appearance_count": 3,
+          "time_info": "[03时49分 ~ 05时25分]"
         },
         {
           "title": "Anthropic 被曝 300 亿美元融资，投前估值超 9000 亿，AI 泡沫到底有没有天花板？",
           "url": "https://www.zhihu.com/question/2037993874522629479",
           "source": "知乎",
           "ranks": [
-            17
+            17,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时49分 ~ 03时50分]"
+          "appearance_count": 3,
+          "time_info": "[03时49分 ~ 05时25分]"
         },
         {
           "title": "美联储巴尔金：我不相信人工智能对就业的净影响会是负面的，但过渡期可能会很困难。",
@@ -215,9 +218,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时50分"
+        },
+        {
+          "title": "胡塞武装领导人：全力支持伊朗 以色列可以被击败",
+          "url": "https://flash.jin10.com/detail/20260522043531786800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时25分"
         },
         {
           "title": "伊朗战争引发的化肥价格上涨威胁巴西农业经济",
@@ -231,15 +245,37 @@
           "time_info": "01时31分"
         },
         {
+          "title": "沙特阿拉伯卫星电视台：伊朗媒体报道称美伊协议已达成并将此消息源归于本台的说法是捏造的。 伊朗媒体在未经核实的情况下将相关报道归于本台的行为属于新闻失实。",
+          "url": "https://wallstreetcn.com/livenews/3107624",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时25分"
+        },
+        {
           "title": "据The Information：Anthropic的年化收入近期达到接近450亿美元水平，超过了OpenAI的250亿美元。",
           "url": "https://flash.jin10.com/detail/20260522022949905800",
           "source": "金十数据",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时50分"
+        },
+        {
+          "title": "特朗普再威胁伊朗交出浓缩铀，称到手后或销毁",
+          "url": "https://wallstreetcn.com/livenews/3107623",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时25分"
         },
         {
           "title": "伊朗外交部：伊朗外长与奥地利外长周四下午进行了电话交谈，讨论了最新的外交动态及双边关系相关问题，进行了意见交流。",
@@ -259,9 +295,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时50分"
+        },
+        {
+          "title": "金十图示：2026年05月21日（周四）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260522041945523800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时25分"
         },
         {
           "title": "报道：OpenAI在第一季度创造57亿美元收入",
@@ -270,9 +317,31 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时50分"
+        },
+        {
+          "title": "特朗普再威胁伊朗交出浓缩铀 称到手后或销毁",
+          "url": "https://flash.jin10.com/detail/20260522041941266800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时25分"
+        },
+        {
+          "title": "金十图示：2026年05月21日（周四）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260522041555580800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时25分"
         },
         {
           "title": "美国总统特朗普：我推迟了人工智能（AI）行政命令签字仪式的会议。 不喜欢行政命令中的某些内容。 AI行政命令可能会妨碍美国在AI领域保持领先地位。",
@@ -292,7 +361,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时50分"
         },
@@ -303,7 +372,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时50分"
         },
@@ -330,6 +399,17 @@
           "time_info": "01时31分"
         },
         {
+          "title": "纳斯达克金龙中国指数收跌1.50%，报6659.19点。 热门中概股里，贝壳初步收跌6.5%，新东方跌4.5%，B站跌3.7%，万国数据跌3.5%，腾讯跌3.1%，百度跌2.9%，阿里跌2.1%，小米跌1.3%，大全新能源涨2.4%，文远知行涨3.4%，阿特斯太阳能涨8.5%。 ETF中，中国科技指数ETF（CQQQ）收跌1.92%，中概互联网指数ETF（KWEB）收跌1.74%。 XtrackersHarvest中证50（ASHS）收跌2.39%，德银嘉实沪深300指数ETF（ASHR）收跌0.73%，MSCI新兴市场ex中国ETF（EMXC）收涨1.40%。",
+          "url": "https://wallstreetcn.com/livenews/3107612",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时25分"
+        },
+        {
           "title": "美国总统特朗普：伊朗冲突将很快结束。",
           "url": "https://flash.jin10.com/detail/20260522001800513800",
           "source": "金十数据",
@@ -347,7 +427,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时50分"
         },
@@ -374,6 +454,28 @@
           "time_info": "01时31分"
         },
         {
+          "title": "据路透援引伊朗高级消息人士称，伊朗的铀浓缩问题及其对霍尔木兹海峡的控制仍然是僵局的关键点。",
+          "url": "https://flash.jin10.com/detail/20260522035852384800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时25分"
+        },
+        {
+          "title": "伊朗高级官员：双方目前尚未达成任何最终协议，但彼此之间的立场差距已有所收窄。 伊朗的铀浓缩活动及其对霍尔木兹海峡的控制权，依然是当前谈判中最核心的僵持点（梗阻所在）。",
+          "url": "https://wallstreetcn.com/livenews/3107609",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时25分"
+        },
+        {
           "title": "美国总统特朗普：伊朗不能保留浓缩铀。一旦获得这些浓缩铀，可能会予以销毁。我们不想要它。",
           "url": "https://flash.jin10.com/detail/20260522001633023800",
           "source": "金十数据",
@@ -383,6 +485,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时31分"
+        },
+        {
+          "title": "据路透援引伊朗高级消息人士称，双方尚未达成协议，但分歧已缩小。",
+          "url": "https://flash.jin10.com/detail/20260522035820609800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时25分"
         },
         {
           "title": "美军称对伊朗港口的封锁已使94艘商船改变航向",
@@ -402,7 +515,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时50分"
         },
@@ -413,7 +526,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时50分"
         },
@@ -435,9 +548,20 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时50分"
+        },
+        {
+          "title": "【巴基斯坦官员：美伊谈判正朝着正确的方向发展】一名巴基斯坦参议员在接受媒体采访时表示，伊朗与巴基斯坦之间以及巴基斯坦与美国之间的谈判仍在进行中，巴基斯坦尽一切努力促使各方回到谈判桌前，减少分歧，达成协议，结束战争。他还表示，美伊谈判正朝着正确的方向发展。伊朗和美国之间的谈判已经取得进展，并对此持乐观态度。（央视）",
+          "url": "https://wallstreetcn.com/livenews/3107603",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时25分"
         }
       ]
     }
