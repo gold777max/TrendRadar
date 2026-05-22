@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-23T01:07:23.895430+08:00",
-  "total_titles_processed": 305,
+  "generated_at": "2026-05-23T03:41:21.334639+08:00",
+  "total_titles_processed": 404,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai ai+ ai人工智能 人工智能 风险识别 商业风险识别 痛点 需求 商业风险 伊朗 rwa 趋势 热点 热门",
-      "match_count": 11,
+      "match_count": 26,
       "titles": [
         {
           "title": "鲁比奥：伊朗问题确实有一些进展",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时07分"
+          "appearance_count": 2,
+          "time_info": "[01时07分 ~ 03时41分]"
         },
         {
           "title": "AI浪潮提振全球股市，道指新高，量子计算股拉升，老虎证券、富途大跌逾30%，油价涨势暂歇",
@@ -26,8 +26,19 @@
             5
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时07分 ~ 03时41分]"
+        },
+        {
+          "title": "受伊朗战争重创，全球航运巨头达飞海运第一季度利润暴跌",
+          "url": "https://wallstreetcn.com/livenews/3108211",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时07分"
+          "time_info": "03时41分"
         },
         {
           "title": "伊朗“最大内鬼”，原来是他？",
@@ -37,8 +48,65 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时07分"
+          "appearance_count": 2,
+          "time_info": "[01时07分 ~ 03时41分]"
+        },
+        {
+          "title": "伊朗局势主导市场，纳指惊险收涨，道指收创新高，原油冲高转跌，美债走势分化",
+          "url": "https://wallstreetcn.com/articles/3772777",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时07分 ~ 03时41分]"
+        },
+        {
+          "title": "AI还原祖国人注射V1后的战斗力",
+          "url": "https://search.bilibili.com/all?keyword=AI%E8%BF%98%E5%8E%9F%E7%A5%96%E5%9B%BD%E4%BA%BA%E6%B3%A8%E5%B0%84V1%E5%90%8E%E7%9A%84%E6%88%98%E6%96%97%E5%8A%9B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时07分 ~ 03时41分]"
+        },
+        {
+          "title": "【每日收评】创业板指高开高走涨超2%，PCB等AI硬件全线爆发",
+          "url": "https://www.cls.cn/detail/2379110",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时07分 ~ 03时41分]"
+        },
+        {
+          "title": "郝哥李广奇回应AI买瓜",
+          "url": "https://search.bilibili.com/all?keyword=%E9%83%9D%E5%93%A5%E6%9D%8E%E5%B9%BF%E5%A5%87%E5%9B%9E%E5%BA%94AI%E4%B9%B0%E7%93%9C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时07分 ~ 03时41分]"
+        },
+        {
+          "title": "如何看待达摩院、北大最新 Nature 成果，AI 绘制中国首张高精度风光分布图，这对新能源行业有何价值？",
+          "url": "https://www.zhihu.com/question/2040809853350831319",
+          "source": "知乎",
+          "ranks": [
+            17,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时07分 ~ 03时41分]"
         },
         {
           "title": "市场消息：伊朗官员强调，巴基斯坦陆军参谋长穆尼尔此次到访并不意味着各方已就协议的初步框架达成最终共识。",
@@ -52,37 +120,26 @@
           "time_info": "01时07分"
         },
         {
-          "title": "伊朗局势主导市场，纳指惊险收涨，道指收创新高，原油冲高转跌，美债走势分化",
-          "url": "https://wallstreetcn.com/articles/3772777",
-          "source": "华尔街见闻",
+          "title": "据半岛电视台：一位伊朗消息人士表示，目前尚未达成任何最终协议，双方正在努力缩小差距，停止所有战线的战争是未来任何谈判的基本前提。",
+          "url": "https://flash.jin10.com/detail/20260523024028629800",
+          "source": "金十数据",
           "ranks": [
-            8
+            7
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时07分"
+          "time_info": "03时41分"
         },
         {
-          "title": "AI还原祖国人注射V1后的战斗力",
-          "url": "https://search.bilibili.com/all?keyword=AI%E8%BF%98%E5%8E%9F%E7%A5%96%E5%9B%BD%E4%BA%BA%E6%B3%A8%E5%B0%84V1%E5%90%8E%E7%9A%84%E6%88%98%E6%96%97%E5%8A%9B",
-          "source": "bilibili 热搜",
+          "title": "【伊朗外交部发言人：伊美分歧严重，难言协议接近达成】伊朗外交部发言人巴加埃22日表示，当前无法断言伊美协议已接近达成，双方分歧依然严重。据伊朗媒体22日报道，巴加埃谈及巴基斯坦高级官员访问德黑兰时说，这表明当前局势已进入“转折点或决定性阶段”。他提到，巴基斯坦陆军参谋长穆尼尔已访问德黑兰，相关沟通仍在进行中。在回答“这是否意味着谈判进程发生变化”时，巴加埃说，目前不能说伊美协议已接近达成，伊美之间存在严重且广泛的分歧，“外交是一个耗时的过程”。巴加埃说，不能期待通过数轮往返磋商，就可能在数周或数月内看到结果。他强调，外交谈判本身是长期过程，双方正利用各种机会传递各自立场。（新华社）",
+          "url": "https://wallstreetcn.com/livenews/3108205",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            7
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时07分"
-        },
-        {
-          "title": "【每日收评】创业板指高开高走涨超2%，PCB等AI硬件全线爆发",
-          "url": "https://www.cls.cn/detail/2379110",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时07分"
+          "time_info": "03时41分"
         },
         {
           "title": "美国总统特朗普：（重申）伊朗渴望达成协议，我们拭目以待。",
@@ -96,26 +153,70 @@
           "time_info": "01时07分"
         },
         {
-          "title": "郝哥李广奇回应AI买瓜",
-          "url": "https://search.bilibili.com/all?keyword=%E9%83%9D%E5%93%A5%E6%9D%8E%E5%B9%BF%E5%A5%87%E5%9B%9E%E5%BA%94AI%E4%B9%B0%E7%93%9C",
-          "source": "bilibili 热搜",
+          "title": "伊朗外交部发言人：当前伊美谈判不涉及核问题",
+          "url": "https://wallstreetcn.com/livenews/3108197",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             14
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时07分"
+          "time_info": "03时41分"
         },
         {
-          "title": "如何看待达摩院、北大最新 Nature 成果，AI 绘制中国首张高精度风光分布图，这对新能源行业有何价值？",
-          "url": "https://www.zhihu.com/question/2040809853350831319",
-          "source": "知乎",
+          "title": "金十图示：2026年05月22日（周五）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260523021145540800",
+          "source": "金十数据",
           "ranks": [
-            17
+            15
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时07分"
+          "time_info": "03时41分"
+        },
+        {
+          "title": "金十图示：2026年05月22日（周五）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260523020941374800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时41分"
+        },
+        {
+          "title": "媒体称美伊已就核问题的总体框架达成谅解 伊朗外交部紧急辟谣",
+          "url": "https://flash.jin10.com/detail/20260523015051423800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时41分"
+        },
+        {
+          "title": "伊朗外交部发言人：如果我们试图深入探讨与伊朗高度浓缩铀相关的细节，将无法得出结论。",
+          "url": "https://flash.jin10.com/detail/20260523014751504800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时41分"
+        },
+        {
+          "title": "伊朗：卡塔尔在（与相关方面）谈，但巴基斯坦仍然是（伊朗与美国之间的）调停人。",
+          "url": "https://wallstreetcn.com/livenews/3108191",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时41分"
         },
         {
           "title": "标普500成分股有望创五年来最强财报季，增长势头从AI向其他行业扩展",
@@ -127,6 +228,72 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时07分"
+        },
+        {
+          "title": "伊朗外交部发言人：尚无即将达成的协议。",
+          "url": "https://flash.jin10.com/detail/20260523013835680800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时41分"
+        },
+        {
+          "title": "媒体称美伊已就核问题的总体框架达成谅解，伊朗外交部辟谣",
+          "url": "https://wallstreetcn.com/livenews/3108188",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时41分"
+        },
+        {
+          "title": "据伊朗伊斯兰共和国通讯社（IRNA）：伊朗外交部发言人表示，目前阶段未讨论与核问题相关的细节。",
+          "url": "https://flash.jin10.com/detail/20260523013343176800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时41分"
+        },
+        {
+          "title": "据伊朗伊斯兰共和国通讯社（IRNA）：伊朗外交部发言人称，我们不能说经过几周或几个月的几次访问或会谈之后就一定能够得出结论，外交是需要时间的",
+          "url": "https://flash.jin10.com/detail/20260523013155069800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时41分"
+        },
+        {
+          "title": "共和党参议员：美国应完成摧毁伊朗常规军事能力的行动",
+          "url": "https://wallstreetcn.com/livenews/3108186",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时41分"
+        },
+        {
+          "title": "夏奇拉来批daidai作业啦",
+          "url": "https://www.douyin.com/hot/2508674",
+          "source": "抖音",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时41分"
         }
       ]
     }
