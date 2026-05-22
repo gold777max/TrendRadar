@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-22T16:24:33.026873+08:00",
-  "total_titles_processed": 1022,
+  "generated_at": "2026-05-22T19:44:15.212211+08:00",
+  "total_titles_processed": 1204,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai ai+ ai人工智能 人工智能 风险识别 商业风险识别 痛点 需求 商业风险 伊朗 rwa 趋势 热点 热门",
-      "match_count": 81,
+      "match_count": 97,
       "titles": [
         {
           "title": "美国毕业典礼嘘声四起背后：反AI浪潮浮现，“AI还不如政客受欢迎”",
@@ -43,6 +43,31 @@
           "time_info": "[01时31分 ~ 08时12分]"
         },
         {
+          "title": "伊朗局势主导市场，纳指惊险收涨，道指收创新高，原油冲高转跌，美债走势分化",
+          "url": "https://wallstreetcn.com/articles/3772777",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时12分 ~ 19时44分]"
+        },
+        {
+          "title": "AI还原祖国人注射V1后的战斗力",
+          "url": "https://search.bilibili.com/all?keyword=AI%E8%BF%98%E5%8E%9F%E7%A5%96%E5%9B%BD%E4%BA%BA%E6%B3%A8%E5%B0%84V1%E5%90%8E%E7%9A%84%E6%88%98%E6%96%97%E5%8A%9B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            18,
+            17,
+            12,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时31分 ~ 19时44分]"
+        },
+        {
           "title": "【每日收评】沪指放量跌超2%失守4100点，AI硬件与半导体等热门赛道大幅回调",
           "url": "https://www.cls.cn/detail/2377977",
           "source": "财联社热门",
@@ -52,6 +77,20 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时31分 ~ 07时01分]"
+        },
+        {
+          "title": "伊朗最高领袖下令：接近武器级的铀必须留在国内",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33205517",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            16,
+            20,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时31分 ~ 19时44分]"
         },
         {
           "title": "三星“百万亿级”罢工戏剧性刹车，劳资博弈如何分配AI狂潮下的巨额利润",
@@ -107,41 +146,15 @@
           "time_info": "[01时31分 ~ 08时12分]"
         },
         {
-          "title": "伊朗局势主导市场，纳指惊险收涨，道指收创新高，原油冲高转跌，美债走势分化",
-          "url": "https://wallstreetcn.com/articles/3772777",
-          "source": "华尔街见闻",
+          "title": "鲁比奥：伊朗问题确实有一些进展",
+          "url": "https://news.ifeng.com/c/8tKwzchzUFC",
+          "source": "凤凰网",
           "ranks": [
-            1
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时12分 ~ 16时24分]"
-        },
-        {
-          "title": "AI还原祖国人注射V1后的战斗力",
-          "url": "https://search.bilibili.com/all?keyword=AI%E8%BF%98%E5%8E%9F%E7%A5%96%E5%9B%BD%E4%BA%BA%E6%B3%A8%E5%B0%84V1%E5%90%8E%E7%9A%84%E6%88%98%E6%96%97%E5%8A%9B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            18,
-            17,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时31分 ~ 16时24分]"
-        },
-        {
-          "title": "伊朗最高领袖下令：接近武器级的铀必须留在国内",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33205517",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            16,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时31分 ~ 16时24分]"
+          "appearance_count": 2,
+          "time_info": "[19时43分 ~ 19时44分]"
         },
         {
           "title": "关于“6张网”、人工智能、具身智能，国家发改委最新回应",
@@ -150,7 +163,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时24分"
         },
@@ -195,7 +208,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时24分"
         },
@@ -257,6 +270,29 @@
           "time_info": "01时31分"
         },
         {
+          "title": "交通运输部：加快建设智能综合立体交通网，深化人工智能规模化创新应用",
+          "url": "https://wallstreetcn.com/livenews/3108001",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时44分"
+        },
+        {
+          "title": "朱自清散文AI率超60%",
+          "url": "https://www.baidu.com/s?wd=%E6%9C%B1%E8%87%AA%E6%B8%85%E6%95%A3%E6%96%87AI%E7%8E%87%E8%B6%8560%25",
+          "source": "百度热搜",
+          "ranks": [
+            26,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时24分 ~ 19时44分]"
+        },
+        {
           "title": "国家发改委：正在谋划出台加快“人工智能+”落地的配套文件 进一步加大要素保障",
           "url": "https://www.cls.cn/detail/2378704",
           "source": "财联社热门",
@@ -303,6 +339,19 @@
           "time_info": "[08时12分 ~ 16时24分]"
         },
         {
+          "title": "如何看待达摩院、北大最新 Nature 成果，AI 绘制中国首张高精度风光分布图，这对新能源行业有何价值？",
+          "url": "https://www.zhihu.com/question/2040809853350831319",
+          "source": "知乎",
+          "ranks": [
+            12,
+            7,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时59分 ~ 19时44分]"
+        },
+        {
           "title": "期货热点追踪",
           "url": "https://flash.jin10.com/detail/20260522075240239800",
           "source": "金十数据",
@@ -327,6 +376,18 @@
           "time_info": "[08时12分 ~ 16时24分]"
         },
         {
+          "title": "郝哥李广奇回应AI买瓜",
+          "url": "https://search.bilibili.com/all?keyword=%E9%83%9D%E5%93%A5%E6%9D%8E%E5%B9%BF%E5%A5%87%E5%9B%9E%E5%BA%94AI%E4%B9%B0%E7%93%9C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时24分 ~ 19时44分]"
+        },
+        {
           "title": "Anthropic 被曝 300 亿美元融资，投前估值超 9000 亿，AI 泡沫到底有没有天花板？",
           "url": "https://www.zhihu.com/question/2037993874522629479",
           "source": "知乎",
@@ -349,18 +410,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时25分 ~ 07时01分]"
-        },
-        {
-          "title": "如何看待达摩院、北大最新 Nature 成果，AI 绘制中国首张高精度风光分布图，这对新能源行业有何价值？",
-          "url": "https://www.zhihu.com/question/2040809853350831319",
-          "source": "知乎",
-          "ranks": [
-            12,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时59分 ~ 16时24分]"
         },
         {
           "title": "朱自清散文AI率超60%",
@@ -411,6 +460,17 @@
           "time_info": "[05时25分 ~ 07时01分]"
         },
         {
+          "title": "【每日收评】创业板指高开高走涨超2%，PCB等AI硬件全线爆发",
+          "url": "https://www.cls.cn/detail/2379110",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时43分 ~ 19时44分]"
+        },
+        {
           "title": "用上AI后工作时间反而更长了",
           "url": "https://s.weibo.com/weibo?q=%E7%94%A8%E4%B8%8AAI%E5%90%8E%E5%B7%A5%E4%BD%9C%E6%97%B6%E9%97%B4%E5%8F%8D%E8%80%8C%E6%9B%B4%E9%95%BF%E4%BA%86&t=31&band_rank=19&Refer=top",
           "source": "微博",
@@ -421,6 +481,29 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时12分 ~ 12时59分]"
+        },
+        {
+          "title": "朱自清《荷塘月色》AI率超60%",
+          "url": "https://www.toutiao.com/trending/7642580693547057188/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时43分 ~ 19时44分]"
+        },
+        {
+          "title": "如何评价《一人之下》最新话（763 话）最后一页疑似使用 AI？",
+          "url": "https://www.zhihu.com/question/2040949624073152492",
+          "source": "知乎",
+          "ranks": [
+            17,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时43分 ~ 19时44分]"
         },
         {
           "title": "美联储巴尔金：我不相信人工智能对就业的净影响会是负面的，但过渡期可能会很困难。",
@@ -434,6 +517,17 @@
           "time_info": "01时31分"
         },
         {
+          "title": "伊朗外交部发言人：关于霍尔木兹海峡以及所谓的“海上封锁”（这完全违反国际法），他们必须采取措施结束这种封锁。",
+          "url": "https://flash.jin10.com/detail/20260522191758138800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时44分"
+        },
+        {
           "title": "据伊朗国家电视台：伊朗总统佩泽希齐扬称，不会在谈判中退让。",
           "url": "https://flash.jin10.com/detail/20260522025123533800",
           "source": "金十数据",
@@ -445,6 +539,17 @@
           "time_info": "03时50分"
         },
         {
+          "title": "伊朗外交部发言人：我们要求美国停止针对伊朗民族的犯罪行为，制裁必须解除，伊朗被冻结的资产必须解冻并供伊朗使用。",
+          "url": "https://flash.jin10.com/detail/20260522191747933800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时44分"
+        },
+        {
           "title": "据英国金融时报：法国财政部长表示，各国在了解伊朗冲突将持续多久之前，无法决定是否释放更多石油储备。",
           "url": "https://flash.jin10.com/detail/20260522121242400800",
           "source": "金十数据",
@@ -454,6 +559,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时59分"
+        },
+        {
+          "title": "伊朗外交部发言人：我们希望我们的权利得到恢复。过去五十年来，我们一直受到他们所谓的“严厉制裁”。这些制裁以各种借口强加于伊朗，主要原因是所谓的“伊朗核威胁”，而伊朗并未对地区或世界任何行为体构成核威胁。",
+          "url": "https://flash.jin10.com/detail/20260522191725506800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时44分"
         },
         {
           "title": "伊朗战争引发的化肥价格上涨威胁巴西农业经济",
@@ -473,9 +589,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时24分"
+        },
+        {
+          "title": "伊朗外交部发言人：当谈论“让步”时，我们必须谨慎用词。我们不向美国要求任何让步，我们只要求我们的权利。",
+          "url": "https://flash.jin10.com/detail/20260522191711399800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时44分"
         },
         {
           "title": "特朗普密集谈伊朗、关税与AI，称美国将获得伊浓缩铀、重申伊不能拥有核武",
@@ -484,18 +611,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时24分"
-        },
-        {
-          "title": "郝哥李广奇回应AI买瓜",
-          "url": "https://search.bilibili.com/all?keyword=%E9%83%9D%E5%93%A5%E6%9D%8E%E5%B9%BF%E5%A5%87%E5%9B%9E%E5%BA%94AI%E4%B9%B0%E7%93%9C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时24分"
         },
@@ -522,6 +638,17 @@
           "time_info": "03时50分"
         },
         {
+          "title": "俄罗斯外长拉夫罗夫：近日我定期与伊朗官员以及包括阿联酋、沙特阿拉伯、卡塔尔、阿曼在内的伊朗邻国代表，以及其他一些国家的代表保持联系。",
+          "url": "https://flash.jin10.com/detail/20260522191630290800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时44分"
+        },
+        {
           "title": "港股午评：恒指高开高走收涨1.22% AI应用、存储芯片板块领涨大盘",
           "url": "https://flash.jin10.com/detail/20260522120616602800",
           "source": "金十数据",
@@ -531,6 +658,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时59分"
+        },
+        {
+          "title": "俄罗斯外长拉夫罗夫：对伊朗的袭击是非法的。",
+          "url": "https://flash.jin10.com/detail/20260522191619668800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时44分"
         },
         {
           "title": "为何AI总会一本正经地胡说八道",
@@ -720,6 +858,17 @@
           "time_info": "05时25分"
         },
         {
+          "title": "伊朗外长会见巴基斯坦内政部长",
+          "url": "https://wallstreetcn.com/livenews/3107971",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时44分"
+        },
+        {
           "title": "美国总统特朗普：伊朗冲突将很快结束。",
           "url": "https://flash.jin10.com/detail/20260522001800513800",
           "source": "金十数据",
@@ -762,6 +911,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时31分"
+        },
+        {
+          "title": "伊朗革命卫队称过去24小时有35艘船通过霍尔木兹海峡",
+          "url": "https://wallstreetcn.com/livenews/3107969",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时44分"
         },
         {
           "title": "美国总统特朗普：我们会获得伊朗的浓缩铀。",
@@ -841,17 +1001,6 @@
           "time_info": "12时59分"
         },
         {
-          "title": "朱自清散文AI率超60%",
-          "url": "https://www.baidu.com/s?wd=%E6%9C%B1%E8%87%AA%E6%B8%85%E6%95%A3%E6%96%87AI%E7%8E%87%E8%B6%8560%25",
-          "source": "百度热搜",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时24分"
-        },
-        {
           "title": "美联储巴尔金：软件行业以外的雇主尚未因人工智能减少员工人数。",
           "url": "https://flash.jin10.com/detail/20260522020424744800",
           "source": "金十数据",
@@ -874,15 +1023,37 @@
           "time_info": "03时50分"
         },
         {
+          "title": "欧盟扩大对伊朗制裁 将“威胁中东航行自由”行为纳入制裁范围",
+          "url": "https://wallstreetcn.com/livenews/3107962",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时44分"
+        },
+        {
           "title": "德国外长：我们建议利用来自欧洲北约盟国和加拿大的资金，持续满足乌克兰即将出现的需求。",
           "url": "https://flash.jin10.com/detail/20260522155254689800",
           "source": "金十数据",
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时24分"
+        },
+        {
+          "title": "交通运输部：加快建设智能综合立体交通网，深化人工智能规模化创新应用",
+          "url": "https://flash.jin10.com/detail/20260522185337416800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时44分"
         },
         {
           "title": "微软推出必应图像搜索。 微软对其推出由人工智能（AI）引导的升级。",
@@ -905,6 +1076,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时50分"
+        },
+        {
+          "title": "伊朗外交部发言人：我们地区和世界目前所面临的危机直接源于美国2018年5月非法且任性地退出《联合全面行动计划》。",
+          "url": "https://flash.jin10.com/detail/20260522185158464800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时44分"
         },
         {
           "title": "【巴基斯坦官员：美伊谈判正朝着正确的方向发展】一名巴基斯坦参议员在接受媒体采访时表示，伊朗与巴基斯坦之间以及巴基斯坦与美国之间的谈判仍在进行中，巴基斯坦尽一切努力促使各方回到谈判桌前，减少分歧，达成协议，结束战争。他还表示，美伊谈判正朝着正确的方向发展。伊朗和美国之间的谈判已经取得进展，并对此持乐观态度。（央视）",
