@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-25T20:27:15.615617+08:00",
-  "total_titles_processed": 1172,
+  "generated_at": "2026-05-25T23:49:02.080049+08:00",
+  "total_titles_processed": 1337,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai ai+ ai人工智能 人工智能 风险识别 商业风险识别 痛点 需求 商业风险 伊朗 rwa 趋势 热点 热门",
-      "match_count": 118,
+      "match_count": 134,
       "titles": [
         {
           "title": "特朗普称美伊协议基本谈成，内容包括开放霍尔木兹海峡，伊媒称将继续由伊朗“管理”，以媒称“对以非常不利”",
@@ -89,6 +89,29 @@
           "time_info": "[00时09分 ~ 20时27分]"
         },
         {
+          "title": "AI吸附挂泛滥,力度碾压端游",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354571&amp;topic_name=AI%E5%90%B8%E9%99%84%E6%8C%82%E6%B3%9B%E6%BB%A5%2C%E5%8A%9B%E5%BA%A6%E7%A2%BE%E5%8E%8B%E7%AB%AF%E6%B8%B8",
+          "source": "贴吧",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时26分 ~ 23时49分]"
+        },
+        {
+          "title": "摩根大通中国峰会：将“大消费”作为“AI和机器人”配置的资金来源",
+          "url": "https://wallstreetcn.com/articles/3773014",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时23分 ~ 23时49分]"
+        },
+        {
           "title": "伊朗最高领袖顾问：管控霍尔木兹海峡是“合法权利”",
           "url": "https://wallstreetcn.com/livenews/3108533",
           "source": "华尔街见闻-快讯",
@@ -129,17 +152,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时09分 ~ 06时55分]"
-        },
-        {
-          "title": "AI吸附挂泛滥,力度碾压端游",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354571&amp;topic_name=AI%E5%90%B8%E9%99%84%E6%8C%82%E6%B3%9B%E6%BB%A5%2C%E5%8A%9B%E5%BA%A6%E7%A2%BE%E5%8E%8B%E7%AB%AF%E6%B8%B8",
-          "source": "贴吧",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时26分 ~ 20时27分]"
         },
         {
           "title": "阿曼与伊朗官员举行会晤，依据国际法讨论了霍尔木兹海峡航行自由的管辖原则。",
@@ -198,7 +210,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时27分"
         },
@@ -248,9 +260,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时27分"
+        },
+        {
+          "title": "伊朗最高领袖顾问：与美谈判同时，我们的手指扣在扳机上",
+          "url": "https://wallstreetcn.com/livenews/3108969",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时49分"
         },
         {
           "title": "伊朗官员：霍尔木兹海峡的管理不会恢复到战前状态",
@@ -277,6 +300,17 @@
           "time_info": "16时23分"
         },
         {
+          "title": "阿拉伯电视台：伊朗要求将铀转移至中国",
+          "url": "https://wallstreetcn.com/livenews/3108966",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时49分"
+        },
+        {
           "title": "美国国务卿鲁比奥：仍有希望与伊朗达成协议。在任何与伊朗达成的协议中，以色列都有权进行自卫。",
           "url": "https://flash.jin10.com/detail/20260525112518583800",
           "source": "金十数据",
@@ -294,7 +328,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时27分"
         },
@@ -308,18 +342,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时23分"
-        },
-        {
-          "title": "摩根大通中国峰会：将“大消费”作为“AI和机器人”配置的资金来源",
-          "url": "https://wallstreetcn.com/articles/3773014",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时23分 ~ 20时27分]"
         },
         {
           "title": "伊朗外交部发言人强烈谴责发生在奎达铁路站的恐怖袭击行为，该事件已导致大量巴基斯坦公民伤亡。",
@@ -386,6 +408,17 @@
           "time_info": "[00时09分 ~ 05时54分]"
         },
         {
+          "title": "伊朗军方举行烈士纪念仪式，高层发表强硬讲话",
+          "url": "https://news.ifeng.com/c/8tPl7KTsmFN",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时26分 ~ 23时49分]"
+        },
+        {
           "title": "特朗普要求穆斯林领导人在伊朗战后加入《亚伯拉罕协议》",
           "url": "https://flash.jin10.com/detail/20260525025220703800",
           "source": "金十数据",
@@ -434,6 +467,18 @@
           "time_info": "[11时58分 ~ 16时23分]"
         },
         {
+          "title": "【每日收评】科创50指数放量涨近6%，芯片产业链卷土重来，AI硬件反复活跃",
+          "url": "https://www.cls.cn/detail/2380739",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时26分 ~ 23时49分]"
+        },
+        {
           "title": "欧洲央行紧急召集银行开会 敦促修复AI模型暴露的网络安全漏洞",
           "url": "https://flash.jin10.com/detail/20260525012651977800",
           "source": "金十数据",
@@ -470,6 +515,40 @@
           "time_info": "[05时54分 ~ 06时55分]"
         },
         {
+          "title": "“渡边太太”重返战场！AI牛市引爆日本散户狂欢，日股日均成交额飙破10万亿日元",
+          "url": "https://wallstreetcn.com/articles/3773034",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时26分 ~ 23时49分]"
+        },
+        {
+          "title": "卢秀燕全台助选，因太热门候选人都要提前预约时间",
+          "url": "https://news.ifeng.com/c/8tPzE98uh30",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时26分 ~ 23时49分]"
+        },
+        {
+          "title": "伊朗总统称准备向世界保证不寻求核武器，如何看待这一表态？会推动美伊达成协议吗？",
+          "url": "https://www.zhihu.com/question/2042201889626907656",
+          "source": "知乎",
+          "ranks": [
+            17,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时26分 ~ 23时49分]"
+        },
+        {
           "title": "美国参议员汤姆·蒂利斯（Thom Tillis）：应当将伊朗协议交由国会山审议。（CNN）",
           "url": "https://wallstreetcn.com/livenews/3108511",
           "source": "华尔街见闻-快讯",
@@ -504,17 +583,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时09分 ~ 03时18分]"
-        },
-        {
-          "title": "伊朗军方举行烈士纪念仪式，高层发表强硬讲话",
-          "url": "https://news.ifeng.com/c/8tPl7KTsmFN",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时26分 ~ 20时27分]"
         },
         {
           "title": "据伊朗英语新闻电视台PressTV：伊朗在霍尔木兹甘省击落以色列间谍无人机。",
@@ -589,28 +657,6 @@
           "time_info": "[06时55分 ~ 07时58分]"
         },
         {
-          "title": "“渡边太太”重返战场！AI牛市引爆日本散户狂欢，日股日均成交额飙破10万亿日元",
-          "url": "https://wallstreetcn.com/articles/3773034",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时26分 ~ 20时27分]"
-        },
-        {
-          "title": "【每日收评】科创50指数放量涨近6%，芯片产业链卷土重来，AI硬件反复活跃",
-          "url": "https://www.cls.cn/detail/2380739",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时26分 ~ 20时27分]"
-        },
-        {
           "title": "据英国《金融时报》：欧洲央行召集银行要求其修补最新人工智能模型暴露出的缺陷。",
           "url": "https://flash.jin10.com/detail/20260525010206221800",
           "source": "金十数据",
@@ -621,17 +667,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时57分 ~ 03时18分]"
-        },
-        {
-          "title": "卢秀燕全台助选，因太热门候选人都要提前预约时间",
-          "url": "https://news.ifeng.com/c/8tPzE98uh30",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时26分 ~ 20时27分]"
         },
         {
           "title": "训练AI取代自己？纺织工和外卖骑手正收集“第一人称视角数据”",
@@ -681,15 +716,15 @@
           "time_info": "[11时58分 ~ 16时23分]"
         },
         {
-          "title": "伊朗总统称准备向世界保证不寻求核武器，如何看待这一表态？会推动美伊达成协议吗？",
-          "url": "https://www.zhihu.com/question/2042201889626907656",
+          "title": "戛纳电影节「抵制 AI」、毕业典礼嘘声四起，海外「反 AI」浪潮反映了何种社会心态？",
+          "url": "https://www.zhihu.com/question/2040478565859381749",
           "source": "知乎",
           "ranks": [
-            17
+            16
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[20时26分 ~ 20时27分]"
+          "time_info": "[23时48分 ~ 23时49分]"
         },
         {
           "title": "白宫顾问哈塞特：结束伊朗战争或为美联储降息创造空间，美国可能会“负通胀”",
@@ -764,7 +799,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时27分"
         },
@@ -786,7 +821,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时27分"
         },
@@ -802,6 +837,17 @@
           "time_info": "16时23分"
         },
         {
+          "title": "伊通社：伊朗多哈之行将检验“美国对承诺的履行”",
+          "url": "https://wallstreetcn.com/livenews/3108960",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时49分"
+        },
+        {
           "title": "据福克斯新闻援引美国政府官员的话报道，如果最终协议中伊朗仍在进行铀浓缩，那就不算是最终协议。",
           "url": "https://flash.jin10.com/detail/20260524234317749800",
           "source": "金十数据",
@@ -811,6 +857,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时09分"
+        },
+        {
+          "title": "伊朗媒体披露最高领袖就医情况",
+          "url": "https://wallstreetcn.com/livenews/3108959",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时49分"
         },
         {
           "title": "多家巨头密集押注 “百镜大战”催热供应链！AI眼镜有望加速进入千万台级别市场？",
@@ -846,13 +903,24 @@
           "time_info": "16时23分"
         },
         {
+          "title": "伊朗媒体披露最高领袖就医情况",
+          "url": "https://flash.jin10.com/detail/20260525230526113800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时49分"
+        },
+        {
           "title": "伊朗过去一天允许32艘船通过霍尔木兹海峡。（法尔斯通讯社）",
           "url": "https://wallstreetcn.com/livenews/3108868",
           "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时27分"
         },
@@ -907,9 +975,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时27分"
+        },
+        {
+          "title": "据伊朗伊斯兰共和国通讯社（IRNA）：伊朗多哈之行将检验“美国对承诺的履行”。",
+          "url": "https://flash.jin10.com/detail/20260525230509437800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时49分"
         },
         {
           "title": "上纬新材工商信息新增人工智能硬件研发销售等经营范围",
@@ -978,6 +1057,17 @@
           "time_info": "07时58分"
         },
         {
+          "title": "墨西哥总统辛鲍姆：美国宣称不希望举办与伊朗有关的足球赛事之后，墨西哥政府同意让伊朗足球国家队在世界杯期间滞留墨西哥。",
+          "url": "https://wallstreetcn.com/livenews/3108954",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时49分"
+        },
+        {
           "title": "美政府高官：与伊朗的协议预计不会在24日签署",
           "url": "https://flash.jin10.com/detail/20260524233920672800",
           "source": "金十数据",
@@ -1022,6 +1112,28 @@
           "time_info": "04时52分"
         },
         {
+          "title": "巴西央行行长：伊朗冲突和厄尔尼诺现象带来的供应冲击正在影响通胀预期。",
+          "url": "https://flash.jin10.com/detail/20260525225349382800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时49分"
+        },
+        {
+          "title": "伊朗代表团结束在卡塔尔会谈议程 将返回德黑兰",
+          "url": "https://wallstreetcn.com/livenews/3108950",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时49分"
+        },
+        {
           "title": "AI 中转站是什么，便宜 Token 背后暗藏什么玄机？",
           "url": "https://www.zhihu.com/question/2040496731704528936",
           "source": "知乎",
@@ -1039,7 +1151,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时27分"
         },
@@ -1053,6 +1165,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时23分"
+        },
+        {
+          "title": "伊朗代表团结束在卡塔尔会谈议程 将返回德黑兰",
+          "url": "https://flash.jin10.com/detail/20260525224711342800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时49分"
         },
         {
           "title": "伊朗高级外交官：霍尔木兹海峡的管理将是伊朗和阿曼之间的问题",
@@ -1138,7 +1261,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时27分"
         },
@@ -1174,6 +1297,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时57分"
+        },
+        {
+          "title": "伊朗高官急赴卡塔尔敲定美伊停火细节，各方加紧努力达成协议",
+          "url": "https://flash.jin10.com/detail/20260525223419650800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时49分"
+        },
+        {
+          "title": "欧洲斯托克50指数上涨2%，抹去了自伊朗战争爆发以来的所有跌幅。",
+          "url": "https://wallstreetcn.com/livenews/3108944",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时49分"
         },
         {
           "title": "白宫：伊朗和平协议或需数日达成",
@@ -1215,7 +1360,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时27分"
         },
@@ -1231,6 +1376,17 @@
           "time_info": "16时23分"
         },
         {
+          "title": "特朗普敦促沙特承认以色列，将其作为伊朗协议的一部分",
+          "url": "https://wallstreetcn.com/livenews/3108943",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时49分"
+        },
+        {
           "title": "伊朗外交部：当前谈判重点是结束战争 尚未讨论核问题",
           "url": "https://flash.jin10.com/detail/20260525153128537800",
           "source": "金十数据",
@@ -1240,6 +1396,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时23分"
+        },
+        {
+          "title": "欧洲斯托克50指数上涨2%，自伊朗战争开始以来的损失已全部抹平。",
+          "url": "https://flash.jin10.com/detail/20260525223019339800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时49分"
         },
         {
           "title": "美国和伊朗制定旨在延长停火60天的谅解备忘录框架。（华盛顿邮报）",
@@ -1330,6 +1497,17 @@
           "time_info": "00时09分"
         },
         {
+          "title": "特朗普称伊朗核谈判“进展顺利”，协议似乎即将达成",
+          "url": "https://wallstreetcn.com/livenews/3108939",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时49分"
+        },
+        {
           "title": "据Axios援引一位美国官员的话称，伊朗最高领袖已批准协议的总体框架。",
           "url": "https://flash.jin10.com/detail/20260524230317704800",
           "source": "金十数据",
@@ -1369,7 +1547,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时27分"
         }
