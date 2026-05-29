@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-29T10:51:51.655167+08:00",
-  "total_titles_processed": 731,
+  "generated_at": "2026-05-29T14:53:32.574331+08:00",
+  "total_titles_processed": 918,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai ai+ ai人工智能 人工智能 风险识别 商业风险识别 痛点 需求 商业风险 伊朗 rwa 趋势 热点 热门",
-      "match_count": 89,
+      "match_count": 96,
       "titles": [
         {
           "title": "特朗普称对谈判进程“不满意”、“不在意中选”，对“浓缩铀、制裁、霍尔木兹海峡”等划出红线，伊朗回应“不会退缩”",
@@ -38,8 +38,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时52分 ~ 10时51分]"
+          "appearance_count": 8,
+          "time_info": "[00时52分 ~ 14时53分]"
         },
         {
           "title": "AI会带来怎样的社会变革",
@@ -50,22 +50,12 @@
             10,
             9,
             7,
-            14
+            14,
+            22
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时52分 ~ 10时51分]"
-        },
-        {
-          "title": "三星罢工的众生相，捅破AI时代“不患寡而患不均”这层窗户纸",
-          "url": "https://news.ifeng.com/c/8tUekOdGeku",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时52分 ~ 10时51分]"
+          "appearance_count": 8,
+          "time_info": "[00时52分 ~ 14时53分]"
         },
         {
           "title": "媒体称伊朗愿意将高浓缩铀转运至中国进行处理，国防部回应",
@@ -74,7 +64,43 @@
           "ranks": [
             15,
             16,
-            13
+            13,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时52分 ~ 14时53分]"
+        },
+        {
+          "title": "美股收盘：标普、纳指连涨6日续创新高 AI软硬件牛股接力暴涨",
+          "url": "https://www.cls.cn/detail/2384768",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时12分 ~ 14时53分]"
+        },
+        {
+          "title": "【早报】美股AI应用软件板块大爆发；中国首款4nm智驾芯片发布",
+          "url": "https://www.cls.cn/detail/2384785",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时51分 ~ 14时53分]"
+        },
+        {
+          "title": "三星罢工的众生相，捅破AI时代“不患寡而患不均”这层窗户纸",
+          "url": "https://news.ifeng.com/c/8tUekOdGeku",
+          "source": "凤凰网",
+          "ranks": [
+            12
           ],
           "is_new": false,
           "appearance_count": 7,
@@ -119,6 +145,17 @@
           "time_info": "[00时52分 ~ 10时51分]"
         },
         {
+          "title": "伊朗称击落一架美军飞机，美方回应",
+          "url": "https://news.ifeng.com/c/8tVu1gkD4Ca",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时51分 ~ 14时53分]"
+        },
+        {
           "title": "明查｜起底“中国强拆寺庙”AI虚假视频背后：隐秘的协同发布与矩阵传播危害",
           "url": "https://m.thepaper.cn/newsDetail_forward_33244573",
           "source": "澎湃新闻",
@@ -155,17 +192,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时52分 ~ 07时13分]"
-        },
-        {
-          "title": "【早报】美股AI应用软件板块大爆发；中国首款4nm智驾芯片发布",
-          "url": "https://www.cls.cn/detail/2384785",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时51分"
         },
         {
           "title": "金十图示：2026年05月28日（周四）热门中概股行情一览（美股盘中）",
@@ -257,17 +283,6 @@
           "time_info": "00时53分"
         },
         {
-          "title": "伊朗称击落一架美军飞机，美方回应",
-          "url": "https://news.ifeng.com/c/8tVu1gkD4Ca",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时51分"
-        },
-        {
           "title": "【伊朗最高领袖强调维护民族团结】伊朗最高领袖穆杰塔巴28日发表书面讲话，强调维护民族团结与社会凝聚力，并呼吁伊朗各界共同维护国家统一。 穆杰塔巴在伊朗伊斯兰议会成立纪念日之际发表书面讲话说，伊朗议会是“民族意志的体现”和国家立法的重要支柱。他感谢议员们，特别是议长卡利巴夫为国家发展所作努力。 穆杰塔巴说，伊朗人民在近期冲突中展现出团结、信仰和韧性，当前最重要任务之一是维护民族团结与社会凝聚力，避免政治和社会分裂。 他还说，敌对势力在军事、经济以及宣传领域持续向伊朗施压，其目的在于制造社会分裂并削弱伊朗。他呼吁各界特别是政治精英和议员，共同维护国家统一。（新华社）",
           "url": "https://wallstreetcn.com/livenews/3110866",
           "source": "华尔街见闻-快讯",
@@ -290,16 +305,15 @@
           "time_info": "05时54分"
         },
         {
-          "title": "美股收盘：标普、纳指连涨6日续创新高 AI软硬件牛股接力暴涨",
-          "url": "https://www.cls.cn/detail/2384768",
-          "source": "财联社热门",
+          "title": "“我们在赢”！戴尔电话会：业绩炸裂，但炸的不只是AI服务器，四大业务全赢麻了",
+          "url": "https://wallstreetcn.com/articles/3773407",
+          "source": "华尔街见闻",
           "ranks": [
-            8,
-            3
+            4
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时12分 ~ 10时51分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时53分"
         },
         {
           "title": "OpenAI发布 OpenAI 的前沿治理框架。",
@@ -352,7 +366,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时51分"
         },
@@ -381,6 +395,18 @@
           "time_info": "[05时54分 ~ 07时13分]"
         },
         {
+          "title": "登顶全球最值钱AI创企！Anthropic官宣估值升至9650亿美元",
+          "url": "https://www.cls.cn/detail/2384760",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时51分 ~ 14时53分]"
+        },
+        {
           "title": "白银暴跌后多家投行唱空：工业需求遭高价反噬 银价或继续承压",
           "url": "https://www.cls.cn/detail/2384214",
           "source": "财联社热门",
@@ -404,6 +430,30 @@
           "time_info": "[00时52分 ~ 05时54分]"
         },
         {
+          "title": "与主席沃什看法相左！美联储官员穆萨莱姆称不能指望AI降低通胀",
+          "url": "https://wallstreetcn.com/articles/3773387",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时51分 ~ 14时53分]"
+        },
+        {
+          "title": "戴尔绩后暴涨！Q1营收增长88%，AI收入暴增757%，全年指引大幅上调｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3773393",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时51分 ~ 14时53分]"
+        },
+        {
           "title": "伊朗武装部队向霍尔木兹海峡附近4艘船只发出警告性射击",
           "url": "https://flash.jin10.com/detail/20260529051909930800",
           "source": "金十数据",
@@ -414,6 +464,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时54分 ~ 07时13分]"
+        },
+        {
+          "title": "92岁老艺术家手搓AI写了封情书",
+          "url": "https://www.douyin.com/hot/2515594",
+          "source": "抖音",
+          "ranks": [
+            22,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时51分 ~ 14时53分]"
         },
         {
           "title": "伊朗官员：美国一架飞机被伊朗摧毁",
@@ -440,6 +502,17 @@
           "time_info": "[05时54分 ~ 07时13分]"
         },
         {
+          "title": "三星出货业界首款HBM4E样品 Anthropic登顶全球最值钱AI创企 | 环球市场",
+          "url": "https://www.cls.cn/detail/2384804",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时51分 ~ 14时53分]"
+        },
+        {
           "title": "戴尔(DELL.N)首席财务官：剔除人工智能组合的影响，我们的毛利率展望比上个季度更好；预计全年毛利率将继续扩张。",
           "url": "https://flash.jin10.com/detail/20260529045007402800",
           "source": "金十数据",
@@ -464,6 +537,29 @@
           "time_info": "[05时54分 ~ 07时13分]"
         },
         {
+          "title": "泡泡玛特王宁：最核心、最本质的是帮助大家去解决对底层快乐的需求",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33255287",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时51分 ~ 14时53分]"
+        },
+        {
+          "title": "你们有没有跟 AI 吵过架，是因为什么事情才跟它吵起来的？是它的认知或者观点跟你的不一样吗？",
+          "url": "https://www.zhihu.com/question/2033211575792841118",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时51分 ~ 14时53分]"
+        },
+        {
           "title": "美或至少3年才能补齐在伊朗消耗弹药",
           "url": "https://www.toutiao.com/trending/7644461769951313974/",
           "source": "今日头条",
@@ -484,28 +580,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时35分"
-        },
-        {
-          "title": "与主席沃什看法相左！美联储官员穆萨莱姆称不能指望AI降低通胀",
-          "url": "https://wallstreetcn.com/articles/3773387",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时51分"
-        },
-        {
-          "title": "登顶全球最值钱AI创企！Anthropic官宣估值升至9650亿美元",
-          "url": "https://www.cls.cn/detail/2384760",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时51分"
         },
         {
           "title": "据福克斯新闻记者：美国消息人士向白宫记者团证实，美国和伊朗已达成一项初步协议，但该协议尚待特朗普总统批准。",
@@ -552,17 +626,6 @@
           "time_info": "03时35分"
         },
         {
-          "title": "戴尔绩后暴涨！Q1营收增长88%，AI收入暴增757%，全年指引大幅上调｜财报见闻",
-          "url": "https://wallstreetcn.com/articles/3773393",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时51分"
-        },
-        {
           "title": "伊朗外交部谴责美国对阿曼的威胁",
           "url": "https://flash.jin10.com/detail/20260529061116002800",
           "source": "金十数据",
@@ -585,6 +648,17 @@
           "time_info": "07时13分"
         },
         {
+          "title": "国际航协：今年4月航空客运需求下降3.4%",
+          "url": "https://flash.jin10.com/detail/20260529144051232800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时53分"
+        },
+        {
           "title": "WTI 7月原油期货收涨0.22美元，涨幅0.25%，报88.90美元/桶，报道称美国与伊朗达成谅解备忘录之际，从91美元跳水至接近87美元的水平——瞬间又反弹至接近90美元。 布伦特7月原油期货收跌0.58美元，跌幅0.62%，报93.71美元/桶。 中东Abu Dhabi Murban原油期货跌3.76%，报93.31美元/桶。 NYMEX 6月天然气期货收报3.2850美元/百万英热单位。 NYMEX 6月汽油期货收报3.1852美元/加仑，NYMEX 6月取暖油期货收报3.6187美元/加仑。",
           "url": "https://wallstreetcn.com/livenews/3110896",
           "source": "华尔街见闻-快讯",
@@ -596,17 +670,6 @@
           "time_info": "03时35分"
         },
         {
-          "title": "三星出货业界首款HBM4E样品 Anthropic登顶全球最值钱AI创企 | 环球市场",
-          "url": "https://www.cls.cn/detail/2384804",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时51分"
-        },
-        {
           "title": "美国财长贝森特：任何与伊朗的协议都要求霍尔木兹海峡完全开放，任何对该海峡征收通行费的计划均为“无效提案”。",
           "url": "https://flash.jin10.com/detail/20260529024239426800",
           "source": "金十数据",
@@ -616,6 +679,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时35分"
+        },
+        {
+          "title": "AI服务器收入激增757%！戴尔交出炸裂财报 盘后股价暴涨近40%",
+          "url": "https://www.cls.cn/detail/2384829",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时53分"
         },
         {
           "title": "美国官员表示，在伊朗布什尔附近并没有美国飞机被击落。",
@@ -638,6 +712,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时35分"
+        },
+        {
+          "title": "国产AI芯片三国杀",
+          "url": "https://www.toutiao.com/trending/7645160711315787327/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时53分"
         },
         {
           "title": "美国财长贝森特：美国是人工智能超级大国。",
@@ -750,6 +835,17 @@
           "time_info": "07时13分"
         },
         {
+          "title": "美国明尼阿波利斯联储主席卡什卡利：伊朗冲突令通胀前景变得不明朗。 由于伊朗冲突，现在不清楚货币政策的未来路径会如何。 在4月PCE通胀数据公布后，就断定我们需要立即加息还为时过早。 （PCE）数据让我进一步关注通胀风险。 无论在最好或最坏的情况下，都存在通货膨胀延长的风险。 通胀预期面临失控的风险。",
+          "url": "https://wallstreetcn.com/livenews/3111185",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时53分"
+        },
+        {
           "title": "戴尔(DELL.N)首席运营官杰夫·克拉克：需求持续超过供应，内存是主要限制因素。",
           "url": "https://flash.jin10.com/detail/20260529044118848800",
           "source": "金十数据",
@@ -783,26 +879,15 @@
           "time_info": "05时54分"
         },
         {
-          "title": "泡泡玛特王宁：最核心、最本质的是帮助大家去解决对底层快乐的需求",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33255287",
-          "source": "澎湃新闻",
+          "title": "黄仁勋谈AI：浪费Token没事别浪费时间",
+          "url": "https://www.baidu.com/s?wd=%E9%BB%84%E4%BB%81%E5%8B%8B%E8%B0%88AI%EF%BC%9A%E6%B5%AA%E8%B4%B9Token%E6%B2%A1%E4%BA%8B%E5%88%AB%E6%B5%AA%E8%B4%B9%E6%97%B6%E9%97%B4",
+          "source": "百度热搜",
           "ranks": [
             20
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时51分"
-        },
-        {
-          "title": "你们有没有跟 AI 吵过架，是因为什么事情才跟它吵起来的？是它的认知或者观点跟你的不一样吗？",
-          "url": "https://www.zhihu.com/question/2033211575792841118",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时51分"
+          "time_info": "14时53分"
         },
         {
           "title": "美国财长贝森特：将继续在伊朗采取防御行动，但对伊朗的耐心并非无止境。",
@@ -869,17 +954,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时53分"
-        },
-        {
-          "title": "92岁老艺术家手搓AI写了封情书",
-          "url": "https://www.douyin.com/hot/2515594",
-          "source": "抖音",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时51分"
         },
         {
           "title": "据伊朗国家媒体：伊朗布什尔听到爆炸声。",
@@ -965,7 +1039,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时51分"
         },
@@ -990,6 +1064,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时54分"
+        },
+        {
+          "title": "联发科：着眼于2026年从AI芯片业务获得20亿美元营收，2027年获得至多120亿美元营收。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3111169",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时53分"
         },
         {
           "title": "伦敦铜价反弹，投资者关注美国与伊朗谈判进展和需求前景",
