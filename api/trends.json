@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-02T07:26:06.370095+08:00",
-  "total_titles_processed": 481,
+  "generated_at": "2026-06-02T11:37:04.579568+08:00",
+  "total_titles_processed": 702,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai ai+ ai人工智能 人工智能 风险识别 商业风险识别 痛点 需求 商业风险 伊朗 rwa 趋势 热点 热门",
-      "match_count": 64,
+      "match_count": 77,
       "titles": [
         {
           "title": "抗议以军扩大在黎行动，伊朗据称将暂停与美沟通，计划彻底封锁霍尔木兹海峡",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时32分 ~ 07时26分]"
+          "appearance_count": 7,
+          "time_info": "[01时32分 ~ 11时37分]"
         },
         {
           "title": "伊朗暂停与美国对话！“霍尔木兹、曼德海峡双封锁”重新摆上台面",
@@ -27,8 +27,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时32分 ~ 07时26分]"
+          "appearance_count": 7,
+          "time_info": "[01时32分 ~ 11时37分]"
         },
         {
           "title": "大力推进人工智能+能源融合发展",
@@ -76,6 +76,30 @@
           "time_info": "[01时32分 ~ 07时26分]"
         },
         {
+          "title": "英伟达掀桌，Windows 终于迎来真 AI PC",
+          "url": "https://wallstreetcn.com/articles/3773561",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时32分 ~ 11时37分]"
+        },
+        {
+          "title": "伊朗：彻底封锁霍尔木兹海峡",
+          "url": "https://www.toutiao.com/trending/7646419297488604708/",
+          "source": "今日头条",
+          "ranks": [
+            6,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时32分 ~ 11时37分]"
+        },
+        {
           "title": "【每日收评】科创50指数再跌5%，AI硬件、半导体延续调整，AI应用逆势爆发",
           "url": "https://www.cls.cn/detail/2387170",
           "source": "财联社热门",
@@ -85,6 +109,42 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时32分 ~ 05时31分]"
+        },
+        {
+          "title": "英伟达发布PC芯片 AI狂欢席卷全球市场 美股期指上涨 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2387523",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时32分 ~ 11时37分]"
+        },
+        {
+          "title": "AI坑健身小白买20kg哑铃",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354756&amp;topic_name=AI%E5%9D%91%E5%81%A5%E8%BA%AB%E5%B0%8F%E7%99%BD%E4%B9%B020kg%E5%93%91%E9%93%83",
+          "source": "贴吧",
+          "ranks": [
+            8,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时32分 ~ 11时37分]"
+        },
+        {
+          "title": "伊朗：彻底封锁霍尔木兹海峡",
+          "url": "https://www.douyin.com/hot/2520417",
+          "source": "抖音",
+          "ranks": [
+            11,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时32分 ~ 11时37分]"
         },
         {
           "title": "中东局势与AI热潮交织，标普八连涨再新高，英伟达大涨",
@@ -98,6 +158,50 @@
           "time_info": "[07时25分 ~ 07时26分]"
         },
         {
+          "title": "中东局势与AI热潮交织，标普纳指八连涨再新高，英伟达和Arm大涨，美油一度涨超8%",
+          "url": "https://wallstreetcn.com/articles/3773537",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时36分 ~ 11时37分]"
+        },
+        {
+          "title": "伊朗向以色列发出最新警告",
+          "url": "https://news.ifeng.com/c/8tc3G5LPI4C",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时36分 ~ 11时37分]"
+        },
+        {
+          "title": "美伊谈判将崩盘？专家：伊朗手握多个反制筹码",
+          "url": "https://news.ifeng.com/c/8tcZUHIhU1k",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时36分 ~ 11时37分]"
+        },
+        {
+          "title": "罕见增发！谷歌募资800亿美元砸AI基建，伯克希尔百亿入局",
+          "url": "https://wallstreetcn.com/articles/3773607",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时36分 ~ 11时37分]"
+        },
+        {
           "title": "伊朗暂停通过中间人同美国对话",
           "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E6%9A%82%E5%81%9C%E9%80%9A%E8%BF%87%E4%B8%AD%E9%97%B4%E4%BA%BA%E5%90%8C%E7%BE%8E%E5%9B%BD%E5%AF%B9%E8%AF%9D%23&t=31&band_rank=25&Refer=top",
           "source": "微博",
@@ -109,6 +213,29 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时32分 ~ 07时26分]"
+        },
+        {
+          "title": "一波三折！伊朗叫停对话后，特朗普最新表态：美伊或一周内达成协议",
+          "url": "https://www.cls.cn/detail/2387782",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时36分 ~ 11时37分]"
+        },
+        {
+          "title": "美伊又打起来了，特朗普：伊朗“确实想要”达成协议",
+          "url": "https://wallstreetcn.com/articles/3773555",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[05时30分 ~ 11时37分]"
         },
         {
           "title": "Alphabet(GOOG.O)：AI需求已超出公司现有供应能力。公司正面临来自企业和消费者对人工智能解决方案的强劲需求。",
@@ -133,17 +260,6 @@
           "time_info": "01时32分"
         },
         {
-          "title": "伊朗：彻底封锁霍尔木兹海峡",
-          "url": "https://www.toutiao.com/trending/7646419297488604708/",
-          "source": "今日头条",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时32分 ~ 07时26分]"
-        },
-        {
           "title": "特朗普提出更强硬条款，伊朗：已准备好谈判破裂",
           "url": "https://news.ifeng.com/c/8taubWZltKg",
           "source": "凤凰网",
@@ -153,18 +269,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时32分"
-        },
-        {
-          "title": "英伟达掀桌，Windows 终于迎来真 AI PC",
-          "url": "https://wallstreetcn.com/articles/3773561",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时32分 ~ 07时26分]"
         },
         {
           "title": "伊朗暂停通过中间人同美国的对话，计划彻底封锁霍尔木兹海峡并启动曼德海峡「战线」，中东局势会如何发展？",
@@ -179,24 +283,13 @@
           "time_info": "[01时32分 ~ 07时26分]"
         },
         {
-          "title": "AI坑健身小白买20kg哑铃",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354756&amp;topic_name=AI%E5%9D%91%E5%81%A5%E8%BA%AB%E5%B0%8F%E7%99%BD%E4%B9%B020kg%E5%93%91%E9%93%83",
-          "source": "贴吧",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时32分 ~ 07时26分]"
-        },
-        {
           "title": "3家港股AI企业正在“回A”辅导，“A+H”持续扩容",
           "url": "https://wallstreetcn.com/livenews/3112679",
           "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时26分"
         },
@@ -208,30 +301,6 @@
             7,
             10,
             8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时32分 ~ 07时26分]"
-        },
-        {
-          "title": "英伟达发布PC芯片 AI狂欢席卷全球市场 美股期指上涨 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2387523",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时32分 ~ 07时26分]"
-        },
-        {
-          "title": "伊朗：彻底封锁霍尔木兹海峡",
-          "url": "https://www.douyin.com/hot/2520417",
-          "source": "抖音",
-          "ranks": [
-            11,
-            15
           ],
           "is_new": false,
           "appearance_count": 5,
@@ -262,15 +331,16 @@
           "time_info": "[05时30分 ~ 07时26分]"
         },
         {
-          "title": "美伊又打起来了，特朗普：伊朗“确实想要”达成协议",
-          "url": "https://wallstreetcn.com/articles/3773555",
-          "source": "华尔街见闻",
+          "title": "亚马逊已停止跟踪员工 Token 消耗榜单，你所在公司「为了用 AI 而用 AI」的情况严重吗？",
+          "url": "https://www.zhihu.com/question/2044719064757397392",
+          "source": "知乎",
           "ranks": [
+            14,
             10
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[05时30分 ~ 07时26分]"
+          "time_info": "[05时30分 ~ 11时37分]"
         },
         {
           "title": "伊朗谈判团队暂停通过中间人同美国对话",
@@ -285,15 +355,48 @@
           "time_info": "[01时32分 ~ 07时26分]"
         },
         {
-          "title": "亚马逊已停止跟踪员工 Token 消耗榜单，你所在公司「为了用 AI 而用 AI」的情况严重吗？",
-          "url": "https://www.zhihu.com/question/2044719064757397392",
-          "source": "知乎",
+          "title": "我用AI做了祖国人胜利结局",
+          "url": "https://search.bilibili.com/all?keyword=%E6%88%91%E7%94%A8AI%E5%81%9A%E4%BA%86%E7%A5%96%E5%9B%BD%E4%BA%BA%E8%83%9C%E5%88%A9%E7%BB%93%E5%B1%80",
+          "source": "bilibili 热搜",
           "ranks": [
-            14
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[05时30分 ~ 05时31分]"
+          "time_info": "[11时36分 ~ 11时37分]"
+        },
+        {
+          "title": "黄仁勋的棋局：AI算力的每一条路，都有英伟达在等候",
+          "url": "https://wallstreetcn.com/articles/3773569",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时36分 ~ 11时37分]"
+        },
+        {
+          "title": "特朗普安抚市场： 黎以所有交火行动将立即停止 与伊朗的谈判正“快速推进”",
+          "url": "https://www.cls.cn/detail/2387700",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时36分 ~ 11时37分]"
+        },
+        {
+          "title": "暂停同美对话、计划封锁海峡，伊朗要求以色列撤军",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33285729",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时36分 ~ 11时37分]"
         },
         {
           "title": "伊朗：必要情况下“动用一切能力捍卫自身利益”",
@@ -302,7 +405,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时26分"
         },
@@ -349,6 +452,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时31分"
+        },
+        {
+          "title": "创业板指涨超2%，沪指涨0.11%，深成指涨0.93%，算力硬件、AI PC、存储芯片等方向领涨，沪深京三市上涨个股超1500只。",
+          "url": "https://wallstreetcn.com/livenews/3112781",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时37分"
         },
         {
           "title": "Alphabet(GOOG.O)募资以扩建AI基础设施及算力。",
@@ -412,7 +526,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时26分"
         },
@@ -478,9 +592,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时26分"
+        },
+        {
+          "title": "难以妥协的“断供冲击”，随时可能掀翻需求面的颓势",
+          "url": "https://flash.jin10.com/detail/20260602111043740800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时37分"
         },
         {
           "title": "【特朗普称尚未收到伊朗关于暂停谈判的消息】美国总统特朗普表示，关于伊朗问题，他尚未收到伊朗方面暂停谈判的消息。 当地时间1日，伊朗方面有消息称，鉴于以色列在黎巴嫩的持续军事行动，并考虑到黎巴嫩停火是伊美停火的先决条件之一，伊朗谈判团队暂停通过中间人同美国的对话和文本交换。 消息称，伊朗官员和谈判代表表示，以色列必须立即停止在加沙地带和黎巴嫩的侵略和残暴的军事行动，并必须从黎巴嫩完全撤军。伊朗官员表示，在此要求得到满足前，伊朗不会举行任何谈判。（央视）",
@@ -522,9 +647,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时26分"
+        },
+        {
+          "title": "报道：腾讯更加接近推出微信AI助手",
+          "url": "https://wallstreetcn.com/livenews/3112760",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时37分"
         },
         {
           "title": "德国两年期国债收益率涨超10个基点，伊朗局势推高油价",
@@ -577,7 +713,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时26分"
         },
@@ -621,9 +757,20 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时26分"
+        },
+        {
+          "title": "“中立”不再是护身符：美国逼阿曼选边站，切断与伊朗关系",
+          "url": "https://flash.jin10.com/detail/20260602110821976800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时37分"
         },
         {
           "title": "美联储：比起AI，远程办公对年轻毕业生求职影响更大",
