@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-04T00:42:03.463773+08:00",
-  "total_titles_processed": 313,
+  "generated_at": "2026-06-04T04:18:11.324274+08:00",
+  "total_titles_processed": 418,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai ai+ ai人工智能 人工智能 风险识别 商业风险识别 痛点 需求 商业风险 伊朗 rwa 趋势 热点 热门",
-      "match_count": 21,
+      "match_count": 37,
       "titles": [
         {
           "title": "AI热情力撑美股新高，纳指、标普九连涨，半导体指数大涨近6%，比特币重挫，铜上涨",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时41分 ~ 00时42分]"
+          "appearance_count": 4,
+          "time_info": "[00时41分 ~ 04时18分]"
         },
         {
           "title": "特朗普：确实对内塔尼亚胡“爆粗口”，愿与伊朗最高领袖会面，正与伊朗达成协议，海上封锁或持续到9月",
@@ -26,8 +26,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时41分 ~ 00时42分]"
+          "appearance_count": 4,
+          "time_info": "[00时41分 ~ 04时18分]"
+        },
+        {
+          "title": "伊朗革命卫队：为回应美军袭击，已打击美以船只及美军基地",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33296755",
+          "source": "澎湃新闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时41分 ~ 04时18分]"
         },
         {
           "title": "伊朗最高领袖批准成立霍尔木兹海峡问题工作组",
@@ -41,15 +52,15 @@
           "time_info": "[00时41分 ~ 00时42分]"
         },
         {
-          "title": "伊朗革命卫队：为回应美军袭击，已打击美以船只及美军基地",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33296755",
-          "source": "澎湃新闻",
+          "title": "奥尔特曼将述其关于AI领域公私合作的愿景",
+          "url": "https://flash.jin10.com/detail/20260604035154003800",
+          "source": "金十数据",
           "ranks": [
-            4
+            1
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时41分 ~ 00时42分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时18分"
         },
         {
           "title": "谷歌(GOOG.O)：从今天起，符合条件的美国谷歌AI Ultra订阅用户（18岁及以上）可以在安卓和iOS设备上使用DreamBeans服务。",
@@ -58,7 +69,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时42分"
         },
@@ -69,9 +80,42 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时42分"
+        },
+        {
+          "title": "胡塞武装发表声明，重申支持伊朗维护自身权利",
+          "url": "https://wallstreetcn.com/livenews/3113991",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时18分"
+        },
+        {
+          "title": "胡塞武装发表声明 重申支持伊朗维护自身权利",
+          "url": "https://flash.jin10.com/detail/20260604034709070800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时18分"
+        },
+        {
+          "title": "伊朗军队称刚刚打击美军指挥舰",
+          "url": "https://wallstreetcn.com/livenews/3113990",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时18分"
         },
         {
           "title": "伊朗外长：任何敌对行为都将遭到立刻和果断回应",
@@ -80,7 +124,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时42分"
         },
@@ -92,8 +136,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时41分 ~ 00时42分]"
+          "appearance_count": 4,
+          "time_info": "[00时41分 ~ 04时18分]"
         },
         {
           "title": "胡彦斌一个月开发出 App，AI 时代将给普通人带来哪些机会？",
@@ -103,19 +147,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时41分 ~ 00时42分]"
+          "appearance_count": 4,
+          "time_info": "[00时41分 ~ 04时18分]"
         },
         {
           "title": "孙正义重登亚洲首富，称 AI 才刚起步，体量有望达到互联网热潮 50 倍，怎么理解该判断？其首富位子能坐多久？",
           "url": "https://www.zhihu.com/question/2045380781644763655",
           "source": "知乎",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时41分 ~ 00时42分]"
+          "appearance_count": 4,
+          "time_info": "[00时41分 ~ 04时18分]"
         },
         {
           "title": "\"技术跑通了，价值没到来\"：贝恩报告揭示AI支出逾万亿美元后回报寥寥",
@@ -125,19 +170,20 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时41分 ~ 00时42分]"
+          "appearance_count": 4,
+          "time_info": "[00时41分 ~ 04时18分]"
         },
         {
           "title": "估值4000亿、腾讯与宁德时代入局？DeepSeek被曝开启中国AI最大规模融资",
           "url": "https://www.cls.cn/detail/2389857",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时41分 ~ 00时42分]"
+          "appearance_count": 4,
+          "time_info": "[00时41分 ~ 04时18分]"
         },
         {
           "title": "白嫖结束!豆包AI开始收费",
@@ -147,8 +193,19 @@
             19
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时41分 ~ 04时18分]"
+        },
+        {
+          "title": "OpenAI 遭美国州政府起诉，ChatGPT 涉嫌帮助策划校园枪击案，诱导用户形成依赖，平台该不该担责？",
+          "url": "https://www.zhihu.com/question/2045160976878680020",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时41分 ~ 00时42分]"
+          "time_info": "[04时17分 ~ 04时18分]"
         },
         {
           "title": "王珞丹谈手搓AI短片创作过程",
@@ -162,15 +219,70 @@
           "time_info": "[00时41分 ~ 00时42分]"
         },
         {
+          "title": "据美国官员透露，经济补偿是伊朗协议的关键症结。（CNN）",
+          "url": "https://wallstreetcn.com/livenews/3113987",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时18分"
+        },
+        {
+          "title": "据伊朗国家媒体：伊朗国防部表示将竭尽全力加强国家防御能力。",
+          "url": "https://flash.jin10.com/detail/20260604034214703800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时18分"
+        },
+        {
+          "title": "美国中央司令部：伊朗声称其已对一艘位于阿曼湾的美国海军驱逐舰发动了打击。伊朗在撒谎。美国军方海上资产仍在安全、不受阻碍地执行飞行、航行和作战任务。",
+          "url": "https://flash.jin10.com/detail/20260604034106051800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时18分"
+        },
+        {
           "title": "Diameter Capital Partners LP.的联合创始人Scott Goodwin：人工智能（AI）领域的那些超大规模云服务商（Hyperscalers）在投资级市场（IG Market）上的比重越来越高。 SaaS构成头等违约风险。 某些人在资本问题上态度审慎。 大量贷款面临高风险。（彭博电视）",
           "url": "https://wallstreetcn.com/livenews/3113925",
           "source": "华尔街见闻-快讯",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时42分"
+        },
+        {
+          "title": "美媒：如何向伊朗“赔钱”成谈判症结之一",
+          "url": "https://flash.jin10.com/detail/20260604033452207800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时18分"
+        },
+        {
+          "title": "【伊朗革命卫队否认向科威特机场开火】当地时间3日，伊朗伊斯兰革命卫队发言人表示，其军队并未向科威特机场这一目标开火。 发言人称，科威特机场航站楼损毁系美国“爱国者”防空导弹系统故障所致，该系统发射的导弹在拦截伊朗导弹失败后误落至该航站楼。 科威特外交部3日发表声明说，科威特国际机场等多处民用设施当天遭伊朗弹道导弹和无人机袭击，造成1人死亡、多人受伤。科威特一度暂停该国空中交通并关闭领空。（央视）",
+          "url": "https://wallstreetcn.com/livenews/3113981",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时18分"
         },
         {
           "title": "美国参议院民主党领导人Schumer周三会见OpenAI的CEO Altman。（Semafor）",
@@ -179,9 +291,31 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时42分"
+        },
+        {
+          "title": "高盛高管：AI是驱动市场的“一代人级别”的力量",
+          "url": "https://wallstreetcn.com/livenews/3113978",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时18分"
+        },
+        {
+          "title": "伊朗军队称刚刚打击美军指挥舰",
+          "url": "https://flash.jin10.com/detail/20260604032342739800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时18分"
         },
         {
           "title": "美银将迎4000名新人，打破AI引发的失业恐慌",
@@ -190,7 +324,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时42分"
         },
@@ -201,7 +335,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时42分"
         },
@@ -212,7 +346,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时42分"
         },
@@ -223,9 +357,53 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时42分"
+        },
+        {
+          "title": "伊朗外长表示，如果以色列攻击贝鲁特，伊朗将作出果断回应。（黎巴嫩电视台Al-Mayadeen）",
+          "url": "https://wallstreetcn.com/livenews/3113972",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时18分"
+        },
+        {
+          "title": "据CNN：金钱赔偿问题成为了伊朗协议中的关键症结。",
+          "url": "https://flash.jin10.com/detail/20260604031409574800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时18分"
+        },
+        {
+          "title": "伊朗伊斯兰革命卫队：并没有向科威特机场开火。（伊朗国家电视台）",
+          "url": "https://wallstreetcn.com/livenews/3113970",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时18分"
+        },
+        {
+          "title": "【以军总参谋长称军队在黎巴嫩“没有停火可言”】当地时间3日，以色列国防军总参谋长扎米尔在视察海法海军基地时表示，以军在黎巴嫩“没有停火可言”，并称以军已准备好随时恢复针对伊朗的战斗。扎米尔称，以色列海军正成为以色列军队的“另一支远程战略力量”。他表示，自就任以来，他就指示要加强海军作为远程战略力量的建设，目前以军正在加速落实这一作战理念。针对伊朗问题，扎米尔补充说，以色列国防军的所有军种都已准备好，随时可以恢复针对伊朗的战斗。（央视）",
+          "url": "https://wallstreetcn.com/livenews/3113969",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时18分"
         },
         {
           "title": "伊朗外长阿拉格奇：伊朗部队对美国使用的军事地点进行打击",
@@ -234,7 +412,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时42分"
         }
