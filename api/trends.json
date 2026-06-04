@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-06-04T16:18:12.945040+08:00",
-  "total_titles_processed": 933,
+  "generated_at": "2026-06-04T19:50:42.476228+08:00",
+  "total_titles_processed": 1117,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai ai+ ai人工智能 人工智能 风险识别 商业风险识别 痛点 需求 商业风险 伊朗 rwa 趋势 热点 热门",
-      "match_count": 79,
+      "match_count": 86,
       "titles": [
         {
           "title": "特朗普：确实对内塔尼亚胡“爆粗口”，愿与伊朗最高领袖会面，正与伊朗达成协议，海上封锁或持续到9月",
           "url": "https://wallstreetcn.com/articles/3773781",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时41分 ~ 16时18分]"
+          "appearance_count": 9,
+          "time_info": "[00时41分 ~ 19时50分]"
         },
         {
           "title": "AI热情力撑美股新高，纳指、标普九连涨，半导体指数大涨近6%，比特币重挫，铜上涨",
@@ -51,8 +52,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时41分 ~ 16时18分]"
+          "appearance_count": 9,
+          "time_info": "[00时41分 ~ 19时50分]"
         },
         {
           "title": "伊朗突然变了，美国突然客气了",
@@ -87,6 +88,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时41分 ~ 00时42分]"
+        },
+        {
+          "title": "网友称对 AI 脸生理性厌恶，你有同感吗？为什么会出现这种现象？",
+          "url": "https://www.zhihu.com/question/2045546609027408734",
+          "source": "知乎",
+          "ranks": [
+            8,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时39分 ~ 19时50分]"
         },
         {
           "title": "胡彦斌一个月开发出 App，AI 时代将给普通人带来哪些机会？",
@@ -129,7 +142,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时18分"
         },
@@ -145,6 +158,17 @@
           "time_info": "[00时41分 ~ 11时39分]"
         },
         {
+          "title": "中国往返伊朗航线恢复运营",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%BE%80%E8%BF%94%E4%BC%8A%E6%9C%97%E8%88%AA%E7%BA%BF%E6%81%A2%E5%A4%8D%E8%BF%90%E8%90%A5%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时50分"
+        },
+        {
           "title": "谷歌(GOOG.O)：从今天起，符合条件的美国谷歌AI Ultra订阅用户（18岁及以上）可以在安卓和iOS设备上使用DreamBeans服务。",
           "url": "https://flash.jin10.com/detail/20260604001056714800",
           "source": "金十数据",
@@ -156,15 +180,38 @@
           "time_info": "00时42分"
         },
         {
+          "title": "美、布两油短线下跌近1美元，此前特朗普发文称美国正处于结束伊朗战争的最后谈判阶段。",
+          "url": "https://flash.jin10.com/detail/20260604192450276800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时50分"
+        },
+        {
           "title": "伊朗最高领袖发表书面致辞呼吁团结",
           "url": "https://wallstreetcn.com/livenews/3114294",
           "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时18分"
+        },
+        {
+          "title": "黄仁勋最早今晚抵韩！行程曝光：与科技大佬烤肉谈AI、首次亮相综艺……",
+          "url": "https://www.cls.cn/detail/2390517",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时17分 ~ 19时50分]"
         },
         {
           "title": "黄仁勋概念股又+1：纳微半导体暴涨创新高 凭AI电源技术切入“达链”",
@@ -212,16 +259,29 @@
           "time_info": "04时18分"
         },
         {
-          "title": "网友称对 AI 脸生理性厌恶，你有同感吗？为什么会出现这种现象？",
-          "url": "https://www.zhihu.com/question/2045546609027408734",
-          "source": "知乎",
+          "title": "博通电话会：CEO坦言谷歌正“另寻新欢”，但需求旺盛订单排到2028年，将打造算力融资平台",
+          "url": "https://wallstreetcn.com/articles/3773814",
+          "source": "华尔街见闻",
           "ranks": [
-            8,
-            3
+            10,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时39分 ~ 19时50分]"
+        },
+        {
+          "title": "微信开放手机厂商智能体接入 AI手机迎来“最优解”？",
+          "url": "https://www.cls.cn/detail/2390370",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            4
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[11时39分 ~ 16时18分]"
+          "time_info": "[16时17分 ~ 19时50分]"
         },
         {
           "title": "胡塞武装发表声明 重申支持伊朗维护自身权利",
@@ -256,6 +316,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时41分 ~ 07时04分]"
+        },
+        {
+          "title": "AI需求猛如虎！台积电CEO：数年内都无法满足芯片需求",
+          "url": "https://www.cls.cn/detail/2390489",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时17分 ~ 19时50分]"
         },
         {
           "title": "伊朗外长：任何敌对行为都将遭到立刻和果断回应",
@@ -312,8 +384,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时39分 ~ 16时18分]"
+          "appearance_count": 4,
+          "time_info": "[11时39分 ~ 19时50分]"
         },
         {
           "title": "黄仁勋向全球富豪家族力荐AI：回报“疯狂可观”，还在质疑的人才是“疯子”！",
@@ -324,42 +396,32 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时39分 ~ 16时18分]"
+          "appearance_count": 4,
+          "time_info": "[11时39分 ~ 19时50分]"
         },
         {
-          "title": "博通电话会：CEO坦言谷歌正“另寻新欢”，但需求旺盛订单排到2028年，将打造算力融资平台",
-          "url": "https://wallstreetcn.com/articles/3773814",
+          "title": "桥水达利欧：随着财富转化为现金，AI泡沫终将破裂",
+          "url": "https://wallstreetcn.com/articles/3773802",
           "source": "华尔街见闻",
           "ranks": [
-            10,
-            6
+            9,
+            8
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[11时39分 ~ 16时18分]"
+          "time_info": "[16时17分 ~ 19时50分]"
         },
         {
-          "title": "微信开放手机厂商智能体接入 AI手机迎来“最优解”？",
-          "url": "https://www.cls.cn/detail/2390370",
-          "source": "财联社热门",
+          "title": "2030年AI耗水量够13亿人用一年",
+          "url": "https://s.weibo.com/weibo?q=%232030%E5%B9%B4AI%E8%80%97%E6%B0%B4%E9%87%8F%E5%A4%9F13%E4%BA%BF%E4%BA%BA%E7%94%A8%E4%B8%80%E5%B9%B4%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
           "ranks": [
-            6
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时17分 ~ 16时18分]"
-        },
-        {
-          "title": "黄仁勋最早今晚抵韩！行程曝光：与科技大佬烤肉谈AI、首次亮相综艺……",
-          "url": "https://www.cls.cn/detail/2390517",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时17分 ~ 16时18分]"
+          "appearance_count": 3,
+          "time_info": "[16时17分 ~ 19时50分]"
         },
         {
           "title": "在伊朗被击落的美军飞行员，被曝此前也在科威特遭误击",
@@ -367,39 +429,6 @@
           "source": "凤凰网",
           "ranks": [
             7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时17分 ~ 16时18分]"
-        },
-        {
-          "title": "桥水达利欧：随着财富转化为现金，AI泡沫终将破裂",
-          "url": "https://wallstreetcn.com/articles/3773802",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时17分 ~ 16时18分]"
-        },
-        {
-          "title": "2030年AI耗水量够13亿人用一年",
-          "url": "https://s.weibo.com/weibo?q=%232030%E5%B9%B4AI%E8%80%97%E6%B0%B4%E9%87%8F%E5%A4%9F13%E4%BA%BF%E4%BA%BA%E7%94%A8%E4%B8%80%E5%B9%B4%23&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时17分 ~ 16时18分]"
-        },
-        {
-          "title": "AI需求猛如虎！台积电CEO：数年内都无法满足芯片需求",
-          "url": "https://www.cls.cn/detail/2390489",
-          "source": "财联社热门",
-          "ranks": [
-            12
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -461,6 +490,17 @@
           "time_info": "04时18分"
         },
         {
+          "title": "特朗普：美国正处于结束伊朗战争的最后谈判阶段。",
+          "url": "https://wallstreetcn.com/livenews/3114408",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时50分"
+        },
+        {
           "title": "据伊朗国家媒体：伊朗国防部表示将竭尽全力加强国家防御能力。",
           "url": "https://flash.jin10.com/detail/20260604034214703800",
           "source": "金十数据",
@@ -470,6 +510,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时18分"
+        },
+        {
+          "title": "台积电魏哲家：数年内都无法满足芯片需求，资本开支高点“我也不知道”、“没看到停下的指标”",
+          "url": "https://wallstreetcn.com/articles/3773834",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时50分"
         },
         {
           "title": "美国中央司令部：伊朗声称其已对一艘位于阿曼湾的美国海军驱逐舰发动了打击。伊朗在撒谎。美国军方海上资产仍在安全、不受阻碍地执行飞行、航行和作战任务。",
@@ -505,6 +556,17 @@
           "time_info": "11时39分"
         },
         {
+          "title": "【焦点复盘】科创50冲高回落涨0.69%，AI硬件端强者恒强，大消费板块遭重挫",
+          "url": "https://www.cls.cn/detail/2390870",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时50分"
+        },
+        {
           "title": "Diameter Capital Partners LP.的联合创始人Scott Goodwin：人工智能（AI）领域的那些超大规模云服务商（Hyperscalers）在投资级市场（IG Market）上的比重越来越高。 SaaS构成头等违约风险。 某些人在资本问题上态度审慎。 大量贷款面临高风险。（彭博电视）",
           "url": "https://wallstreetcn.com/livenews/3113925",
           "source": "华尔街见闻-快讯",
@@ -536,6 +598,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时18分"
+        },
+        {
+          "title": "美国总统特朗普：美国正在进行最后谈判以结束伊朗战争。",
+          "url": "https://flash.jin10.com/detail/20260604191540995800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时50分"
         },
         {
           "title": "【伊朗革命卫队否认向科威特机场开火】当地时间3日，伊朗伊斯兰革命卫队发言人表示，其军队并未向科威特机场这一目标开火。 发言人称，科威特机场航站楼损毁系美国“爱国者”防空导弹系统故障所致，该系统发射的导弹在拦截伊朗导弹失败后误落至该航站楼。 科威特外交部3日发表声明说，科威特国际机场等多处民用设施当天遭伊朗弹道导弹和无人机袭击，造成1人死亡、多人受伤。科威特一度暂停该国空中交通并关闭领空。（央视）",
@@ -577,7 +650,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时18分"
         },
@@ -632,7 +705,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时18分"
         },
@@ -679,6 +752,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时04分"
+        },
+        {
+          "title": "男子AI写歌月收入十几万",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90AI%E5%86%99%E6%AD%8C%E6%9C%88%E6%94%B6%E5%85%A5%E5%8D%81%E5%87%A0%E4%B8%87%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时50分"
         },
         {
           "title": "字节跳动旗下AI聊天机器人豆包拟推出付费专业版",
@@ -753,7 +837,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时18分"
         },
