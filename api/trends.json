@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-09T17:36:48.731546+08:00",
-  "total_titles_processed": 1026,
+  "generated_at": "2026-06-09T20:34:53.394189+08:00",
+  "total_titles_processed": 1204,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai ai+ ai人工智能 人工智能 风险识别 商业风险识别 痛点 需求 商业风险 伊朗 rwa 趋势 热点 热门",
-      "match_count": 102,
+      "match_count": 108,
       "titles": [
         {
           "title": "“你应该感到高兴！”黄仁勋力挺AI：暴跌后终于能打折买了",
@@ -31,6 +31,18 @@
           "time_info": "[01时21分 ~ 08时04分]"
         },
         {
+          "title": "苹果WWDC 2026：Siri AI姗姗来迟，Apple Intelligence全面升级，OS集体迈入27版，股价盘中转跌",
+          "url": "https://wallstreetcn.com/articles/3774148",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时02分 ~ 20时34分]"
+        },
+        {
           "title": "伊朗时隔两个月再袭以色列，特朗普称「希望以色列不要还击」，局势将如何发展？美伊谈判是否会受影响？",
           "url": "https://www.zhihu.com/question/2047287128892224880",
           "source": "知乎",
@@ -42,17 +54,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[04时10分 ~ 13时03分]"
-        },
-        {
-          "title": "苹果WWDC 2026：Siri AI姗姗来迟，Apple Intelligence全面升级，OS集体迈入27版，股价盘中转跌",
-          "url": "https://wallstreetcn.com/articles/3774148",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时02分 ~ 17时36分]"
         },
         {
           "title": "【每日收评】沪指跌1.7%失守4000点，全市场超4500股收绿，物理AI概念逆势爆发",
@@ -102,6 +103,18 @@
           "time_info": "[13时02分 ~ 13时03分]"
         },
         {
+          "title": "增速19.4%！AI需求强劲，中国5月出口全面超预期",
+          "url": "https://wallstreetcn.com/articles/3774181",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时36分 ~ 20时34分]"
+        },
+        {
           "title": "特朗普：未来两周将对伊朗全面胜利",
           "url": "https://news.ifeng.com/c/8to7gfqUzZi",
           "source": "凤凰网",
@@ -141,7 +154,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时36分"
         },
@@ -185,7 +198,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时36分"
         },
@@ -213,15 +226,15 @@
           "time_info": "[08时04分 ~ 13时03分]"
         },
         {
-          "title": "增速19.4%！AI需求强劲，中国5月出口全面超预期",
-          "url": "https://wallstreetcn.com/articles/3774181",
-          "source": "华尔街见闻",
+          "title": "Monte vs paiN 科隆Major",
+          "url": "https://search.bilibili.com/all?keyword=Monte%20paiN",
+          "source": "bilibili 热搜",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时36分"
+          "time_info": "20时34分"
         },
         {
           "title": "金十图示：2026年06月08日（周一）热门中概股行情一览（美股盘中）",
@@ -255,6 +268,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时24分"
+        },
+        {
+          "title": "特朗普“积极介入斡旋”后，伊朗宣布对以打击“告一段落”",
+          "url": "https://wallstreetcn.com/articles/3774122",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时04分 ~ 20时34分]"
         },
         {
           "title": "伊朗嘲讽特朗普：已经黔驴技穷 只会“精神胜利”",
@@ -314,6 +339,18 @@
           "time_info": "[06时24分 ~ 08时04分]"
         },
         {
+          "title": "特朗普：未来两周将对伊朗“全面胜利” 油价将会暴跌！",
+          "url": "https://www.cls.cn/detail/2394559",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时36分 ~ 20时34分]"
+        },
+        {
           "title": "领导说 AI 会淘汰大部分程序员，到时企业只需一两个架构师就能完成所有项目，这是危言耸听还是真的会发生？",
           "url": "https://www.zhihu.com/question/2043797160312010091",
           "source": "知乎",
@@ -339,8 +376,8 @@
           "time_info": "[06时24分 ~ 08时04分]"
         },
         {
-          "title": "特朗普“积极介入斡旋”后，伊朗宣布对以打击“告一段落”",
-          "url": "https://wallstreetcn.com/articles/3774122",
+          "title": "OpenAI提交上市申请，“三大超级IPO”考验美股承受力",
+          "url": "https://wallstreetcn.com/articles/3774156",
           "source": "华尔街见闻",
           "ranks": [
             9,
@@ -348,7 +385,18 @@
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[08时04分 ~ 17时36分]"
+          "time_info": "[13时02分 ~ 20时34分]"
+        },
+        {
+          "title": "英特尔盘前涨超14%，报道：谷歌拟下单三百万AI芯片、英伟达测试其18A工艺",
+          "url": "https://wallstreetcn.com/articles/3774134",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时02分 ~ 20时34分]"
         },
         {
           "title": "OpenAI计划在首次公开募股（IPO）之前启动员工/股东股票要约收购案（Tender Sale）。 据知情人士透露，该公司将在未来几周内正式举行该股票要约收购（Tender）。（彭博）",
@@ -442,29 +490,6 @@
           "time_info": "[01时21分 ~ 08时04分]"
         },
         {
-          "title": "OpenAI提交上市申请，“三大超级IPO”考验美股承受力",
-          "url": "https://wallstreetcn.com/articles/3774156",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时02分 ~ 17时36分]"
-        },
-        {
-          "title": "英特尔盘前涨超14%，报道：谷歌拟下单三百万AI芯片、英伟达测试其18A工艺",
-          "url": "https://wallstreetcn.com/articles/3774134",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时02分 ~ 17时36分]"
-        },
-        {
           "title": "亲自为SpaceX上市预热！马斯克曝光AI卫星更多细节",
           "url": "https://www.cls.cn/detail/2394326",
           "source": "财联社热门",
@@ -487,6 +512,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时21分 ~ 06时24分]"
+        },
+        {
+          "title": "期货热点追踪",
+          "url": "https://flash.jin10.com/detail/20260608235820343800",
+          "source": "金十数据",
+          "ranks": [
+            26,
+            13,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时21分 ~ 20时34分]"
         },
         {
           "title": "伊朗宣布停止对以色列的军事行动",
@@ -544,18 +582,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时02分 ~ 13时03分]"
-        },
-        {
-          "title": "期货热点追踪",
-          "url": "https://flash.jin10.com/detail/20260608235820343800",
-          "source": "金十数据",
-          "ranks": [
-            26,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时21分 ~ 13时03分]"
         },
         {
           "title": "伊朗开启世界杯史上最特殊参赛模式",
@@ -624,17 +650,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时24分 ~ 08时04分]"
-        },
-        {
-          "title": "特朗普：未来两周将对伊朗“全面胜利” 油价将会暴跌！",
-          "url": "https://www.cls.cn/detail/2394559",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时36分"
         },
         {
           "title": "据伊朗伊斯兰共和国通讯社（IRNA）：（援引伊朗驻联合国代表）我们正通过巴基斯坦与美国交换意见，以达成最终文本。",
@@ -742,7 +757,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时36分"
         },
@@ -753,7 +768,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时36分"
         },
@@ -775,9 +790,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时36分"
+        },
+        {
+          "title": "【焦点复盘】沪指缩量反弹收复4000点，全市场超200股涨逾10%，AI软硬件双双大涨",
+          "url": "https://www.cls.cn/detail/2394903",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时34分"
         },
         {
           "title": "伊朗全境航班暂停运行",
@@ -852,7 +878,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时36分"
         },
@@ -874,7 +900,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时36分"
         },
@@ -888,6 +914,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时21分"
+        },
+        {
+          "title": "AIVA发布会",
+          "url": "https://s.weibo.com/weibo?q=AIVA%E5%8F%91%E5%B8%83%E4%BC%9A&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时34分"
         },
         {
           "title": "OpenAI首席科学家：OpenAI致力追求的各项核心目标，均围绕着这一使命：确保通用人工智能造福全人类。人工智能应当增强人类的主体性，而非削弱人类在塑造未来中的作用与意义。",
@@ -1094,9 +1131,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时36分"
+        },
+        {
+          "title": "前程无忧：AI技能从“加分项”变成“分水岭”，具备AI能力人才平均薪资溢价最高接近50%",
+          "url": "https://wallstreetcn.com/livenews/3116802",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时34分"
         },
         {
           "title": "库克最后一场WWDC：AI Siri登场",
@@ -1132,6 +1180,28 @@
           "time_info": "04时10分"
         },
         {
+          "title": "猫眼娱乐与腾讯围绕AI Agent达成合作：打造智能化票务新体验",
+          "url": "https://wallstreetcn.com/livenews/3116801",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时34分"
+        },
+        {
+          "title": "猫眼娱乐：已接入微信AI生态",
+          "url": "https://flash.jin10.com/detail/20260609195745193800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时34分"
+        },
+        {
           "title": "以色列总理确认暂停袭击伊朗",
           "url": "https://wallstreetcn.com/livenews/3116251",
           "source": "华尔街见闻-快讯",
@@ -1149,7 +1219,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时36分"
         },
