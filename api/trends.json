@@ -1,11 +1,14 @@
 {
-  "generated_at": "2026-06-17T11:41:48.724827+08:00",
-  "total_titles_processed": 737,
-  "failed_sources": [],
+  "generated_at": "2026-06-17T17:02:06.320456+08:00",
+  "total_titles_processed": 973,
+  "failed_sources": [
+    "toutiao",
+    "thepaper"
+  ],
   "trends": [
     {
       "keyword_group": "ai ai+ ai人工智能 人工智能 风险识别 商业风险识别 痛点 需求 商业风险 伊朗 rwa 趋势 热点 热门",
-      "match_count": 60,
+      "match_count": 74,
       "titles": [
         {
           "title": "报道：SpaceX全股票收购AI编程工具Cursor，交易估值600亿美元",
@@ -15,8 +18,22 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时02分 ~ 11时41分]"
+          "appearance_count": 6,
+          "time_info": "[02时02分 ~ 17时02分]"
+        },
+        {
+          "title": "翻脸不认球,美国驱赶伊朗队",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355210&amp;topic_name=%E7%BF%BB%E8%84%B8%E4%B8%8D%E8%AE%A4%E7%90%83%2C%E7%BE%8E%E5%9B%BD%E9%A9%B1%E8%B5%B6%E4%BC%8A%E6%9C%97%E9%98%9F",
+          "source": "贴吧",
+          "ranks": [
+            3,
+            4,
+            9,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[02时02分 ~ 17时02分]"
         },
         {
           "title": "存储红利向“非AI”扩散：这两类内存年内涨价翻倍 机构预计下半年“涨声”不断",
@@ -30,6 +47,18 @@
           "time_info": "[02时02分 ~ 07时22分]"
         },
         {
+          "title": "“伊朗永远不会得到美国纳税人的一分钱”",
+          "url": "https://news.ifeng.com/c/8u1ZY3ZubFf",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时41分 ~ 17时02分]"
+        },
+        {
           "title": "伊朗队赛前获准在美国过夜，赛后却被勒令立即离开，如何看待此事？风波背后折射出美伊关系怎样的冰与火？",
           "url": "https://www.zhihu.com/question/2050229682415613269",
           "source": "知乎",
@@ -41,6 +70,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时02分 ~ 07时22分]"
+        },
+        {
+          "title": "美国或赔偿伊朗3千亿",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355216&amp;topic_name=%E7%BE%8E%E5%9B%BD%E6%88%96%E8%B5%94%E5%81%BF%E4%BC%8A%E6%9C%973%E5%8D%83%E4%BA%BF",
+          "source": "贴吧",
+          "ranks": [
+            5,
+            6,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[02时02分 ~ 17时02分]"
         },
         {
           "title": "支撑人工智能等高质量发展 算力网开启万亿级投资周期",
@@ -65,19 +107,6 @@
           "time_info": "[02时02分 ~ 07时22分]"
         },
         {
-          "title": "翻脸不认球,美国驱赶伊朗队",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355210&amp;topic_name=%E7%BF%BB%E8%84%B8%E4%B8%8D%E8%AE%A4%E7%90%83%2C%E7%BE%8E%E5%9B%BD%E9%A9%B1%E8%B5%B6%E4%BC%8A%E6%9C%97%E9%98%9F",
-          "source": "贴吧",
-          "ranks": [
-            3,
-            4,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时02分 ~ 11时41分]"
-        },
-        {
           "title": "腾讯大幅下调员工 AI Token 额度，从月均上万降至千元级别意味着什么？AI 算力成本面临哪些困局？",
           "url": "https://www.zhihu.com/question/2050239948306092201",
           "source": "知乎",
@@ -91,16 +120,40 @@
           "time_info": "[02时02分 ~ 11时41分]"
         },
         {
-          "title": "美国或赔偿伊朗3千亿",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355216&amp;topic_name=%E7%BE%8E%E5%9B%BD%E6%88%96%E8%B5%94%E5%81%BF%E4%BC%8A%E6%9C%973%E5%8D%83%E4%BA%BF",
-          "source": "贴吧",
+          "title": "勒令伊朗国足连夜离境 美方回应",
+          "url": "https://www.baidu.com/s?wd=%E5%8B%92%E4%BB%A4%E4%BC%8A%E6%9C%97%E5%9B%BD%E8%B6%B3%E8%BF%9E%E5%A4%9C%E7%A6%BB%E5%A2%83+%E7%BE%8E%E6%96%B9%E5%9B%9E%E5%BA%94",
+          "source": "百度热搜",
           "ranks": [
-            5,
-            6
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时02分 ~ 11时41分]"
+          "appearance_count": 2,
+          "time_info": "[17时00分 ~ 17时02分]"
+        },
+        {
+          "title": "两度扳平!伊朗2-2新西兰",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355198&amp;topic_name=%E4%B8%A4%E5%BA%A6%E6%89%B3%E5%B9%B3%21%E4%BC%8A%E6%9C%972-2%E6%96%B0%E8%A5%BF%E5%85%B0",
+          "source": "贴吧",
+          "ranks": [
+            7,
+            8,
+            12,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[02时02分 ~ 17时02分]"
+        },
+        {
+          "title": "中国正加紧筹建世界人工智能合作组织",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33396659",
+          "source": "澎湃新闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时00分"
         },
         {
           "title": "伊朗议会国家安全委员会负责人：任何违反行为将遭到果断、毁灭性的回应。",
@@ -136,17 +189,6 @@
           "time_info": "02时02分"
         },
         {
-          "title": "“伊朗永远不会得到美国纳税人的一分钱”",
-          "url": "https://news.ifeng.com/c/8u1ZY3ZubFf",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时41分"
-        },
-        {
           "title": "伊朗议会国家安全委员会负责人：华盛顿必须通过结束对黎巴嫩的战争并遵守谅解备忘录的每一条款来证明其承诺。",
           "url": "https://flash.jin10.com/detail/20260617014234777800",
           "source": "金十数据",
@@ -175,7 +217,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时41分"
         },
@@ -216,6 +258,20 @@
           "time_info": "[02时02分 ~ 11时41分]"
         },
         {
+          "title": "刚完赛就被勒令离开美国！伊朗队主帅抱怨球队在世界杯受压迫",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33389989",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18,
+            5,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[05时41分 ~ 17时00分]"
+        },
+        {
           "title": "为什么DeepSeek是AI泡沫斩杀线",
           "url": "https://www.toutiao.com/trending/7651979830128283145/",
           "source": "今日头条",
@@ -254,30 +310,16 @@
           "time_info": "[02时02分 ~ 05时41分]"
         },
         {
-          "title": "刚完赛就被勒令离开美国！伊朗队主帅抱怨球队在世界杯受压迫",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33389989",
-          "source": "澎湃新闻",
+          "title": "特朗普称霍尔木兹海峡周五全面重开、或近期恢复俄油制裁，伊朗称协议要求以从黎撤军",
+          "url": "https://wallstreetcn.com/articles/3774815",
+          "source": "华尔街见闻",
           "ranks": [
-            20,
-            18,
-            5
+            7,
+            6
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[05时41分 ~ 11时41分]"
-        },
-        {
-          "title": "两度扳平!伊朗2-2新西兰",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355198&amp;topic_name=%E4%B8%A4%E5%BA%A6%E6%89%B3%E5%B9%B3%21%E4%BC%8A%E6%9C%972-2%E6%96%B0%E8%A5%BF%E5%85%B0",
-          "source": "贴吧",
-          "ranks": [
-            7,
-            8,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时02分 ~ 11时41分]"
+          "time_info": "[11时41分 ~ 17时02分]"
         },
         {
           "title": "【每日收评】创业板指涨1.72%，全市场连续两日超百股涨停，AI硬件方向延续强势",
@@ -290,6 +332,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时02分 ~ 07时22分]"
+        },
+        {
+          "title": "DeepSeek 完成 500 亿融资，估值超 3300 亿，如何解读背后的估值逻辑？将对 AI 领域产生哪些影响？",
+          "url": "https://www.zhihu.com/question/2050261467174101567",
+          "source": "知乎",
+          "ranks": [
+            6,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时41分 ~ 17时02分]"
         },
         {
           "title": "苏姿丰最近很忙！参建PCB工厂、扫货激光芯片 AMD加入AI军备竞赛",
@@ -330,6 +384,29 @@
           "time_info": "[02时02分 ~ 07时22分]"
         },
         {
+          "title": "Redis 之父为 DeepSeek 抱不平，美国 AI 圈为何再为「蒸馏」开吵？",
+          "url": "https://www.zhihu.com/question/2050271442697188542",
+          "source": "知乎",
+          "ranks": [
+            15,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时41分 ~ 17时02分]"
+        },
+        {
+          "title": "美伊协议核心条款曝光：伊朗石油出口即刻解禁，核项目维持现状，海峡快速重启仍存变数",
+          "url": "https://wallstreetcn.com/articles/3774848",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时00分 ~ 17时02分]"
+        },
+        {
           "title": "李佳琦直播间首次卖车，40 台奔驰秒售罄，直播卖车会成为新趋势吗？你会选择线上订车还是去 4S 店购车？",
           "url": "https://www.zhihu.com/question/2048363192439646181",
           "source": "知乎",
@@ -342,26 +419,15 @@
           "time_info": "[02时02分 ~ 07时22分]"
         },
         {
-          "title": "DeepSeek 完成 500 亿融资，估值超 3300 亿，如何解读背后的估值逻辑？将对 AI 领域产生哪些影响？",
-          "url": "https://www.zhihu.com/question/2050261467174101567",
-          "source": "知乎",
+          "title": "AI支付",
+          "url": "https://s.weibo.com/weibo?q=AI%E6%94%AF%E4%BB%98&t=31&band_rank=23&Refer=top",
+          "source": "微博",
           "ranks": [
-            6
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时41分"
-        },
-        {
-          "title": "特朗普称霍尔木兹海峡周五全面重开、或近期恢复俄油制裁，伊朗称协议要求以从黎撤军",
-          "url": "https://wallstreetcn.com/articles/3774815",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时41分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时00分 ~ 17时02分]"
         },
         {
           "title": "国际足联主席探望伊朗球员：我知道你们经历了什么",
@@ -370,7 +436,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时41分"
         },
@@ -397,15 +463,37 @@
           "time_info": "07时22分"
         },
         {
+          "title": "上交所邱勇：更大力度支持科技创新，落实好人工智能领域配套规则",
+          "url": "https://flash.jin10.com/detail/20260617162941610800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时02分"
+        },
+        {
           "title": "吴清：适时发布规范发展资本市场人工智能的指导意见",
           "url": "https://flash.jin10.com/detail/20260617111125135800",
           "source": "金十数据",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时41分"
+        },
+        {
+          "title": "上交所：发行人应在人工智能大模型领域行业地位突出、排名靠前",
+          "url": "https://wallstreetcn.com/livenews/3120854",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时02分"
         },
         {
           "title": "金十图示：2026年06月16日（周二）美股热门股票行情一览（美股盘中）",
@@ -417,6 +505,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时02分"
+        },
+        {
+          "title": "上交所：发布人工智能大模型企业适用科创板第五套上市标准审核指引",
+          "url": "https://wallstreetcn.com/livenews/3120852",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时02分"
         },
         {
           "title": "金十图示：2026年06月16日（周二）热门中概股行情一览（美股盘中）",
@@ -436,18 +535,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时41分"
-        },
-        {
-          "title": "Redis 之父为 DeepSeek 抱不平，美国 AI 圈为何再为「蒸馏」开吵？",
-          "url": "https://www.zhihu.com/question/2050271442697188542",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时41分"
         },
@@ -458,7 +546,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时41分"
         },
@@ -469,7 +557,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时41分"
         },
@@ -480,7 +568,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时41分"
         },
@@ -502,9 +590,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时41分"
+        },
+        {
+          "title": "IEA月报：伊朗冲突期间经合组织政府库存降至20世纪90年代初以来最低水平。 自冲突爆发以来，全球库存平均下降380万桶/日。 5月全球观测石油库存减少1.43亿桶。",
+          "url": "https://wallstreetcn.com/livenews/3120846",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时02分"
         },
         {
           "title": "金十图示：2026年06月16日（周二）热门中概股行情一览（美股收盘）",
@@ -516,6 +615,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时41分"
+        },
+        {
+          "title": "0利息也能吸走540亿！华尔街疯狂涌入小众风口，只为搭上AI快车",
+          "url": "https://flash.jin10.com/detail/20260617162336747800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时02分"
         },
         {
           "title": "英伟达时隔五年再发美元债，华尔街 AI 融资热再增 250 亿，巨头为何扎堆融资，透露出哪些信息？",
@@ -573,6 +683,28 @@
           "time_info": "05时41分"
         },
         {
+          "title": "IEA月报：5月OPEC+原油产量环比下降110万桶/日。 5月全球石油产量环比下降60万桶/日。 5月全球石油产量较伊朗冲突前水平低1360万桶/日。 高油价和供应中断导致交付量减少。 排雷和过境问题是对海湾石油运输的下行风险。",
+          "url": "https://wallstreetcn.com/livenews/3120841",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时02分"
+        },
+        {
+          "title": "港股收评：恒指收跌0.74% AI次新股强势领涨",
+          "url": "https://flash.jin10.com/detail/20260617161715957800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时02分"
+        },
+        {
           "title": "德国总理默茨告诉美国总统特朗普：德国准备对“霍尔木兹海峡任务”做出贡献。 相信美国与伊朗的协议能够持续下去。",
           "url": "https://wallstreetcn.com/livenews/3120427",
           "source": "华尔街见闻-快讯",
@@ -582,6 +714,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时02分"
+        },
+        {
+          "title": "IEA月报：IEA下调石油需求预期，伊朗冲突带来更深影响。 预计2026年全球石油需求为1.033亿桶/日，2027年为1.053亿桶/日。 预计2027年全球石油供应将反弹800万桶/日。 预计2026年全球石油供应将减少390万桶/日。 预计2026年全球石油需求将下降110万桶/日。",
+          "url": "https://wallstreetcn.com/livenews/3120837",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时02分"
         },
         {
           "title": "美政府或将为伊朗设3000亿美元基金",
@@ -601,7 +744,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时41分"
         },
@@ -639,13 +782,24 @@
           "time_info": "02时02分"
         },
         {
+          "title": "上交所：发行人应在人工智能大模型领域行业地位突出、排名靠前",
+          "url": "https://flash.jin10.com/detail/20260617161220483800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时02分"
+        },
+        {
           "title": "【中国人民银行优化公开市场临时隔夜正、逆回购操作机制】为灵活高效运用公开市场临时隔夜正、逆回购工具，中国人民银行决定即日起优化操作要素，将操作时间调整为工作日15:00-15:30，操作利率分别调整为公开市场7天期逆回购操作利率减点25bp和加点25bp。进一步明确工具使用规则，在货币市场隔夜利率（DR001）持续低于或高于相应工具操作利率时，中国人民银行将结合一级交易商需求启动相应操作。",
           "url": "https://wallstreetcn.com/livenews/3120673",
           "source": "华尔街见闻-快讯",
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时41分"
         },
@@ -659,6 +813,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时02分"
+        },
+        {
+          "title": "据伊朗电视台：伊朗警告称若以色列不停止对黎巴嫩的袭击，将作出回应。",
+          "url": "https://flash.jin10.com/detail/20260617161216317800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时02分"
         },
         {
           "title": "美媒：美伊协议签署后，伊朗即可出口石油",
