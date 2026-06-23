@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-23T16:29:53.249598+08:00",
-  "total_titles_processed": 1060,
+  "generated_at": "2026-06-23T19:58:17.361605+08:00",
+  "total_titles_processed": 1247,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai ai+ ai人工智能 人工智能 风险识别 商业风险识别 痛点 需求 商业风险 伊朗 rwa 趋势 热点 热门",
-      "match_count": 89,
+      "match_count": 103,
       "titles": [
         {
           "title": "伊朗谈判团队称伊美谈判达成5项要点",
@@ -41,6 +41,19 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时29分 ~ 08时03分]"
+        },
+        {
+          "title": "规模腰斩后，半夏投资发声：坚守低估值内需资产，AI泡沫破裂的触发条件已经出现",
+          "url": "https://wallstreetcn.com/articles/3775200",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时29分 ~ 19时58分]"
         },
         {
           "title": "伊朗议长：霍尔木兹海峡将按伊方制定的机制进行管理",
@@ -80,19 +93,6 @@
           "time_info": "[01时29分 ~ 08时03分]"
         },
         {
-          "title": "规模腰斩后，半夏投资发声：坚守低估值内需资产，AI泡沫破裂的触发条件已经出现",
-          "url": "https://wallstreetcn.com/articles/3775200",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时29分 ~ 16时29分]"
-        },
-        {
           "title": "比利时0-0伊朗",
           "url": "https://search.bilibili.com/all?keyword=%E6%AF%94%E5%88%A9%E6%97%B60-0%E4%BC%8A%E6%9C%97",
           "source": "bilibili 热搜",
@@ -101,11 +101,12 @@
             17,
             18,
             15,
-            22
+            22,
+            25
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时29分 ~ 16时29分]"
+          "appearance_count": 9,
+          "time_info": "[01时29分 ~ 19时58分]"
         },
         {
           "title": "米游AI女友上线,玩家有福了",
@@ -180,6 +181,18 @@
           "time_info": "[01时29分 ~ 04时41分]"
         },
         {
+          "title": "AI算力新变局：谁能动英伟达奶酪",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33431385",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时57分 ~ 19时58分]"
+        },
+        {
           "title": "美国总统特朗普：所有人都清楚，伊朗将同意接受重大武器核查，以确保未来长期的“核诚信”。",
           "url": "https://flash.jin10.com/detail/20260623005913970800",
           "source": "金十数据",
@@ -200,6 +213,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时41分"
+        },
+        {
+          "title": "【特朗普称允许霍尔木兹海峡保持开放】美国总统特朗普23日在社交媒体发文说，基于伊朗作出的让步，他已同意允许霍尔木兹海峡保持开放，不再实施海上封锁。“不过，所有船只仍将原地待命，以备必要时重新实施封锁。尽管目前看来，这种可能性极低。”（新华社）",
+          "url": "https://wallstreetcn.com/livenews/3123433",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时58分"
         },
         {
           "title": "前5月数据看我国消费新趋势",
@@ -256,18 +280,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时29分"
-        },
-        {
-          "title": "AI算力新变局：谁能动英伟达奶酪",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33431385",
-          "source": "澎湃新闻",
-          "ranks": [
-            9,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时57分 ~ 16时29分]"
         },
         {
           "title": "物理AI第一股上市首日高开302%",
@@ -388,6 +400,18 @@
           "time_info": "[06时45分 ~ 08时03分]"
         },
         {
+          "title": "DeepseekV4.1 即将发布，网友期待「降价、打爆国外 AI」，它将如何改变 AI 市场格局？",
+          "url": "https://www.zhihu.com/question/2044875348719005741",
+          "source": "知乎",
+          "ranks": [
+            6,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时29分 ~ 19时58分]"
+        },
+        {
           "title": "伊朗否认将用解冻资金买美农产品",
           "url": "https://flash.jin10.com/detail/20260623055417183800",
           "source": "金十数据",
@@ -448,6 +472,18 @@
           "time_info": "[06时45分 ~ 08时03分]"
         },
         {
+          "title": "微博 CEO 讨论 WPS 背刺随后删除称为龙虾误发，如何看待这一操作？AI 这篇点评有道理吗？",
+          "url": "https://www.zhihu.com/question/2052439090260178506",
+          "source": "知乎",
+          "ranks": [
+            20,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时29分 ~ 19时58分]"
+        },
+        {
           "title": "物理AI第一股上市首日高开302%",
           "url": "https://www.baidu.com/s?wd=%E7%89%A9%E7%90%86AI%E7%AC%AC%E4%B8%80%E8%82%A1%E4%B8%8A%E5%B8%82%E9%A6%96%E6%97%A5%E9%AB%98%E5%BC%80302%25",
           "source": "百度热搜",
@@ -481,24 +517,13 @@
           "time_info": "01时29分"
         },
         {
-          "title": "DeepseekV4.1 即将发布，网友期待「降价、打爆国外 AI」，它将如何改变 AI 市场格局？",
-          "url": "https://www.zhihu.com/question/2044875348719005741",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时29分"
-        },
-        {
           "title": "伊朗驻日内瓦联合国大使：如果以色列以任何形式违反谅解备忘录，包括攻击黎巴嫩及黎巴嫩真主党，伊朗将作出回应。",
           "url": "https://flash.jin10.com/detail/20260623161735647800",
           "source": "金十数据",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时29分"
         },
@@ -509,9 +534,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时29分"
+        },
+        {
+          "title": "阿曼和伊朗将协调霍尔木兹海峡未来航行管理",
+          "url": "https://wallstreetcn.com/livenews/3123426",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时58分"
         },
         {
           "title": "伊朗驻日内瓦联合国大使：有关霍尔木兹海峡的主要谈判将在伊朗和阿曼之间进行，随后与谅解备忘录各方进行平行讨论。",
@@ -520,9 +556,42 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时29分"
+        },
+        {
+          "title": "特朗普：资金将用于购买食品和医疗物资。 谈话进展顺利。 船只已就位，以备必要时重新实施封锁。 释放的资金将存入由美国控制的托管账户。 伊朗获得资金，将用于从美国获取食品和物资。 采购将仅从美国进行。 伊朗迫切地需要食品和医疗用品。 伊朗已完全同意核核查。",
+          "url": "https://wallstreetcn.com/livenews/3123424",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时58分"
+        },
+        {
+          "title": "“空头”末日预言：AI“强弩之末”，美股最快Q3见顶、跌幅30-50%，美版YCC和美债大重组，私募信贷危机待引爆",
+          "url": "https://wallstreetcn.com/articles/3775250",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时58分"
+        },
+        {
+          "title": "【每日收评】创业板震荡走低跌近4%，有色、AI硬件集体调整，创新药板块逆势走强",
+          "url": "https://www.cls.cn/detail/2406846",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时58分"
         },
         {
           "title": "伊朗外交部发言人巴加埃：谅解备忘录各方正努力在启动核问题谈判之前落实其所有条款。",
@@ -531,7 +600,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时29分"
         },
@@ -597,7 +666,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时29分"
         },
@@ -624,6 +693,17 @@
           "time_info": "08时03分"
         },
         {
+          "title": "据伊朗媒体Fars News：军方消息人士称，霍尔木兹海峡每天仅允许一定数量的船只通过，具体数量将根据每日实际情况进行调整。",
+          "url": "https://flash.jin10.com/detail/20260623193324927800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时58分"
+        },
+        {
           "title": "算力光纤需求共振，高纯四氯化硅景气度上行",
           "url": "https://wallstreetcn.com/livenews/3123062",
           "source": "华尔街见闻-快讯",
@@ -635,13 +715,24 @@
           "time_info": "08时03分"
         },
         {
+          "title": "港股AI双雄遭空头伏击 7月超千亿港元解禁潮如何考验其成色？",
+          "url": "https://www.cls.cn/detail/2406475",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时58分"
+        },
+        {
           "title": "伊朗驻日内瓦联合国大使：霍尔木兹海峡目前开放且不收费用，但60天后情况将取决于谈判进展。",
           "url": "https://flash.jin10.com/detail/20260623161138254800",
           "source": "金十数据",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时29分"
         },
@@ -696,9 +787,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时29分"
+        },
+        {
+          "title": "阿曼和伊朗将就霍尔木兹海峡航行服务以及相关费用进行磋商",
+          "url": "https://wallstreetcn.com/livenews/3123412",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时58分"
         },
         {
           "title": "金十图示：2026年06月22日（周一）热门中概股行情一览（美股盘中）",
@@ -745,6 +847,17 @@
           "time_info": "01时29分"
         },
         {
+          "title": "《十日终焉》原著作者借助 AI 批判自己的写作大纲，以此打磨作品，如何看待这种 AI 辅助创作方式？",
+          "url": "https://www.zhihu.com/question/2052545440508108960",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时58分"
+        },
+        {
           "title": "以色列担忧美国在黎巴嫩问题上“扶伊朗上位”",
           "url": "https://flash.jin10.com/detail/20260623120605485800",
           "source": "金十数据",
@@ -762,7 +875,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时29分"
         },
@@ -776,6 +889,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时41分"
+        },
+        {
+          "title": "阿布扎比的MGX融资约500亿美元，以加速人工智能交易。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3123407",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时58分"
         },
         {
           "title": "伊朗谈判团队启程前往Muscat（阿曼首都马斯喀特）。 伊朗将在Muscat讨论霍尔木兹海峡的行政管理方案。（伊朗媒体IRNA）",
@@ -798,17 +922,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时45分"
-        },
-        {
-          "title": "微博 CEO 讨论 WPS 背刺随后删除称为龙虾误发，如何看待这一操作？AI 这篇点评有道理吗？",
-          "url": "https://www.zhihu.com/question/2052439090260178506",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时29分"
         },
         {
           "title": "伊朗央行行长：剩余的被冻结资金不一定仅用于基本商品，伊朗将能够购买其他未受制裁的商品。",
@@ -899,6 +1012,28 @@
           "time_info": "06时45分"
         },
         {
+          "title": "特朗普：伊朗已完全同意接受长期核检查 这是进一步谈判的前提",
+          "url": "https://flash.jin10.com/detail/20260623192624565800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时58分"
+        },
+        {
+          "title": "大模型横评:多款AI翻车实录",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355576&amp;topic_name=%E5%A4%A7%E6%A8%A1%E5%9E%8B%E6%A8%AA%E8%AF%84%3A%E5%A4%9A%E6%AC%BEAI%E7%BF%BB%E8%BD%A6%E5%AE%9E%E5%BD%95",
+          "source": "贴吧",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时58分"
+        },
+        {
           "title": "伊朗向中方通报伊美谈判最新情况",
           "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%90%91%E4%B8%AD%E6%96%B9%E9%80%9A%E6%8A%A5%E4%BC%8A%E7%BE%8E%E8%B0%88%E5%88%A4%E6%9C%80%E6%96%B0%E6%83%85%E5%86%B5",
           "source": "百度热搜",
@@ -949,7 +1084,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时29分"
         },
@@ -974,6 +1109,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时45分"
+        },
+        {
+          "title": "国家人工智能中试基地（工业软件）落地济南",
+          "url": "https://wallstreetcn.com/livenews/3123399",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时58分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗迫切地需要食品和医疗用品。",
+          "url": "https://flash.jin10.com/detail/20260623192453788800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时58分"
         },
         {
           "title": "伊朗议长：霍尔木兹海峡将按伊方制定的机制进行管理",
@@ -1015,7 +1172,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时29分"
         }
