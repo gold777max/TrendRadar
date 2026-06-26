@@ -1,13 +1,11 @@
 {
-  "generated_at": "2026-06-27T02:30:34.189544+08:00",
-  "total_titles_processed": 427,
-  "failed_sources": [
-    "zhihu"
-  ],
+  "generated_at": "2026-06-27T04:45:25.812706+08:00",
+  "total_titles_processed": 515,
+  "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai ai+ ai人工智能 人工智能 风险识别 商业风险识别 痛点 需求 商业风险 伊朗 rwa 趋势 热点 热门",
-      "match_count": 31,
+      "match_count": 40,
       "titles": [
         {
           "title": "苹果涨价——压垮AI存储泡沫的最后一根稻草？",
@@ -17,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时13分 ~ 02时30分]"
+          "appearance_count": 5,
+          "time_info": "[00时13分 ~ 04时45分]"
         },
         {
           "title": "美国总统特朗普：伊朗向穿越霍尔木兹海峡的船只发射了至少四架单向攻击无人机。这是对我们停火协议的愚蠢违反。",
@@ -49,9 +47,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时30分"
+        },
+        {
+          "title": "苹果、微软被迫涨价，库克承认“40年来前所未见”，AI正在推升新一轮通胀？",
+          "url": "https://wallstreetcn.com/articles/3775558",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时13分 ~ 04时45分]"
         },
         {
           "title": "OpenAI：开启下一代模型GPT-5.6系列的限量预览",
@@ -60,7 +69,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时30分"
         },
@@ -76,15 +85,15 @@
           "time_info": "00时14分"
         },
         {
-          "title": "苹果、微软被迫涨价，库克承认“40年来前所未见”，AI正在推升新一轮通胀？",
-          "url": "https://wallstreetcn.com/articles/3775558",
-          "source": "华尔街见闻",
+          "title": "纳斯达克金龙中国指数初步收涨0.8%。 热门中概股里，网易初步收涨7.8%，拼多多涨4.5%，新东方、蔚来、百胜中国、理想至多涨4.2%，阿里涨0.1%，日月光半导体跌3.7%。",
+          "url": "https://wallstreetcn.com/livenews/3125451",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            4
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时13分 ~ 02时30分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时45分"
         },
         {
           "title": "纯中二?美官员把AI当英雄",
@@ -95,8 +104,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时13分 ~ 02时30分]"
+          "appearance_count": 5,
+          "time_info": "[00时13分 ~ 04时45分]"
         },
         {
           "title": "AI时代如何选专业",
@@ -107,8 +116,77 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时13分 ~ 02时30分]"
+          "appearance_count": 5,
+          "time_info": "[00时13分 ~ 04时45分]"
+        },
+        {
+          "title": "【每日收评】创业板指跌超4%，全市场超4600股收绿，AI硬件股集体重挫",
+          "url": "https://www.cls.cn/detail/2410276",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时13分 ~ 04时45分]"
+        },
+        {
+          "title": "AI投资可持续性遭质疑 美股期指集体走低 芯片股再度承压 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2410602",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时13分 ~ 04时45分]"
+        },
+        {
+          "title": "意大利协助美国打伊朗？梅洛尼：吕特你别乱说",
+          "url": "https://news.ifeng.com/c/8uGv7gSoz4a",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时13分 ~ 04时45分]"
+        },
+        {
+          "title": "绿色幻象之下：谁在为万亿AI芯片繁荣买单？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33451501",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时13分 ~ 04时45分]"
+        },
+        {
+          "title": "关关难过关关过，伊朗终于迎来世界杯命运一战",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33460376",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时13分 ~ 04时45分]"
+        },
+        {
+          "title": "AI机器女友发布,仿真拉满",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355638&amp;topic_name=AI%E6%9C%BA%E5%99%A8%E5%A5%B3%E5%8F%8B%E5%8F%91%E5%B8%83%2C%E4%BB%BF%E7%9C%9F%E6%8B%89%E6%BB%A1",
+          "source": "贴吧",
+          "ranks": [
+            23,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时13分 ~ 04时45分]"
         },
         {
           "title": "霍尔木兹海峡再起波澜：伊朗被曝谋求一年400亿“买路钱”，船只遇袭后疏散行动暂停",
@@ -122,73 +200,28 @@
           "time_info": "[00时13分 ~ 02时30分]"
         },
         {
-          "title": "【每日收评】创业板指跌超4%，全市场超4600股收绿，AI硬件股集体重挫",
-          "url": "https://www.cls.cn/detail/2410276",
-          "source": "财联社热门",
+          "title": "据一位美国官员透露：尽管特朗普总统表示伊朗违反了停火协议，美国与伊朗的谈判预计仍将进行。（NewsNation）",
+          "url": "https://wallstreetcn.com/livenews/3125418",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            10,
+            28
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时13分 ~ 02时30分]"
+          "appearance_count": 2,
+          "time_info": "[02时30分 ~ 04时45分]"
         },
         {
-          "title": "AI投资可持续性遭质疑 美股期指集体走低 芯片股再度承压 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2410602",
-          "source": "财联社热门",
+          "title": "伊朗否认伊美就霍尔木兹海峡问题建立沟通热线",
+          "url": "https://wallstreetcn.com/livenews/3125416",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            12,
+            30
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时13分 ~ 02时30分]"
-        },
-        {
-          "title": "意大利协助美国打伊朗？梅洛尼：吕特你别乱说",
-          "url": "https://news.ifeng.com/c/8uGv7gSoz4a",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时13分 ~ 02时30分]"
-        },
-        {
-          "title": "绿色幻象之下：谁在为万亿AI芯片繁荣买单？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33451501",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时13分 ~ 02时30分]"
-        },
-        {
-          "title": "关关难过关关过，伊朗终于迎来世界杯命运一战",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33460376",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时13分 ~ 02时30分]"
-        },
-        {
-          "title": "AI机器女友发布,仿真拉满",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355638&amp;topic_name=AI%E6%9C%BA%E5%99%A8%E5%A5%B3%E5%8F%8B%E5%8F%91%E5%B8%83%2C%E4%BB%BF%E7%9C%9F%E6%8B%89%E6%BB%A1",
-          "source": "贴吧",
-          "ranks": [
-            23,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时13分 ~ 02时30分]"
+          "appearance_count": 2,
+          "time_info": "[02时30分 ~ 04时45分]"
         },
         {
           "title": "伊朗和阿曼海关负责人提议：成立联合委员会以落实海关协议。（伊朗媒体IRNA）",
@@ -202,15 +235,15 @@
           "time_info": "00时14分"
         },
         {
-          "title": "据一位美国官员透露：尽管特朗普总统表示伊朗违反了停火协议，美国与伊朗的谈判预计仍将进行。（NewsNation）",
-          "url": "https://wallstreetcn.com/livenews/3125418",
+          "title": "报道：苹果负责Vision Pro和智能眼镜业务的负责人将跳槽至OpenAI",
+          "url": "https://wallstreetcn.com/livenews/3125443",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时30分"
+          "time_info": "04时45分"
         },
         {
           "title": "国际油轮船东协会（INTERTANKO）称，伊朗的霍尔木兹航线令人“担忧”。",
@@ -224,15 +257,15 @@
           "time_info": "00时14分"
         },
         {
-          "title": "伊朗否认伊美就霍尔木兹海峡问题建立沟通热线",
-          "url": "https://wallstreetcn.com/livenews/3125416",
-          "source": "华尔街见闻-快讯",
+          "title": "标普：（谈及美国）鉴于非酌情性利息支出及与人口老龄化相关的支出呈结构性上升趋势，预计一般政府净债务将逼近GDP的100%。",
+          "url": "https://flash.jin10.com/detail/20260627041057925800",
+          "source": "金十数据",
           "ranks": [
-            12
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时30分"
+          "time_info": "04时45分"
         },
         {
           "title": "据以色列i24News：以色列总理内塔尼亚胡将协议描述为伊朗的战略失败，并表示德黑兰在黎巴嫩的未来中没有任何角色。",
@@ -241,9 +274,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时30分"
+        },
+        {
+          "title": "伊朗努尔新闻报道称，伊朗锡里克地区传出爆炸声，来源不明。",
+          "url": "https://flash.jin10.com/detail/20260627041007223800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时45分"
         },
         {
           "title": "据CNBC：OpenAI在特朗普政府的要求下，计划限制GPT 5.6的推出。",
@@ -257,15 +301,37 @@
           "time_info": "00时14分"
         },
         {
+          "title": "金十图示：2026年06月26日（周五）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260627040745332800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时45分"
+        },
+        {
           "title": "特朗普指责伊朗攻击霍尔木兹海峡船只违反停火协议",
           "url": "https://wallstreetcn.com/livenews/3125410",
           "source": "华尔街见闻-快讯",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时30分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗仍然具备某些（军事打击）能力，但不太大。 （美国）汽油价格很快就会跌到每加仑2.5美元。",
+          "url": "https://wallstreetcn.com/livenews/3125432",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时45分"
         },
         {
           "title": "伊拉克石油部：石油输出国组织（OPEC，欧佩克）已开始逐步恢复伊拉克在战前的产量配额，此举将加强伊拉克的生产能力，并支持石油行业的复苏。 OPEC内部已达成高层共识，充分考虑了伊拉克过去的特殊处境以及当前的实际需求。",
@@ -277,6 +343,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时14分"
+        },
+        {
+          "title": "OpenAI：开启下一代模型GPT-5.6系列的限量预览，其中Sol最强",
+          "url": "https://wallstreetcn.com/livenews/3125429",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时45分"
         },
         {
           "title": "上海消保委调查：超38%消费者反馈AI优先推送高价商品",
@@ -296,7 +373,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时30分"
         },
@@ -318,7 +395,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时30分"
         },
@@ -343,6 +420,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时14分"
+        },
+        {
+          "title": "伊朗外交部谴责美国与海合会联合声明",
+          "url": "https://www.toutiao.com/trending/7655052095490326578/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时45分"
+        },
+        {
+          "title": "美国总统特朗普：（当被问及伊朗在霍尔木兹海峡的行动时）你们拭目以待。",
+          "url": "https://flash.jin10.com/detail/20260627035601886800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时45分"
         },
         {
           "title": "伊朗重申国家安全与合法自卫权不容谈判",
