@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-29T08:05:34.332612+08:00",
-  "total_titles_processed": 555,
+  "generated_at": "2026-06-29T13:28:41.996837+08:00",
+  "total_titles_processed": 791,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai ai+ ai人工智能 人工智能 风险识别 商业风险识别 痛点 需求 商业风险 伊朗 rwa 趋势 热点 热门",
-      "match_count": 50,
+      "match_count": 61,
       "titles": [
         {
           "title": "特朗普威胁：伊朗或将不复存在；美军连续第二天空袭伊朗，伊朗革命卫队威胁对美军基地发起“地狱”式打击",
@@ -65,6 +65,18 @@
           "time_info": "[01时05分 ~ 08时05分]"
         },
         {
+          "title": "美国科技企业悄然转向中国AI模型，Coinbase带头用上GLM与Kimi",
+          "url": "https://wallstreetcn.com/articles/3775696",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时05分 ~ 13时28分]"
+        },
+        {
           "title": "人民日报评“AI脸看腻了”",
           "url": "https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E8%AF%84%E2%80%9CAI%E8%84%B8%E7%9C%8B%E8%85%BB%E4%BA%86%E2%80%9D",
           "source": "百度热搜",
@@ -104,15 +116,18 @@
           "time_info": "[01时05分 ~ 08时05分]"
         },
         {
-          "title": "美国科技企业悄然转向中国AI模型，Coinbase带头用上GLM与Kimi",
-          "url": "https://wallstreetcn.com/articles/3775696",
-          "source": "华尔街见闻",
+          "title": "伊朗补刀,韩国队命悬一线",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355692&amp;topic_name=%E4%BC%8A%E6%9C%97%E8%A1%A5%E5%88%80%2C%E9%9F%A9%E5%9B%BD%E9%98%9F%E5%91%BD%E6%82%AC%E4%B8%80%E7%BA%BF",
+          "source": "贴吧",
           "ranks": [
-            6
+            13,
+            14,
+            15,
+            22
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时05分 ~ 08时05分]"
+          "appearance_count": 8,
+          "time_info": "[01时05分 ~ 13时28分]"
         },
         {
           "title": "特朗普发扛地球AI照，伊以都不服！",
@@ -158,19 +173,6 @@
           "ranks": [
             13,
             9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时05分 ~ 08时05分]"
-        },
-        {
-          "title": "伊朗补刀,韩国队命悬一线",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355692&amp;topic_name=%E4%BC%8A%E6%9C%97%E8%A1%A5%E5%88%80%2C%E9%9F%A9%E5%9B%BD%E9%98%9F%E5%91%BD%E6%82%AC%E4%B8%80%E7%BA%BF",
-          "source": "贴吧",
-          "ranks": [
-            13,
-            14,
-            15
           ],
           "is_new": false,
           "appearance_count": 7,
@@ -259,6 +261,17 @@
           "time_info": "01时06分"
         },
         {
+          "title": "韩国公布芯片、物理AI及AI数据中心领域的大型项目计划。",
+          "url": "https://wallstreetcn.com/livenews/3125876",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时28分"
+        },
+        {
           "title": "伊朗队球员哭诉：这届世界杯是场灾难",
           "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E9%98%9F%E7%90%83%E5%91%98%E5%93%AD%E8%AF%89%EF%BC%9A%E8%BF%99%E5%B1%8A%E4%B8%96%E7%95%8C%E6%9D%AF%E6%98%AF%E5%9C%BA%E7%81%BE%E9%9A%BE",
           "source": "百度热搜",
@@ -290,9 +303,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时05分"
+        },
+        {
+          "title": "韩国总统李在明：需要比其他国家更快地确保人工智能要素发展。",
+          "url": "https://flash.jin10.com/detail/20260629130627114800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时28分"
         },
         {
           "title": "据AXIOS：美国官员透露，美国和伊朗同意停止袭击，并将在本周会晤。",
@@ -378,6 +402,18 @@
           "time_info": "[03时14分 ~ 06时04分]"
         },
         {
+          "title": "“央行中的央行”拉响AI泡沫警报：万亿美元资本支出狂潮恐演变为漫长崩盘",
+          "url": "https://wallstreetcn.com/articles/3775705",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时05分 ~ 13时28分]"
+        },
+        {
           "title": "伊朗官员：受遭袭事件影响 伊方缺席28日的美伊技术性谈判",
           "url": "https://flash.jin10.com/detail/20260629040447671800",
           "source": "金十数据",
@@ -459,6 +495,28 @@
           "time_info": "[01时05分 ~ 01时06分]"
         },
         {
+          "title": "清华姚班UP主详解AI专业就业",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B8%85%E5%8D%8E%E5%A7%9A%E7%8F%ADUP%E4%B8%BB%E8%AF%A6%E8%A7%A3AI%E4%B8%93%E4%B8%9A%E5%B0%B1%E4%B8%9A",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时28分"
+        },
+        {
+          "title": "伊朗公布向美军发射导弹视频",
+          "url": "https://news.ifeng.com/c/8uLjWOc0XmD",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时28分"
+        },
+        {
           "title": "伊朗外长与伊拉克总理举行会谈",
           "url": "https://flash.jin10.com/detail/20260629014334485800",
           "source": "金十数据",
@@ -476,20 +534,42 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时05分"
         },
         {
-          "title": "“央行中的央行”拉响AI泡沫警报：万亿美元资本支出狂潮恐演变为漫长崩盘",
-          "url": "https://wallstreetcn.com/articles/3775705",
-          "source": "华尔街见闻",
+          "title": "韩国宣布在芯片、物理人工智能和人工智能数据中心方面的重大项目计划。",
+          "url": "https://flash.jin10.com/detail/20260629130254110800",
+          "source": "金十数据",
           "ranks": [
-            10
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时05分"
+          "time_info": "13时28分"
+        },
+        {
+          "title": "机构：SoftPOS加速普及改变市场需求，2026年零售POS显示器出货量预计下滑11%",
+          "url": "https://wallstreetcn.com/livenews/3125869",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时28分"
+        },
+        {
+          "title": "国产制冰机欧洲需求大涨！现有制冰相关企业4.25万家",
+          "url": "https://wallstreetcn.com/livenews/3125867",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时28分"
         },
         {
           "title": "美国官员表示，与伊朗的技术谈判预计将在谅解备忘录的各个领域继续进行，双方目前将暂时保持克制，船只可以自由通行。",
@@ -498,7 +578,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时05分"
         },
@@ -509,9 +589,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时05分"
+        },
+        {
+          "title": "英国势将就违反伊朗相关制裁措施的行为采取行动。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/3125860",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时28分"
         },
         {
           "title": "伊朗球员道歉 说着说着哭了",
@@ -523,6 +614,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时04分"
+        },
+        {
+          "title": "期货热点追踪",
+          "url": "https://flash.jin10.com/detail/20260629124131130800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时28分"
         },
         {
           "title": "黎巴嫩议长办公室：伊朗议会议长卡利巴夫保证，德黑兰方面将依据谅解备忘录，推动以色列停止对黎巴嫩发动战事。",
@@ -542,9 +644,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时05分"
+        },
+        {
+          "title": "伊朗队员在酒店看球从狂喜到绝望",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E9%98%9F%E5%91%98%E5%9C%A8%E9%85%92%E5%BA%97%E7%9C%8B%E7%90%83%E4%BB%8E%E7%8B%82%E5%96%9C%E5%88%B0%E7%BB%9D%E6%9C%9B",
+          "source": "百度热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时28分"
         },
         {
           "title": "“央行的央行”发出警告：AI万亿美元投资狂潮，恐演变为“投资萧条”",
@@ -578,6 +691,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时06分"
+        },
+        {
+          "title": "金十数据整理：每日人工智能动态汇总（2026-06-29）",
+          "url": "https://flash.jin10.com/detail/20260629115639400800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时28分"
         },
         {
           "title": "伊朗外交部长阿拉格齐28日在伊拉克表示，伊美谅解备忘录包括在所有战线停火，尤其是在黎巴嫩，这是美国政府的责任。 他强调，以色列必须停止对黎巴嫩的袭击，并从黎巴嫩被占领土撤军。（新华社）",
