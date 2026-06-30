@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-30T19:43:43.273523+08:00",
-  "total_titles_processed": 1234,
+  "generated_at": "2026-06-30T22:11:35.564050+08:00",
+  "total_titles_processed": 1400,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai ai+ ai人工智能 人工智能 风险识别 商业风险识别 痛点 需求 商业风险 伊朗 rwa 趋势 热点 热门",
-      "match_count": 62,
+      "match_count": 74,
       "titles": [
         {
           "title": "国常会：要加力推进人工智能创新突破，加快关键技术攻关和超大规模智算集群建设",
@@ -56,6 +56,17 @@
           "time_info": "[16时28分 ~ 19时43分]"
         },
         {
+          "title": "如何看待外网热议 OR 上的热门匿名模型 Owl Alpha 被爆来自中国？",
+          "url": "https://www.zhihu.com/question/2055052533110937112",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时43分 ~ 22时11分]"
+        },
+        {
           "title": "伊朗最高领袖穆杰塔巴，被以军列入“死亡名单”",
           "url": "https://news.ifeng.com/c/8uNTWr0VDLQ",
           "source": "凤凰网",
@@ -95,6 +106,17 @@
           "time_info": "[01时33分 ~ 08时02分]"
         },
         {
+          "title": "伊朗：未来几天暂无与美方会晤计划",
+          "url": "https://news.ifeng.com/c/8uNt8EVi3KV",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时11分"
+        },
+        {
           "title": "特朗普宣布美伊将会谈，伊朗却公开否认！双方连会不会见面都没谈拢",
           "url": "https://flash.jin10.com/detail/20260630073601084800",
           "source": "金十数据",
@@ -112,7 +134,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时43分"
         },
@@ -123,7 +145,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时43分"
         },
@@ -148,17 +170,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时28分"
-        },
-        {
-          "title": "如何看待外网热议 OR 上的热门匿名模型 Owl Alpha 被爆来自中国？",
-          "url": "https://www.zhihu.com/question/2055052533110937112",
-          "source": "知乎",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时43分"
         },
         {
           "title": "年中盘点|站在“光”里，走进“芯”里，“存”在“PCB”里，AI上游材料通胀行情“星光璀璨”…… 一文看懂2026年上半年A股热炒题材",
@@ -233,6 +244,19 @@
           "time_info": "[06时54分 ~ 08时02分]"
         },
         {
+          "title": "期货热点追踪",
+          "url": "https://flash.jin10.com/detail/20260630000106935800",
+          "source": "金十数据",
+          "ranks": [
+            17,
+            5,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时33分 ~ 22时11分]"
+        },
+        {
           "title": "AI牛市的悬头之剑：不只是韩国，美股杠杆同样触目惊心",
           "url": "https://wallstreetcn.com/articles/3775756",
           "source": "华尔街见闻",
@@ -244,18 +268,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[08时01分 ~ 16时28分]"
-        },
-        {
-          "title": "期货热点追踪",
-          "url": "https://flash.jin10.com/detail/20260630000106935800",
-          "source": "金十数据",
-          "ranks": [
-            17,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时33分 ~ 19时43分]"
         },
         {
           "title": "伊朗副外长：我们已告知阿曼方面，需要重新划定霍尔木兹海峡的通航航线，双方将就此举行技术性会谈。 伊朗反对任何船只通过德黑兰未指定的霍尔木兹海峡航线，并将设法阻止此类通行。",
@@ -304,6 +316,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时02分 ~ 12时20分]"
+        },
+        {
+          "title": "凤凰女记者：伊朗对霍尔木兹海峡态度十分强硬，只能美国做出妥协",
+          "url": "https://news.ifeng.com/c/8uNZON3SysC",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时43分 ~ 22时11分]"
+        },
+        {
+          "title": "港股上半年收官：三大指数均跌超10% AI硬件错配引发“流动性双轨虹吸”",
+          "url": "https://www.cls.cn/detail/2412920",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时43分 ~ 22时11分]"
         },
         {
           "title": "城堡证券EMEA固定收益销售主管Nohshad Shah警告称：人工智能（AI）日益成为政治议题。",
@@ -413,17 +449,6 @@
           "time_info": "05时23分"
         },
         {
-          "title": "凤凰女记者：伊朗对霍尔木兹海峡态度十分强硬，只能美国做出妥协",
-          "url": "https://news.ifeng.com/c/8uNZON3SysC",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时43分"
-        },
-        {
           "title": "伊朗总统：相关“谅解备忘录”是双边事项，如果美方遵守协议条款，伊朗也将履行自身义务。",
           "url": "https://flash.jin10.com/detail/20260630042550214800",
           "source": "金十数据",
@@ -468,6 +493,28 @@
           "time_info": "16时28分"
         },
         {
+          "title": "AI热情驱动，美股冲击六年来最强季度，日元创40年新低，金银油齐涨",
+          "url": "https://wallstreetcn.com/articles/3775797",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时11分"
+        },
+        {
+          "title": "AI时代哪些文科专业不可替代",
+          "url": "https://search.bilibili.com/all?keyword=AI%E6%97%B6%E4%BB%A3%E5%93%AA%E4%BA%9B%E6%96%87%E7%A7%91%E4%B8%93%E4%B8%9A%E4%B8%8D%E5%8F%AF%E6%9B%BF%E4%BB%A3",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时11分"
+        },
+        {
           "title": "伊朗称美伊会谈筹备工作尚未启动",
           "url": "https://flash.jin10.com/detail/20260630002451979800",
           "source": "金十数据",
@@ -479,15 +526,48 @@
           "time_info": "01时33分"
         },
         {
+          "title": "中昊芯英发布新一代全自研高性能TPU AI专用算力芯片",
+          "url": "https://flash.jin10.com/detail/20260630215625539800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时11分"
+        },
+        {
           "title": "伊朗革命卫队称在西北边境打击一支“敌对”武装小组",
           "url": "https://wallstreetcn.com/livenews/3126732",
           "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时43分"
+        },
+        {
+          "title": "宁王枧下窝锂矿复产在即？碳酸锂期货本月震荡起伏 钠电商业化加速分流需求",
+          "url": "https://www.cls.cn/detail/2413330",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时11分"
+        },
+        {
+          "title": "伊朗否认近期将与美国举行会谈",
+          "url": "https://wallstreetcn.com/livenews/3126850",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时11分"
         },
         {
           "title": "据卡塔尔国家通讯社：卡塔尔部长讨论地区发展及与伊朗代理国防部长的联合协调事宜。",
@@ -512,15 +592,15 @@
           "time_info": "16时28分"
         },
         {
-          "title": "港股上半年收官：三大指数均跌超10% AI硬件错配引发“流动性双轨虹吸”",
-          "url": "https://www.cls.cn/detail/2412920",
+          "title": "上半年银行理财收益率“冰火两重天”！AI算力类产品暴涨近200%、悦己经济跌超60%",
+          "url": "https://www.cls.cn/detail/2413162",
           "source": "财联社热门",
           "ranks": [
             12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时43分"
+          "time_info": "22时11分"
         },
         {
           "title": "伊朗边境武装冲突致2名革命卫队成员身亡",
@@ -562,9 +642,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时43分"
+        },
+        {
+          "title": "伊朗称逾30国官员拟出席已故最高领袖悼念活动",
+          "url": "https://wallstreetcn.com/livenews/3126846",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时11分"
         },
         {
           "title": "北航教授：学会利用人工智能报志愿",
@@ -606,9 +697,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时43分"
+        },
+        {
+          "title": "男子打到无人车全程给AI当教练",
+          "url": "https://www.toutiao.com/trending/7656723549856497714/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时11分"
         },
         {
           "title": "金十数据整理：每日人工智能动态汇总（2026-06-30）",
@@ -631,6 +733,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时23分"
+        },
+        {
+          "title": "据伊朗SNN通讯社：卡塔尔外交部发言人表示，已建立沟通渠道以释放伊朗资金。",
+          "url": "https://flash.jin10.com/detail/20260630215111793800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时11分"
         },
         {
           "title": "伊朗队出局是否受到盘外招影响",
@@ -672,7 +785,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时43分"
         },
@@ -699,6 +812,28 @@
           "time_info": "16时28分"
         },
         {
+          "title": "伊朗：启动最终协议谈判取决于谅解备忘录落实情况",
+          "url": "https://wallstreetcn.com/livenews/3126834",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时11分"
+        },
+        {
+          "title": "Token到底是什么 如何用AI更省钱",
+          "url": "https://www.toutiao.com/trending/7656218600784760356/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时11分"
+        },
+        {
           "title": "世界银行：将放弃此前将45%贷款资源用于具备气候协同效益项目的目标。将延长气候变化行动计划，但同时废止此前计划中35%的气候协同贷款目标。气候变化行动计划有助于将“智能发展”更好地嵌入客户国的需求与优先事项。",
           "url": "https://flash.jin10.com/detail/20260630051724072800",
           "source": "金十数据",
@@ -716,7 +851,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时43分"
         }
