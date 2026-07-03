@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-03T10:37:32.957605+08:00",
-  "total_titles_processed": 751,
+  "generated_at": "2026-07-03T14:29:18.184498+08:00",
+  "total_titles_processed": 939,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai ai+ ai人工智能 人工智能 风险识别 商业风险识别 痛点 需求 商业风险 伊朗 rwa 趋势 热点 热门",
-      "match_count": 62,
+      "match_count": 77,
       "titles": [
         {
           "title": "Meta被曝计划出售算力，AI算力过剩了吗？多家机构发声",
@@ -18,6 +18,20 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时43分 ~ 10时37分]"
+        },
+        {
+          "title": "超弱美国非农助力黄金拉升 AI牛股止跌转涨 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2415745",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            4,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时43分 ~ 14时29分]"
         },
         {
           "title": "Meta一句“卖算力”砸崩AI硬件！华尔街火速拆解：别慌，这不等于算力过剩，这不是行业拐点",
@@ -46,19 +60,6 @@
           "time_info": "[01时43分 ~ 10时37分]"
         },
         {
-          "title": "超弱美国非农助力黄金拉升 AI牛股止跌转涨 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2415745",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            4,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时43分 ~ 10时37分]"
-        },
-        {
           "title": "【每日收评】创业板指跌近6%，机器人概念股逆势活跃，AI硬件、 半导体等科技权重批量跌停",
           "url": "https://www.cls.cn/detail/2415416",
           "source": "财联社热门",
@@ -68,6 +69,41 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时43分 ~ 07时02分]"
+        },
+        {
+          "title": "头条世界杯｜不用进球就能统治比赛，亚马尔帮西班牙重回热门",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33508569",
+          "source": "澎湃新闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时37分 ~ 14时29分]"
+        },
+        {
+          "title": "芯片股两连跌！AI“鬼故事”不断：Meta、Anthropic相继传出新动作，市场开始重估AI交易？",
+          "url": "https://wallstreetcn.com/articles/3776101",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时37分 ~ 14时29分]"
+        },
+        {
+          "title": "韩华集团：将在韩国投资55​​万亿韩元建设卫星、航天运载火箭和国防人工智能数据中心。",
+          "url": "https://flash.jin10.com/detail/20260703140526967800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时29分"
         },
         {
           "title": "AI究竟是福是祸？全球顶级经济学家激辩：风险不可忽视",
@@ -81,17 +117,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时43分 ~ 07时02分]"
-        },
-        {
-          "title": "头条世界杯｜不用进球就能统治比赛，亚马尔帮西班牙重回热门",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33508569",
-          "source": "澎湃新闻",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时37分"
         },
         {
           "title": "Meta Platforms(META.O)CEO：2026年初，高管们曾担心在人工智能领域“行动不够迅速”。",
@@ -116,17 +141,6 @@
           "time_info": "[01时43分 ~ 05时02分]"
         },
         {
-          "title": "芯片股两连跌！AI“鬼故事”不断：Meta、Anthropic相继传出新动作，市场开始重估AI交易？",
-          "url": "https://wallstreetcn.com/articles/3776101",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时37分"
-        },
-        {
           "title": "Meta Platforms(META.O)CTO：对鼠标追踪数据安全事件的初步审查表明，人工智能训练中并未包含任何员工数据。",
           "url": "https://flash.jin10.com/detail/20260703041855479800",
           "source": "金十数据",
@@ -136,6 +150,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时02分"
+        },
+        {
+          "title": "铠侠（Kioxia）首席执行官：我们没有看到数据中心需求减弱的迹象。 若市场增长快于预期，可能增加资本支出。",
+          "url": "https://wallstreetcn.com/livenews/3128449",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时29分"
         },
         {
           "title": "AI演员已经能演出情绪变化了",
@@ -188,6 +213,18 @@
           "time_info": "[03时19分 ~ 05时02分]"
         },
         {
+          "title": "Meta“卖算力”原因曝光？扎克伯格：AI智能体开发速度不及预期",
+          "url": "https://www.cls.cn/detail/2415999",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时37分 ~ 14时29分]"
+        },
+        {
           "title": "扎克伯格：过去四个月里，AI智能体开发并未“如我们预期的那样加速”",
           "url": "https://wallstreetcn.com/livenews/3128190",
           "source": "华尔街见闻-快讯",
@@ -210,6 +247,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时43分 ~ 03时19分]"
+        },
+        {
+          "title": "Meta有意出售AI算力 分析人士警告：云业务利润率远逊广告",
+          "url": "https://www.cls.cn/detail/2415788",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时02分 ~ 14时29分]"
         },
         {
           "title": "美国AI三大巨头争抢哲学家",
@@ -235,26 +283,38 @@
           "time_info": "[03时19分 ~ 05时02分]"
         },
         {
-          "title": "Meta有意出售AI算力 分析人士警告：云业务利润率远逊广告",
-          "url": "https://www.cls.cn/detail/2415788",
-          "source": "财联社热门",
+          "title": "Meta收跌5%！报道：扎克伯格称Meta AI智能体开发不及预期",
+          "url": "https://wallstreetcn.com/articles/3776098",
+          "source": "华尔街见闻",
           "ranks": [
-            13
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时02分 ~ 10时37分]"
+          "time_info": "[10时37分 ~ 14时29分]"
         },
         {
-          "title": "Meta“卖算力”原因曝光？扎克伯格：AI智能体开发速度不及预期",
-          "url": "https://www.cls.cn/detail/2415999",
+          "title": "Robinhood CEO：AI智能体很快将媲美人类交易员 散户有望获得机构级交易能力",
+          "url": "https://www.cls.cn/detail/2415850",
           "source": "财联社热门",
           "ranks": [
-            7
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时37分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时37分 ~ 14时29分]"
+        },
+        {
+          "title": "对话｜硅谷为何争抢哲学家？AI生成内容越廉价，判断力越是稀缺能力",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33501142",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时37分 ~ 14时29分]"
         },
         {
           "title": "Meta Platforms(META.O)CEO：过去四个月里，AI智能体的开发并未“如我们预期的那样加速”。",
@@ -279,15 +339,26 @@
           "time_info": "07时02分"
         },
         {
-          "title": "Meta收跌5%！报道：扎克伯格称Meta AI智能体开发不及预期",
-          "url": "https://wallstreetcn.com/articles/3776098",
-          "source": "华尔街见闻",
+          "title": "预告：上海市政府7月7日举行发布会 介绍2026世界人工智能大会筹备进展",
+          "url": "https://wallstreetcn.com/livenews/3128446",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时37分"
+          "time_info": "14时29分"
+        },
+        {
+          "title": "砸钱时代落幕？Meta和Anthropic接连出招，AI行业逻辑悄然生变",
+          "url": "https://www.cls.cn/detail/2416232",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时29分"
         },
         {
           "title": "金十图示：2026年07月02日（周四）美股热门股票行情一览（美股收盘）",
@@ -301,6 +372,17 @@
           "time_info": "05时02分"
         },
         {
+          "title": "韩国推进开发前沿人工智能模型并扩展基础设施",
+          "url": "https://flash.jin10.com/detail/20260703135838079800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时29分"
+        },
+        {
           "title": "美银：Meta卖算力，意在讲好AI投资回报故事",
           "url": "https://wallstreetcn.com/articles/3776055",
           "source": "华尔街见闻",
@@ -310,17 +392,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
-        },
-        {
-          "title": "Robinhood CEO：AI智能体很快将媲美人类交易员 散户有望获得机构级交易能力",
-          "url": "https://www.cls.cn/detail/2415850",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时37分"
         },
         {
           "title": "金十图示：2026年07月02日（周四）热门中概股行情一览（美股收盘）",
@@ -343,6 +414,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
+        },
+        {
+          "title": "AI光互联领域重要信号！英伟达技术大牛跳槽 VCSEL路线重塑CPO格局？",
+          "url": "https://www.cls.cn/detail/2416215",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时29分"
         },
         {
           "title": "伊朗外长：只有在全面、包容且不受外部干涉的情况下，本地区的和平才能得以维系。",
@@ -389,6 +471,17 @@
           "time_info": "03时19分"
         },
         {
+          "title": "铠侠CEO：未看到数据中心出现需求疲软的迹象。",
+          "url": "https://flash.jin10.com/detail/20260703134759463800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时29分"
+        },
+        {
           "title": "纳斯达克金龙中国指数收跌1.77%，结束此前连续四个交易日反弹的趋势，报5912.23点，本周迄今累涨3.18%。 热门中概股里，百度初步收跌约4%，蔚来、小鹏跌超3%，日月光半导体跌2.7%，网易跌1.9%，腾讯跌1.8%，阿里跌1.5%，美团涨1.6%，小米涨2.7%，比亚迪涨3.1%。 ETF中，中国科技指数ETF（CQQQ）收跌5.26%，本周迄今累跌0.37%； XtrackersHarvest中证50（ASHS）收跌4.31%，本周迄今累跌1.32%； 德银嘉实沪深300指数ETF（ASHR）收跌3.25%，本周迄今累跌1.96%，延续上周跌1.29%的表现； MSCI新兴市场ex中国ETF（EMXC）收跌1.57%，本周迄今累跌3.07%，延续上周回撤5.39%的表现； 中概互联网指数ETF（KWEB）收跌0.52%，本周迄今反弹4.39%。",
           "url": "https://wallstreetcn.com/livenews/3128207",
           "source": "华尔街见闻-快讯",
@@ -398,6 +491,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时02分"
+        },
+        {
+          "title": "白俄罗斯国会议长与伊朗议会议长卡利巴夫会晤",
+          "url": "https://flash.jin10.com/detail/20260703134739903800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时29分"
         },
         {
           "title": "上半年300余家公司拟回购逾千亿元，A股回购市场呈现三大新趋势",
@@ -420,6 +524,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时44分"
+        },
+        {
+          "title": "全球AI疯狂重创千元机市场",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%90%83AI%E7%96%AF%E7%8B%82%E9%87%8D%E5%88%9B%E5%8D%83%E5%85%83%E6%9C%BA%E5%B8%82%E5%9C%BA%23&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时29分"
         },
         {
           "title": "周四（7月2日），美股人工智能（AI）赢家指数跌5.63%，报405.59点，本周累跌4.17%。 成分股闪迪、泰瑞达、科磊、康宁公司、希捷科技、拉姆研究至少收跌10.19%表现最差，在收涨的六只成分股中，核电股CEG涨1.16%表现第四，微软涨1.62%，公共服务企业集团（PEG）涨1.68%，Palantir涨2.84%。 AI软件先驱指数跌0.03%，报109.97点，本周累涨4.70%。 成分股C3.ai收跌3.92%，新思科技跌3.82%，甲骨文跌1.56%跌幅第三大，HubSpot则涨2.34%、与Palantir、Adobe领跑。",
@@ -455,17 +570,6 @@
           "time_info": "01时44分"
         },
         {
-          "title": "对话｜硅谷为何争抢哲学家？AI生成内容越廉价，判断力越是稀缺能力",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33501142",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时37分"
-        },
-        {
           "title": "美国总统特朗普：我们已经在军事上彻底击败了伊朗。他们还剩下一些导弹。我们也可以把它们全部摧毁。",
           "url": "https://flash.jin10.com/detail/20260703055024068800",
           "source": "金十数据",
@@ -475,6 +579,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
+        },
+        {
+          "title": "据韩媒ChosunBiz：韩国政府正在研究开发自主AI基础模型，并计划扩大AI数据中心建设，预计到2029年建成8.4吉瓦的数据中心容量，到2035年再新增10吉瓦的数据中心容量。",
+          "url": "https://flash.jin10.com/detail/20260703134056042800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时29分"
         },
         {
           "title": "微软动员6000名员工，助客户采用AI技术",
@@ -510,6 +625,17 @@
           "time_info": "03时19分"
         },
         {
+          "title": "伊朗为已故最高领袖哈梅内伊举行遗体告别仪式",
+          "url": "https://wallstreetcn.com/livenews/3128431",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时29分"
+        },
+        {
           "title": "据The Information：Palantir(PLTR.N)首席执行官表示，部分美国政府客户已转向开源人工智能。",
           "url": "https://flash.jin10.com/detail/20260703034657189800",
           "source": "金十数据",
@@ -530,6 +656,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
+        },
+        {
+          "title": "上海市政府7月7日举行发布会 介绍2026世界人工智能大会筹备进展",
+          "url": "https://flash.jin10.com/detail/20260703133850179800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时29分"
         },
         {
           "title": "报道：AI基建遇阻，黑石旗下QTS放弃美国弗吉尼亚数据中心建设项目",
@@ -576,13 +713,24 @@
           "time_info": "07时02分"
         },
         {
+          "title": "机构：三季度存储器价格受AI服务器支撑 预计将季增13-18%",
+          "url": "https://wallstreetcn.com/livenews/3128427",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时29分"
+        },
+        {
           "title": "何维将出席伊朗已故最高领袖葬礼",
           "url": "https://www.douyin.com/hot/2555610",
           "source": "抖音",
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时37分"
         },
@@ -596,6 +744,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时02分"
+        },
+        {
+          "title": "KB证券：SK海力士下半年料将受益于AI投资加速",
+          "url": "https://flash.jin10.com/detail/20260703133535476800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时29分"
         },
         {
           "title": "美官员曾担忧以色列暗杀伊朗谈判代表",
@@ -653,6 +812,17 @@
           "time_info": "07时02分"
         },
         {
+          "title": "AI泡沫破裂会有什么后果",
+          "url": "https://search.bilibili.com/all?keyword=AI%E6%B3%A1%E6%B2%AB%E7%A0%B4%E8%A3%82%E4%BC%9A%E6%9C%89%E4%BB%80%E4%B9%88%E5%90%8E%E6%9E%9C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时29分"
+        },
+        {
           "title": "据The Information：特斯拉(TSLA.O)将员工AI支出上限设定为每周200美元。",
           "url": "https://flash.jin10.com/detail/20260703031430269800",
           "source": "金十数据",
@@ -681,7 +851,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时37分"
         },
