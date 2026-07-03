@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-03T20:07:26.314827+08:00",
-  "total_titles_processed": 1278,
+  "generated_at": "2026-07-03T23:08:35.695937+08:00",
+  "total_titles_processed": 1446,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai ai+ ai人工智能 人工智能 风险识别 商业风险识别 痛点 需求 商业风险 伊朗 rwa 趋势 热点 热门",
-      "match_count": 90,
+      "match_count": 96,
       "titles": [
         {
           "title": "Meta被曝计划出售算力，AI算力过剩了吗？多家机构发声",
@@ -79,8 +79,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时37分 ~ 20时07分]"
+          "appearance_count": 5,
+          "time_info": "[10时37分 ~ 23时08分]"
         },
         {
           "title": "芯片股两连跌！AI“鬼故事”不断：Meta、Anthropic相继传出新动作，市场开始重估AI交易？",
@@ -88,11 +88,24 @@
           "source": "华尔街见闻",
           "ranks": [
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时37分 ~ 20时07分]"
+          "appearance_count": 5,
+          "time_info": "[10时37分 ~ 23时08分]"
+        },
+        {
+          "title": "伊朗总统在哈梅内伊葬礼上双手掩面",
+          "url": "https://v.ifeng.com/c/8uSml4XgzRh",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时07分 ~ 23时08分]"
         },
         {
           "title": "砸钱时代落幕？Meta和Anthropic接连出招，AI行业逻辑悄然生变",
@@ -119,17 +132,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时37分 ~ 17时55分]"
-        },
-        {
-          "title": "伊朗总统在哈梅内伊葬礼上双手掩面",
-          "url": "https://v.ifeng.com/c/8uSml4XgzRh",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时07分"
         },
         {
           "title": "韩华集团：将在韩国投资55​​万亿韩元建设卫星、航天运载火箭和国防人工智能数据中心。",
@@ -197,7 +199,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时07分"
         },
@@ -224,6 +226,30 @@
           "time_info": "05时02分"
         },
         {
+          "title": "市场消息：由沙特副外交大臣率领的沙特代表团也出席了伊朗前最高领袖哈梅内伊的葬礼。",
+          "url": "https://flash.jin10.com/detail/20260703223802779800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时08分"
+        },
+        {
+          "title": "Meta收跌5%！报道：扎克伯格称Meta AI智能体开发不及预期",
+          "url": "https://wallstreetcn.com/articles/3776098",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时37分 ~ 23时08分]"
+        },
+        {
           "title": "铠侠（Kioxia）首席执行官：我们没有看到数据中心需求减弱的迹象。 若市场增长快于预期，可能增加资本支出。",
           "url": "https://wallstreetcn.com/livenews/3128449",
           "source": "华尔街见闻-快讯",
@@ -244,6 +270,21 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时55分"
+        },
+        {
+          "title": "对话｜硅谷为何争抢哲学家？AI生成内容越廉价，判断力越是稀缺能力",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33501142",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            12,
+            10,
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时37分 ~ 23时08分]"
         },
         {
           "title": "AI演员已经能演出情绪变化了",
@@ -272,6 +313,19 @@
           "time_info": "[01时43分 ~ 07时02分]"
         },
         {
+          "title": "AI情绪逆转！全球股市反弹，韩股收涨5.8%，金铜拉涨，美元下跌",
+          "url": "https://wallstreetcn.com/articles/3776124",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时55分 ~ 23时08分]"
+        },
+        {
           "title": "摩根士丹利分析师Andrew Percoco：最新一个季度是特斯拉自2023年第三季度以来汽车业务最高增速。 储能业务好于摩根士丹利预期，并与市场一致预期相符。 预计储能需求将继续保持稳健。",
           "url": "https://wallstreetcn.com/livenews/3128169",
           "source": "华尔街见闻-快讯",
@@ -296,19 +350,6 @@
           "time_info": "[03时19分 ~ 05时02分]"
         },
         {
-          "title": "Meta收跌5%！报道：扎克伯格称Meta AI智能体开发不及预期",
-          "url": "https://wallstreetcn.com/articles/3776098",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时37分 ~ 20时07分]"
-        },
-        {
           "title": "扎克伯格：过去四个月里，AI智能体开发并未“如我们预期的那样加速”",
           "url": "https://wallstreetcn.com/livenews/3128190",
           "source": "华尔街见闻-快讯",
@@ -319,20 +360,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时19分 ~ 05时02分]"
-        },
-        {
-          "title": "对话｜硅谷为何争抢哲学家？AI生成内容越廉价，判断力越是稀缺能力",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33501142",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            12,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时37分 ~ 20时07分]"
         },
         {
           "title": "实体游戏盘的消失是趋势吗",
@@ -369,18 +396,6 @@
           "time_info": "[01时43分 ~ 03时19分]"
         },
         {
-          "title": "AI情绪逆转！全球股市反弹，韩股收涨5.8%，金铜拉涨，美元下跌",
-          "url": "https://wallstreetcn.com/articles/3776124",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时55分 ~ 20时07分]"
-        },
-        {
           "title": "AI软件开发公司ElevenLabs与投资者洽谈按大约220亿美元估值进行二次（股票）发行。",
           "url": "https://wallstreetcn.com/livenews/3128187",
           "source": "华尔街见闻-快讯",
@@ -404,6 +419,18 @@
           "time_info": "[10时37分 ~ 14时29分]"
         },
         {
+          "title": "AI填志愿实测：信息更新可能有偏差，决策还得考生自己做",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33493022",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时07分 ~ 23时08分]"
+        },
+        {
           "title": "伊朗革命卫队总司令现身",
           "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E9%9D%A9%E5%91%BD%E5%8D%AB%E9%98%9F%E6%80%BB%E5%8F%B8%E4%BB%A4%E7%8E%B0%E8%BA%AB",
           "source": "百度热搜",
@@ -414,6 +441,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时55分 ~ 20时07分]"
+        },
+        {
+          "title": "安联集团首席经济学家Ludovic Subran：美国6月非农就业数据确实疲软，但我仍然认为通胀峰值将高于3.7%，而且美国经济仍有AI、财政支出和能源因素的支撑。 美联储可能不得不在9月份加息。所以我认为这才是欧洲和美国之间的真正分歧。（彭博电视）",
+          "url": "https://wallstreetcn.com/livenews/3128759",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时08分"
         },
         {
           "title": "Meta Platforms(META.O)CEO：过去四个月里，AI智能体的开发并未“如我们预期的那样加速”。",
@@ -455,7 +493,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时07分"
         },
@@ -488,7 +526,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时07分"
         },
@@ -502,6 +540,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
+        },
+        {
+          "title": "Anthropic自研AI芯片计划引发美股半导体大跌！闪迪大跌14%，费城半导体指数两日重挫12%",
+          "url": "https://wallstreetcn.com/articles/3776091",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时08分"
+        },
+        {
+          "title": "优必选 CEO 称珍惜当牛马最后光阴，20 年后是机器人干活，如何看待这一发言？机器人上班会是趋势吗？",
+          "url": "https://www.zhihu.com/question/2056338500371182782",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时08分"
         },
         {
           "title": "金十图示：2026年07月02日（周四）热门中概股行情一览（美股收盘）",
@@ -636,6 +696,17 @@
           "time_info": "01时44分"
         },
         {
+          "title": "4名大学生出题 AI考了0分",
+          "url": "https://www.baidu.com/s?wd=4%E5%90%8D%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%87%BA%E9%A2%98+AI%E8%80%83%E4%BA%860%E5%88%86",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时08分"
+        },
+        {
           "title": "全球AI疯狂重创千元机市场",
           "url": "https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%90%83AI%E7%96%AF%E7%8B%82%E9%87%8D%E5%88%9B%E5%8D%83%E5%85%83%E6%9C%BA%E5%B8%82%E5%9C%BA%23&t=31&band_rank=15&Refer=top",
           "source": "微博",
@@ -656,17 +727,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
-        },
-        {
-          "title": "AI填志愿实测：信息更新可能有偏差，决策还得考生自己做",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33493022",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时07分"
         },
         {
           "title": "Meta Platforms(META.O)CEO：预计公司将在未来3-6个月内感受到人工智能投资带来​​的更多益处。",
@@ -752,7 +812,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时07分"
         },
@@ -964,6 +1024,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
+        },
+        {
+          "title": "伊朗议长：霍尔木兹海峡应由伊朗和阿曼共同管理",
+          "url": "https://wallstreetcn.com/livenews/3128732",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时08分"
         },
         {
           "title": "AI泡沫破裂会有什么后果",
