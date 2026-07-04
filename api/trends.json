@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-05T03:06:15.949647+08:00",
-  "total_titles_processed": 367,
+  "generated_at": "2026-07-05T04:53:34.461766+08:00",
+  "total_titles_processed": 410,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai ai+ ai人工智能 人工智能 风险识别 商业风险识别 痛点 需求 商业风险 伊朗 rwa 趋势 热点 热门",
-      "match_count": 22,
+      "match_count": 27,
       "titles": [
         {
           "title": "AI焦虑暂退，科技股反弹，欧股两日连创新高，布油两日反弹但连跌四周",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时11分 ~ 03时06分]"
+          "appearance_count": 4,
+          "time_info": "[01时11分 ~ 04时53分]"
         },
         {
           "title": "特朗普：我们很善良，给伊朗一周时间办丧事",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时11分 ~ 03时06分]"
+          "appearance_count": 4,
+          "time_info": "[01时11分 ~ 04时53分]"
         },
         {
           "title": "高盛：美股AI上涨力竭，下半年布局防御板块，看好医疗、欧洲防务",
@@ -37,8 +37,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时11分 ~ 03时06分]"
+          "appearance_count": 4,
+          "time_info": "[01时11分 ~ 04时53分]"
         },
         {
           "title": "伊朗外长会晤黎真主党及哈马斯代表",
@@ -48,8 +48,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时11分 ~ 03时06分]"
+          "appearance_count": 3,
+          "time_info": "[01时11分 ~ 04时53分]"
         },
         {
           "title": "伊朗称捣毁多个与美以有关的“恐怖和极端组织”窝点",
@@ -59,8 +59,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时11分 ~ 03时06分]"
+          "appearance_count": 3,
+          "time_info": "[01时11分 ~ 04时53分]"
         },
         {
           "title": "阿里·阿兹马伊被任命为伊朗伊斯兰革命卫队海军司令",
@@ -70,8 +70,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时11分 ~ 03时06分]"
+          "appearance_count": 3,
+          "time_info": "[01时11分 ~ 04时53分]"
         },
         {
           "title": "特斯拉限制员工AI使用开销 美国多家科技企业收紧AI支出",
@@ -81,8 +81,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时11分 ~ 03时06分]"
+          "appearance_count": 3,
+          "time_info": "[01时11分 ~ 04时53分]"
         },
         {
           "title": "伊朗警告域外国家勿在霍尔木兹海峡制造危机",
@@ -92,19 +92,42 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时11分 ~ 03时06分]"
+          "appearance_count": 3,
+          "time_info": "[01时11分 ~ 04时53分]"
+        },
+        {
+          "title": "美蓓亚三美将提高用于AI数据中心的轴承产量",
+          "url": "https://flash.jin10.com/detail/20260705041238253800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时53分"
+        },
+        {
+          "title": "伊朗驻华大使：中国等友好国家将享有“特殊待遇”",
+          "url": "https://news.ifeng.com/c/8uUi1MnrVik",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时53分"
         },
         {
           "title": "伊朗外长阿拉格齐：伊朗很荣幸接待了来自70多个国家的代表，他们前来参加对我们已殉难的最高领袖哈梅内伊的悼念活动，其中包括我们忠诚的阿拉伯兄弟。这场具有历史意义的纪念活动，将成为我们共同关系发展历程中永恒的记忆。",
           "url": "https://flash.jin10.com/detail/20260705025151692800",
           "source": "金十数据",
           "ranks": [
-            3
+            3,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时06分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时06分 ~ 04时53分]"
         },
         {
           "title": "锐评互联网热门视频",
@@ -112,11 +135,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             10,
-            28
+            28,
+            22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时11分 ~ 03时06分]"
+          "appearance_count": 4,
+          "time_info": "[01时11分 ~ 04时53分]"
         },
         {
           "title": "上千万伊朗人参与哈梅内伊告别仪式",
@@ -126,8 +150,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时11分 ~ 03时06分]"
+          "appearance_count": 3,
+          "time_info": "[01时11分 ~ 04时53分]"
         },
         {
           "title": "伊朗民众泪别哈梅内伊",
@@ -137,8 +161,30 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时11分 ~ 03时06分]"
+          "appearance_count": 3,
+          "time_info": "[01时11分 ~ 04时53分]"
+        },
+        {
+          "title": "黎巴嫩官员同伊朗外长举行会晤 讨论地区局势",
+          "url": "https://flash.jin10.com/detail/20260705035229270800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时53分"
+        },
+        {
+          "title": "美国Axios记者称，若内塔尼亚胡造访白宫，这将是他自二月份在情况室与美国总统特朗普的戏剧性会晤以来的首次会面，当时，内塔尼亚胡提交了一份对伊朗开战的方案。",
+          "url": "https://flash.jin10.com/detail/20260705032036905800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时53分"
         },
         {
           "title": "Anthropic已启动自研AI芯片的前期研发工作，并与三星电子洽谈，计划将其作为潜在芯片代工合作方。此举效仿OpenAI，目的是加强对支撑自身大模型、成本高昂的算力硬件体系的自主掌控。",
@@ -169,9 +215,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时06分"
+        },
+        {
+          "title": "阿里·奥兹马伊正式被任命为伊朗革命卫队海军司令。",
+          "url": "https://flash.jin10.com/detail/20260705030043564800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时53分"
         },
         {
           "title": "据以色列第15频道援引消息人士称，美国总统特朗普要求不要在黎巴嫩局势上升级，以免妨碍他与伊朗的沟通。",
@@ -180,7 +237,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时06分"
         },
@@ -202,7 +259,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时06分"
         },
@@ -213,7 +270,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时06分"
         },
@@ -235,7 +292,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时06分"
         },
