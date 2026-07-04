@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-04T22:27:10.496369+08:00",
-  "total_titles_processed": 1247,
+  "generated_at": "2026-07-04T23:59:28.536098+08:00",
+  "total_titles_processed": 1301,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai ai+ ai人工智能 人工智能 风险识别 商业风险识别 痛点 需求 商业风险 伊朗 rwa 趋势 热点 热门",
-      "match_count": 75,
+      "match_count": 77,
       "titles": [
         {
           "title": "AI焦虑暂退，科技股反弹，欧股两日连创新高，布油两日反弹但连跌四周",
@@ -18,8 +18,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时03分 ~ 22时27分]"
+          "appearance_count": 9,
+          "time_info": "[08时03分 ~ 23时59分]"
         },
         {
           "title": "伊朗总统在哈梅内伊葬礼上双手掩面",
@@ -57,6 +57,17 @@
           "time_info": "[01时21分 ~ 08时03分]"
         },
         {
+          "title": "特朗普：我们很善良，给伊朗一周时间办丧事",
+          "url": "https://news.ifeng.com/c/8uUUEfrnQmU",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时04分 ~ 23时59分]"
+        },
+        {
           "title": "4名大学生出题 AI考了0分",
           "url": "https://www.baidu.com/s?wd=4%E5%90%8D%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%87%BA%E9%A2%98+AI%E8%80%83%E4%BA%860%E5%88%86",
           "source": "百度热搜",
@@ -66,17 +77,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时21分 ~ 06时13分]"
-        },
-        {
-          "title": "特朗普：我们很善良，给伊朗一周时间办丧事",
-          "url": "https://news.ifeng.com/c/8uUUEfrnQmU",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时04分 ~ 22时27分]"
         },
         {
           "title": "AI情绪逆转！全球股市反弹，韩股收涨5.8%，金铜拉涨，美元下跌",
@@ -125,6 +125,42 @@
           "time_info": "[01时21分 ~ 12时32分]"
         },
         {
+          "title": "伊朗称捣毁多个与美以有关的“恐怖和极端组织”窝点",
+          "url": "https://wallstreetcn.com/livenews/3128947",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时27分 ~ 23时59分]"
+        },
+        {
+          "title": "阿里·阿兹马伊被任命为伊朗伊斯兰革命卫队海军司令",
+          "url": "https://wallstreetcn.com/livenews/3128945",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时27分 ~ 23时59分]"
+        },
+        {
+          "title": "特斯拉限制员工AI使用开销 美国多家科技企业收紧AI支出",
+          "url": "https://wallstreetcn.com/livenews/3128944",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时27分 ~ 23时59分]"
+        },
+        {
           "title": "对话｜硅谷为何争抢哲学家？AI生成内容越廉价，判断力越是稀缺能力",
           "url": "https://m.thepaper.cn/newsDetail_forward_33501142",
           "source": "澎湃新闻",
@@ -135,6 +171,18 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时21分 ~ 08时03分]"
+        },
+        {
+          "title": "伊朗警告域外国家勿在霍尔木兹海峡制造危机",
+          "url": "https://wallstreetcn.com/livenews/3128943",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时27分 ~ 23时59分]"
         },
         {
           "title": "优必选 CEO 称珍惜当牛马最后光阴，20 年后是机器人干活，如何看待这一发言？机器人上班会是趋势吗？",
@@ -152,26 +200,15 @@
           "time_info": "[01时21分 ~ 08时03分]"
         },
         {
-          "title": "伊朗称捣毁多个与美以有关的“恐怖和极端组织”窝点",
-          "url": "https://wallstreetcn.com/livenews/3128947",
+          "title": "伊朗外长会晤黎真主党及哈马斯代表",
+          "url": "https://wallstreetcn.com/livenews/3128948",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时27分"
-        },
-        {
-          "title": "伊朗外交部长阿拉格齐在伊朗首都德黑兰分别会晤黎巴嫩真主党及哈马斯代表。",
-          "url": "https://flash.jin10.com/detail/20260704220954516800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时27分"
+          "time_info": "23时59分"
         },
         {
           "title": "美国电网运营巨头PJM Interconnection LLC：可能在7月2日出现创历史纪录新高的电力需求。",
@@ -183,17 +220,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
-        },
-        {
-          "title": "阿里·阿兹马伊被任命为伊朗伊斯兰革命卫队海军司令",
-          "url": "https://wallstreetcn.com/livenews/3128945",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时27分"
         },
         {
           "title": "伊朗总统与俄罗斯讨论扩大合作的事宜。（ISN）",
@@ -218,17 +244,6 @@
           "time_info": "08时03分"
         },
         {
-          "title": "特斯拉限制员工AI使用开销 美国多家科技企业收紧AI支出",
-          "url": "https://wallstreetcn.com/livenews/3128944",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时27分"
-        },
-        {
           "title": "AI焦虑暂退，全球股市反弹，欧股创历史新高，金铜拉涨，美元下跌",
           "url": "https://wallstreetcn.com/articles/3776124",
           "source": "华尔街见闻",
@@ -238,17 +253,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时13分"
-        },
-        {
-          "title": "伊朗警告域外国家勿在霍尔木兹海峡制造危机",
-          "url": "https://wallstreetcn.com/livenews/3128943",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时27分"
         },
         {
           "title": "Meta收跌5%！报道：扎克伯格称Meta AI智能体开发不及预期",
@@ -263,6 +267,17 @@
           "time_info": "[01时21分 ~ 06时13分]"
         },
         {
+          "title": "伊朗传统两派对立格局被打破，保守派内部进一步分裂，新最高领袖的绝对权力正在被稀释",
+          "url": "https://flash.jin10.com/detail/20260704221625100800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时59分"
+        },
+        {
           "title": "伊朗总统在哈梅内伊告别仪式抹泪",
           "url": "https://www.toutiao.com/trending/7658230002110119978/",
           "source": "今日头条",
@@ -273,6 +288,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时03分 ~ 12时32分]"
+        },
+        {
+          "title": "伊朗外交部长阿拉格齐在伊朗首都德黑兰分别会晤黎巴嫩真主党及哈马斯代表。",
+          "url": "https://flash.jin10.com/detail/20260704220954516800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时27分 ~ 23时59分]"
         },
         {
           "title": "加拿大养老基金向EQT的AI基础设施建设投资17.5亿美元",
@@ -299,6 +326,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时01分 ~ 08时03分]"
+        },
+        {
+          "title": "上千万伊朗人参与哈梅内伊告别仪式",
+          "url": "https://wallstreetcn.com/livenews/3128938",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时05分 ~ 23时59分]"
         },
         {
           "title": "欧洲顶级银行家和监管机构警告：AI发展速度已超越现行规则",
@@ -350,16 +390,18 @@
           "time_info": "[06时13分 ~ 08时03分]"
         },
         {
-          "title": "上千万伊朗人参与哈梅内伊告别仪式",
-          "url": "https://wallstreetcn.com/livenews/3128938",
+          "title": "伊朗民众泪别哈梅内伊",
+          "url": "https://wallstreetcn.com/livenews/3128923",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4,
-            9
+            6,
+            17,
+            22,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时05分 ~ 22时27分]"
+          "appearance_count": 4,
+          "time_info": "[18时06分 ~ 23时59分]"
         },
         {
           "title": "伊朗官员警告他国勿在霍尔木兹海峡采取军事行动",
@@ -422,17 +464,28 @@
           "time_info": "[20时04分 ~ 22时27分]"
         },
         {
-          "title": "伊朗民众泪别哈梅内伊",
-          "url": "https://wallstreetcn.com/livenews/3128923",
-          "source": "华尔街见闻-快讯",
+          "title": "高盛：美股AI上涨力竭，下半年布局防御板块，看好医疗、欧洲防务",
+          "url": "https://wallstreetcn.com/articles/3776200",
+          "source": "华尔街见闻",
           "ranks": [
-            6,
-            17,
-            22
+            8,
+            6
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[18时06分 ~ 22时27分]"
+          "time_info": "[22时26分 ~ 23时59分]"
+        },
+        {
+          "title": "锐评互联网热门视频",
+          "url": "https://search.bilibili.com/all?keyword=%E9%94%90%E8%AF%84%E4%BA%92%E8%81%94%E7%BD%91%E7%83%AD%E9%97%A8%E8%A7%86%E9%A2%91",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时26分 ~ 23时59分]"
         },
         {
           "title": "特朗普前AI顾问：美国不会设立类FDA的AI监管机构",
@@ -495,6 +548,18 @@
           "time_info": "[20时05分 ~ 22时27分]"
         },
         {
+          "title": "伊朗称捣毁多个与美以有关的“恐怖和极端组织”窝点",
+          "url": "https://flash.jin10.com/detail/20260704214033656800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时27分 ~ 23时59分]"
+        },
+        {
           "title": "特朗普：伊朗非常想达成协议。 因葬礼给伊朗放了一周假。",
           "url": "https://wallstreetcn.com/livenews/3128882",
           "source": "华尔街见闻-快讯",
@@ -519,26 +584,16 @@
           "time_info": "[15时43分 ~ 18时06分]"
         },
         {
-          "title": "高盛：美股AI上涨力竭，下半年布局防御板块，看好医疗、欧洲防务",
-          "url": "https://wallstreetcn.com/articles/3776200",
-          "source": "华尔街见闻",
+          "title": "据沙特媒体哈达斯与阿拉伯卫星电视台报道，美国与伊朗的谈判将于7月11日在巴基斯坦进行。",
+          "url": "https://flash.jin10.com/detail/20260704212154579800",
+          "source": "金十数据",
           "ranks": [
-            8
+            9,
+            15
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[22时26分 ~ 22时27分]"
-        },
-        {
-          "title": "锐评互联网热门视频",
-          "url": "https://search.bilibili.com/all?keyword=%E9%94%90%E8%AF%84%E4%BA%92%E8%81%94%E7%BD%91%E7%83%AD%E9%97%A8%E8%A7%86%E9%A2%91",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时26分 ~ 22时27分]"
+          "time_info": "[22时27分 ~ 23时59分]"
         },
         {
           "title": "据伊朗塔斯尼姆通讯社：黎巴嫩消息人士称，以色列在萨迪金市附近进行了一次无人机袭击。",
@@ -553,6 +608,18 @@
           "time_info": "[18时06分 ~ 20时05分]"
         },
         {
+          "title": "阿里·阿兹马伊被任命为伊朗伊斯兰革命卫队海军司令",
+          "url": "https://flash.jin10.com/detail/20260704211410750800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时27分 ~ 23时59分]"
+        },
+        {
           "title": "业内首个AI-eSIM产业协同平台成立",
           "url": "https://wallstreetcn.com/livenews/3128902",
           "source": "华尔街见闻-快讯",
@@ -563,6 +630,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时43分 ~ 18时06分]"
+        },
+        {
+          "title": "特斯拉限制员工AI使用开销 美国多家科技企业收紧AI支出",
+          "url": "https://flash.jin10.com/detail/20260704205119305800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时27分 ~ 23时59分]"
         },
         {
           "title": "美国最大电网周四因高温迎来破纪录用电需求",
@@ -587,6 +666,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时43分 ~ 18时06分]"
+        },
+        {
+          "title": "伊朗警告域外国家勿在霍尔木兹海峡制造危机",
+          "url": "https://flash.jin10.com/detail/20260704200114603800",
+          "source": "金十数据",
+          "ranks": [
+            16,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时27分 ~ 23时59分]"
         },
         {
           "title": "伊朗与巴基斯坦在前最高领袖哈梅内伊葬礼结束后举行了会谈。（ISNA）",
@@ -636,17 +727,6 @@
           "time_info": "[20时04分 ~ 20时05分]"
         },
         {
-          "title": "伊朗称捣毁多个与美以有关的“恐怖和极端组织”窝点",
-          "url": "https://flash.jin10.com/detail/20260704214033656800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时27分"
-        },
-        {
           "title": "韩国AI大跃进",
           "url": "https://wallstreetcn.com/articles/3776121",
           "source": "华尔街见闻",
@@ -669,17 +749,6 @@
           "time_info": "12时32分"
         },
         {
-          "title": "据沙特媒体哈达斯与阿拉伯卫星电视台报道，美国与伊朗的谈判将于7月11日在巴基斯坦进行。",
-          "url": "https://flash.jin10.com/detail/20260704212154579800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时27分"
-        },
-        {
           "title": "据伊朗伊斯兰共和国通讯社（IRNA）：伊朗国防部副部长表示，伊朗和巴基斯坦可以成为该地区新安全安排的基石。",
           "url": "https://flash.jin10.com/detail/20260704004754888800",
           "source": "金十数据",
@@ -689,17 +758,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时22分"
-        },
-        {
-          "title": "阿里·阿兹马伊被任命为伊朗伊斯兰革命卫队海军司令",
-          "url": "https://flash.jin10.com/detail/20260704211410750800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时27分"
         },
         {
           "title": "伊朗为已故最高领袖哈梅内伊举行公众告别与悼念仪式",
@@ -722,17 +780,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时43分"
-        },
-        {
-          "title": "特斯拉限制员工AI使用开销 美国多家科技企业收紧AI支出",
-          "url": "https://flash.jin10.com/detail/20260704205119305800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时27分"
         },
         {
           "title": "惠誉评级：重新评估全球企业部门面临的与伊朗相关的持续风险。",
@@ -766,17 +813,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时43分"
-        },
-        {
-          "title": "伊朗警告域外国家勿在霍尔木兹海峡制造危机",
-          "url": "https://flash.jin10.com/detail/20260704200114603800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时27分"
         },
         {
           "title": "据伊朗学生通讯社：伊朗和巴基斯坦双方在伊朗前最高领袖哈梅内伊的葬礼后举行会谈。",
