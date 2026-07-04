@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-05T05:56:55.463572+08:00",
-  "total_titles_processed": 434,
+  "generated_at": "2026-07-05T06:56:35.672990+08:00",
+  "total_titles_processed": 465,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时11分 ~ 05时56分]"
+          "appearance_count": 6,
+          "time_info": "[01时11分 ~ 06时56分]"
         },
         {
           "title": "特朗普：我们很善良，给伊朗一周时间办丧事",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时11分 ~ 05时56分]"
+          "appearance_count": 6,
+          "time_info": "[01时11分 ~ 06时56分]"
         },
         {
           "title": "高盛：美股AI上涨力竭，下半年布局防御板块，看好医疗、欧洲防务",
@@ -38,8 +38,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时11分 ~ 05时56分]"
+          "appearance_count": 6,
+          "time_info": "[01时11分 ~ 06时56分]"
         },
         {
           "title": "伊朗外长会晤黎真主党及哈马斯代表",
@@ -49,8 +49,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时11分 ~ 05时56分]"
+          "appearance_count": 5,
+          "time_info": "[01时11分 ~ 06时56分]"
         },
         {
           "title": "伊朗称捣毁多个与美以有关的“恐怖和极端组织”窝点",
@@ -60,8 +60,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时11分 ~ 05时56分]"
+          "appearance_count": 5,
+          "time_info": "[01时11分 ~ 06时56分]"
         },
         {
           "title": "阿里·阿兹马伊被任命为伊朗伊斯兰革命卫队海军司令",
@@ -71,8 +71,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时11分 ~ 05时56分]"
+          "appearance_count": 5,
+          "time_info": "[01时11分 ~ 06时56分]"
         },
         {
           "title": "特斯拉限制员工AI使用开销 美国多家科技企业收紧AI支出",
@@ -82,8 +82,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时11分 ~ 05时56分]"
+          "appearance_count": 5,
+          "time_info": "[01时11分 ~ 06时56分]"
         },
         {
           "title": "伊朗警告域外国家勿在霍尔木兹海峡制造危机",
@@ -93,8 +93,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时11分 ~ 05时56分]"
+          "appearance_count": 5,
+          "time_info": "[01时11分 ~ 06时56分]"
         },
         {
           "title": "伊朗驻华大使：中国等友好国家将享有“特殊待遇”",
@@ -104,8 +104,43 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时53分 ~ 05时56分]"
+          "appearance_count": 3,
+          "time_info": "[04时53分 ~ 06时56分]"
+        },
+        {
+          "title": "锐评互联网热门视频",
+          "url": "https://search.bilibili.com/all?keyword=%E9%94%90%E8%AF%84%E4%BA%92%E8%81%94%E7%BD%91%E7%83%AD%E9%97%A8%E8%A7%86%E9%A2%91",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10,
+            28,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时11分 ~ 06时56分]"
+        },
+        {
+          "title": "上千万伊朗人参与哈梅内伊告别仪式",
+          "url": "https://wallstreetcn.com/livenews/3128938",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时11分 ~ 06时56分]"
+        },
+        {
+          "title": "伊朗民众泪别哈梅内伊",
+          "url": "https://wallstreetcn.com/livenews/3128923",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时11分 ~ 06时56分]"
         },
         {
           "title": "美蓓亚三美将提高用于AI数据中心的轴承产量",
@@ -130,41 +165,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时06分 ~ 04时53分]"
-        },
-        {
-          "title": "锐评互联网热门视频",
-          "url": "https://search.bilibili.com/all?keyword=%E9%94%90%E8%AF%84%E4%BA%92%E8%81%94%E7%BD%91%E7%83%AD%E9%97%A8%E8%A7%86%E9%A2%91",
-          "source": "bilibili 热搜",
-          "ranks": [
-            10,
-            28,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时11分 ~ 04时53分]"
-        },
-        {
-          "title": "上千万伊朗人参与哈梅内伊告别仪式",
-          "url": "https://wallstreetcn.com/livenews/3128938",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时11分 ~ 05时56分]"
-        },
-        {
-          "title": "伊朗民众泪别哈梅内伊",
-          "url": "https://wallstreetcn.com/livenews/3128923",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时11分 ~ 05时56分]"
         },
         {
           "title": "黎巴嫩官员同伊朗外长举行会晤 讨论地区局势",
