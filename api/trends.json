@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-04T06:13:58.985838+08:00",
-  "total_titles_processed": 467,
+  "generated_at": "2026-07-04T08:03:29.557843+08:00",
+  "total_titles_processed": 540,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai ai+ ai人工智能 人工智能 风险识别 商业风险识别 痛点 需求 商业风险 伊朗 rwa 趋势 热点 热门",
-      "match_count": 34,
+      "match_count": 39,
       "titles": [
         {
           "title": "头条世界杯｜不用进球就能统治比赛，亚马尔帮西班牙重回热门",
@@ -15,19 +15,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时21分 ~ 06时13分]"
+          "appearance_count": 6,
+          "time_info": "[01时21分 ~ 08时03分]"
         },
         {
           "title": "芯片股两连跌！AI“鬼故事”不断：Meta、Anthropic相继传出新动作，市场开始重估AI交易？",
           "url": "https://wallstreetcn.com/articles/3776101",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时21分 ~ 06时13分]"
+          "appearance_count": 6,
+          "time_info": "[01时21分 ~ 08时03分]"
         },
         {
           "title": "伊朗总统在哈梅内伊葬礼上双手掩面",
@@ -37,8 +38,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时21分 ~ 06时13分]"
+          "appearance_count": 6,
+          "time_info": "[01时21分 ~ 08时03分]"
         },
         {
           "title": "4名大学生出题 AI考了0分",
@@ -74,6 +75,67 @@
           "time_info": "[01时21分 ~ 05时01分]"
         },
         {
+          "title": "对话｜硅谷为何争抢哲学家？AI生成内容越廉价，判断力越是稀缺能力",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33501142",
+          "source": "澎湃新闻",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时21分 ~ 08时03分]"
+        },
+        {
+          "title": "优必选 CEO 称珍惜当牛马最后光阴，20 年后是机器人干活，如何看待这一发言？机器人上班会是趋势吗？",
+          "url": "https://www.zhihu.com/question/2056338500371182782",
+          "source": "知乎",
+          "ranks": [
+            7,
+            8,
+            14,
+            13,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时21分 ~ 08时03分]"
+        },
+        {
+          "title": "AI填志愿实测：信息更新可能有偏差，决策还得考生自己做",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33493022",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时21分 ~ 08时03分]"
+        },
+        {
+          "title": "伊朗总统在哈梅内伊告别仪式抹泪",
+          "url": "https://www.toutiao.com/trending/7658230002110119978/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时03分"
+        },
+        {
+          "title": "AI焦虑暂退，科技股反弹，欧股两日连创新高，布油两日反弹但连跌四周",
+          "url": "https://wallstreetcn.com/articles/3776124",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时03分"
+        },
+        {
           "title": "美国电网运营巨头PJM Interconnection LLC：可能在7月2日出现创历史纪录新高的电力需求。",
           "url": "https://wallstreetcn.com/livenews/3128835",
           "source": "华尔街见闻-快讯",
@@ -96,15 +158,15 @@
           "time_info": "03时15分"
         },
         {
-          "title": "对话｜硅谷为何争抢哲学家？AI生成内容越廉价，判断力越是稀缺能力",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33501142",
-          "source": "澎湃新闻",
+          "title": "伊朗称将回应违反谅解备忘录的行为",
+          "url": "https://wallstreetcn.com/livenews/3128852",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            3
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时21分 ~ 06时13分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时03分"
         },
         {
           "title": "AI焦虑暂退，全球股市反弹，欧股创历史新高，金铜拉涨，美元下跌",
@@ -113,18 +175,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时13分"
-        },
-        {
-          "title": "受AI热潮与美联储乐观预期提振，新兴市场资产全线反弹",
-          "url": "https://wallstreetcn.com/livenews/3128844",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时13分"
         },
@@ -135,31 +186,6 @@
           "ranks": [
             8,
             7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时21分 ~ 06时13分]"
-        },
-        {
-          "title": "优必选 CEO 称珍惜当牛马最后光阴，20 年后是机器人干活，如何看待这一发言？机器人上班会是趋势吗？",
-          "url": "https://www.zhihu.com/question/2056338500371182782",
-          "source": "知乎",
-          "ranks": [
-            7,
-            8,
-            14,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时21分 ~ 06时13分]"
-        },
-        {
-          "title": "AI填志愿实测：信息更新可能有偏差，决策还得考生自己做",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33493022",
-          "source": "澎湃新闻",
-          "ranks": [
-            12
           ],
           "is_new": false,
           "appearance_count": 5,
@@ -184,11 +210,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            13
+            13,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时01分 ~ 06时13分]"
+          "appearance_count": 3,
+          "time_info": "[05时01分 ~ 08时03分]"
         },
         {
           "title": "欧洲顶级银行家和监管机构警告：AI发展速度已超越现行规则",
@@ -196,11 +223,36 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            15
+            15,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时01分 ~ 08时03分]"
+        },
+        {
+          "title": "据伊朗学生通讯社：伊朗总统与俄罗斯讨论了扩大合作事宜。",
+          "url": "https://flash.jin10.com/detail/20260704021129048800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时15分 ~ 08时03分]"
+        },
+        {
+          "title": "受AI热潮与美联储乐观预期提振，新兴市场资产全线反弹",
+          "url": "https://wallstreetcn.com/livenews/3128844",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[05时01分 ~ 06时13分]"
+          "time_info": "[06时13分 ~ 08时03分]"
         },
         {
           "title": "Anthropic自研AI芯片计划引发美股半导体大跌！闪迪大跌14%，费城半导体指数两日重挫12%",
@@ -227,28 +279,17 @@
           "time_info": "[01时21分 ~ 06时13分]"
         },
         {
-          "title": "据伊朗学生通讯社：伊朗总统与俄罗斯讨论了扩大合作事宜。",
-          "url": "https://flash.jin10.com/detail/20260704021129048800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时15分 ~ 06时13分]"
-        },
-        {
           "title": "特朗普前AI顾问：美国不会设立类FDA的AI监管机构",
           "url": "https://wallstreetcn.com/livenews/3128826",
           "source": "华尔街见闻-快讯",
           "ranks": [
             10,
-            20
+            20,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时01分 ~ 06时13分]"
+          "appearance_count": 3,
+          "time_info": "[05时01分 ~ 08时03分]"
         },
         {
           "title": "美国最大的电网运营商PJM：已无法满足预期的能源需求，因此将实施计划，削减服务区域内的用电量；该区域覆盖大西洋中部地区、南部地区及华盛顿特区，服务用户达6700万。",
@@ -258,8 +299,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时01分 ~ 06时13分]"
+          "appearance_count": 3,
+          "time_info": "[05时01分 ~ 08时03分]"
         },
         {
           "title": "美国电网运营巨头PJM Interconnection LLC在紧急程序网站上发布消息，宣布启动EEA2（二级能源紧急警报）行动，原因是已无法满足预期的能源需求。 该公司表示，正在实施一项运营计划，要求公用事业公司在其服务区域内削减电力需求。该区域覆盖中大西洋地区、南部地区以及华盛顿特区，服务人口达6700万。",
@@ -267,11 +308,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             13,
-            23
+            23,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时01分 ~ 06时13分]"
+          "appearance_count": 3,
+          "time_info": "[05时01分 ~ 08时03分]"
         },
         {
           "title": "伊朗议会议长卡利巴夫：美国必须“接受贸易领域的既定现实”。",
@@ -281,8 +323,20 @@
             15
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时01分 ~ 08时03分]"
+        },
+        {
+          "title": "美国最大电网周四因高温迎来破纪录用电需求",
+          "url": "https://wallstreetcn.com/livenews/3128835",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            17
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[05时01分 ~ 06时13分]"
+          "time_info": "[06时13分 ~ 08时03分]"
         },
         {
           "title": "伊朗与巴基斯坦在前最高领袖哈梅内伊葬礼结束后举行了会谈。（ISNA）",
@@ -321,6 +375,17 @@
           "time_info": "[05时01分 ~ 06时13分]"
         },
         {
+          "title": "韩国AI大跃进",
+          "url": "https://wallstreetcn.com/articles/3776121",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时03分"
+        },
+        {
           "title": "据伊朗伊斯兰共和国通讯社（IRNA）：伊朗国防部副部长表示，伊朗和巴基斯坦可以成为该地区新安全安排的基石。",
           "url": "https://flash.jin10.com/detail/20260704004754888800",
           "source": "金十数据",
@@ -330,17 +395,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时22分"
-        },
-        {
-          "title": "美国最大电网周四因高温迎来破纪录用电需求",
-          "url": "https://wallstreetcn.com/livenews/3128835",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时13分"
         },
         {
           "title": "惠誉评级：重新评估全球企业部门面临的与伊朗相关的持续风险。",
@@ -396,6 +450,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时22分"
+        },
+        {
+          "title": "如何看待AI模型蒸馏",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85AI%E6%A8%A1%E5%9E%8B%E8%92%B8%E9%A6%8F%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时03分"
         }
       ]
     }
