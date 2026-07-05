@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-06T03:28:09.013160+08:00",
-  "total_titles_processed": 416,
+  "generated_at": "2026-07-06T04:55:56.762350+08:00",
+  "total_titles_processed": 454,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时05分 ~ 03时28分]"
+          "appearance_count": 6,
+          "time_info": "[00时05分 ~ 04时55分]"
         },
         {
           "title": "OpenAI塌房！Scaling law原作曝bug，万亿算力全白烧",
@@ -27,8 +27,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时05分 ~ 03时28分]"
+          "appearance_count": 6,
+          "time_info": "[00时05分 ~ 04时55分]"
         },
         {
           "title": "HBM之父金正浩：AI的本质是内存，GPU真正工作的时间只有10%",
@@ -39,8 +39,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时05分 ~ 03时28分]"
+          "appearance_count": 6,
+          "time_info": "[00时05分 ~ 04时55分]"
         },
         {
           "title": "伊拉克女信众：哈梅内伊不仅属于伊朗，是所有人的领袖",
@@ -50,8 +50,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时05分 ~ 03时28分]"
+          "appearance_count": 6,
+          "time_info": "[00时05分 ~ 04时55分]"
         },
         {
           "title": "智能体下线,AI女友凉了？",
@@ -62,8 +62,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时05分 ~ 03时28分]"
+          "appearance_count": 6,
+          "time_info": "[00时05分 ~ 04时55分]"
         },
         {
           "title": "马上评｜2G、3G退网是趋势，但别忘了等一等老人",
@@ -73,8 +73,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时05分 ~ 03时28分]"
+          "appearance_count": 6,
+          "time_info": "[00时05分 ~ 04时55分]"
         },
         {
           "title": "有业绩支撑的非AI板块修复在即？十大券商策略来了",
@@ -82,11 +82,12 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时00分 ~ 03时28分]"
+          "appearance_count": 5,
+          "time_info": "[02时00分 ~ 04时55分]"
         },
         {
           "title": "电诈人员用AI同时和100多人聊天",
@@ -94,11 +95,12 @@
           "source": "百度热搜",
           "ranks": [
             20,
-            17
+            17,
+            14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时00分 ~ 03时28分]"
+          "appearance_count": 5,
+          "time_info": "[02时00分 ~ 04时55分]"
         },
         {
           "title": "2026中国互联网大会将举办，聚焦AI产业化落地、算力互联互通等核心议题",
@@ -108,8 +110,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时05分 ~ 03时28分]"
+          "appearance_count": 4,
+          "time_info": "[00时05分 ~ 04时55分]"
         },
         {
           "title": "伊朗官员称该国已恢复与卡塔尔的海上贸易",
@@ -119,8 +121,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时05分 ~ 03时28分]"
+          "appearance_count": 4,
+          "time_info": "[00时05分 ~ 04时55分]"
         },
         {
           "title": "鸿海：展望第三季度，人工智能机架出货量预计将保持增长；整体运营前景预计季度和同比都会增长。",
@@ -130,41 +132,56 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时05分 ~ 03时28分]"
+          "appearance_count": 4,
+          "time_info": "[00时05分 ~ 04时55分]"
         },
         {
           "title": "英法高调宣布保障霍尔木兹航行自由，伊朗强硬警告，国际油价暗盘拉升，中东局势会再度升级吗？",
           "url": "https://www.zhihu.com/question/2056886502731297310",
           "source": "知乎",
           "ranks": [
-            17
+            17,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时27分 ~ 03时28分]"
+          "appearance_count": 3,
+          "time_info": "[03时27分 ~ 04时55分]"
         },
         {
           "title": "伊朗议会议长卡利巴夫：自己首先是一名战士，其次才是外交官，德黑兰必须在保持“战备状态”的前提下开展谈判。",
           "url": "https://flash.jin10.com/detail/20260706023539814800",
           "source": "金十数据",
           "ranks": [
-            7
+            7,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时28分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时28分 ~ 04时55分]"
         },
         {
           "title": "伊朗议会议长卡利巴夫：敌对势力已经明白，要想达成黎巴嫩以及整个中东区域的和平稳定，伊朗的参与是不可或缺的。",
           "url": "https://flash.jin10.com/detail/20260706023506164800",
           "source": "金十数据",
           "ranks": [
-            8
+            8,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时28分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时28分 ~ 04时55分]"
+        },
+        {
+          "title": "伊朗最高领袖任命埃杰伊继续担任司法总监",
+          "url": "https://flash.jin10.com/detail/20260706013917109800",
+          "source": "金十数据",
+          "ranks": [
+            15,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时28分 ~ 04时55分]"
         },
         {
           "title": "伊朗议会议长卡利巴夫：抵抗阵线与黎巴嫩问题被视为我们的红线之一。",
@@ -198,17 +215,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时05分"
-        },
-        {
-          "title": "伊朗最高领袖任命埃杰伊继续担任司法总监",
-          "url": "https://flash.jin10.com/detail/20260706013917109800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时28分"
         },
         {
           "title": "多数美国选民认为特朗普对伊朗开战得不偿失",
