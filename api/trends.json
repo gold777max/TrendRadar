@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-07-05T12:03:59.344684+08:00",
-  "total_titles_processed": 702,
+  "generated_at": "2026-07-05T15:54:24.505839+08:00",
+  "total_titles_processed": 858,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai ai+ ai人工智能 人工智能 风险识别 商业风险识别 痛点 需求 商业风险 伊朗 rwa 趋势 热点 热门",
-      "match_count": 36,
+      "match_count": 46,
       "titles": [
-        {
-          "title": "特朗普：我们很善良，给伊朗一周时间办丧事",
-          "url": "https://news.ifeng.com/c/8uUUEfrnQmU",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时11分 ~ 12时03分]"
-        },
         {
           "title": "高盛：美股AI上涨力竭，下半年布局防御板块，看好医疗、欧洲防务",
           "url": "https://wallstreetcn.com/articles/3776200",
@@ -26,6 +15,18 @@
             5,
             4,
             3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时11分 ~ 15时54分]"
+        },
+        {
+          "title": "特朗普：我们很善良，给伊朗一周时间办丧事",
+          "url": "https://news.ifeng.com/c/8uUUEfrnQmU",
+          "source": "凤凰网",
+          "ranks": [
             2
           ],
           "is_new": false,
@@ -49,11 +50,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            13
+            13,
+            19
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时11分 ~ 12时03分]"
+          "appearance_count": 8,
+          "time_info": "[01时11分 ~ 15时54分]"
         },
         {
           "title": "伊朗称捣毁多个与美以有关的“恐怖和极端组织”窝点",
@@ -61,11 +63,51 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            14
+            14,
+            20
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时11分 ~ 12时03分]"
+          "appearance_count": 8,
+          "time_info": "[01时11分 ~ 15时54分]"
+        },
+        {
+          "title": "阿里·阿兹马伊被任命为伊朗伊斯兰革命卫队海军司令",
+          "url": "https://wallstreetcn.com/livenews/3128945",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            15,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时11分 ~ 15时54分]"
+        },
+        {
+          "title": "特斯拉限制员工AI使用开销 美国多家科技企业收紧AI支出",
+          "url": "https://wallstreetcn.com/livenews/3128944",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            16,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时11分 ~ 15时54分]"
+        },
+        {
+          "title": "伊朗警告域外国家勿在霍尔木兹海峡制造危机",
+          "url": "https://wallstreetcn.com/livenews/3128943",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            17,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时11分 ~ 15时54分]"
         },
         {
           "title": "伊朗驻华大使：中国等友好国家将享有“特殊待遇”",
@@ -80,63 +122,17 @@
           "time_info": "[04时53分 ~ 12时03分]"
         },
         {
-          "title": "阿里·阿兹马伊被任命为伊朗伊斯兰革命卫队海军司令",
-          "url": "https://wallstreetcn.com/livenews/3128945",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时11分 ~ 12时03分]"
-        },
-        {
-          "title": "特斯拉限制员工AI使用开销 美国多家科技企业收紧AI支出",
-          "url": "https://wallstreetcn.com/livenews/3128944",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时11分 ~ 12时03分]"
-        },
-        {
-          "title": "伊朗警告域外国家勿在霍尔木兹海峡制造危机",
-          "url": "https://wallstreetcn.com/livenews/3128943",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时11分 ~ 12时03分]"
-        },
-        {
           "title": "上千万伊朗人参与哈梅内伊告别仪式",
           "url": "https://wallstreetcn.com/livenews/3128938",
           "source": "华尔街见闻-快讯",
           "ranks": [
             10,
-            22
+            22,
+            28
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时11分 ~ 12时03分]"
-        },
-        {
-          "title": "野村证券：当前全球存储行业仍严重供应短缺 AI驱动的结构性需求增长尚未见顶",
-          "url": "https://flash.jin10.com/detail/20260705113833548800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时03分"
+          "appearance_count": 8,
+          "time_info": "[01时11分 ~ 15时54分]"
         },
         {
           "title": "锐评互联网热门视频",
@@ -146,11 +142,23 @@
             10,
             28,
             22,
-            21
+            21,
+            26
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时11分 ~ 12时03分]"
+          "appearance_count": 7,
+          "time_info": "[01时11分 ~ 15时54分]"
+        },
+        {
+          "title": "野村证券：当前全球存储行业仍严重供应短缺 AI驱动的结构性需求增长尚未见顶",
+          "url": "https://flash.jin10.com/detail/20260705113833548800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时03分"
         },
         {
           "title": "伊朗民众泪别哈梅内伊",
@@ -162,6 +170,39 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时11分 ~ 08时01分]"
+        },
+        {
+          "title": "我国工业母机呈智能化发展新趋势",
+          "url": "https://www.toutiao.com/trending/7658411693671796267/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时54分"
+        },
+        {
+          "title": "OpenAI塌房！Scaling law原作曝bug，万亿算力全白烧",
+          "url": "https://wallstreetcn.com/articles/3776218",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时54分"
+        },
+        {
+          "title": "特朗普：伊朗举国哀悼哈梅内伊，让我感到惊讶",
+          "url": "https://news.ifeng.com/c/8uVPLB68Q8C",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时54分"
         },
         {
           "title": "美蓓亚三美将提高用于AI数据中心的轴承产量",
@@ -188,6 +229,18 @@
           "time_info": "[03时06分 ~ 04时53分]"
         },
         {
+          "title": "苹果AI功能未能引爆换机潮，瑞银调查显示用户升级意愿持续下滑",
+          "url": "https://wallstreetcn.com/articles/3776203",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时01分 ~ 15时54分]"
+        },
+        {
           "title": "黎巴嫩官员同伊朗外长举行会晤 讨论地区局势",
           "url": "https://flash.jin10.com/detail/20260705035229270800",
           "source": "金十数据",
@@ -198,18 +251,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时53分 ~ 05时56分]"
-        },
-        {
-          "title": "苹果AI功能未能引爆换机潮，瑞银调查显示用户升级意愿持续下滑",
-          "url": "https://wallstreetcn.com/articles/3776203",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时01分 ~ 12时03分]"
         },
         {
           "title": "美国Axios记者称，若内塔尼亚胡造访白宫，这将是他自二月份在情况室与美国总统特朗普的戏剧性会晤以来的首次会面，当时，内塔尼亚胡提交了一份对伊朗开战的方案。",
@@ -224,15 +265,49 @@
           "time_info": "[04时53分 ~ 05时56分]"
         },
         {
+          "title": "黎巴嫩官员同伊朗外长举行会晤 讨论地区局势",
+          "url": "https://wallstreetcn.com/livenews/3128953",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时03分 ~ 15时54分]"
+        },
+        {
+          "title": "梅德韦杰夫：伊朗手握有两大底牌，不亚于核武器",
+          "url": "https://news.ifeng.com/c/8uVfRfTDNZu",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时54分"
+        },
+        {
           "title": "“AI+”OPC供需生态对接会在珠海举行",
           "url": "https://flash.jin10.com/detail/20260705103842899800",
           "source": "金十数据",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时03分"
+        },
+        {
+          "title": "鸿海：展望第三季度，人工智能机架出货量预计将保持增长。",
+          "url": "https://flash.jin10.com/detail/20260705153708764800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时54分"
         },
         {
           "title": "也门副总理在德黑兰会见伊朗外长",
@@ -241,7 +316,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时03分"
         },
@@ -252,18 +327,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时03分"
-        },
-        {
-          "title": "黎巴嫩官员同伊朗外长举行会晤 讨论地区局势",
-          "url": "https://wallstreetcn.com/livenews/3128953",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时03分"
         },
@@ -274,7 +338,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时03分"
         },
@@ -296,9 +360,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时03分"
+        },
+        {
+          "title": "中国银河证券：结构突围聚焦科创制造 主线切换至半导体、AI与航空航天三大方向",
+          "url": "https://flash.jin10.com/detail/20260705152738731800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时54分"
         },
         {
           "title": "伊朗民众泪别哈梅内伊",
@@ -345,6 +420,28 @@
           "time_info": "03时06分"
         },
         {
+          "title": "伊朗民众哀恸送别哈梅内伊",
+          "url": "https://flash.jin10.com/detail/20260705144251024800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时54分"
+        },
+        {
+          "title": "AI都进入吃播时代了",
+          "url": "https://s.weibo.com/weibo?q=AI%E9%83%BD%E8%BF%9B%E5%85%A5%E5%90%83%E6%92%AD%E6%97%B6%E4%BB%A3%E4%BA%86&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时54分"
+        },
+        {
           "title": "伊朗传统两派对立格局被打破，保守派内部进一步分裂，新最高领袖的绝对权力正在被稀释",
           "url": "https://flash.jin10.com/detail/20260704221625100800",
           "source": "金十数据",
@@ -378,6 +475,17 @@
           "time_info": "03时06分"
         },
         {
+          "title": "嘉实基金王贵重：对中国科技资产及国内AI加速追赶趋势持积极乐观态度",
+          "url": "https://flash.jin10.com/detail/20260705142201827800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时54分"
+        },
+        {
           "title": "伊朗外交部长阿拉格齐在伊朗首都德黑兰分别会晤黎巴嫩真主党及哈马斯代表。",
           "url": "https://flash.jin10.com/detail/20260704220954516800",
           "source": "金十数据",
@@ -406,9 +514,20 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时03分"
+        },
+        {
+          "title": "《北京数字经济发展报告（2025—2026）》发布 2025年人工智能核心产业规模约4500亿元",
+          "url": "https://flash.jin10.com/detail/20260705141115141800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时54分"
         },
         {
           "title": "伊朗称捣毁多个与美以有关的“恐怖和极端组织”窝点",
