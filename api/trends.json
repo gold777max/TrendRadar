@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-07T05:02:12.319990+08:00",
-  "total_titles_processed": 506,
+  "generated_at": "2026-07-07T06:12:03.108694+08:00",
+  "total_titles_processed": 574,
   "failed_sources": [],
   "trends": [
     {
@@ -16,19 +16,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时18分 ~ 05时02分]"
+          "appearance_count": 6,
+          "time_info": "[00时18分 ~ 06时12分]"
         },
         {
           "title": "WorkBuddy爆了，微信AI也来了——腾讯AI找到“新船票”了吗？",
           "url": "https://wallstreetcn.com/articles/3776245",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时18分 ~ 05时02分]"
+          "appearance_count": 6,
+          "time_info": "[00时18分 ~ 06时12分]"
         },
         {
           "title": "两大利空实为误读？野村：市场对存储芯片需求降温的恐慌明显过度",
@@ -40,6 +41,32 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时18分 ~ 02时53分]"
+        },
+        {
+          "title": "为什么痛风人群越来越多，并出现年轻化趋势？",
+          "url": "https://www.zhihu.com/question/435446154",
+          "source": "知乎",
+          "ranks": [
+            18,
+            16,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时18分 ~ 06时12分]"
+        },
+        {
+          "title": "智能体下线,AI女友凉了？",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355914&amp;topic_name=%E6%99%BA%E8%83%BD%E4%BD%93%E4%B8%8B%E7%BA%BF%2CAI%E5%A5%B3%E5%8F%8B%E5%87%89%E4%BA%86%EF%BC%9F",
+          "source": "贴吧",
+          "ranks": [
+            26,
+            28,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时18分 ~ 06时12分]"
         },
         {
           "title": "欧洲央行管委Wunsch：似乎伊朗冲击已经消退，我们尚未看到太多的第二轮（通胀）效应。 我们可能还得（围绕货币政策）采取更多行动，但形势并不要求央行大幅紧缩。 不排除央行再次（采取加息）行动，但不要让我们等太久。",
@@ -75,6 +102,18 @@
           "time_info": "00时18分"
         },
         {
+          "title": "民调：多数美国人认为特朗普在伊朗战争中得不偿失 拖累中期选举",
+          "url": "https://www.cls.cn/detail/2417917",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时53分 ~ 06时12分]"
+        },
+        {
           "title": "AI情绪反弹，美股上扬，存储概念股走高，西部数据涨超5%，美元走强",
           "url": "https://wallstreetcn.com/articles/3776262",
           "source": "华尔街见闻",
@@ -87,41 +126,15 @@
           "time_info": "[00时18分 ~ 05时02分]"
         },
         {
-          "title": "为什么痛风人群越来越多，并出现年轻化趋势？",
-          "url": "https://www.zhihu.com/question/435446154",
-          "source": "知乎",
-          "ranks": [
-            18,
-            16,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时18分 ~ 05时02分]"
-        },
-        {
-          "title": "智能体下线,AI女友凉了？",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355914&amp;topic_name=%E6%99%BA%E8%83%BD%E4%BD%93%E4%B8%8B%E7%BA%BF%2CAI%E5%A5%B3%E5%8F%8B%E5%87%89%E4%BA%86%EF%BC%9F",
-          "source": "贴吧",
-          "ranks": [
-            26,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时18分 ~ 05时02分]"
-        },
-        {
-          "title": "民调：多数美国人认为特朗普在伊朗战争中得不偿失 拖累中期选举",
-          "url": "https://www.cls.cn/detail/2417917",
+          "title": "南向资金追踪｜单日净买超205亿港元创近一个半月新高 AI硬件概念股反被抛售",
+          "url": "https://www.cls.cn/detail/2418217",
           "source": "财联社热门",
           "ranks": [
-            13,
-            12
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时53分 ~ 05时02分]"
+          "appearance_count": 4,
+          "time_info": "[05时01分 ~ 06时12分]"
         },
         {
           "title": "华为 PuraXMax 折叠手机销量突破 45 万台，典藏版卖得更好反映了哪些消费趋势？",
@@ -145,17 +158,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时18分 ~ 02时53分]"
-        },
-        {
-          "title": "南向资金追踪｜单日净买超205亿港元创近一个半月新高 AI硬件概念股反被抛售",
-          "url": "https://www.cls.cn/detail/2418217",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时01分 ~ 05时02分]"
         },
         {
           "title": "伊朗最高领袖发布任免令",
@@ -186,7 +188,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时02分"
         },
@@ -197,7 +199,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时02分"
         },
@@ -252,7 +254,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时02分"
         },
@@ -274,7 +276,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时02分"
         },
@@ -285,7 +287,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时02分"
         },
@@ -307,7 +309,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时02分"
         },
