@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-08T19:02:47.347290+08:00",
-  "total_titles_processed": 1349,
+  "generated_at": "2026-07-08T21:54:52.210485+08:00",
+  "total_titles_processed": 1510,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai ai+ ai人工智能 人工智能 风险识别 商业风险识别 痛点 需求 商业风险 伊朗 rwa 趋势 热点 热门",
-      "match_count": 167,
+      "match_count": 191,
       "titles": [
         {
           "title": "台风巴威未来趋势和影响",
@@ -16,11 +16,12 @@
             1,
             4,
             22,
-            30
+            30,
+            10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[03时50分 ~ 16时23分]"
+          "appearance_count": 9,
+          "time_info": "[03时50分 ~ 21时54分]"
         },
         {
           "title": "【早报】美方：强力打击伊朗、终止对伊油制裁豁免；美股科技股集体跳水；原油大涨、黄金收跌；阿根廷3-2逆转埃及",
@@ -43,8 +44,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时48分 ~ 19时02分]"
+          "appearance_count": 5,
+          "time_info": "[13时48分 ~ 21时54分]"
         },
         {
           "title": "霍尔木兹冲击波！美国撤销伊朗石油销售豁免，美军称开始对伊发动强力打击",
@@ -55,8 +56,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时59分 ~ 19时02分]"
+          "appearance_count": 7,
+          "time_info": "[07时59分 ~ 21时54分]"
         },
         {
           "title": "美军：开始对伊朗发动系列打击",
@@ -135,6 +136,18 @@
           "time_info": "[06时58分 ~ 07时59分]"
         },
         {
+          "title": "美伊战火重燃！特朗普称谅解备忘录“已终结”，斥伊朗人是“人渣”",
+          "url": "https://wallstreetcn.com/articles/3776459",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时02分 ~ 21时54分]"
+        },
+        {
           "title": "期货热点追踪",
           "url": "https://flash.jin10.com/detail/20260708074258416800",
           "source": "金十数据",
@@ -167,6 +180,20 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时53分 ~ 13时48分]"
+        },
+        {
+          "title": "美军称开始对伊朗发动系列打击",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33539157",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            12,
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时53分 ~ 21时54分]"
         },
         {
           "title": "美军称对伊朗新一轮打击，击中超80个目标",
@@ -224,6 +251,17 @@
           "time_info": "06时58分"
         },
         {
+          "title": "市场消息：美国银行近日向OpenAI提供了一笔5.2亿美元的授信额度。",
+          "url": "https://flash.jin10.com/detail/20260708214015006800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时54分"
+        },
+        {
           "title": "特朗普批准了对伊朗的打击计划，特朗普在土耳其期间下令打击伊朗。（AXIOS）",
           "url": "https://wallstreetcn.com/livenews/3130232",
           "source": "华尔街见闻-快讯",
@@ -241,9 +279,34 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时02分"
+        },
+        {
+          "title": "特朗普：我们今晚很可能会打击伊朗。 没有攻击最高级别的目标，比如桥梁。 如果有必要，我们会摧毁更高级别的目标。 我们可能会接管哈尔克岛。 不愿打击海水淡化厂，但可能不得不这样做。",
+          "url": "https://wallstreetcn.com/livenews/3130728",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时54分"
+        },
+        {
+          "title": "日本合体搞AI试图突围中美",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355995&amp;topic_name=%E6%97%A5%E6%9C%AC%E5%90%88%E4%BD%93%E6%90%9EAI%E8%AF%95%E5%9B%BE%E7%AA%81%E5%9B%B4%E4%B8%AD%E7%BE%8E",
+          "source": "贴吧",
+          "ranks": [
+            5,
+            10,
+            16,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时48分 ~ 21时54分]"
         },
         {
           "title": "伊朗：美国恢复制裁措施违反谅解备忘录",
@@ -323,15 +386,15 @@
           "time_info": "10时53分"
         },
         {
-          "title": "美伊战火重燃！特朗普称谅解备忘录“已终结”，斥伊朗人是“人渣”",
-          "url": "https://wallstreetcn.com/articles/3776459",
-          "source": "华尔街见闻",
+          "title": "美银向OpenAI提供5.2亿美元信贷额度，以争取IPO承销席位。",
+          "url": "https://wallstreetcn.com/livenews/3130727",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时02分"
+          "time_info": "21时54分"
         },
         {
           "title": "海湾合作委员会秘书长：伊朗袭击沙特油轮是“犯罪行为”，威胁航运安全和能源供应。",
@@ -389,6 +452,17 @@
           "time_info": "05时21分"
         },
         {
+          "title": "我国人工智能产业加速发展壮大",
+          "url": "https://www.douyin.com/hot/2563823",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时54分"
+        },
+        {
           "title": "美国恢复对伊朗石油制裁",
           "url": "https://news.ifeng.com/c/8uZxW8JiojM",
           "source": "凤凰网",
@@ -420,6 +494,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时48分"
+        },
+        {
+          "title": "战火重燃，伊朗革命卫队处境艰难",
+          "url": "https://news.ifeng.com/c/8uafqJ3uQLL",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时54分"
         },
         {
           "title": "据The Information：SpaceXAI计划最早于周三发布与Cursor合作的新模型。",
@@ -455,17 +540,17 @@
           "time_info": "16时23分"
         },
         {
-          "title": "日本合体搞AI试图突围中美",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355995&amp;topic_name=%E6%97%A5%E6%9C%AC%E5%90%88%E4%BD%93%E6%90%9EAI%E8%AF%95%E5%9B%BE%E7%AA%81%E5%9B%B4%E4%B8%AD%E7%BE%8E",
-          "source": "贴吧",
+          "title": "美军再袭伊朗致多人受伤，伊朗总统启程回国，强度是 10 天前四五倍，如何看待此轮打击？",
+          "url": "https://www.zhihu.com/question/2058125610363401206",
+          "source": "知乎",
           "ranks": [
-            5,
-            10,
-            16
+            11,
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时48分 ~ 19时02分]"
+          "appearance_count": 5,
+          "time_info": "[13时48分 ~ 21时54分]"
         },
         {
           "title": "美国恢复对伊朗石油制裁",
@@ -477,6 +562,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时51分"
+        },
+        {
+          "title": "伊朗：将对任何冒险行为做出“立即回应”。",
+          "url": "https://wallstreetcn.com/livenews/3130724",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时54分"
         },
         {
           "title": "美股收盘：AI牛股持续低迷 蓝筹股齐创新高 美伊战火推高油气板块",
@@ -491,18 +587,18 @@
           "time_info": "[07时59分 ~ 13时48分]"
         },
         {
-          "title": "美军称开始对伊朗发动系列打击",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33539157",
-          "source": "澎湃新闻",
+          "title": "美军时隔10天再袭伊朗",
+          "url": "https://www.douyin.com/hot/2562712",
+          "source": "抖音",
           "ranks": [
-            15,
             12,
-            10,
-            7
+            11,
+            22,
+            8
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[10时53分 ~ 19时02分]"
+          "time_info": "[07时59分 ~ 21时54分]"
         },
         {
           "title": "伊朗外交部通过官方Telegram频道驳斥卡塔尔关于船只遇袭的指称。",
@@ -515,19 +611,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时51分 ~ 05时21分]"
-        },
-        {
-          "title": "美军再袭伊朗致多人受伤，伊朗总统启程回国，强度是 10 天前四五倍，如何看待此轮打击？",
-          "url": "https://www.zhihu.com/question/2058125610363401206",
-          "source": "知乎",
-          "ranks": [
-            11,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时48分 ~ 19时02分]"
         },
         {
           "title": "【美国撤销伊朗石油销售豁免，美伊临时和平协议承压】在霍尔木兹海峡发生新的油轮遇袭事件后，美国财政部撤销了一项允许伊朗石油销售的豁免，推翻了此前与德黑兰达成的临时和平协议中的一项关键内容。美国财政部外国资产控制办公室（OFAC）表示，自7月7日起，不得开展新的相关交易。此前在临时和平协议达成后发布的豁免允许相关交易持续60天，原定有效期至8月21日。受此消息影响，油价上涨。",
@@ -555,6 +638,19 @@
           "time_info": "[06时58分 ~ 13时48分]"
         },
         {
+          "title": "日本高中生携AI爆破被捕",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356003&amp;topic_name=%E6%97%A5%E6%9C%AC%E9%AB%98%E4%B8%AD%E7%94%9F%E6%90%BAAI%E7%88%86%E7%A0%B4%E8%A2%AB%E6%8D%95",
+          "source": "贴吧",
+          "ranks": [
+            6,
+            12,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时22分 ~ 21时54分]"
+        },
+        {
           "title": "需求强劲驱动产销高增，锂电材料企业上半年业绩扎堆报喜",
           "url": "https://wallstreetcn.com/livenews/3130203",
           "source": "华尔街见闻-快讯",
@@ -565,31 +661,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时58分 ~ 07时59分]"
-        },
-        {
-          "title": "美军时隔10天再袭伊朗",
-          "url": "https://www.douyin.com/hot/2562712",
-          "source": "抖音",
-          "ranks": [
-            12,
-            11,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时59分 ~ 16时23分]"
-        },
-        {
-          "title": "日本高中生携AI爆破被捕",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356003&amp;topic_name=%E6%97%A5%E6%9C%AC%E9%AB%98%E4%B8%AD%E7%94%9F%E6%90%BAAI%E7%88%86%E7%A0%B4%E8%A2%AB%E6%8D%95",
-          "source": "贴吧",
-          "ranks": [
-            6,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时22分 ~ 19时02分]"
         },
         {
           "title": "伊朗称击落一架美军“死神”无人机",
@@ -638,6 +709,41 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时53分 ~ 13时48分]"
+        },
+        {
+          "title": "伊朗打击周边国家美军基地 特朗普称美伊谅解备忘录“已终结”",
+          "url": "https://www.cls.cn/detail/2420443",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时02分 ~ 21时54分]"
+        },
+        {
+          "title": "恒科指暴涨5%，科网股爆发、阿里狂飙超12%，A股三大股指集体收跌，科创50独自收红，AI服务器逆势爆发",
+          "url": "https://wallstreetcn.com/articles/3776428",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时02分 ~ 21时54分]"
+        },
+        {
+          "title": "【焦点复盘】三大指数高开低走录得日线3连阴，AI服务器、华为昇腾概念逆势活跃",
+          "url": "https://www.cls.cn/detail/2420504",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时02分 ~ 21时54分]"
         },
         {
           "title": "美国原油涨约3%，美军空袭伊朗",
@@ -721,6 +827,17 @@
           "time_info": "10时53分"
         },
         {
+          "title": "特朗普：伊朗曾请求我不要在葬礼期间发动袭击",
+          "url": "https://flash.jin10.com/detail/20260708213813500800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时54分"
+        },
+        {
           "title": "贝恩资本高级顾问Steve Pagliuca：人工智能（AI）领域的增长部署将迎来10-20年的发展期。 量子计算将是叠加在AI之上的下一波技术浪潮。 体育资产估值可能会继续增长。 最终市场将对（目前的）定价产生抵制情绪。（彭博电视）",
           "url": "https://wallstreetcn.com/livenews/3130202",
           "source": "华尔街见闻-快讯",
@@ -760,7 +877,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时02分"
         },
@@ -809,15 +926,15 @@
           "time_info": "13时48分"
         },
         {
-          "title": "伊朗打击周边国家美军基地 特朗普称美伊谅解备忘录“已终结”",
-          "url": "https://www.cls.cn/detail/2420443",
-          "source": "财联社热门",
+          "title": "特朗普称“今夜可能再打伊朗”",
+          "url": "https://wallstreetcn.com/livenews/3130720",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时02分"
+          "time_info": "21时54分"
         },
         {
           "title": "金十图示：2026年07月07日（周二）热门中概股行情一览（美股盘中）",
@@ -875,26 +992,15 @@
           "time_info": "07时59分"
         },
         {
-          "title": "恒科指暴涨5%，科网股爆发、阿里狂飙超12%，A股三大股指集体收跌，科创50独自收红，AI服务器逆势爆发",
-          "url": "https://wallstreetcn.com/articles/3776428",
-          "source": "华尔街见闻",
+          "title": "特朗普：伊朗已遭到重创。 不知道我们是否会达成与伊朗的协议。 我们也许会在没有协议的情况下直接采取行动。",
+          "url": "https://wallstreetcn.com/livenews/3130719",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时02分"
-        },
-        {
-          "title": "【焦点复盘】三大指数高开低走录得日线3连阴，AI服务器、华为昇腾概念逆势活跃",
-          "url": "https://www.cls.cn/detail/2420504",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时02分"
+          "time_info": "21时54分"
         },
         {
           "title": "市场消息：微软(MSFT.O)在部分应用中以自研AI模型取代OpenAI和Anthropic的模型。<br/>",
@@ -925,9 +1031,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时02分"
+        },
+        {
+          "title": "特朗普：可能在没有协议的情况下实现伊朗“去核化”",
+          "url": "https://flash.jin10.com/detail/20260708213636351800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时54分"
         },
         {
           "title": "亚马逊发行250亿美元债券，获得620亿美元认购需求。",
@@ -963,6 +1080,17 @@
           "time_info": "10时53分"
         },
         {
+          "title": "分析师：伊朗不可能容忍美国对其基础设施的军事打击",
+          "url": "https://flash.jin10.com/detail/20260708213600948800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时54分"
+        },
+        {
           "title": "微软在部分应用中以自研AI模型替代OpenAI和Anthropic",
           "url": "https://wallstreetcn.com/livenews/3130102",
           "source": "华尔街见闻-快讯",
@@ -983,6 +1111,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时48分"
+        },
+        {
+          "title": "伊朗布什尔省两处军事基地遭袭",
+          "url": "https://www.toutiao.com/trending/7659909596382969892/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时54分"
         },
         {
           "title": "据伊朗新闻电视台：一名官员称，美国任何“挑衅性行动”都将遭到伊朗立即且坚决的回应。",
@@ -1016,6 +1155,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时48分"
+        },
+        {
+          "title": "金十图示：2026年07月08日（周三）热门中概股行情一览",
+          "url": "https://flash.jin10.com/detail/20260708213537718800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时54分"
         },
         {
           "title": "Meta在聊天机器人和Instagram中推出AI图像生成模型",
@@ -1095,6 +1245,17 @@
           "time_info": "13时48分"
         },
         {
+          "title": "国际货币基金组织：人工智能领域的调整可能带来潜在风险，这也可能影响韩国及其他国家。",
+          "url": "https://flash.jin10.com/detail/20260708213506185800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时54分"
+        },
+        {
           "title": "伊朗首席谈判代表卡利巴夫提及美国“袭击伊朗南部”、恢复石油制裁以及威胁发动进一步打击均构成违反谅解备忘录的行为。",
           "url": "https://flash.jin10.com/detail/20260708102900758800",
           "source": "金十数据",
@@ -1128,6 +1289,17 @@
           "time_info": "16时23分"
         },
         {
+          "title": "特朗普称今夜可能再打伊朗",
+          "url": "https://www.toutiao.com/trending/7660143757534170678/",
+          "source": "今日头条",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时54分"
+        },
+        {
           "title": "WTI原油周三高开0.3%，此前美军称开始对伊朗发动一系列打击。",
           "url": "https://flash.jin10.com/detail/20260708060100195800",
           "source": "金十数据",
@@ -1148,6 +1320,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时23分"
+        },
+        {
+          "title": "美国旅游股下跌，因美国与伊朗紧张局势加剧，油价飙升。美国联合航空下跌3.5%，西南航空下跌2.1%，嘉年华邮轮下跌3.1%，皇家加勒比邮轮下跌1.1%，挪威邮轮下跌1.9%，达美航空下跌2.7%。",
+          "url": "https://flash.jin10.com/detail/20260708213430376800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时54分"
         },
         {
           "title": "伊朗总统赴伊拉克出席哈梅内伊送葬仪式",
@@ -1227,6 +1410,17 @@
           "time_info": "16时23分"
         },
         {
+          "title": "美国总统特朗普：国防部长赫格塞斯对在哈梅内伊葬礼期间击杀伊朗领导人的想法表示赞赏。",
+          "url": "https://flash.jin10.com/detail/20260708213418909800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时54分"
+        },
+        {
           "title": "伊朗向联合国提交文件 主张有权控制霍尔木兹海峡“部分”水域",
           "url": "https://wallstreetcn.com/livenews/3130097",
           "source": "华尔街见闻-快讯",
@@ -1277,9 +1471,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时02分"
+        },
+        {
+          "title": "美国总统特朗普：昨晚我们对伊朗进行了重击。 今晚可能会再次打击伊朗。 问题不在于政权更迭，而在于核武器。",
+          "url": "https://wallstreetcn.com/livenews/3130710",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时54分"
         },
         {
           "title": "美国撤销伊朗销售授权，国际油价走高",
@@ -1291,6 +1496,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时51分"
+        },
+        {
+          "title": "国际货币基金组织：因人工智能硬件出口增长显著，已将韩国2026年的经济增长预测上调0.7个百分点。",
+          "url": "https://flash.jin10.com/detail/20260708213350693800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时54分"
         },
         {
           "title": "卡塔尔就其运输船遇袭向伊朗发出照会",
@@ -1343,7 +1559,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时02分"
         },
@@ -1458,6 +1674,17 @@
           "time_info": "16时23分"
         },
         {
+          "title": "美国总统特朗普：伊朗人全都是疯子，早在47年前就该被消灭。",
+          "url": "https://flash.jin10.com/detail/20260708213308354800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时54分"
+        },
+        {
           "title": "美国终止对伊朗石油制裁豁免",
           "url": "https://wallstreetcn.com/livenews/3130152",
           "source": "华尔街见闻-快讯",
@@ -1541,9 +1768,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时02分"
+        },
+        {
+          "title": "美国总统特朗普：（谈及伊朗）未来可能会有一次大规模打击行动。",
+          "url": "https://flash.jin10.com/detail/20260708213245127800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时54分"
         },
         {
           "title": "伊朗格什姆岛附近传出爆炸声",
@@ -1574,9 +1812,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时02分"
+        },
+        {
+          "title": "伊朗Hormozgan机场关闭，直至另行通知。（迈赫尔通讯社）",
+          "url": "https://wallstreetcn.com/livenews/3130704",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时54分"
         },
         {
           "title": "美国官员：美国财政部正撤销此前授权销售伊朗石油的通用许可证。",
@@ -1629,7 +1878,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时02分"
         },
@@ -1766,6 +2015,17 @@
           "time_info": "07时59分"
         },
         {
+          "title": "美国总统特朗普：威特科夫可以与伊朗谈判，只是目前看不到这种可能。",
+          "url": "https://flash.jin10.com/detail/20260708213142119800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时54分"
+        },
+        {
           "title": "贝恩资本高级顾问Steve Pagliuca：人工智能（AI）领域的增长部署将迎来10-20年的发展期。 量子计算将是叠加在AI之上的下一波技术浪潮。 体育资产估值可能会继续增长。 最终市场将对（目前的）定价产生抵制情绪。 往往根据10-20年为周期进行投资。 量子计算、AI、医疗保健将适合这样的策略。（彭博电视）",
           "url": "https://wallstreetcn.com/livenews/3130202",
           "source": "华尔街见闻-快讯",
@@ -1808,6 +2068,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时58分"
+        },
+        {
+          "title": "美国总统特朗普：（关于伊朗）北约国家将派遣扫雷舰。",
+          "url": "https://flash.jin10.com/detail/20260708213123467800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时54分"
         },
         {
           "title": "算力硬件、AI服务器概念盘初拉升，浪潮信息、威尔高、紫光股份涨停，锐捷网络、长盈通、星网锐捷、华丰科技涨幅居前。",
@@ -1871,7 +2142,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时02分"
         },
