@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-14T02:42:47.733324+08:00",
-  "total_titles_processed": 413,
+  "generated_at": "2026-07-14T04:12:11.859144+08:00",
+  "total_titles_processed": 476,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai ai+ ai人工智能 人工智能 风险识别 商业风险识别 痛点 需求 商业风险 伊朗 rwa 趋势 热点 热门",
-      "match_count": 44,
+      "match_count": 57,
       "titles": [
         {
           "title": "AI恐慌叠加中东局势升温，美股指盘中齐跌，SK海力士跌7%，油价涨超4%，黄金跌超2%，",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时29分 ~ 02时42分]"
+          "appearance_count": 4,
+          "time_info": "[00时29分 ~ 04时12分]"
         },
         {
           "title": "习近平将出席2026世界人工智能大会暨人工智能全球治理高级别会议开幕式并发表主旨讲话",
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时29分 ~ 02时42分]"
+          "appearance_count": 4,
+          "time_info": "[00时29分 ~ 04时12分]"
         },
         {
           "title": "五大亮点提前看！世界人工智能大会本周开幕：智慧、硬核、体验、年轻、治理",
@@ -37,8 +37,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时29分 ~ 02时42分]"
+          "appearance_count": 4,
+          "time_info": "[00时29分 ~ 04时12分]"
         },
         {
           "title": "解锁2026世界人工智能大会新亮点",
@@ -48,8 +48,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时29分 ~ 02时42分]"
+          "appearance_count": 4,
+          "time_info": "[00时29分 ~ 04时12分]"
         },
         {
           "title": "穆杰塔巴报复名单加剧对立，美以恐谋求颠覆伊朗现政权",
@@ -59,8 +59,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时29分 ~ 02时42分]"
+          "appearance_count": 4,
+          "time_info": "[00时29分 ~ 04时12分]"
         },
         {
           "title": "手慢无、买完还得防举报：“空调羞耻”下欧洲人的AI自救",
@@ -70,8 +70,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时29分 ~ 02时42分]"
+          "appearance_count": 4,
+          "time_info": "[00时29分 ~ 04时12分]"
         },
         {
           "title": "Meta持续加码AI基建 追加400亿美元投资其最大数据中心项目",
@@ -81,8 +81,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时29分 ~ 02时42分]"
+          "appearance_count": 4,
+          "time_info": "[00时29分 ~ 04时12分]"
         },
         {
           "title": "美国中央司令部确认恢复对伊朗港口的封锁",
@@ -91,7 +91,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时42分"
         },
@@ -102,20 +102,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时42分"
         },
         {
-          "title": "美军宣布于美东时间14日开始对伊朗实施海上封锁",
-          "url": "https://wallstreetcn.com/livenews/3133043",
-          "source": "华尔街见闻-快讯",
+          "title": "据伊朗国家电视台：截至目前，伊朗南部地区包括班达尔阿巴斯在内的多地暂无爆炸报告。",
+          "url": "https://flash.jin10.com/detail/20260714033243959800",
+          "source": "金十数据",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时42分"
+          "time_info": "04时12分"
         },
         {
           "title": "俄罗斯能源部长：正如伊朗伊斯兰共和国始终顶住外部压力和霸凌一样，俄罗斯也绝不会向以强权为基础的政策低头屈服。",
@@ -135,7 +135,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时42分"
         },
@@ -151,17 +151,6 @@
           "time_info": "00时29分"
         },
         {
-          "title": "美军将于格林尼治时间14日20时起对伊朗实施海上封锁",
-          "url": "https://wallstreetcn.com/livenews/3133041",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时42分"
-        },
-        {
           "title": "最高领袖誓言复仇，伊朗锁死霍尔木兹海峡，硬刚美国最后通牒",
           "url": "https://news.ifeng.com/c/8ujWVX3Tjrl",
           "source": "凤凰网",
@@ -169,19 +158,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时29分 ~ 02时42分]"
+          "appearance_count": 4,
+          "time_info": "[00时29分 ~ 04时12分]"
         },
         {
           "title": "特朗普宣称接管霍尔木兹海峡，伊朗警告战火将蔓延全区",
           "url": "https://wallstreetcn.com/articles/3776814",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时29分 ~ 02时42分]"
+          "appearance_count": 4,
+          "time_info": "[00时29分 ~ 04时12分]"
         },
         {
           "title": "霍尔木兹海峡，伊朗不能承受之重",
@@ -191,8 +181,20 @@
             7
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时29分 ~ 04时12分]"
+        },
+        {
+          "title": "美军宣布于美东时间14日开始对伊朗实施海上封锁",
+          "url": "https://wallstreetcn.com/livenews/3133043",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            22
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时29分 ~ 02时42分]"
+          "time_info": "[02时42分 ~ 04时12分]"
         },
         {
           "title": "AI债务泡沫要破了？高盛首次公开承认：市场承接能力逼近极限",
@@ -202,19 +204,32 @@
             9
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时29分 ~ 04时12分]"
+        },
+        {
+          "title": "美军将于格林尼治时间14日20时起对伊朗实施海上封锁",
+          "url": "https://wallstreetcn.com/livenews/3133041",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            24
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时29分 ~ 02时42分]"
+          "time_info": "[02时42分 ~ 04时12分]"
         },
         {
           "title": "美军称对伊朗发起新一轮打击",
           "url": "https://m.thepaper.cn/newsDetail_forward_33572651",
           "source": "澎湃新闻",
           "ranks": [
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时29分 ~ 02时42分]"
+          "appearance_count": 4,
+          "time_info": "[00时29分 ~ 04时12分]"
         },
         {
           "title": "美国将恢复“针对伊朗的封锁”",
@@ -225,8 +240,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时29分 ~ 02时42分]"
+          "appearance_count": 4,
+          "time_info": "[00时29分 ~ 04时12分]"
         },
         {
           "title": "特朗普：恢复对伊朗封锁，将收取海峡货运两成费用",
@@ -236,8 +251,44 @@
             18
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时29分 ~ 04时12分]"
+        },
+        {
+          "title": "2026世界人工智能大会看点速览。（新华社）",
+          "url": "https://wallstreetcn.com/livenews/3133040",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            25
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时29分 ~ 02时42分]"
+          "time_info": "[02时42分 ~ 04时12分]"
+        },
+        {
+          "title": "伊朗外长：特朗普对霍尔木兹海峡收费20%的比例“太过分了”。 伊朗一直是霍尔木兹海峡的守护者。",
+          "url": "https://wallstreetcn.com/livenews/3133037",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时42分 ~ 04时12分]"
+        },
+        {
+          "title": "报道：美军将从周二开始全面封锁伊朗海岸线",
+          "url": "https://wallstreetcn.com/livenews/3133034",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时42分 ~ 04时12分]"
         },
         {
           "title": "据伊朗媒体：俄罗斯能源部长与伊朗总统举行了会晤。",
@@ -257,20 +308,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时42分"
         },
         {
-          "title": "2026世界人工智能大会看点速览。（新华社）",
-          "url": "https://wallstreetcn.com/livenews/3133040",
-          "source": "华尔街见闻-快讯",
+          "title": "伊朗科纳拉克周边地区遭袭",
+          "url": "https://flash.jin10.com/detail/20260714032633735800",
+          "source": "金十数据",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时42分"
+          "time_info": "04时12分"
         },
         {
           "title": "伊朗外交部长：伊朗一直是霍尔木兹海峡的守护者，并将永远如此。",
@@ -279,20 +330,42 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时42分"
         },
         {
-          "title": "伊朗外长：特朗普对霍尔木兹海峡收费20%的比例“太过分了”。 伊朗一直是霍尔木兹海峡的守护者。",
-          "url": "https://wallstreetcn.com/livenews/3133037",
+          "title": "据伊通社（IRNA）：4枚导弹已击中伊朗南部港口城市科纳拉克（Konarak）附近地区，一架美国飞机正在科纳拉克上空飞行。",
+          "url": "https://flash.jin10.com/detail/20260714031756855800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时12分"
+        },
+        {
+          "title": "伊朗塔斯尼姆通讯社（Tasnim）称，伊朗阿巴斯港（Bandar Abbas）的防空系统已启动。 截至目前，阿巴斯港及伊朗南部其他地区未报告发生爆炸。",
+          "url": "https://wallstreetcn.com/livenews/3133059",
           "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时12分"
+        },
+        {
+          "title": "据伊朗塔斯尼姆通讯社：打击了霍尔木兹海峡内多艘“违规”船只。",
+          "url": "https://flash.jin10.com/detail/20260714031603172800",
+          "source": "金十数据",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时42分"
+          "time_info": "04时12分"
         },
         {
           "title": "美国将从15日凌晨4点起封锁伊朗港口",
@@ -301,9 +374,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时42分"
+        },
+        {
+          "title": "据伊朗塔斯尼姆通讯社：伊朗恰巴哈尔和科纳拉克附近传出6次爆炸声。目前尚未确定这些爆炸的具体地点，安全部队正在对此展开调查。",
+          "url": "https://flash.jin10.com/detail/20260714031024555800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时12分"
         },
         {
           "title": "英国拟将伊朗伊斯兰革命卫队列为“非法组织”",
@@ -328,15 +412,26 @@
           "time_info": "00时29分"
         },
         {
-          "title": "报道：美军将从周二开始全面封锁伊朗海岸线",
-          "url": "https://wallstreetcn.com/livenews/3133034",
+          "title": "据伊朗塔斯尼姆通讯社：伊朗阿巴斯港防空系统已启动。",
+          "url": "https://flash.jin10.com/detail/20260714030551930800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时12分"
+        },
+        {
+          "title": "伊朗外长与塞浦路斯外长讨论霍尔木兹海峡的冲突。",
+          "url": "https://wallstreetcn.com/livenews/3133055",
           "source": "华尔街见闻-快讯",
           "ranks": [
             11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时42分"
+          "time_info": "04时12分"
         },
         {
           "title": "美国海军主导的联合海事信息中心：海上封锁不会妨碍中立船只经霍尔木兹海峡往返非伊朗目的地的过境通行。",
@@ -345,7 +440,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时42分"
         },
@@ -356,9 +451,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时42分"
+        },
+        {
+          "title": "伊朗南部沿海地带传出爆炸声",
+          "url": "https://wallstreetcn.com/livenews/3133054",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时12分"
         },
         {
           "title": "特朗普称重新封锁伊朗",
@@ -389,7 +495,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时42分"
         },
@@ -400,7 +506,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时42分"
         },
@@ -411,9 +517,31 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时42分"
+        },
+        {
+          "title": "伊朗媒体：阿巴斯港东部传出4声爆炸",
+          "url": "https://flash.jin10.com/detail/20260714030103568800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时12分"
+        },
+        {
+          "title": "伊朗的阿巴斯港和科纳拉克传出爆炸声。 地处霍尔木兹海峡的伊朗LARAK ISLAND传出爆炸声。（塔斯尼姆通讯社）",
+          "url": "https://wallstreetcn.com/livenews/3133050",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时12分"
         },
         {
           "title": "三名伊斯兰革命卫队成员在周一美国袭击伊朗的行动中丧生。（伊朗媒体法尔斯通讯社）",
@@ -425,6 +553,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时29分"
+        },
+        {
+          "title": "特朗普已通知国会伊朗战事重新爆发",
+          "url": "https://wallstreetcn.com/livenews/3133047",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时12分"
+        },
+        {
+          "title": "美媒：特朗普已通知国会伊朗战事重新爆发",
+          "url": "https://flash.jin10.com/detail/20260714024104744800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时12分"
         },
         {
           "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850571&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/07/ceiRoU_Mphl31wYaNQjqP.jpg/lite\" height=\"120\"/></a>",
@@ -477,7 +627,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时42分"
         },
