@@ -1,12 +1,56 @@
 {
-  "generated_at": "2026-07-15T04:58:22.887091+08:00",
-  "total_titles_processed": 500,
+  "generated_at": "2026-07-15T05:57:25.946725+08:00",
+  "total_titles_processed": 572,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai ai+ ai人工智能 人工智能 风险识别 商业风险识别 痛点 需求 商业风险 伊朗 rwa 趋势 热点 热门",
-      "match_count": 54,
+      "match_count": 71,
       "titles": [
+        {
+          "title": "伊朗前总统内贾德被曝遭软禁，曾短暂现身哈梅内伊葬礼队伍",
+          "url": "https://news.ifeng.com/c/8ukhwi9IbW5",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时11分 ~ 05时57分]"
+        },
+        {
+          "title": "AI时代需要什么样的人：从DeepSeek招聘清单说起",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33570712",
+          "source": "澎湃新闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时11分 ~ 05时57分]"
+        },
+        {
+          "title": "当AI穿上白大褂：谁来唤醒沉睡的医疗数据？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33524110",
+          "source": "澎湃新闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时11分 ~ 05时57分]"
+        },
+        {
+          "title": "美国向全世界敲竹杠，伊朗外长嘲讽",
+          "url": "https://news.ifeng.com/c/8ukLcwiKckH",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时11分 ~ 05时57分]"
+        },
         {
           "title": "原油盘中暴涨10%！美军恢复对伊朗封锁，特朗普放话今晚明天“重击”、对海峡货运收两成费用",
           "url": "https://wallstreetcn.com/articles/3776822",
@@ -20,48 +64,17 @@
           "time_info": "[01时11分 ~ 04时58分]"
         },
         {
-          "title": "伊朗前总统内贾德被曝遭软禁，曾短暂现身哈梅内伊葬礼队伍",
-          "url": "https://news.ifeng.com/c/8ukhwi9IbW5",
-          "source": "凤凰网",
+          "title": "如何评价呼和浩特摄影比赛一等奖作品疑 AI 生成，工作人员称「的确太假了」？应该允许 AI 作品参展吗？",
+          "url": "https://www.zhihu.com/question/2060385485915263811",
+          "source": "知乎",
           "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时11分 ~ 04时58分]"
-        },
-        {
-          "title": "AI时代需要什么样的人：从DeepSeek招聘清单说起",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33570712",
-          "source": "澎湃新闻",
-          "ranks": [
+            6,
+            4,
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时11分 ~ 04时58分]"
-        },
-        {
-          "title": "当AI穿上白大褂：谁来唤醒沉睡的医疗数据？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33524110",
-          "source": "澎湃新闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时11分 ~ 04时58分]"
-        },
-        {
-          "title": "美国向全世界敲竹杠，伊朗外长嘲讽",
-          "url": "https://news.ifeng.com/c/8ukLcwiKckH",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时11分 ~ 04时58分]"
+          "appearance_count": 4,
+          "time_info": "[01时11分 ~ 05时57分]"
         },
         {
           "title": "英新首相上任即迎考验 经济承压、伊朗风险加剧",
@@ -75,15 +88,15 @@
           "time_info": "01时11分"
         },
         {
-          "title": "OpenAI表示，其AI智能音箱产品并未侵犯苹果(AAPL.O)的商业机密。",
-          "url": "https://flash.jin10.com/detail/20260715044652988800",
-          "source": "金十数据",
+          "title": "【伊媒：伊朗格什姆岛、阿巴斯港等多地传出爆炸声】据伊朗多家媒体报道，当地时间14日深夜，伊朗南部的格什姆岛、阿巴斯港、亨加姆岛，以及东南部班普尔市和西部阿瓦士市等地传出爆炸声。 伊朗布什尔核电站周边防空系统已启动。目前，伊朗官方尚未就此发表评论。 美军中央司令部14日在社交媒体发文说，其部队于美东时间当天15时对伊朗发动新一轮打击，16时恢复针对往返伊朗港口及沿海地区船只的海上封锁。（新华社）",
+          "url": "https://wallstreetcn.com/livenews/3133901",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时58分"
+          "time_info": "05时57分"
         },
         {
           "title": "伊朗革命卫队：只要美国在地区的“邪恶行动”存在，地区将不会有一滴石油和天然气出口。",
@@ -97,15 +110,37 @@
           "time_info": "03时14分"
         },
         {
-          "title": "市场消息：OpenAI计划推出AI智能音箱作为旗下首款硬件产品，定位为AI陪伴助手。",
-          "url": "https://flash.jin10.com/detail/20260715044636741800",
+          "title": "伊朗军方称持续打击地区内美军基地",
+          "url": "https://flash.jin10.com/detail/20260715054903206800",
           "source": "金十数据",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时58分"
+          "time_info": "05时57分"
+        },
+        {
+          "title": "伊朗军方称持续打击地区内美军基地",
+          "url": "https://wallstreetcn.com/livenews/3133900",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时57分"
+        },
+        {
+          "title": "伊朗亨贾姆岛及阿巴斯港传出爆炸声",
+          "url": "https://flash.jin10.com/detail/20260715054703235800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时57分"
         },
         {
           "title": "摩根大通敦促员工慎用高价AI处理简单任务，企业高管开始忧心成本",
@@ -119,27 +154,15 @@
           "time_info": "01时11分"
         },
         {
-          "title": "OpenAI打算发布家用音箱，作为其首款硬件产品",
-          "url": "https://wallstreetcn.com/livenews/3133879",
+          "title": "伊朗亨贾姆岛及阿巴斯港传出爆炸声",
+          "url": "https://wallstreetcn.com/livenews/3133898",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时58分"
-        },
-        {
-          "title": "如何评价呼和浩特摄影比赛一等奖作品疑 AI 生成，工作人员称「的确太假了」？应该允许 AI 作品参展吗？",
-          "url": "https://www.zhihu.com/question/2060385485915263811",
-          "source": "知乎",
-          "ranks": [
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时11分 ~ 04时58分]"
+          "time_info": "05时57分"
         },
         {
           "title": "伊朗革命卫队：只要美国继续行动，霍尔木兹海峡的重新开放就将被推迟。",
@@ -151,6 +174,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时14分"
+        },
+        {
+          "title": "伊朗副总统：美国违背承诺在预料之中",
+          "url": "https://wallstreetcn.com/livenews/3133895",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时57分"
         },
         {
           "title": "美联储理事巴尔：迄今几乎没有证据表明，人工智能已在广泛范围内导致就业岗位流失。",
@@ -175,6 +209,17 @@
           "time_info": "03时14分"
         },
         {
+          "title": "据伊朗塔斯尼姆通讯社：伊朗军方表示，针对该地区美国基地的无人机行动将持续进行，直至“最终胜利”。",
+          "url": "https://flash.jin10.com/detail/20260715054416739800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时57分"
+        },
+        {
           "title": "伊朗逾180名议员发表声明，要求“惩罚”袭击肇事者",
           "url": "https://wallstreetcn.com/livenews/3133796",
           "source": "华尔街见闻-快讯",
@@ -193,8 +238,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时11分 ~ 04时58分]"
+          "appearance_count": 4,
+          "time_info": "[01时11分 ~ 05时57分]"
         },
         {
           "title": "惊险！伊朗客机准备降落，沙特导弹砸向跑道，瞬间一片火海",
@@ -204,8 +249,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时11分 ~ 04时58分]"
+          "appearance_count": 4,
+          "time_info": "[01时11分 ~ 05时57分]"
         },
         {
           "title": "全美首个州级“刹车令”！纽约州暂停新建大型AI数据中心，一年内不再发放新许可",
@@ -216,8 +261,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时11分 ~ 04时58分]"
+          "appearance_count": 4,
+          "time_info": "[01时11分 ~ 05时57分]"
+        },
+        {
+          "title": "OpenAI表示，其AI智能音箱产品并未侵犯苹果(AAPL.O)的商业机密。",
+          "url": "https://flash.jin10.com/detail/20260715044652988800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时58分 ~ 05时57分]"
         },
         {
           "title": "美联储主席沃什国会首秀讲稿：誓言驯服通胀 看好AI投资红利",
@@ -228,8 +285,32 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时11分 ~ 04时58分]"
+          "appearance_count": 4,
+          "time_info": "[01时11分 ~ 05时57分]"
+        },
+        {
+          "title": "市场消息：OpenAI计划推出AI智能音箱作为旗下首款硬件产品，定位为AI陪伴助手。",
+          "url": "https://flash.jin10.com/detail/20260715044636741800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时58分 ~ 05时57分]"
+        },
+        {
+          "title": "OpenAI打算发布家用音箱，作为其首款硬件产品",
+          "url": "https://wallstreetcn.com/livenews/3133879",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时58分 ~ 05时57分]"
         },
         {
           "title": "伊朗称美进入正式战争状态",
@@ -239,8 +320,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时11分 ~ 04时58分]"
+          "appearance_count": 4,
+          "time_info": "[01时11分 ~ 05时57分]"
         },
         {
           "title": "AI生成环卫工照片获摄影比赛一等奖",
@@ -252,8 +333,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时11分 ~ 04时58分]"
+          "appearance_count": 4,
+          "time_info": "[01时11分 ~ 05时57分]"
         },
         {
           "title": "摄影获奖作品被质疑为AI生成，呼和浩特官方发布情况通报",
@@ -263,8 +344,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时11分 ~ 04时58分]"
+          "appearance_count": 4,
+          "time_info": "[01时11分 ~ 05时57分]"
         },
         {
           "title": "经纬度：中国人工智能发展的战略定力",
@@ -275,8 +356,20 @@
             19
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时11分 ~ 05时57分]"
+        },
+        {
+          "title": "伊朗称美进入正式战争状态",
+          "url": "https://wallstreetcn.com/articles/3776923",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[01时11分 ~ 04时58分]"
+          "time_info": "[03时14分 ~ 05时57分]"
         },
         {
           "title": "UP主解读AI浪潮下的资本周期",
@@ -284,22 +377,36 @@
           "source": "bilibili 热搜",
           "ranks": [
             8,
-            26
+            26,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时11分 ~ 03时14分]"
+          "appearance_count": 3,
+          "time_info": "[01时11分 ~ 05时57分]"
         },
         {
-          "title": "伊朗称美进入正式战争状态",
-          "url": "https://wallstreetcn.com/articles/3776923",
-          "source": "华尔街见闻",
+          "title": "美联储理事、曾经担任金融监管事务的副主席迈克尔·巴尔表示，尽管他欢迎创新，但AI究竟会减少还是加剧收入和财富不平等，目前尚不清楚。 “关于AI在不远和遥远的未来将能做到什么，我们听到了许多大胆论断。有些可能会成为现实，有些则不会。但未来的不平等不仅取决于AI能做什么，也取决于我们选择用AI做什么，”巴尔表示。",
+          "url": "https://wallstreetcn.com/livenews/3133873",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            9,
+            24
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[03时14分 ~ 04时58分]"
+          "time_info": "[04时58分 ~ 05时57分]"
+        },
+        {
+          "title": "美联储负责监管的副主席鲍曼：不应在AI等问题上“微观管理”银行",
+          "url": "https://wallstreetcn.com/livenews/3133872",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时58分 ~ 05时57分]"
         },
         {
           "title": "如何评价 OpenAI 新模型 GPT-5.6 Sol Ultra，在不到一小时内证明循环双覆盖猜想？",
@@ -314,6 +421,18 @@
           "time_info": "[01时11分 ~ 03时14分]"
         },
         {
+          "title": "美军宣布恢复对伊朗实行海上封锁",
+          "url": "https://wallstreetcn.com/livenews/3133867",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时58分 ~ 05时57分]"
+        },
+        {
           "title": "美联储理事巴尔：若大多数企业及其员工无法充分获取持续发展的AI资源，其生产率增长将放慢。",
           "url": "https://flash.jin10.com/detail/20260715004912134800",
           "source": "金十数据",
@@ -323,6 +442,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时11分"
+        },
+        {
+          "title": "据伊朗塔斯尼姆通讯社：伊朗军方称，已出动无人机袭击驻约旦阿兹拉克基地内美军F-18战机阵地、人员住宿设施及装备仓库，并称此前已对美军地区基地实施6轮打击。",
+          "url": "https://flash.jin10.com/detail/20260715054408526800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时57分"
         },
         {
           "title": "据CNBC：美国官员称，美军今日（周二）对伊朗军事目标发动数次追加打击，旨在消除新出现的威胁。<br/>",
@@ -336,6 +466,17 @@
           "time_info": "03时14分"
         },
         {
+          "title": "伊朗官方通讯社（IRNA）：亨加姆岛（Hengam Island）遭到投射物袭击。",
+          "url": "https://wallstreetcn.com/livenews/3133892",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时57分"
+        },
+        {
           "title": "伊朗副外长：目前伊朗在与美国的《伊斯兰堡谅解备忘录》框架下不存在任何承诺。",
           "url": "https://flash.jin10.com/detail/20260715023727946800",
           "source": "金十数据",
@@ -347,26 +488,26 @@
           "time_info": "03时14分"
         },
         {
-          "title": "美联储理事、曾经担任金融监管事务的副主席迈克尔·巴尔表示，尽管他欢迎创新，但AI究竟会减少还是加剧收入和财富不平等，目前尚不清楚。 “关于AI在不远和遥远的未来将能做到什么，我们听到了许多大胆论断。有些可能会成为现实，有些则不会。但未来的不平等不仅取决于AI能做什么，也取决于我们选择用AI做什么，”巴尔表示。",
-          "url": "https://wallstreetcn.com/livenews/3133873",
+          "title": "伊朗Bushehr核工厂周边的防空系统被激活。（MEHR）",
+          "url": "https://wallstreetcn.com/livenews/3133891",
           "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时57分"
+        },
+        {
+          "title": "伊朗副总统：美国违背承诺在预料之中",
+          "url": "https://flash.jin10.com/detail/20260715053010404800",
+          "source": "金十数据",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时58分"
-        },
-        {
-          "title": "美联储负责监管的副主席鲍曼：不应在AI等问题上“微观管理”银行",
-          "url": "https://wallstreetcn.com/livenews/3133872",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时58分"
+          "time_info": "05时57分"
         },
         {
           "title": "美联储理事巴尔：AI有潜力显著提升生产率，尤其将惠及低技能和经验不足的劳动者。",
@@ -378,6 +519,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时11分"
+        },
+        {
+          "title": "据伊朗塔斯尼姆通讯社：伊朗当地和安全官员否认在恰巴哈尔发生任何爆炸。",
+          "url": "https://flash.jin10.com/detail/20260715052333131800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时57分"
         },
         {
           "title": "伊朗向科威特目标、巴林目标发射导弹和无人机。（伊朗媒体MEHR）",
@@ -402,13 +554,35 @@
           "time_info": "01时11分"
         },
         {
+          "title": "据伊通社（IRNA）：伊朗亨格姆岛遭美方炮弹袭击。",
+          "url": "https://flash.jin10.com/detail/20260715052147110800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时57分"
+        },
+        {
+          "title": "据伊朗迈赫尔通讯社：伊朗布什尔核电站附近的防空系统已启动。",
+          "url": "https://flash.jin10.com/detail/20260715051614385800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时57分"
+        },
+        {
           "title": "美国电网运营巨头PJM Interconnection LLC在AI繁荣期没能实现关键的电力供应目标。 该公司与可靠的电力需求目标之间存在6.8 GW缺口。",
           "url": "https://wallstreetcn.com/livenews/3133868",
           "source": "华尔街见闻-快讯",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时58分"
         },
@@ -435,15 +609,26 @@
           "time_info": "03时14分"
         },
         {
-          "title": "美军宣布恢复对伊朗实行海上封锁",
-          "url": "https://wallstreetcn.com/livenews/3133867",
-          "source": "华尔街见闻-快讯",
+          "title": "据伊朗媒体Fars News：伊朗本普尔和恰巴哈尔传出多次爆炸声，目前爆炸原因尚不清楚。",
+          "url": "https://flash.jin10.com/detail/20260715051227872800",
+          "source": "金十数据",
           "ranks": [
             15
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时58分"
+          "time_info": "05时57分"
+        },
+        {
+          "title": "OpenAI开始涉足苹果“舒适区”，拟推首款AI硬件",
+          "url": "https://flash.jin10.com/detail/20260715050136121800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时57分"
         },
         {
           "title": "美国总统特朗普针对俄罗斯制裁立法草案声称：（美国国会山）可能会将伊朗塞入其中。 他们可能会将霍尔木兹海峡问题塞入俄罗斯草案。 俄罗斯草案可能会纳入霍尔木兹与伊朗。",
@@ -562,7 +747,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时58分"
         },
@@ -584,7 +769,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时58分"
         },
@@ -595,9 +780,20 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时58分"
+        },
+        {
+          "title": "美国最大电网因AI热潮未能达成电力供应目标",
+          "url": "https://wallstreetcn.com/livenews/3133868",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时57分"
         },
         {
           "title": "OpenAI置评苹果公司发起的窃密诉讼：对原告的任何证据都不知情。 我们严肃对待苹果的指控。",
@@ -606,7 +802,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时58分"
         }
