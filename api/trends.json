@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-16T10:36:58.154700+08:00",
-  "total_titles_processed": 919,
+  "generated_at": "2026-07-16T13:37:23.942284+08:00",
+  "total_titles_processed": 1092,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai ai+ ai人工智能 人工智能 风险识别 商业风险识别 痛点 需求 商业风险 伊朗 rwa 趋势 热点 热门",
-      "match_count": 127,
+      "match_count": 135,
       "titles": [
         {
           "title": "5张图看懂中国人工智能进化之路",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时18分 ~ 10时36分]"
+          "appearance_count": 10,
+          "time_info": "[00时18分 ~ 13时37分]"
         },
         {
           "title": "A股被“猴子”刷屏，公募被创新药热点包围，资金要换方向了？",
@@ -30,6 +30,21 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时18分 ~ 10时36分]"
+        },
+        {
+          "title": "白宫战情室紧急开会！特朗普讨论对伊朗发动大规模进攻计划",
+          "url": "https://wallstreetcn.com/articles/3776989",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时18分 ~ 13时37分]"
         },
         {
           "title": "对抗情绪升温，伊朗人又拿“特朗普”出气",
@@ -54,21 +69,6 @@
           "time_info": "[00时18分 ~ 07时57分]"
         },
         {
-          "title": "白宫战情室紧急开会！特朗普讨论对伊朗发动大规模进攻计划",
-          "url": "https://wallstreetcn.com/articles/3776989",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6,
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时18分 ~ 10时36分]"
-        },
-        {
           "title": "美军称对伊朗进行了90分钟打击",
           "url": "https://wallstreetcn.com/articles/3777022",
           "source": "华尔街见闻",
@@ -78,8 +78,22 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时18分 ~ 10时36分]"
+          "appearance_count": 10,
+          "time_info": "[00时18分 ~ 13时37分]"
+        },
+        {
+          "title": "AI拿冠军,摄影比赛闹笑话",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356179&amp;topic_name=AI%E6%8B%BF%E5%86%A0%E5%86%9B%2C%E6%91%84%E5%BD%B1%E6%AF%94%E8%B5%9B%E9%97%B9%E7%AC%91%E8%AF%9D",
+          "source": "贴吧",
+          "ranks": [
+            15,
+            16,
+            17,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时18分 ~ 13时37分]"
         },
         {
           "title": "国行苹果AI完成备案",
@@ -94,19 +108,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时18分 ~ 07时57分]"
-        },
-        {
-          "title": "AI拿冠军,摄影比赛闹笑话",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356179&amp;topic_name=AI%E6%8B%BF%E5%86%A0%E5%86%9B%2C%E6%91%84%E5%BD%B1%E6%AF%94%E8%B5%9B%E9%97%B9%E7%AC%91%E8%AF%9D",
-          "source": "贴吧",
-          "ranks": [
-            15,
-            16,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时18分 ~ 10时36分]"
         },
         {
           "title": "上千枚导弹，要飞向伊朗？",
@@ -153,9 +154,42 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时36分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时36分 ~ 13时37分]"
+        },
+        {
+          "title": "美国持续打击伊朗，战争成本预测高达1000亿美元",
+          "url": "https://news.ifeng.com/c/8umxPSPZXoN",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时36分 ~ 13时37分]"
+        },
+        {
+          "title": "全球人工智能 进入“上海时间”",
+          "url": "https://www.baidu.com/s?wd=%E5%85%A8%E7%90%83%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD+%E8%BF%9B%E5%85%A5%E2%80%9C%E4%B8%8A%E6%B5%B7%E6%97%B6%E9%97%B4%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时36分 ~ 13时37分]"
+        },
+        {
+          "title": "如何看待网传 DeepSeek 实习日薪突破 5500 元？这反映了 AI 行业与求职市场哪些现状？",
+          "url": "https://www.zhihu.com/question/2060769193977280048",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时36分 ~ 13时37分]"
         },
         {
           "title": "据伊朗迈赫尔通讯社：伊朗拉斯克传出爆炸声。",
@@ -180,15 +214,17 @@
           "time_info": "05时57分"
         },
         {
-          "title": "美国持续打击伊朗，战争成本预测高达1000亿美元",
-          "url": "https://news.ifeng.com/c/8umxPSPZXoN",
-          "source": "凤凰网",
+          "title": "世界人工智能大会逛展攻略来了",
+          "url": "https://www.douyin.com/hot/2570881",
+          "source": "抖音",
           "ranks": [
+            25,
+            5,
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时36分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时57分 ~ 13时37分]"
         },
         {
           "title": "美国白宫发言人：（关于伊朗）美国可以在任何地点、任何时间发动攻击。",
@@ -224,15 +260,16 @@
           "time_info": "07时57分"
         },
         {
-          "title": "全球人工智能 进入“上海时间”",
-          "url": "https://www.baidu.com/s?wd=%E5%85%A8%E7%90%83%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD+%E8%BF%9B%E5%85%A5%E2%80%9C%E4%B8%8A%E6%B5%B7%E6%97%B6%E9%97%B4%E2%80%9D",
-          "source": "百度热搜",
+          "title": "【早报】长鑫科技，今日申购；热门中概股普涨；美军再次打击伊朗；原油小幅收涨",
+          "url": "https://www.cls.cn/detail/2427842",
+          "source": "财联社热门",
           "ranks": [
-            3
+            7,
+            1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时36分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时57分 ~ 13时37分]"
         },
         {
           "title": "伊朗卫生部：美国近期对伊军事打击已致35人死亡",
@@ -257,17 +294,6 @@
           "time_info": "07时57分"
         },
         {
-          "title": "如何看待网传 DeepSeek 实习日薪突破 5500 元？这反映了 AI 行业与求职市场哪些现状？",
-          "url": "https://www.zhihu.com/question/2060769193977280048",
-          "source": "知乎",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时36分"
-        },
-        {
           "title": "白宫发言人Anna Kelly：我们能够在任何时候袭击（伊朗的）任何地方。",
           "url": "https://wallstreetcn.com/livenews/3134547",
           "source": "华尔街见闻-快讯",
@@ -285,9 +311,22 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时36分"
+        },
+        {
+          "title": "沃什：AI推高价格但未必推升通胀，任何通胀指标都不精确，特朗普没试图干预美联储",
+          "url": "https://wallstreetcn.com/articles/3777042",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时57分 ~ 13时37分]"
         },
         {
           "title": "报告：阿里领跑中国AI编程市场，份额超第二至第五名总和",
@@ -296,21 +335,9 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时36分"
-        },
-        {
-          "title": "【早报】长鑫科技，今日申购；热门中概股普涨；美军再次打击伊朗；原油小幅收涨",
-          "url": "https://www.cls.cn/detail/2427842",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时57分 ~ 10时36分]"
         },
         {
           "title": "AirNow：美国纽约市空气质量指数现在为“中等”。",
@@ -339,29 +366,28 @@
           "time_info": "[05时57分 ~ 07时57分]"
         },
         {
-          "title": "沃什：AI推高价格但未必推升通胀，任何通胀指标都不精确，特朗普没试图干预美联储",
-          "url": "https://wallstreetcn.com/articles/3777042",
-          "source": "华尔街见闻",
+          "title": "期货热点追踪",
+          "url": "https://flash.jin10.com/detail/20260716073720814800",
+          "source": "金十数据",
           "ranks": [
-            10,
-            9,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时57分 ~ 10时36分]"
-        },
-        {
-          "title": "世界人工智能大会逛展攻略来了",
-          "url": "https://www.douyin.com/hot/2570881",
-          "source": "抖音",
-          "ranks": [
-            25,
+            7,
             5
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[06时57分 ~ 10时36分]"
+          "time_info": "[07时57分 ~ 13时37分]"
+        },
+        {
+          "title": "马上评｜AI“入侵”艺术评奖，不能只靠撤奖遮羞",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33592256",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时57分 ~ 13时37分]"
         },
         {
           "title": "伊朗称美进入正式战争状态",
@@ -389,15 +415,15 @@
           "time_info": "[02时04分 ~ 04时06分]"
         },
         {
-          "title": "马上评｜AI“入侵”艺术评奖，不能只靠撤奖遮羞",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33592256",
-          "source": "澎湃新闻",
+          "title": "澳大利亚政府成立AI办公室",
+          "url": "https://news.ifeng.com/c/8unXnFx9vmo",
+          "source": "凤凰网",
           "ranks": [
-            18
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时57分 ~ 10时36分]"
+          "appearance_count": 2,
+          "time_info": "[10时36分 ~ 13时37分]"
         },
         {
           "title": "伊朗一儿童医院附近遭美军袭击",
@@ -460,6 +486,18 @@
           "time_info": "[00时18分 ~ 02时04分]"
         },
         {
+          "title": "国行 iPhone 即将牵手阿里千问上线「苹果 AI」，有哪些亮点？可能给手机行业带来哪些影响？",
+          "url": "https://www.zhihu.com/question/2060770809543758786",
+          "source": "知乎",
+          "ranks": [
+            16,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时36分 ~ 13时37分]"
+        },
+        {
           "title": "xAI：Grok Build现在开源",
           "url": "https://wallstreetcn.com/livenews/3134605",
           "source": "华尔街见闻-快讯",
@@ -481,6 +519,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时05分 ~ 04时06分]"
+        },
+        {
+          "title": "据伊朗学生通讯社：伊朗方面表示，在美方接受伊朗法律之前，海峡将保持关闭。",
+          "url": "https://flash.jin10.com/detail/20260716132448417800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时37分"
         },
         {
           "title": "美国副总统万斯：以色列对美国的影响力超过多数国家。 当伊朗违反承诺时，我们做出回应。 我们正在（针对中东局势）进行微妙的外交斡旋。",
@@ -527,17 +576,6 @@
           "time_info": "04时06分"
         },
         {
-          "title": "期货热点追踪",
-          "url": "https://flash.jin10.com/detail/20260716073720814800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时57分"
-        },
-        {
           "title": "伊朗外交部：若美方违约，伊朗则反制",
           "url": "https://wallstreetcn.com/livenews/3134510",
           "source": "华尔街见闻-快讯",
@@ -547,17 +585,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时18分"
-        },
-        {
-          "title": "澳大利亚政府成立AI办公室",
-          "url": "https://news.ifeng.com/c/8unXnFx9vmo",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时36分"
         },
         {
           "title": "伊朗议会议长卡利巴夫：当前阶段的谈判并不等同于妥协，而是与战争一样，都是抵抗战略和维护国家利益的一部分。",
@@ -624,6 +651,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时57分"
+        },
+        {
+          "title": "伊朗官媒PRESS TV：伊朗袭击美国在科威特和约旦的设施。",
+          "url": "https://wallstreetcn.com/livenews/3134814",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时37分"
         },
         {
           "title": "美联储主席沃什：我们可以看到数据中心对经济需求侧的影响。",
@@ -703,6 +741,17 @@
           "time_info": "07时57分"
         },
         {
+          "title": "花钱就看这?功夫女足公开用AI",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356211&amp;topic_name=%E8%8A%B1%E9%92%B1%E5%B0%B1%E7%9C%8B%E8%BF%99%3F%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E5%85%AC%E5%BC%80%E7%94%A8AI",
+          "source": "贴吧",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时37分"
+        },
+        {
           "title": "霍尔木兹爆发激烈交火！特朗普：伊朗像伟大拳击手，你以为击败他，结果被重拳反击；若伊朗不回来谈判，将轰炸电厂桥梁，不排除派地面部队",
           "url": "https://wallstreetcn.com/articles/3776985",
           "source": "华尔街见闻",
@@ -758,6 +807,17 @@
           "time_info": "04时06分"
         },
         {
+          "title": "日本机器人企业发那科和川崎重工等加入英伟达的物理AI阵营",
+          "url": "https://wallstreetcn.com/livenews/3134812",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时37分"
+        },
+        {
           "title": "据伊朗迈赫尔通讯社：伊朗阿巴斯港传出爆炸声。",
           "url": "https://flash.jin10.com/detail/20260716033251836800",
           "source": "金十数据",
@@ -775,7 +835,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时36分"
         },
@@ -896,9 +956,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时36分"
+        },
+        {
+          "title": "伊朗塞姆南机场遭空袭 未造成人员伤亡",
+          "url": "https://wallstreetcn.com/livenews/3134809",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时37分"
         },
         {
           "title": "美联储主席沃什：如果AI所能带来的成果令人失望，大部分与AI相关的资本支出投资仍有其他用途。",
@@ -1017,9 +1088,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时36分"
+        },
+        {
+          "title": "苹果、三星通过人工智能服务备案，知情人士：百度均系AI合作伙伴",
+          "url": "https://wallstreetcn.com/livenews/3134805",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时37分"
         },
         {
           "title": "据伊朗迈赫尔通讯社：伊朗恰巴哈尔传出三声爆炸。",
@@ -1042,17 +1124,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时06分"
-        },
-        {
-          "title": "国行 iPhone 即将牵手阿里千问上线「苹果 AI」，有哪些亮点？可能给手机行业带来哪些影响？",
-          "url": "https://www.zhihu.com/question/2060770809543758786",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时36分"
         },
         {
           "title": "美国中央司令部：伊朗官媒称美军7月14日袭击了他们的一处民用小麦储存设施。此说法不实。",
@@ -1094,7 +1165,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时36分"
         },
@@ -1160,7 +1231,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时36分"
         },
@@ -1182,7 +1253,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时36分"
         },
@@ -1193,7 +1264,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时36分"
         },
@@ -1273,6 +1344,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时06分"
+        },
+        {
+          "title": "约旦称，击落伊朗发射的8枚导弹。",
+          "url": "https://wallstreetcn.com/livenews/3134794",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时37分"
         },
         {
           "title": "美联储理事库克：最近的CPI和PPI数据仅为一个月的情况，这并不能形成趋势。",
@@ -1380,7 +1462,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时36分"
         },
@@ -1438,6 +1520,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时57分"
+        },
+        {
+          "title": "特朗普发文感谢伊朗",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%91%E6%96%87%E6%84%9F%E8%B0%A2%E4%BC%8A%E6%9C%97%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时37分"
         }
       ]
     }
