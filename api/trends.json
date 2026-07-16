@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-17T04:01:56.268478+08:00",
-  "total_titles_processed": 479,
+  "generated_at": "2026-07-17T05:12:34.043187+08:00",
+  "total_titles_processed": 538,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai ai+ ai人工智能 人工智能 风险识别 商业风险识别 痛点 需求 商业风险 伊朗 rwa 趋势 热点 热门",
-      "match_count": 55,
+      "match_count": 67,
       "titles": [
         {
           "title": "世界人工智能合作组织协定签署",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时19分 ~ 04时01分]"
+          "appearance_count": 4,
+          "time_info": "[00时19分 ~ 05时12分]"
         },
         {
           "title": "业绩预增、再签新单 AI芯片三龙头携手“报喜”",
@@ -27,8 +27,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时19分 ~ 04时01分]"
+          "appearance_count": 4,
+          "time_info": "[00时19分 ~ 05时12分]"
         },
         {
           "title": "成立世界人工智能合作组织协定签署仪式在上海举行",
@@ -38,8 +38,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时04分 ~ 04时01分]"
+          "appearance_count": 3,
+          "time_info": "[02时04分 ~ 05时12分]"
         },
         {
           "title": "超300款全球首发AI产品即将亮相",
@@ -49,8 +49,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时04分 ~ 04时01分]"
+          "appearance_count": 3,
+          "time_info": "[02时04分 ~ 05时12分]"
+        },
+        {
+          "title": "经纬度：在上海，WAIC见证人工智能改变未来",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33583299",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时19分 ~ 05时12分]"
         },
         {
           "title": "谷歌(GOOG.O)在美国上线搜索AI模式应用集成功能，支持与更多应用协同。",
@@ -81,9 +93,31 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时01分"
+        },
+        {
+          "title": "DeepMind提设国际AI模型审查机构 马斯克和奥尔特曼表支持",
+          "url": "https://flash.jin10.com/detail/20260717045325097800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时12分"
+        },
+        {
+          "title": "据伊朗媒体：美军袭击了阿巴斯港铁路枢纽站，已造成2人受伤。",
+          "url": "https://wallstreetcn.com/livenews/3135278",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时12分"
         },
         {
           "title": "据伊朗塔斯尼姆通讯社：美军对阿巴斯港居民区发动袭击，目前已造成至少7人受伤。",
@@ -92,18 +126,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时01分"
-        },
-        {
-          "title": "伊媒：伊朗布什尔市传出爆炸声",
-          "url": "https://wallstreetcn.com/livenews/3135256",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时01分"
         },
@@ -119,6 +142,17 @@
           "time_info": "00时19分"
         },
         {
+          "title": "据伊朗媒体：美军袭击了阿巴斯港铁路枢纽站，已造成2人受伤。",
+          "url": "https://flash.jin10.com/detail/20260717044848844800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时12分"
+        },
+        {
           "title": "美国达拉斯联储主席Lorie Logan（2026年FOMC票委）：即使油价维持高位，天然气输送能力等限制因素也可能阻碍生产商提高产量。 石油出口的增加主要来自库存的释放，而非新增产量。 即使采用最保守的估算，数据中心需求带来的电价上涨也很可能成为另一个温和通胀压力的来源。 对人工智能带来的长期生产力提升持非常乐观的态度。 目前对人工智能的投资需求是巨大且真实的，并已在短期内产生了通胀效应。",
           "url": "https://wallstreetcn.com/livenews/3135215",
           "source": "华尔街见闻-快讯",
@@ -128,18 +162,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时04分"
-        },
-        {
-          "title": "经纬度：在上海，WAIC见证人工智能改变未来",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33583299",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时19分 ~ 04时01分]"
         },
         {
           "title": "据伊朗迈赫尔通讯社：也门军事官员表示，以色列正协助沙特阿拉伯拦截也门的报复性攻击。",
@@ -170,20 +192,32 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时01分"
         },
         {
-          "title": "美国副总统万斯：以色列政府内部有人试图在伊朗协议问题上影响美国",
-          "url": "https://wallstreetcn.com/livenews/3135253",
-          "source": "华尔街见闻-快讯",
+          "title": "据伊朗法尔斯通讯社：伊朗班达尔哈米尔（Bandar-e Khamir）地区的一座桥梁疑似遭到美军袭击。袭击发生在当地时间晚上11点（北京时间今日凌晨03:30）。报道称，这座桥梁是连接阿巴斯港与拉尔市的重要交通枢纽。",
+          "url": "https://flash.jin10.com/detail/20260717044824911800",
+          "source": "金十数据",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时01分"
+          "time_info": "05时12分"
+        },
+        {
+          "title": "伊媒：伊朗布什尔市传出爆炸声",
+          "url": "https://wallstreetcn.com/livenews/3135256",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时01分 ~ 05时12分]"
         },
         {
           "title": "外资机构把脉A股：AI景气度仍向好，市场正进入结构性分化新阶段",
@@ -195,8 +229,20 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时19分 ~ 04时01分]"
+          "appearance_count": 4,
+          "time_info": "[00时19分 ~ 05时12分]"
+        },
+        {
+          "title": "美国副总统万斯：以色列政府内部有人试图在伊朗协议问题上影响美国",
+          "url": "https://wallstreetcn.com/livenews/3135253",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时01分 ~ 05时12分]"
         },
         {
           "title": "WAIC前夕看全球AI治理变局：拒绝“富国游戏”，规则之争加快",
@@ -208,8 +254,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时19分 ~ 04时01分]"
+          "appearance_count": 4,
+          "time_info": "[00时19分 ~ 05时12分]"
         },
         {
           "title": "重启对伊封锁来首次！美国袭击与伊朗有关油轮 海上对抗升级",
@@ -219,8 +265,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时19分 ~ 04时01分]"
+          "appearance_count": 4,
+          "time_info": "[00时19分 ~ 05时12分]"
         },
         {
           "title": "花钱就看这?功夫女足公开用AI",
@@ -231,8 +277,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时19分 ~ 04时01分]"
+          "appearance_count": 4,
+          "time_info": "[00时19分 ~ 05时12分]"
         },
         {
           "title": "前纽约联储首席：今年大概率不会加息，美政策正推高主权黄金需求！",
@@ -256,6 +302,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时19分 ~ 02时04分]"
+        },
+        {
+          "title": "披着AI外衣的现实短片",
+          "url": "https://www.douyin.com/hot/2573340",
+          "source": "抖音",
+          "ranks": [
+            20,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时01分 ~ 05时12分]"
         },
         {
           "title": "白宫：将继续关注伊朗进展。",
@@ -291,6 +349,17 @@
           "time_info": "02时04分"
         },
         {
+          "title": "伊媒：美国袭击伊朗阿巴斯港致7人受伤",
+          "url": "https://wallstreetcn.com/livenews/3135273",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时12分"
+        },
+        {
           "title": "市场消息：英特尔(INTC.O)将整合先进的Gemini驱动的生成式人工智能，覆盖其全球员工。",
           "url": "https://flash.jin10.com/detail/20260717000518313800",
           "source": "金十数据",
@@ -319,7 +388,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时01分"
         },
@@ -352,9 +421,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时01分"
+        },
+        {
+          "title": "台积电Q2净利润同比增长77.4%大超预期，毛利率达67.7%，AI芯片需求强劲势头持续 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3777092",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时12分"
         },
         {
           "title": "白宫：特朗普总统不会允许伊朗在霍尔木兹海峡发动袭击而不付出代价。美国可以在任何时间、任何地点打击伊朗。",
@@ -374,7 +454,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时01分"
         },
@@ -396,9 +476,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时01分"
+        },
+        {
+          "title": "据伊朗媒体Fars News：美国打击了伊朗港口城市哈米尔的一座桥梁。",
+          "url": "https://flash.jin10.com/detail/20260717042304515800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时12分"
         },
         {
           "title": "据伊朗媒体Fars News：美国导弹击中阿巴斯港附近目标。",
@@ -421,6 +512,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时04分"
+        },
+        {
+          "title": "据伊朗塔斯尼姆通讯社：美国战斗机对伊朗沙赫尔机场发动了导弹袭击。",
+          "url": "https://flash.jin10.com/detail/20260717040847338800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时12分"
         },
         {
           "title": "伊朗重申与海湾邻国不存在敌对关系",
@@ -451,7 +553,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时01分"
         },
@@ -462,7 +564,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时01分"
         },
@@ -473,9 +575,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时01分"
+        },
+        {
+          "title": "金十图示：2026年07月16日（周四）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260717040547992800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时12分"
         },
         {
           "title": "伊朗革命卫队：只有美国不再存在于该地区，霍尔木兹海峡的安全才能得到全面保障。",
@@ -484,9 +597,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时01分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收涨1.79%，报6396.75点。 热门中概股里，小米初步收涨5.4%，比亚迪涨3.3%，美团涨3.2%，小鹏涨2.1%，百度涨1.2%，拼多多涨1.2%，阿里巴巴跌0.1%，腾讯跌0.4%，日月光半导体跌3.3%。 ETF中，中概互联网指数ETF（KWEB）收涨1.78%，中国科技指数ETF（CQQQ）收跌1.45%。 XtrackersHarvest中证50（ASHS）收跌2.86%，MSCI新兴市场ex中国ETF（EMXC）收跌2.60%，德银嘉实沪深300指数ETF（ASHR）收跌2.43%。",
+          "url": "https://wallstreetcn.com/livenews/3135261",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时12分"
         },
         {
           "title": "伊朗司法部门：暂无美国囚犯从伊朗监狱获释或交换。",
@@ -495,9 +619,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时01分"
+        },
+        {
+          "title": "金十图示：2026年07月16日（周四）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260717040536324800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时12分"
         },
         {
           "title": "伊朗称特朗普关于美国囚犯获释的说法不实",
@@ -506,7 +641,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时01分"
         },
@@ -517,7 +652,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时01分"
         },
@@ -528,7 +663,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时01分"
         },
@@ -550,18 +685,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时01分"
-        },
-        {
-          "title": "披着AI外衣的现实短片",
-          "url": "https://www.douyin.com/hot/2573340",
-          "source": "抖音",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时01分"
         },
@@ -588,13 +712,24 @@
           "time_info": "02时04分"
         },
         {
+          "title": "据伊朗媒体：在美军对格什姆岛发动空袭后，岛上马森村附近再次传出8次爆炸声。",
+          "url": "https://flash.jin10.com/detail/20260717035855625800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时12分"
+        },
+        {
           "title": "美军开始对伊朗实施新一轮袭击。",
           "url": "https://wallstreetcn.com/livenews/3135229",
           "source": "华尔街见闻-快讯",
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时01分"
         },
@@ -605,7 +740,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时01分"
         },
