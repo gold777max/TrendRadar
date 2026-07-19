@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-19T18:25:19.566181+08:00",
-  "total_titles_processed": 1181,
+  "generated_at": "2026-07-19T19:55:32.696202+08:00",
+  "total_titles_processed": 1301,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai ai+ ai人工智能 人工智能 风险识别 商业风险识别 痛点 需求 商业风险 伊朗 rwa 趋势 热点 热门",
-      "match_count": 174,
+      "match_count": 198,
       "titles": [
         {
           "title": "单周重挫10%、连续三周大跌，较高点回撤20%！“AI牛市龙头”经历“史上最大动量抛售之一”",
@@ -147,8 +147,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时54分 ~ 18时25分]"
+          "appearance_count": 17,
+          "time_info": "[00时54分 ~ 19时55分]"
         },
         {
           "title": "95后夫妻手搓500集AI漫剧爆火",
@@ -187,8 +187,20 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[04时04分 ~ 18时25分]"
+          "appearance_count": 13,
+          "time_info": "[04时04分 ~ 19时55分]"
+        },
+        {
+          "title": "美军对伊朗发动新一轮空袭，约旦美军基地5天遭4袭，美军两人死亡，伊朗最高领袖强调将给美国留下“刻骨铭心的教训”",
+          "url": "https://wallstreetcn.com/articles/3777329",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时48分 ~ 19时55分]"
         },
         {
           "title": "皮尤调查显示中国全球好感度首超美国，反映了哪些趋势？",
@@ -224,11 +236,12 @@
             18,
             21,
             25,
-            29
+            29,
+            30
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时54分 ~ 18时25分]"
+          "appearance_count": 17,
+          "time_info": "[00时54分 ~ 19时55分]"
         },
         {
           "title": "2026世界人工智能大会有哪些不同",
@@ -284,18 +297,6 @@
           "time_info": "[00时54分 ~ 07时51分]"
         },
         {
-          "title": "美军对伊朗发动新一轮空袭，约旦美军基地5天遭4袭，美军两人死亡，伊朗最高领袖强调将给美国留下“刻骨铭心的教训”",
-          "url": "https://wallstreetcn.com/articles/3777329",
-          "source": "华尔街见闻",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时48分 ~ 18时25分]"
-        },
-        {
           "title": "美伊交锋波及多国民用设施，伊朗预警将“全面进攻”",
           "url": "https://news.ifeng.com/c/8usQYImeW3f",
           "source": "凤凰网",
@@ -333,6 +334,19 @@
           "time_info": "[06时44分 ~ 16时10分]"
         },
         {
+          "title": "特朗普最新发声！美军连续八天夜袭伊朗 美国发布全球安全警示",
+          "url": "https://www.cls.cn/detail/2430341",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时48分 ~ 19时55分]"
+        },
+        {
           "title": "美股半导体指数跌入熊市，芯片股溃败时苹果盘中夺回市值第一，AI牛市迎来“换锚”时刻？",
           "url": "https://wallstreetcn.com/articles/3777263",
           "source": "华尔街见闻",
@@ -367,17 +381,29 @@
           "time_info": "[00时54分 ~ 05时47分]"
         },
         {
-          "title": "特朗普最新发声！美军连续八天夜袭伊朗 美国发布全球安全警示",
-          "url": "https://www.cls.cn/detail/2430341",
-          "source": "财联社热门",
+          "title": "中国AI站上全球治理主场",
+          "url": "https://www.douyin.com/hot/2577012",
+          "source": "抖音",
           "ranks": [
-            6,
-            4,
-            2
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时48分 ~ 18时25分]"
+          "appearance_count": 3,
+          "time_info": "[16时10分 ~ 19时55分]"
+        },
+        {
+          "title": "【早报】伊朗已停止履行伊美谅解备忘录；天孚通信披露上半年业绩预告",
+          "url": "https://www.cls.cn/detail/2430332",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时22分 ~ 19时55分]"
         },
         {
           "title": "伊朗一海水淡化厂遭袭，万人饮用水中断",
@@ -403,6 +429,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时47分 ~ 10时22分]"
+        },
+        {
+          "title": "伊朗让美军付出重大代价",
+          "url": "https://news.ifeng.com/c/8usdq92gz1I",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时25分 ~ 19时55分]"
         },
         {
           "title": "这一秒过火 AI片头",
@@ -571,26 +608,16 @@
           "time_info": "[13时48分 ~ 13时49分]"
         },
         {
-          "title": "中国AI站上全球治理主场",
-          "url": "https://www.douyin.com/hot/2577012",
-          "source": "抖音",
+          "title": "上任以来首次！伊朗最高领袖将美国称为“大撒旦”",
+          "url": "https://news.ifeng.com/c/8ut9zQF2d6I",
+          "source": "凤凰网",
           "ranks": [
+            4,
             3
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时10分 ~ 18时25分]"
-        },
-        {
-          "title": "伊朗让美军付出重大代价",
-          "url": "https://news.ifeng.com/c/8usdq92gz1I",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时25分"
+          "time_info": "[18时25分 ~ 19时55分]"
         },
         {
           "title": "据伊朗迈赫尔通讯社：伊朗胡齐斯坦省萨兰德地区发生了深度8公里的4级余震。",
@@ -604,6 +631,17 @@
           "time_info": "13时49分"
         },
         {
+          "title": "环球下周看点：AI交易迎关键考验 财报季、央行决议与中东局势牵动市场",
+          "url": "https://www.cls.cn/detail/2430318",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时22分 ~ 19时55分]"
+        },
+        {
           "title": "2026WAIC开幕：AI百花齐放，数百项首发首秀、逾300台人形机器人同台竞技",
           "url": "https://www.cls.cn/detail/2429951",
           "source": "财联社热门",
@@ -614,6 +652,18 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时54分 ~ 04时05分]"
+        },
+        {
+          "title": "伊朗停止履行谅解备忘录后 哈梅内伊誓言让美国“领教难忘的教训”",
+          "url": "https://www.cls.cn/detail/2430324",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时51分 ~ 19时55分]"
         },
         {
           "title": "觅蜂科技姚卯青：物理AI要实现规模化，必须突破三道“墙”",
@@ -668,22 +718,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时25分"
         },
         {
-          "title": "【早报】伊朗已停止履行伊美谅解备忘录；天孚通信披露上半年业绩预告",
-          "url": "https://www.cls.cn/detail/2430332",
-          "source": "财联社热门",
+          "title": "科威特：发电站和海水淡化工厂再次遭到伊朗打击。 伊朗的打击造成发电站和水厂起火。 大量发电部门受到影响。 正设法让受到破坏的部门恢复运营。",
+          "url": "https://wallstreetcn.com/livenews/3136259",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            8,
-            7,
-            6
+            3
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时22分 ~ 18时25分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时55分"
         },
         {
           "title": "伊朗驻巴基斯坦大使：美国无意推动协议取得成功",
@@ -699,15 +747,26 @@
           "time_info": "[04时05分 ~ 07时51分]"
         },
         {
-          "title": "上任以来首次！伊朗最高领袖将美国称为“大撒旦”",
-          "url": "https://news.ifeng.com/c/8ut9zQF2d6I",
-          "source": "凤凰网",
+          "title": "市场消息：科威特方面称，电力与海水淡化厂再次遭伊朗袭击，大量发电机组受影响。受损机组的抢修恢复供电作业正在进行中。",
+          "url": "https://flash.jin10.com/detail/20260719192700753800",
+          "source": "金十数据",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时25分"
+          "time_info": "19时55分"
+        },
+        {
+          "title": "诊疗方案与病历书写两大赛道，全国上百支队伍在沪比拼AI临床应用",
+          "url": "https://wallstreetcn.com/livenews/3136258",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时55分"
         },
         {
           "title": "白宫前AI政策官员、 OpenAI战略未来主管迪恩·鲍尔：Kimi K3是一个非常优秀的模型！我不认为它的表现可以简单归因于蒸馏或类似技术。在智能体编程场景中，它的表现似乎基本可以与2026年第一季度最优秀的公开模型相媲美。",
@@ -767,6 +826,28 @@
           "time_info": "13时49分"
         },
         {
+          "title": "AI加速进入民生场景 北电数智聚焦医疗、教育、工业实践",
+          "url": "https://wallstreetcn.com/livenews/3136257",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时55分"
+        },
+        {
+          "title": "蔡磊获2026年度AI特别贡献人物",
+          "url": "https://www.douyin.com/hot/2577008",
+          "source": "抖音",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时55分"
+        },
+        {
           "title": "伊朗最高领袖：美国行为证明其总统签字“毫无价值”",
           "url": "https://wallstreetcn.com/livenews/3136073",
           "source": "华尔街见闻-快讯",
@@ -789,29 +870,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时54分 ~ 04时05分]"
-        },
-        {
-          "title": "环球下周看点：AI交易迎关键考验 财报季、央行决议与中东局势牵动市场",
-          "url": "https://www.cls.cn/detail/2430318",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时22分 ~ 18时25分]"
-        },
-        {
-          "title": "伊朗停止履行谅解备忘录后 哈梅内伊誓言让美国“领教难忘的教训”",
-          "url": "https://www.cls.cn/detail/2430324",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时51分 ~ 18时25分]"
         },
         {
           "title": "国产AI算力迈入万卡集群时代：超节点市场刚起步，供应链依旧紧张",
@@ -985,6 +1043,31 @@
           "time_info": "[00时54分 ~ 16时10分]"
         },
         {
+          "title": "协议成废纸,伊朗掀桌硬刚美国",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356311&amp;topic_name=%E5%8D%8F%E8%AE%AE%E6%88%90%E5%BA%9F%E7%BA%B8%2C%E4%BC%8A%E6%9C%97%E6%8E%80%E6%A1%8C%E7%A1%AC%E5%88%9A%E7%BE%8E%E5%9B%BD",
+          "source": "贴吧",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时10分 ~ 19时55分]"
+        },
+        {
+          "title": "直击WAIC 2026：“全球AI for ADANES核能智能体系”来了，破解核安全与AI黑箱难题",
+          "url": "https://www.cls.cn/detail/2430367",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时10分 ~ 19时55分]"
+        },
+        {
           "title": "据纽约时报：美方官员称，伊朗对约旦境内美军基地发动的袭击造成多架美军直升机受损，数十名美军人员受伤。",
           "url": "https://flash.jin10.com/detail/20260719043816622800",
           "source": "金十数据",
@@ -1045,16 +1128,28 @@
           "time_info": "[13时48分 ~ 16时10分]"
         },
         {
-          "title": "协议成废纸,伊朗掀桌硬刚美国",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356311&amp;topic_name=%E5%8D%8F%E8%AE%AE%E6%88%90%E5%BA%9F%E7%BA%B8%2C%E4%BC%8A%E6%9C%97%E6%8E%80%E6%A1%8C%E7%A1%AC%E5%88%9A%E7%BE%8E%E5%9B%BD",
-          "source": "贴吧",
+          "title": "AI算力需求与产品结构优化双轮驱动，新易盛上半年净利同比预增78%～103%｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3777355",
+          "source": "华尔街见闻",
           "ranks": [
-            8,
-            7
+            7,
+            6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时10分 ~ 18时25分]"
+          "time_info": "[18时25分 ~ 19时55分]"
+        },
+        {
+          "title": "“中国AI只差两三个月”，硅谷坐不住了",
+          "url": "https://news.ifeng.com/c/8ut3mOkXOOH",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时25分 ~ 19时55分]"
         },
         {
           "title": "据以色列第13频道：美国正准备通过向中东地区派遣约100架加油机，扩大对伊朗的行动范围。以色列国防机构正在为该地区可能出现的重大局势升级做准备。",
@@ -1091,18 +1186,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时05分 ~ 05时47分]"
-        },
-        {
-          "title": "直击WAIC 2026：“全球AI for ADANES核能智能体系”来了，破解核安全与AI黑箱难题",
-          "url": "https://www.cls.cn/detail/2430367",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时10分 ~ 18时25分]"
         },
         {
           "title": "伊朗霍尔木兹甘省警告民众避免非必要道路通行",
@@ -1231,6 +1314,17 @@
           "time_info": "10时22分"
         },
         {
+          "title": "有道AI耳机在WAIC首秀：让会议记录变成“可追问的Agent”",
+          "url": "https://wallstreetcn.com/livenews/3136256",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时55分"
+        },
+        {
           "title": "美官员称“约旦美军基地5天遭4袭，美军两人死亡”，伊朗最高领袖强调将给美国留下“刻骨铭心的教训”",
           "url": "https://wallstreetcn.com/articles/3777329",
           "source": "华尔街见闻",
@@ -1240,28 +1334,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时22分"
-        },
-        {
-          "title": "AI算力需求与产品结构优化双轮驱动，新易盛上半年净利同比预增78%～103%｜财报见闻",
-          "url": "https://wallstreetcn.com/articles/3777355",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时25分"
-        },
-        {
-          "title": "“中国AI只差两三个月”，硅谷坐不住了",
-          "url": "https://news.ifeng.com/c/8ut3mOkXOOH",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时25分"
         },
         {
           "title": "美军称结束第八晚对伊朗打击行动",
@@ -1292,7 +1364,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时25分"
         },
@@ -1358,9 +1430,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时25分"
+        },
+        {
+          "title": "陈茂波：香港将出台政策支持中小企业采用AI",
+          "url": "https://flash.jin10.com/detail/20260719190518960800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时55分"
         },
         {
           "title": "伊朗最高领袖指责美国一再违约，称：特朗普的签名“毫无价值、无效”",
@@ -1451,6 +1534,17 @@
           "time_info": "13时49分"
         },
         {
+          "title": "报道：停火期间伊朗石油出口额达60亿美元",
+          "url": "https://wallstreetcn.com/livenews/3136252",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时55分"
+        },
+        {
           "title": "伊朗媒体：格什姆岛遭导弹袭击",
           "url": "https://wallstreetcn.com/livenews/3136109",
           "source": "华尔街见闻-快讯",
@@ -1473,6 +1567,17 @@
           "time_info": "16时10分"
         },
         {
+          "title": "陈茂波：香港将出台政策支持中小企业采用AI",
+          "url": "https://wallstreetcn.com/livenews/3136250",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时55分"
+        },
+        {
           "title": "伊朗一海水淡化厂遭袭 万人饮用水中断",
           "url": "https://flash.jin10.com/detail/20260719000834003800",
           "source": "金十数据",
@@ -1493,6 +1598,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时22分"
+        },
+        {
+          "title": "月之暗面将推出新模型 KimiK3，将给 AI 市场带来哪些新冲击？",
+          "url": "https://www.zhihu.com/question/2061156114658485568",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时55分"
         },
         {
           "title": "响应“AI牛股”激励风向 阿斯麦将向全体员工发放2万欧元大红包",
@@ -1539,6 +1655,17 @@
           "time_info": "16时10分"
         },
         {
+          "title": "伊朗谴责美国对在建核电站发动“恐怖袭击”",
+          "url": "https://flash.jin10.com/detail/20260719185028674800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时55分"
+        },
+        {
           "title": "据伊朗媒体：美军袭击了伊朗南部哈吉阿巴德附近地区。",
           "url": "https://flash.jin10.com/detail/20260719083422654800",
           "source": "金十数据",
@@ -1559,6 +1686,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时49分"
+        },
+        {
+          "title": "天数智芯WAIC发布新一代通用GPU旗舰产品天垓300",
+          "url": "https://flash.jin10.com/detail/20260719184851120800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时55分"
         },
         {
           "title": "伊朗民众强烈谴责美军空袭 呼吁强硬反击",
@@ -1616,6 +1754,17 @@
           "time_info": "16时10分"
         },
         {
+          "title": "2026上半年热门事件盘点",
+          "url": "https://search.bilibili.com/all?keyword=2026%E4%B8%8A%E5%8D%8A%E5%B9%B4%E7%83%AD%E9%97%A8%E4%BA%8B%E4%BB%B6%E7%9B%98%E7%82%B9",
+          "source": "bilibili 热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时55分"
+        },
+        {
           "title": "伊朗霍尔木兹甘省一日内遭美军三轮空袭",
           "url": "https://flash.jin10.com/detail/20260719000305989800",
           "source": "金十数据",
@@ -1669,6 +1818,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时49分"
+        },
+        {
+          "title": "伊朗革命卫队称两艘船只在霍尔木兹海峡发生事故",
+          "url": "https://wallstreetcn.com/livenews/3136244",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时55分"
         },
         {
           "title": "据伊朗国家媒体：伊朗最高领袖关于伊朗烈士送葬仪式的讲话，以及对国家若干重要问题的阐释，将于几分钟后发布。",
@@ -1792,6 +1952,17 @@
           "time_info": "13时49分"
         },
         {
+          "title": "游族网络联合国家工业信息安全发展研究中心等发起《人工智能发展与安全倡议书》",
+          "url": "https://flash.jin10.com/detail/20260719183943679800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时55分"
+        },
+        {
           "title": "据伊朗塔斯尼姆通讯社：美国对伊朗的格什姆岛发动新一轮空袭。 该岛部分地区至少听到两声爆炸。紧急救援、安全及行动小组已赶赴现场，以确定遭袭位置并评估人员伤亡或财产损失情况。",
           "url": "https://flash.jin10.com/detail/20260719105615516800",
           "source": "金十数据",
@@ -1858,6 +2029,17 @@
           "time_info": "16时10分"
         },
         {
+          "title": "大晓机器人WAIC发布开悟世界模型3.1，具身物理智能统一评测基准平台同步亮相",
+          "url": "https://wallstreetcn.com/livenews/3136237",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时55分"
+        },
+        {
           "title": "据伊通社（IRNA）：根据德黑兰大学地震中心的报告，几分钟前，伊朗胡齐斯坦省的萨兰德市发生了深度12公里的五级地震。",
           "url": "https://flash.jin10.com/detail/20260719104739497800",
           "source": "金十数据",
@@ -1891,6 +2073,17 @@
           "time_info": "13时49分"
         },
         {
+          "title": "伊朗谴责美国对在建核电站发动“恐怖袭击”",
+          "url": "https://wallstreetcn.com/livenews/3136236",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时55分"
+        },
+        {
           "title": "据沙特媒体哈达斯：以色列安全消息人士表示，伊朗最高领袖穆罕默德·穆杰塔巴·哈梅内伊目前不在伊朗境内。",
           "url": "https://flash.jin10.com/detail/20260719140631561800",
           "source": "金十数据",
@@ -1900,6 +2093,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时10分"
+        },
+        {
+          "title": "巴林称拦截伊朗导弹和无人机",
+          "url": "https://flash.jin10.com/detail/20260719183054706800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时55分"
         },
         {
           "title": "伊朗展开“闪电”行动第17阶段打击",
@@ -1913,6 +2117,17 @@
           "time_info": "16时10分"
         },
         {
+          "title": "天数智芯WAIC发布新一代通用GPU旗舰产品天垓300",
+          "url": "https://wallstreetcn.com/livenews/3136235",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时55分"
+        },
+        {
           "title": "长飞光纤总裁庄丹：未来一两年保偏光纤需求增长在10倍甚至20倍级",
           "url": "https://flash.jin10.com/detail/20260718222052278800",
           "source": "金十数据",
@@ -1922,6 +2137,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时54分"
+        },
+        {
+          "title": "据伊朗迈赫尔通讯社：伊朗原子能组织谴责美国对达尔霍文在建核电站的空袭，称其为“违反国际法的罪行”。",
+          "url": "https://flash.jin10.com/detail/20260719183026984800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时55分"
         },
         {
           "title": "上海“星枢计划”首发星座在WAIC正式发布",
@@ -1963,9 +2189,20 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时25分"
+        },
+        {
+          "title": "讯飞AI大学堂WAIC2026推出AI Learning与AI Vault",
+          "url": "https://wallstreetcn.com/livenews/3136234",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时55分"
         },
         {
           "title": "伊朗塔斯尼姆通讯社援引当地官员的话称，美国军方瞄准了靠近（西南部胡齐斯坦省）沙德甘的一个地点。",
@@ -1990,6 +2227,17 @@
           "time_info": "10时22分"
         },
         {
+          "title": "九章云极在WAIC发布“AI工厂”及九章智算云3.0",
+          "url": "https://wallstreetcn.com/livenews/3136233",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时55分"
+        },
+        {
           "title": "伊朗国家电视台援引伊朗军方的话称，伊朗在科威特的两个基地针对美国军方资产进行了打击。",
           "url": "https://flash.jin10.com/detail/20260719103708109800",
           "source": "金十数据",
@@ -2007,7 +2255,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时25分"
         },
@@ -2018,9 +2266,20 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时25分"
+        },
+        {
+          "title": "巴林称拦截伊朗导弹和无人机",
+          "url": "https://wallstreetcn.com/livenews/3136231",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时55分"
         },
         {
           "title": "寻汇联合万事达卡发布B2B行业首份AI智能体全球支付白皮书",
@@ -2032,6 +2291,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时54分"
+        },
+        {
+          "title": "人一旦开始用AI后",
+          "url": "https://s.weibo.com/weibo?q=%E4%BA%BA%E4%B8%80%E6%97%A6%E5%BC%80%E5%A7%8B%E7%94%A8AI%E5%90%8E&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时55分"
         }
       ]
     }
