@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-20T06:48:36.712246+08:00",
-  "total_titles_processed": 566,
+  "generated_at": "2026-07-20T07:54:35.684549+08:00",
+  "total_titles_processed": 655,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai ai+ ai人工智能 人工智能 风险识别 商业风险识别 痛点 需求 商业风险 伊朗 rwa 趋势 热点 热门",
-      "match_count": 59,
+      "match_count": 66,
       "titles": [
         {
           "title": "特朗普最新发声！美军连续八天夜袭伊朗 美国发布全球安全警示",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时55分 ~ 06时48分]"
+          "appearance_count": 10,
+          "time_info": "[00时55分 ~ 07时54分]"
         },
         {
           "title": "伊朗导弹击中美军基地，火光四溅，有人大喊快撤",
@@ -27,8 +27,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时56分 ~ 06时48分]"
+          "appearance_count": 9,
+          "time_info": "[01时56分 ~ 07时54分]"
         },
         {
           "title": "美军对伊朗发动新一轮空袭，约旦美军基地5天遭4袭，美军两人死亡，伊朗最高领袖强调将给美国留下“刻骨铭心的教训”",
@@ -38,19 +38,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时55分 ~ 06时48分]"
-        },
-        {
-          "title": "世界人工智能合作组织重要阶段性进展",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%96%E7%95%8C%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%90%88%E4%BD%9C%E7%BB%84%E7%BB%87%E9%87%8D%E8%A6%81%E9%98%B6%E6%AE%B5%E6%80%A7%E8%BF%9B%E5%B1%95%23&t=31&band_rank=3&Refer=top",
-          "source": "微博",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时55分 ~ 04时11分]"
+          "appearance_count": 9,
+          "time_info": "[00时55分 ~ 07时54分]"
         },
         {
           "title": "如何看待 OpenAI 战略未来负责人对 kimi k3 开源的公开发言？",
@@ -64,8 +53,19 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时55分 ~ 06时48分]"
+          "appearance_count": 10,
+          "time_info": "[00时55分 ~ 07时54分]"
+        },
+        {
+          "title": "世界人工智能合作组织重要阶段性进展",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%96%E7%95%8C%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%90%88%E4%BD%9C%E7%BB%84%E7%BB%87%E9%87%8D%E8%A6%81%E9%98%B6%E6%AE%B5%E6%80%A7%E8%BF%9B%E5%B1%95%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时55分 ~ 04时11分]"
         },
         {
           "title": "【早报】伊朗已停止履行伊美谅解备忘录；天孚通信披露上半年业绩预告",
@@ -77,8 +77,22 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时55分 ~ 06时48分]"
+          "appearance_count": 10,
+          "time_info": "[00时55分 ~ 07时54分]"
+        },
+        {
+          "title": "人工智能换了一种“打开方式”|WAIC观察",
+          "url": "https://www.cls.cn/detail/2430557",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时55分 ~ 07时54分]"
         },
         {
           "title": "直击WAIC 2026：“全球AI for ADANES核能智能体系”来了，破解核安全与AI黑箱难题",
@@ -89,21 +103,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时55分 ~ 06时48分]"
-        },
-        {
-          "title": "人工智能换了一种“打开方式”|WAIC观察",
-          "url": "https://www.cls.cn/detail/2430557",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时55分 ~ 06时48分]"
+          "appearance_count": 10,
+          "time_info": "[00时55分 ~ 07时54分]"
         },
         {
           "title": "华为、阿里等集体亮剑 超节点多成果亮相WAIC 国产算力向互联和系统集成延伸",
@@ -114,8 +115,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时55分 ~ 06时48分]"
+          "appearance_count": 10,
+          "time_info": "[00时55分 ~ 07时54分]"
         },
         {
           "title": "Kimi K3让全球AI圈炸锅了",
@@ -130,8 +131,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时55分 ~ 06时48分]"
+          "appearance_count": 10,
+          "time_info": "[00时55分 ~ 07时54分]"
         },
         {
           "title": "成立世界人工智能合作组织，中国参与全球治理核心战略的历史性转型",
@@ -142,8 +143,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时55分 ~ 06时48分]"
+          "appearance_count": 10,
+          "time_info": "[00时55分 ~ 07时54分]"
         },
         {
           "title": "协议成废纸,伊朗掀桌硬刚美国",
@@ -154,8 +155,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时55分 ~ 06时48分]"
+          "appearance_count": 10,
+          "time_info": "[00时55分 ~ 07时54分]"
         },
         {
           "title": "AI算力需求与产品结构优化双轮驱动，新易盛上半年净利同比预增78%～103%｜财报见闻",
@@ -166,8 +167,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时55分 ~ 06时48分]"
+          "appearance_count": 9,
+          "time_info": "[00时55分 ~ 07时54分]"
         },
         {
           "title": "伊朗让美军付出重大代价",
@@ -179,6 +180,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时55分"
+        },
+        {
+          "title": "伊朗塔斯尼姆通讯社：伊朗西南部的马赫沙赫尔港（Bandar Mahshahr）和伊玛目霍梅尼港（Bandar Imam Khomeini）传出了数声爆炸巨响。",
+          "url": "https://flash.jin10.com/detail/20260720073447211800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时54分"
         },
         {
           "title": "月之暗面将推出新模型 KimiK3，将给 AI 市场带来哪些新冲击？",
@@ -200,9 +212,31 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时48分"
+        },
+        {
+          "title": "据伊朗Press TV：有消息指美国对伊朗城市大不里士发动了打击。",
+          "url": "https://flash.jin10.com/detail/20260720072937572800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时54分"
+        },
+        {
+          "title": "科威特军方称拦截伊朗无人机袭击。（法新社）",
+          "url": "https://wallstreetcn.com/livenews/3136385",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时54分"
         },
         {
           "title": "《人工智能发展与安全倡议书》发布：为构建安全、可信、可控的人工智能共同奋斗",
@@ -218,15 +252,26 @@
           "time_info": "[00时55分 ~ 04时11分]"
         },
         {
-          "title": "周一亚市盘初，布油、WTI原油期货高开2%，美国和伊朗在中东地区冲突加剧。 布油期货突破90美元/桶，为6月11日以来首次。",
-          "url": "https://wallstreetcn.com/livenews/3136359",
+          "title": "美国中央司令部开始对伊朗进行新一轮打击，已于美国东部时间晚上7点开始对伊朗进行空袭。",
+          "url": "https://wallstreetcn.com/livenews/3136384",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时48分"
+          "time_info": "07时54分"
+        },
+        {
+          "title": "美军连续第九晚打击伊朗",
+          "url": "https://flash.jin10.com/detail/20260720071722833800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时54分"
         },
         {
           "title": "据科威特国家通讯社：科威特谴责伊朗针对一处电力及海水淡化设施发动的袭击。伊朗应对针对民用基础设施的袭击承担全部责任。",
@@ -364,6 +409,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时55分 ~ 03时02分]"
+        },
+        {
+          "title": "周一亚市盘初，布油、WTI原油期货高开2%，美国和伊朗在中东地区冲突加剧。 布油期货突破90美元/桶，为6月11日以来首次。",
+          "url": "https://wallstreetcn.com/livenews/3136359",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时48分 ~ 07时54分]"
         },
         {
           "title": "卡塔尔外交部：卡塔尔首相与约旦副首相通话，谴责伊朗袭击约旦。",
@@ -627,6 +684,18 @@
           "time_info": "[05时49分 ~ 06时48分]"
         },
         {
+          "title": "美国打伊朗越打越尴尬",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E6%89%93%E4%BC%8A%E6%9C%97%E8%B6%8A%E6%89%93%E8%B6%8A%E5%B0%B4%E5%B0%AC%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时48分 ~ 07时54分]"
+        },
+        {
           "title": "毕马威中国主席：AI正加速转变为经济增长的核心引擎",
           "url": "https://wallstreetcn.com/livenews/3136278",
           "source": "华尔街见闻-快讯",
@@ -636,6 +705,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时55分 ~ 01时56分]"
+        },
+        {
+          "title": "台积电CFO：看到AI芯片有“强劲且可持续多年”的需求。 亚利桑那州工厂建设存在物理制约因素，正与美国政府紧密合作。 若市场时机有利，不排除发行债券来资助资本支出。",
+          "url": "https://wallstreetcn.com/livenews/3136379",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时54分"
+        },
+        {
+          "title": "台积电(TSM.N)首席财务官：AI芯片需求“强劲且将持续多年”。",
+          "url": "https://flash.jin10.com/detail/20260720070039657800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时54分"
         },
         {
           "title": "光通信全线预告高增，产业真实需求坚挺",
@@ -713,17 +804,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时49分"
-        },
-        {
-          "title": "美国打伊朗越打越尴尬",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E6%89%93%E4%BC%8A%E6%9C%97%E8%B6%8A%E6%89%93%E8%B6%8A%E5%B0%B4%E5%B0%AC%23&t=31&band_rank=30&Refer=top",
-          "source": "微博",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时48分"
         }
       ]
     }
