@@ -1,219 +1,12 @@
 {
-  "generated_at": "2026-07-22T23:38:12.588562+08:00",
-  "total_titles_processed": 1596,
+  "generated_at": "2026-07-23T01:13:57.185990+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai ai+ ai人工智能 人工智能 风险识别 商业风险识别 痛点 需求 商业风险 伊朗 rwa 趋势 热点 热门",
-      "match_count": 165,
+      "match_count": 21,
       "titles": [
-        {
-          "title": "世界人工智能大会达成丰硕成果",
-          "url": "https://www.toutiao.com/trending/7664544012321426987/",
-          "source": "今日头条",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时14分 ~ 10时13分]"
-        },
-        {
-          "title": "AMD AI大会前英伟达秀亮CPU“战果”，Vera Rubin全面量产，超300合作伙伴部署",
-          "url": "https://wallstreetcn.com/articles/3777595",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时13分 ~ 23时38分]"
-        },
-        {
-          "title": "情侣用 AI 判断菌子毒性采了 10 余斤，被本地小孩哥筛选只剩 2 斤，AI 和小孩哥谁的判断更准？为啥会有不同？",
-          "url": "https://www.zhihu.com/question/2062587249968129781",
-          "source": "知乎",
-          "ranks": [
-            13,
-            2,
-            1,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时54分 ~ 19时07分]"
-        },
-        {
-          "title": "伊朗还有两大杀手锏",
-          "url": "https://news.ifeng.com/c/8uwrsyeC1bU",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时14分 ~ 10时13分]"
-        },
-        {
-          "title": "英媒爆料：中美正计划9月举行AI会谈",
-          "url": "https://news.ifeng.com/c/8uwidXo8t4N",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时14分 ~ 07时54分]"
-        },
-        {
-          "title": "网友发现很多 KTV 都没有 MV 了，全是奇怪的 AI 画面，为什么会这样？你有遇到这种情况吗？",
-          "url": "https://www.zhihu.com/question/2061915732447687216",
-          "source": "知乎",
-          "ranks": [
-            12,
-            5,
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时14分 ~ 10时13分]"
-        },
-        {
-          "title": "Kimi 员工震惊和 OpenAI 算力的差距，为什么在这么大差距下 Kimi 还能做出来 K3 ？",
-          "url": "https://www.zhihu.com/question/2062943431668789795",
-          "source": "知乎",
-          "ranks": [
-            20,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时13分 ~ 19时07分]"
-        },
-        {
-          "title": "约旦称拦截并击落3枚自伊朗发射的导弹",
-          "url": "https://news.ifeng.com/c/8uvTwaa2evE",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时14分 ~ 06时54分]"
-        },
-        {
-          "title": "美股AI概念盘前昂扬齐涨 美伊战火仍在持续 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2433005",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时14分 ~ 10时13分]"
-        },
-        {
-          "title": "OpenAI负责人抨击Kimi开源",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356366&amp;topic_name=OpenAI%E8%B4%9F%E8%B4%A3%E4%BA%BA%E6%8A%A8%E5%87%BBKimi%E5%BC%80%E6%BA%90",
-          "source": "贴吧",
-          "ranks": [
-            22,
-            24,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时14分 ~ 13时47分]"
-        },
-        {
-          "title": "两个AI演员比内娱待爆艺人都火",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%A4%E4%B8%AAAI%E6%BC%94%E5%91%98%E6%AF%94%E5%86%85%E5%A8%B1%E5%BE%85%E7%88%86%E8%89%BA%E4%BA%BA%E9%83%BD%E7%81%AB",
-          "source": "百度热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时06分 ~ 21时43分]"
-        },
-        {
-          "title": "历史性调仓！AI硬科技接管公募核心仓位，消费股罕见缺席十大重仓",
-          "url": "https://www.cls.cn/detail/2433795",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时22分 ~ 19时07分]"
-        },
-        {
-          "title": "AI交易热情回落，美股盘前存储芯片股普跌，SK海力士跌约5%，日韩股市几乎抹去涨幅，金银走强",
-          "url": "https://wallstreetcn.com/articles/3777614",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时06分 ~ 21时43分]"
-        },
-        {
-          "title": "看见中国AI产业的“硬核家底”",
-          "url": "https://www.toutiao.com/trending/7664428554470113321/",
-          "source": "今日头条",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时22分 ~ 19时07分]"
-        },
-        {
-          "title": "别再给AI乱传文件了",
-          "url": "https://s.weibo.com/weibo?q=%E5%88%AB%E5%86%8D%E7%BB%99AI%E4%B9%B1%E4%BC%A0%E6%96%87%E4%BB%B6%E4%BA%86&t=31&band_rank=28&Refer=top",
-          "source": "微博",
-          "ranks": [
-            28,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时06分 ~ 23时38分]"
-        },
-        {
-          "title": "AI“斯普特尼克时刻”！Kimi K3震动硅谷，Stability AI联合创始人：推理成本还有10至50倍下降空间",
-          "url": "https://wallstreetcn.com/articles/3777546",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[05时04分 ~ 16时22分]"
-        },
-        {
-          "title": "两个AI演员比内娱待爆艺人都火",
-          "url": "https://s.weibo.com/weibo?q=%E4%B8%A4%E4%B8%AAAI%E6%BC%94%E5%91%98%E6%AF%94%E5%86%85%E5%A8%B1%E5%BE%85%E7%88%86%E8%89%BA%E4%BA%BA%E9%83%BD%E7%81%AB&t=31&band_rank=17&Refer=top",
-          "source": "微博",
-          "ranks": [
-            17,
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时22分 ~ 21时43分]"
-        },
         {
           "title": "AI交易热情回落，美股盘初走低，存储芯片、光通信股普跌，SK海力士跌5%，布油涨近3%",
           "url": "https://wallstreetcn.com/articles/3777614",
@@ -222,369 +15,85 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时37分 ~ 23时38分]"
-        },
-        {
-          "title": "美股存储概念全线爆发！华尔街喊话坚守AI硬件股：Kimi K3将催生新需求",
-          "url": "https://www.cls.cn/detail/2433303",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时13分 ~ 16时22分]"
-        },
-        {
-          "title": "用AI通关高难度跑步游戏",
-          "url": "https://search.bilibili.com/all?keyword=%E7%94%A8AI%E9%80%9A%E5%85%B3%E9%AB%98%E9%9A%BE%E5%BA%A6%E8%B7%91%E6%AD%A5%E6%B8%B8%E6%88%8F",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时37分 ~ 23时38分]"
-        },
-        {
-          "title": "特朗普：可能很快打击伊朗“镐山”核设施",
-          "url": "https://news.ifeng.com/c/8ux7TemK3px",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时54分 ~ 10时13分]"
+          "appearance_count": 1,
+          "time_info": "01时13分"
         },
         {
           "title": "6000亿美元→7500亿美元 OpenAI被曝大幅提高算力支出预测",
           "url": "https://www.cls.cn/detail/2434359",
           "source": "财联社热门",
           "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时37分 ~ 23时38分]"
-        },
-        {
-          "title": "伊朗警告保加利亚勿为美军提供便利",
-          "url": "https://flash.jin10.com/detail/20260722005010964800",
-          "source": "金十数据",
-          "ranks": [
-            1
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时14分"
+          "time_info": "01时13分"
         },
         {
-          "title": "核能企业Oklo和X-energy已加入特朗普政府推动的新核反应堆建设计划，旨在加快为人工智能数据中心提供能源支持。",
-          "url": "https://flash.jin10.com/detail/20260722044021391800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时04分"
-        },
-        {
-          "title": "恒生科技指数跌超3%，PCB、AI应用、明星科网等概念跌幅居前。",
-          "url": "https://flash.jin10.com/detail/20260722132845931800",
+          "title": "海湾合作委员会秘书长：伊朗的行为破坏了国际上努力实现稳定的行动。呼吁联合国安理会和国际社会制止伊朗的侵略和攻击。",
+          "url": "https://flash.jin10.com/detail/20260723004714905800",
           "source": "金十数据",
           "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时47分"
+          "time_info": "01时13分"
         },
         {
-          "title": "伊朗前外长：伊朗有夺取美基地能力，警告乌克兰勿要提供无人机",
-          "url": "https://wallstreetcn.com/livenews/3138313",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时38分"
-        },
-        {
-          "title": "创业板指跌超2%，游戏、人形机器人、刀片电池、AI应用等板块跌幅居前。",
-          "url": "https://flash.jin10.com/detail/20260722132800834800",
+          "title": "Reddit(RDDT.O)现跌8.74%，此前一度跌超10%，消息称Reddit不再续签谷歌AI合作内容协议。",
+          "url": "https://flash.jin10.com/detail/20260723004322768800",
           "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时47分"
-        },
-        {
-          "title": "伊朗最高联合军事指挥部：如果美国袭击伊朗核设施，地区内所有美国及其盟友的利益都将成为目标。",
-          "url": "https://wallstreetcn.com/livenews/3137757",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时04分"
-        },
-        {
-          "title": "“看到AI脸产生生理性厌恶”",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E7%9C%8B%E5%88%B0AI%E8%84%B8%E4%BA%A7%E7%94%9F%E7%94%9F%E7%90%86%E6%80%A7%E5%8E%8C%E6%81%B6%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            1,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时46分 ~ 16时22分]"
-        },
-        {
-          "title": "伊拉克总理将应伊朗总统邀请访问德黑兰。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3138168",
-          "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时07分"
-        },
-        {
-          "title": "SpaceXAI正在探索在得州扩建数据中心。（The Information）",
-          "url": "https://wallstreetcn.com/livenews/3138240",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时43分"
-        },
-        {
-          "title": "震惊硅谷！OpenAI模型“失控越狱”，入侵HuggingFace“抄答案”，智谱GLM 5.2临危救场",
-          "url": "https://wallstreetcn.com/articles/3777627",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时06分 ~ 23时38分]"
-        },
-        {
-          "title": "特朗普点名伊朗镐山地下核设施：将很快发动猛烈打击",
-          "url": "https://www.cls.cn/detail/2433190",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时54分 ~ 13时47分]"
-        },
-        {
-          "title": "复刻“DeepSeek时刻”？华尔街齐称：Kimi K3反而强化算力需求",
-          "url": "https://wallstreetcn.com/articles/3777510",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时14分 ~ 07时54分]"
-        },
-        {
-          "title": "专访UCL教授：AI正抽走职业梯子的最底层，大学必须补上这一环",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33622414",
-          "source": "澎湃新闻",
-          "ranks": [
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时14分 ~ 07时54分]"
-        },
-        {
-          "title": "王祖贤AI人脸授权代言游戏IP",
-          "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E7%A5%96%E8%B4%A4AI%E4%BA%BA%E8%84%B8%E6%8E%88%E6%9D%83%E4%BB%A3%E8%A8%80%E6%B8%B8%E6%88%8FIP",
-          "source": "百度热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时13分"
-        },
-        {
-          "title": "据日经新闻：英伟达与纬创（Wistron）将在美国得克萨斯州生产Blackwell AI服务器。",
-          "url": "https://flash.jin10.com/detail/20260722064209185800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时54分"
-        },
-        {
-          "title": "OpenAI推出工作流程AI智能体部署产品 面向企业客户",
-          "url": "https://wallstreetcn.com/livenews/3138239",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时43分"
-        },
-        {
-          "title": "特朗普：伊朗想会谈但美国“没兴趣”，“很快”重击镐山核设施，警告胡塞武装勿封红海",
-          "url": "https://wallstreetcn.com/articles/3777603",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时06分 ~ 23时38分]"
-        },
-        {
-          "title": "如何看待申真谞二比一战胜围棋人工智能「KataGo」？",
-          "url": "https://www.zhihu.com/question/2062927366180157304",
-          "source": "知乎",
-          "ranks": [
-            4,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时54分 ~ 10时13分]"
-        },
-        {
-          "title": "AI算力需求驱动+产品涨价，半导体产业链上半年业绩大面积预增",
-          "url": "https://wallstreetcn.com/livenews/3137778",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时54分 ~ 07时54分]"
-        },
-        {
-          "title": "特朗普称很快重击伊朗镐山核设施",
-          "url": "https://wallstreetcn.com/livenews/3137693",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时14分 ~ 03时15分]"
-        },
-        {
-          "title": "特朗普称将打击伊朗地下核设施 美官员暗示将很快出台新关税 | 环球市场",
-          "url": "https://www.cls.cn/detail/2433256",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时13分 ~ 13时47分]"
-        },
-        {
-          "title": "人工智能专业“杀疯了” 分数普涨",
-          "url": "https://www.baidu.com/s?wd=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E4%B8%93%E4%B8%9A%E2%80%9C%E6%9D%80%E7%96%AF%E4%BA%86%E2%80%9D+%E5%88%86%E6%95%B0%E6%99%AE%E6%B6%A8",
-          "source": "百度热搜",
-          "ranks": [
-            9,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时13分 ~ 13时47分]"
-        },
-        {
-          "title": "AI动量交易面临挑战，高盛：对冲基金过去两个月创纪录抛售美国科技股",
-          "url": "https://wallstreetcn.com/articles/3777491",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时14分 ~ 05时04分]"
-        },
-        {
-          "title": "国际油价持续拉升！特朗普盯上的伊朗“镐山”有什么奥秘？",
-          "url": "https://www.cls.cn/detail/2434152",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时43分 ~ 23时38分]"
-        },
-        {
-          "title": "伊朗海军同时从3个方向猛烈打击美军",
-          "url": "https://www.toutiao.com/trending/7663674772672512009/",
-          "source": "今日头条",
-          "ranks": [
-            19,
-            28,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时15分 ~ 06时54分]"
+          "time_info": "01时13分"
         },
         {
           "title": "云支出目标狂飙至7500亿美元！OpenAI豪掷超300亿美元建数据中心，推出Presence平台进军企业软件市场",
           "url": "https://wallstreetcn.com/articles/3777699",
           "source": "华尔街见闻",
           "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时13分"
+        },
+        {
+          "title": "别再给AI乱传文件了",
+          "url": "https://s.weibo.com/weibo?q=%E5%88%AB%E5%86%8D%E7%BB%99AI%E4%B9%B1%E4%BC%A0%E6%96%87%E4%BB%B6%E4%BA%86&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时37分 ~ 23时38分]"
+          "appearance_count": 1,
+          "time_info": "01时13分"
         },
         {
-          "title": "期货热点追踪",
-          "url": "https://flash.jin10.com/detail/20260722100547521800",
-          "source": "金十数据",
+          "title": "震惊硅谷！OpenAI模型“失控越狱”，入侵HuggingFace“抄答案”，智谱GLM 5.2临危救场",
+          "url": "https://wallstreetcn.com/articles/3777627",
+          "source": "华尔街见闻",
           "ranks": [
-            6,
-            18
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时13分 ~ 13时47分]"
+          "appearance_count": 1,
+          "time_info": "01时13分"
+        },
+        {
+          "title": "用AI通关高难度跑步游戏",
+          "url": "https://search.bilibili.com/all?keyword=%E7%94%A8AI%E9%80%9A%E5%85%B3%E9%AB%98%E9%9A%BE%E5%BA%A6%E8%B7%91%E6%AD%A5%E6%B8%B8%E6%88%8F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时13分"
         },
         {
           "title": "为什么要说尽量少跟AI倾诉聊天",
@@ -594,66 +103,41 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时37分 ~ 23时38分]"
+          "appearance_count": 1,
+          "time_info": "01时13分"
         },
         {
-          "title": "周二（7月21日），美股存储芯片与硬件供应链指数涨11.12%，报213.46点。 成分股闪迪收涨14.27%，西部数据、美光科技、泰瑞达、希捷科技涨12.51%-11.14%紧随其后，应用材料、拉姆研究、Rambus也至少涨4.90%。 美国科技股七巨头（Magnificent 7）指数涨0.12%，报217.46点。 “超大”市值科技股指数涨1.24%，报436.57点。 美股超大规模云服务商（Hyperscalers）跌0.45%，报92.19点。 信息科技指数涨5.98%，报400.79点。 人工智能（AI）赢家指数涨5.99%，报401.39点。 AI软件先驱指数跌1.08%，报108.27点。 北美科技软件股指数ETF跌1.25%，报91.82美元；Global X网络安全ETF跌2.82%，纳斯达克网络安全ETF跌1.32%，ETFMG网络安全ETF跌1.98%",
-          "url": "https://wallstreetcn.com/livenews/3137752",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时04分 ~ 06时54分]"
-        },
-        {
-          "title": "特朗普暗示美军将对伊朗发动强硬报复：每杀害一名美国士兵将付出数倍代价",
-          "url": "https://wallstreetcn.com/articles/3777496",
+          "title": "特朗普：伊朗想会谈但美国“没兴趣”，“很快”重击镐山核设施，警告胡塞武装勿封红海",
+          "url": "https://wallstreetcn.com/articles/3777603",
           "source": "华尔街见闻",
           "ranks": [
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时14分 ~ 03时15分]"
+          "appearance_count": 1,
+          "time_info": "01时13分"
         },
         {
-          "title": "Oklo与X-Energy加入美国总统特朗普设法加速面向AI的核反应堆的行动。 Oklo美股盘后涨6%，X-Energy涨超10%。",
-          "url": "https://wallstreetcn.com/livenews/3137751",
-          "source": "华尔街见闻-快讯",
+          "title": "AMD首次押注Anthropic：最高投资50亿美元 并锁定数百亿美元AI服务器订单",
+          "url": "https://www.cls.cn/detail/2434311",
+          "source": "财联社热门",
           "ranks": [
-            9,
-            26
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时04分 ~ 06时54分]"
+          "appearance_count": 1,
+          "time_info": "01时13分"
         },
         {
           "title": "海外燃机发电机组需求增加 杰瑞股份子公司再揽近百亿元大订单|速读公告",
           "url": "https://www.cls.cn/detail/2434175",
           "source": "财联社热门",
           "ranks": [
-            10
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时37分 ~ 23时38分]"
-        },
-        {
-          "title": "特朗普“淡化”与伊朗谈判可能性，并称将在红海航运受威胁时出手",
-          "url": "https://wallstreetcn.com/livenews/3137767",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时54分 ~ 07时54分]"
+          "appearance_count": 1,
+          "time_info": "01时13分"
         },
         {
           "title": "从“靠天发电”到可控发电：光伏告别规模扩张后 AI与光储融合构筑新增长底座",
@@ -663,8 +147,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时37分 ~ 23时38分]"
+          "appearance_count": 1,
+          "time_info": "01时13分"
         },
         {
           "title": "前所未有的人工智能失控事故！中方救场",
@@ -674,31 +158,30 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时37分 ~ 23时38分]"
+          "appearance_count": 1,
+          "time_info": "01时13分"
         },
         {
-          "title": "特朗普称将打击伊朗核设施",
-          "url": "https://www.toutiao.com/trending/7665119295965236786/",
-          "source": "今日头条",
-          "ranks": [
-            18,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时54分 ~ 10时13分]"
-        },
-        {
-          "title": "英伟达发布Vera CPU新细节 AI服务器市场再开新战场",
-          "url": "https://www.cls.cn/detail/2433181",
+          "title": "国际油价持续拉升！特朗普盯上的伊朗“镐山”有什么奥秘？",
+          "url": "https://www.cls.cn/detail/2434152",
           "source": "财联社热门",
           "ranks": [
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时46分 ~ 13时47分]"
+          "appearance_count": 1,
+          "time_info": "01时13分"
+        },
+        {
+          "title": "OpenAI 模型「失控」入侵全球最大 AI 开源社区，敲响了哪些 AI 安全警钟？",
+          "url": "https://www.zhihu.com/question/2063264614834336987",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时13分"
         },
         {
           "title": "OpenAI遭遇史上首次评测失控事故",
@@ -708,1164 +191,52 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时37分 ~ 23时38分]"
+          "appearance_count": 1,
+          "time_info": "01时13分"
         },
         {
-          "title": "人工智能 文科生",
-          "url": "https://s.weibo.com/weibo?q=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%20%E6%96%87%E7%A7%91%E7%94%9F&t=31&band_rank=20&Refer=top",
-          "source": "微博",
+          "title": "据伊朗塔斯尼姆通讯社：伊拉克埃尔比勒传出爆炸声。",
+          "url": "https://flash.jin10.com/detail/20260723001929728800",
+          "source": "金十数据",
           "ranks": [
-            20,
-            19
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时54分 ~ 10时13分]"
+          "appearance_count": 1,
+          "time_info": "01时13分"
         },
         {
           "title": "伊朗袭击亚马逊公司设施",
           "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E8%A2%AD%E5%87%BB%E4%BA%9A%E9%A9%AC%E9%80%8A%E5%85%AC%E5%8F%B8%E8%AE%BE%E6%96%BD",
           "source": "百度热搜",
           "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时37分 ~ 23时38分]"
-        },
-        {
-          "title": "据The Information：Meta Platforms(META.O)的AI孵化器正在开发OpenRouter的竞品，旨在降低编码成本。",
-          "url": "https://flash.jin10.com/detail/20260722064010298800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时54分"
-        },
-        {
-          "title": "鲁比奥：美国仍愿意就伊朗问题进行谈判",
-          "url": "https://flash.jin10.com/detail/20260722184347055800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时07分"
-        },
-        {
-          "title": "如果美国踏上伊朗的陆地，伊朗将全力反击。（伊朗国家电视台）",
-          "url": "https://wallstreetcn.com/livenews/3138079",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时22分"
-        },
-        {
-          "title": "OpenAI将云支出预期上调至7500亿美元。OpenAI聘请xAI资深人士Brent Mayo。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3138238",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时43分"
-        },
-        {
-          "title": "OpenAI上调云服务支出预测至7000亿美元 斥资300亿美元建数据中心",
-          "url": "https://flash.jin10.com/detail/20260722211006292800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时43分"
-        },
-        {
-          "title": "伊朗称已部署新防空系统。（伊朗媒体IRNA）",
-          "url": "https://wallstreetcn.com/livenews/3137713",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时15分"
-        },
-        {
-          "title": "AI逃离沙盒 OpenAI认下Hugging Face被黑事件",
-          "url": "https://wallstreetcn.com/livenews/3137753",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时04分"
-        },
-        {
-          "title": "据报道，OpenAI计划斥资超过300亿美元建设新的数据中心。",
-          "url": "https://wallstreetcn.com/livenews/3138236",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时43分"
-        },
-        {
-          "title": "AI交易热情午后回落，韩股涨幅收窄至2%，日股转跌，金银走强",
-          "url": "https://wallstreetcn.com/articles/3777614",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时22分"
-        },
-        {
-          "title": "AI交换芯片走到聚光灯下：英伟达发布Spectrum-6 或推动Token生成能力倍增",
-          "url": "https://www.cls.cn/detail/2433429",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时22分"
-        },
-        {
-          "title": "伊朗外长阿拉格齐与法国外长巴罗通话，伊朗外长阿拉格齐指责法国外交官在德黑兰行为不可接受，并称霍尔木兹海峡局势升级责任在美国。",
-          "url": "https://flash.jin10.com/detail/20260722002835074800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时14分"
-        },
-        {
-          "title": "据伊朗塔斯尼姆通讯社：伊拉克消息人士称，因伊拉克库尔德地区近期遭遇火箭弹和无人机袭击，埃尔比勒国际机场已暂停运营。",
-          "url": "https://flash.jin10.com/detail/20260722022003980800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时15分"
-        },
-        {
-          "title": "特朗普：若伊朗袭击霍尔木兹海峡船只 美将摧毁其桥梁或发电厂",
-          "url": "https://wallstreetcn.com/livenews/3138231",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时43分"
-        },
-        {
-          "title": "巴基斯坦政府：巴基斯坦总理会见伊朗内政部长，伊朗内政部长肯定了巴基斯坦方面为促成伊斯兰堡谅解备忘录作出的努力。",
-          "url": "https://flash.jin10.com/detail/20260722002000799800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时14分"
-        },
-        {
-          "title": "据伊通社（IRNA）：伊朗军方发言人称，目前伊朗武装力量的防御部署范围并不局限于边境。",
-          "url": "https://flash.jin10.com/detail/20260722021718018800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时15分"
-        },
-        {
-          "title": "据伊朗国家电视台：如果美国在伊朗土地上采取行动，伊朗将全力以赴进行反击。",
-          "url": "https://flash.jin10.com/detail/20260722160100035800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时22分"
-        },
-        {
-          "title": "CoreWeave首席执行官称，公司正在大规模部署AI基础设施，公司在构建AI原生云方面走在正确的道路上，此外，随着AI云收入增长，折旧的会计影响将减小。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3137710",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时15分"
-        },
-        {
-          "title": "伊朗称目前没有与美国进行任何磋商。伊朗称与美国“信息交流”是可能的。（迈赫尔通讯社）",
-          "url": "https://wallstreetcn.com/livenews/3138074",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时22分"
-        },
-        {
-          "title": "约旦称击落伊朗4枚导弹和4架无人机",
-          "url": "https://wallstreetcn.com/livenews/3138158",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时07分"
-        },
-        {
-          "title": "浙江：有计划有步骤推进人工智能重大项目谋划储备实施加快打造人工智能创新发展高地",
-          "url": "https://wallstreetcn.com/livenews/3138230",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时43分"
-        },
-        {
-          "title": "AI 的「最后一公里」，应该怎么走？",
-          "url": "https://www.zhihu.com/parker/campaign/2058682220576035800?zh_hide_nav_bar=true",
-          "source": "知乎",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时22分"
-        },
-        {
-          "title": "史无前例！OpenAI模型“失控”攻入全球最大AI开源社区 中国开源模型参与取证",
-          "url": "https://www.cls.cn/detail/2433554",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时22分"
-        },
-        {
-          "title": "卡塔尔外交部强烈谴责伊朗再次袭击约旦、巴林和科威特，并指责伊朗在科威特油轮通过霍尔木兹海峡期间对其发动袭击。",
-          "url": "https://flash.jin10.com/detail/20260722021531809800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时15分"
-        },
-        {
-          "title": "AI逃离沙盒 OpenAI认下Hugging Face被黑事件",
-          "url": "https://flash.jin10.com/detail/20260722043419801800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时04分"
-        },
-        {
-          "title": "白宫拟将数千亿美元科研资金向AI和个人科学家倾斜",
-          "url": "https://flash.jin10.com/detail/20260722062234546800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时54分"
-        },
-        {
-          "title": "伊朗媒体Fars News：伊朗南部锡里克（Sirik）周边地区传出数声爆炸。",
-          "url": "https://flash.jin10.com/detail/20260722073534571800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时54分"
-        },
-        {
-          "title": "高通(QCOM.O)：三星推出首款搭载骁龙处理器并集成个人AI的智能手表平台。",
-          "url": "https://flash.jin10.com/detail/20260722210801763800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时43分"
-        },
-        {
-          "title": "特朗普对伊态度转鹰，OpenAI智能体测试中突破隔离| Plus日报",
-          "url": "https://flash.jin10.com/detail/20260722230716718800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时38分"
-        },
-        {
-          "title": "美国国务卿鲁比奥：美国致力于通过外交途径处理中东及伊朗问题。 美国仍然持开放态度，愿意进行谈判。 伊朗对待谈判缺乏诚意。",
-          "url": "https://wallstreetcn.com/livenews/3137851",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时13分"
-        },
-        {
-          "title": "韩国总统将于7月24日起访问旧金山，将会见大型科技公司CEO，并出席AI峰会。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3138073",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时22分"
-        },
-        {
-          "title": "据伊通社（IRNA）：伊朗军方发言人表示，伊朗已完成部分受损防空系统修复，并将新型防空装备纳入作战体系，大幅提升防空能力。",
-          "url": "https://flash.jin10.com/detail/20260722021420606800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时15分"
-        },
-        {
-          "title": "赫格塞思称美国对伊朗战争已耗资375亿美元",
-          "url": "https://flash.jin10.com/detail/20260722043337311800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时04分"
-        },
-        {
-          "title": "据Axios：美国议员要求美国证交会调查特朗普媒体科技集团(DJT.O)旗下的Truth Social将其数据访问权商业化的计划。此前有报道称，该集团的“Truth API”产品定于8月1日上线，该产品将提供对该平台排名前十的热门账户公开帖文的实时访问权限。",
-          "url": "https://flash.jin10.com/detail/20260722062026177800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时54分"
-        },
-        {
-          "title": "美军称连续第11晚袭击伊朗",
-          "url": "https://flash.jin10.com/detail/20260722073343896800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时54分"
-        },
-        {
-          "title": "高通(QCOM.O)与三星扩大合作，携手骁龙平台推动Galaxy生态系统的人工智能发展。",
-          "url": "https://flash.jin10.com/detail/20260722210735915800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时43分"
-        },
-        {
-          "title": "亚马逊对其通用人工智能部门进行裁员",
-          "url": "https://flash.jin10.com/detail/20260722230559912800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时38分"
-        },
-        {
-          "title": "英伟达Vera CPU测试显示AI智能体编排性能提升，支持高并发推理",
-          "url": "https://wallstreetcn.com/livenews/3137685",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时14分"
-        },
-        {
-          "title": "报道：伊朗称战略导弹生产从未停止",
-          "url": "https://wallstreetcn.com/livenews/3138226",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时43分"
-        },
-        {
-          "title": "首部AI长剧要来了",
-          "url": "https://s.weibo.com/weibo?q=%E9%A6%96%E9%83%A8AI%E9%95%BF%E5%89%A7%E8%A6%81%E6%9D%A5%E4%BA%86&t=31&band_rank=12&Refer=top",
-          "source": "微博",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时14分"
-        },
-        {
-          "title": "《这一秒过火》更换原AI片头",
-          "url": "https://www.baidu.com/s?wd=%E3%80%8A%E8%BF%99%E4%B8%80%E7%A7%92%E8%BF%87%E7%81%AB%E3%80%8B%E6%9B%B4%E6%8D%A2%E5%8E%9FAI%E7%89%87%E5%A4%B4",
-          "source": "百度热搜",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时13分"
-        },
-        {
-          "title": "据伊朗媒体Fars News：伊拉克埃尔比勒地区爆炸声已持续约半小时，多轮导弹袭击目标据称为“反伊朗武装分子”驻地。",
-          "url": "https://flash.jin10.com/detail/20260722021357167800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时15分"
-        },
-        {
-          "title": "OpenAI推出OpenAI Presence，现已通过有限通用可用性计划，作为已部署产品向符合条件的企业客户提供，目前尚未提供自助服务。",
-          "url": "https://flash.jin10.com/detail/20260722210623732800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时43分"
-        },
-        {
-          "title": "金安国纪：与珠海市金湾区人民政府就公司在珠海市金湾区增资扩产项目的相关事项达成合作意向，签订《金安国纪增资扩产项目投资协议》，意向投资金额约20亿元人民币，以满足覆铜板及半固化片持续增长的市场需求。",
-          "url": "https://wallstreetcn.com/livenews/3138152",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时07分"
-        },
-        {
-          "title": "伊朗导弹突防能力提升 美军防空系统面临考验",
-          "url": "https://flash.jin10.com/detail/20260722021112133800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时15分"
-        },
-        {
-          "title": "据The Information：SpaceXAI正在探索在得州扩建数据中心。",
-          "url": "https://flash.jin10.com/detail/20260722210509581800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时43分"
-        },
-        {
-          "title": "据华尔街日报：白宫将把数十亿美元的研究资金从高校转向人工智能领域，减少对高校的支持。",
-          "url": "https://flash.jin10.com/detail/20260722060138158800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时54分"
-        },
-        {
-          "title": "据伊朗塔斯尼姆通讯社：伊朗大不里士西部传出数声爆炸声。",
-          "url": "https://flash.jin10.com/detail/20260722073123949800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时54分"
-        },
-        {
-          "title": "市场消息：OpenAI计划斥资超过300亿美元建设新的数据中心。",
-          "url": "https://flash.jin10.com/detail/20260722210234527800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时43分"
-        },
-        {
-          "title": "巴林：周三拦截了伊朗多次空袭。",
-          "url": "https://wallstreetcn.com/livenews/3138222",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时43分"
-        },
-        {
-          "title": "王祖贤脸的AI使用权授权游戏公司",
-          "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E7%A5%96%E8%B4%A4%E8%84%B8%E7%9A%84AI%E4%BD%BF%E7%94%A8%E6%9D%83%E6%8E%88%E6%9D%83%E6%B8%B8%E6%88%8F%E5%85%AC%E5%8F%B8",
-          "source": "百度热搜",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时54分"
-        },
-        {
-          "title": "据华尔街日报：官员透露，特朗普政府计划在联邦科学研究中降低对高校的侧重，转而强调人工智能。",
-          "url": "https://flash.jin10.com/detail/20260722060041607800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时54分"
-        },
-        {
-          "title": "据伊朗塔斯尼姆通讯社：伊朗贝赫巴汉（Behbahan）与马赫沙赫尔港（Mahshahr Port）附近发生爆炸。",
-          "url": "https://flash.jin10.com/detail/20260722073059596800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时54分"
-        },
-        {
-          "title": "英伟达发布Spectrum-6以太网交换系统，面向下一代超大规模AI工厂",
-          "url": "https://wallstreetcn.com/livenews/3137680",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时14分"
-        },
-        {
-          "title": "据华尔街日报：CoreWeave首席执行官称，公司正在大规模部署AI基础设施，公司在构建AI原生云方面走在正确的道路上，此外，随着AI云收入增长，折旧的会计影响将减小。",
-          "url": "https://flash.jin10.com/detail/20260722015437812800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时15分"
-        },
-        {
-          "title": "伊朗努尔新闻：德黑兰启动空中防御系统以应对敌方目标。",
-          "url": "https://flash.jin10.com/detail/20260722072941712800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时54分"
-        },
-        {
-          "title": "英伟达详解下一代AI专用Vera CPU，向AMD和英特尔发起挑战",
-          "url": "https://wallstreetcn.com/livenews/3137679",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时14分"
-        },
-        {
-          "title": "OpenAI产品负责人Tibo表示，Codex和 ChatGPT Work每周活跃用户已突破1000万人。",
-          "url": "https://wallstreetcn.com/livenews/3137702",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时15分"
-        },
-        {
-          "title": "伊朗总统强调团结对当前局势至关重要",
-          "url": "https://flash.jin10.com/detail/20260722040932222800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时04分"
-        },
-        {
-          "title": "据华尔街日报：消息人士透露，OpenAI重新启动内部工作，以加强对数据中心的控制。",
-          "url": "https://flash.jin10.com/detail/20260722210111320800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时43分"
-        },
-        {
-          "title": "马斯克旗下太空探索公司SpaceX收涨3.1%，结束此前连续七个交易日下跌的趋势。",
-          "url": "https://wallstreetcn.com/livenews/3137741",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时04分"
-        },
-        {
-          "title": "英国新任首相批准美军使用英军事基地打击伊朗",
-          "url": "https://wallstreetcn.com/livenews/3137961",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时47分"
-        },
-        {
-          "title": "成都：到2027年 实现人工智能核心产业规模突破2600亿元、增速超30%",
-          "url": "https://wallstreetcn.com/livenews/3138063",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时22分"
-        },
-        {
-          "title": "伊朗南部拉腊克岛遭到美国导弹袭击",
-          "url": "https://wallstreetcn.com/livenews/3138214",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时43分"
-        },
-        {
-          "title": "特朗普放话将轰炸伊朗“镐山” 认为可能存放离心机",
-          "url": "https://flash.jin10.com/detail/20260722015056462800",
-          "source": "金十数据",
-          "ranks": [
             19
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时15分"
+          "time_info": "01时13分"
         },
         {
-          "title": "表外债务暴增700%，科技巨头的AI负担有多重？",
-          "url": "https://flash.jin10.com/detail/20260722095444825800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时13分"
-        },
-        {
-          "title": "据华尔街日报：消息人士透露，OpenAI 聘请了xAI资深人士布伦特·梅奥，以帮助确保数据中心项目按计划推进。",
-          "url": "https://flash.jin10.com/detail/20260722210100321800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时43分"
-        },
-        {
-          "title": "印度国防研究与发展组织与AI Engineering和阿达尼防务签署合同。",
-          "url": "https://flash.jin10.com/detail/20260722225337966800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时38分"
-        },
-        {
-          "title": "纳斯达克金龙中国指数收跌0.68%，报6294.45点。 热门中概股里，腾讯跌3.5%，网易跌3.4%，阿里跌2%，拼多多跌1.3%，日月光半导体涨8.7%。 ETF中，中概互联网指数ETF（KWEB）收跌1.53%，中国科技指数ETF（CQQQ）收涨3.81%。 德银嘉实沪深300指数ETF（ASHR）收涨3.09%，MSCI新兴市场ex中国ETF（EMXC）收涨3.63%，XtrackersHarvest中证50（ASHS）收涨5.46%。",
-          "url": "https://wallstreetcn.com/livenews/3137739",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时04分"
-        },
-        {
-          "title": "据伊朗媒体Fars News：巴林遭到袭击的区域是美国军方人员驻扎地点。",
-          "url": "https://flash.jin10.com/detail/20260722014951792800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时15分"
-        },
-        {
-          "title": "据华尔街日报：消息人士透露，OpenAI将预计的云服务支出从6000亿美元提高至7500亿美元。",
-          "url": "https://flash.jin10.com/detail/20260722210044155800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时43分"
-        },
-        {
-          "title": "伊朗军方：若美攻击伊核设施 中东地区美方利益都将遭报复",
-          "url": "https://wallstreetcn.com/livenews/3137757",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时54分"
-        },
-        {
-          "title": "特朗普承认伊朗在约旦“钻了空子”",
-          "url": "https://flash.jin10.com/detail/20260721234954823800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时14分"
-        },
-        {
-          "title": "据伊朗Press TV：伊拉克库尔德地区首府埃尔比勒美国领事馆附近发生爆炸。",
-          "url": "https://flash.jin10.com/detail/20260722014900592800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时15分"
-        },
-        {
-          "title": "OpenAI的CEO Altman将向美国官员们介绍下一波AI模型。",
-          "url": "https://wallstreetcn.com/livenews/3137675",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时14分"
-        },
-        {
-          "title": "OpenAI表示，Hugging Face遭遇的安全漏洞事件是由其旗下一个模型导致的。（Axios）",
-          "url": "https://wallstreetcn.com/livenews/3137736",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时04分"
-        },
-        {
-          "title": "大众与地平线深化AI合作，加速L3/L4智驾本土化落地",
-          "url": "https://wallstreetcn.com/livenews/3138060",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时22分"
-        },
-        {
-          "title": "伊朗军方消息人士：若美袭击伊桥梁或电站 伊将对等打击",
-          "url": "https://wallstreetcn.com/livenews/3138290",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时38分"
-        },
-        {
-          "title": "金十图示：2026年07月21日（周二）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260722014721363800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时15分"
-        },
-        {
-          "title": "美国能源信息署（EIA）：上周美国四周平均航空燃料需求上升至2019年8月以来的最高水平。",
-          "url": "https://flash.jin10.com/detail/20260722225300304800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时38分"
-        },
-        {
-          "title": "美防长：对伊朗战争已耗资375亿美元",
-          "url": "https://wallstreetcn.com/livenews/3137735",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时04分"
-        },
-        {
-          "title": "伊朗武装部队回应特朗普袭击核设施言论",
-          "url": "https://wallstreetcn.com/livenews/3137835",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时13分"
-        },
-        {
-          "title": "伊朗周三凌晨袭击了驻约旦和巴林的美军。（塔斯尼姆通讯社）",
-          "url": "https://wallstreetcn.com/livenews/3138059",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时22分"
-        },
-        {
-          "title": "金十图示：2026年07月21日（周二）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260722014347075800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时15分"
-        },
-        {
-          "title": "伊拉克政府发言人：伊拉克总理将应伊朗总统邀请访问德黑兰，将于访问期间讨论天然气、能源和贸易问题。",
-          "url": "https://flash.jin10.com/detail/20260722182925779800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时07分"
-        },
-        {
-          "title": "伊朗总统强调团结对当前局势至关重要",
-          "url": "https://wallstreetcn.com/livenews/3137734",
+          "title": "伊朗前外长：伊朗有夺取美基地能力，警告乌克兰勿要提供无人机",
+          "url": "https://wallstreetcn.com/livenews/3138313",
           "source": "华尔街见闻-快讯",
           "ranks": [
             23
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时04分"
+          "time_info": "01时13分"
         },
         {
-          "title": "美军连续第11晚对伊朗发动袭击",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%86%9B%E8%BF%9E%E7%BB%AD%E7%AC%AC11%E6%99%9A%E5%AF%B9%E4%BC%8A%E6%9C%97%E5%8F%91%E5%8A%A8%E8%A2%AD%E5%87%BB",
-          "source": "百度热搜",
+          "title": "AI烧钱竞赛升级",
+          "url": "https://www.toutiao.com/trending/7665357797269179923/",
+          "source": "今日头条",
           "ranks": [
-            24
+            27
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时13分"
-        },
-        {
-          "title": "科威特军方表示，空中防御系统目前正在拦截伊朗无人机。",
-          "url": "https://flash.jin10.com/detail/20260722054058903800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时54分"
-        },
-        {
-          "title": "特朗普警告伊朗：每袭击一艘海峡船只，美国就摧毁一座桥梁或电厂",
-          "url": "https://flash.jin10.com/detail/20260722205810472800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时43分"
-        },
-        {
-          "title": "OpenAI称其AI模型导致了Hugging Face遭遇网络攻击",
-          "url": "https://wallstreetcn.com/livenews/3137753",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时54分"
-        },
-        {
-          "title": "国务院国资委：深入实施“AI+”专项行动",
-          "url": "https://wallstreetcn.com/livenews/3138207",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时43分"
-        },
-        {
-          "title": "据伊朗塔斯尼姆通讯社：伊拉克埃尔比勒传出爆炸声。",
-          "url": "https://flash.jin10.com/detail/20260722013253895800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时15分"
-        },
-        {
-          "title": "浙江：有计划有步骤推进人工智能重大项目谋划储备实施 加快打造人工智能创新发展高地",
-          "url": "https://flash.jin10.com/detail/20260722205555035800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时43分"
-        },
-        {
-          "title": "特朗普：没兴趣与伊朗见面，我们的斗争根本没有结束",
-          "url": "https://wallstreetcn.com/livenews/3137671",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时14分"
-        },
-        {
-          "title": "OpenAI新增两名独董到董事会。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3137732",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时04分"
-        },
-        {
-          "title": "伊朗军方：若美攻击伊核设施 中东地区美方利益都将遭报复",
-          "url": "https://flash.jin10.com/detail/20260722052653164800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时54分"
-        },
-        {
-          "title": "伊朗军官视察霍尔木兹海峡",
-          "url": "https://wallstreetcn.com/livenews/3138052",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时22分"
-        },
-        {
-          "title": "伊朗的Lark岛遭到美国导弹袭击。（塔斯尼姆通讯社）",
-          "url": "https://wallstreetcn.com/livenews/3138202",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时43分"
-        },
-        {
-          "title": "伊朗打击科威特境内Ali Al Salem基地和Bubiyan岛。（IRIB）",
-          "url": "https://wallstreetcn.com/livenews/3137727",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时04分"
-        },
-        {
-          "title": "美国：完成对伊朗的第11晚打击。 霍尔木兹海峡仍对商船开放通行。",
-          "url": "https://wallstreetcn.com/livenews/3137826",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时13分"
-        },
-        {
-          "title": "AI算力产业链成为上海出口重要增长动能",
-          "url": "https://wallstreetcn.com/livenews/3138049",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时22分"
-        },
-        {
-          "title": "【中微半导：预计2026年上半年净利润同比增长90.82%】中微半导公告，预计2026年半年度实现归属于母公司所有者的净利润1.65亿元左右，与上年同期相比，将增加7853.04万元左右，同比增长90.82%左右。本期业绩大幅增长，受益于全球AI及算力需求持续爆发，一方面挤占了MCU产能，另一方面带动了MCU需求增长，以及MCU在原有的消费电子、智能家电、工业控制、汽车电子等领域的市场需求稳步复苏，造成公司MCU市场需求增速超过公司MCU产能增速，出现产能相对紧缺状态，产品出货量增长的同时产品价格上涨，公司营收及利润实现双增长。",
-          "url": "https://wallstreetcn.com/livenews/3138201",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时43分"
-        },
-        {
-          "title": "亚马逊对其通用人工智能部门进行裁员",
-          "url": "https://wallstreetcn.com/livenews/3138282",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时38分"
-        },
-        {
-          "title": "美联储曾就Anthropic的Mythos AI模型拉响警报，却被迫在没有该模型的情况下度过了数月",
-          "url": "https://wallstreetcn.com/livenews/3137967",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时47分"
+          "time_info": "01时13分"
         }
       ]
     }
