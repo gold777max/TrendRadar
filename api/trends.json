@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-07-23T06:58:58.743711+08:00",
-  "total_titles_processed": 547,
+  "generated_at": "2026-07-23T08:02:33.491543+08:00",
+  "total_titles_processed": 633,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai ai+ ai人工智能 人工智能 风险识别 商业风险识别 痛点 需求 商业风险 伊朗 rwa 趋势 热点 热门",
-      "match_count": 59,
+      "match_count": 67,
       "titles": [
         {
           "title": "6000亿美元→7500亿美元 OpenAI被曝大幅提高算力支出预测",
           "url": "https://www.cls.cn/detail/2434359",
           "source": "财联社热门",
           "ranks": [
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时13分 ~ 06时58分]"
+          "appearance_count": 7,
+          "time_info": "[01时13分 ~ 08时02分]"
         },
         {
           "title": "云支出目标狂飙至7500亿美元！OpenAI豪掷超300亿美元建数据中心，推出Presence平台进军企业软件市场",
@@ -24,11 +25,12 @@
           "source": "华尔街见闻",
           "ranks": [
             5,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时13分 ~ 06时58分]"
+          "appearance_count": 7,
+          "time_info": "[01时13分 ~ 08时02分]"
         },
         {
           "title": "AI交易热情回落，美股盘初走低，存储芯片、光通信股普跌，SK海力士跌5%，布油涨近3%",
@@ -48,11 +50,26 @@
           "ranks": [
             8,
             4,
-            2
+            2,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时13分 ~ 06时58分]"
+          "appearance_count": 7,
+          "time_info": "[01时13分 ~ 08时02分]"
+        },
+        {
+          "title": "OpenAI 模型「失控」入侵全球最大 AI 开源社区，敲响了哪些 AI 安全警钟？",
+          "url": "https://www.zhihu.com/question/2063264614834336987",
+          "source": "知乎",
+          "ranks": [
+            15,
+            7,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时13分 ~ 08时02分]"
         },
         {
           "title": "用AI通关高难度跑步游戏",
@@ -64,21 +81,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时13分 ~ 06时58分]"
-        },
-        {
-          "title": "OpenAI 模型「失控」入侵全球最大 AI 开源社区，敲响了哪些 AI 安全警钟？",
-          "url": "https://www.zhihu.com/question/2063264614834336987",
-          "source": "知乎",
-          "ranks": [
-            15,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时13分 ~ 06时58分]"
+          "appearance_count": 7,
+          "time_info": "[01时13分 ~ 08时02分]"
         },
         {
           "title": "震惊硅谷！OpenAI模型“失控越狱”，入侵HuggingFace“抄答案”，智谱GLM 5.2临危救场",
@@ -89,8 +93,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时13分 ~ 06时58分]"
+          "appearance_count": 7,
+          "time_info": "[01时13分 ~ 08时02分]"
         },
         {
           "title": "别再给AI乱传文件了",
@@ -100,11 +104,12 @@
             6,
             8,
             16,
-            20
+            20,
+            30
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时13分 ~ 06时58分]"
+          "appearance_count": 7,
+          "time_info": "[01时13分 ~ 08时02分]"
         },
         {
           "title": "油价飙至六周高位，美股指承压收跌，AI基建股盘后大涨，金银再走强",
@@ -113,9 +118,94 @@
           "ranks": [
             1
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时58分 ~ 08时02分]"
+        },
+        {
+          "title": "从“靠天发电”到可控发电：光伏告别规模扩张后 AI与光储融合构筑新增长底座",
+          "url": "https://www.cls.cn/detail/2434259",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10,
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时13分 ~ 08时02分]"
+        },
+        {
+          "title": "OpenAI遭遇史上首次评测失控事故",
+          "url": "https://www.baidu.com/s?wd=OpenAI%E9%81%AD%E9%81%87%E5%8F%B2%E4%B8%8A%E9%A6%96%E6%AC%A1%E8%AF%84%E6%B5%8B%E5%A4%B1%E6%8E%A7%E4%BA%8B%E6%95%85",
+          "source": "百度热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时13分 ~ 08时02分]"
+        },
+        {
+          "title": "伊朗袭击亚马逊公司设施",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E8%A2%AD%E5%87%BB%E4%BA%9A%E9%A9%AC%E9%80%8A%E5%85%AC%E5%8F%B8%E8%AE%BE%E6%96%BD",
+          "source": "百度热搜",
+          "ranks": [
+            19,
+            21,
+            23,
+            20,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时13分 ~ 08时02分]"
+        },
+        {
+          "title": "特朗普威胁：若伊朗袭击霍尔木兹海峡船只 美方将轰炸其桥梁和发电厂",
+          "url": "https://www.cls.cn/detail/2434427",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[05时02分 ~ 08时02分]"
+        },
+        {
+          "title": "OpenAI现安全事故中国大模型救场",
+          "url": "https://www.toutiao.com/trending/7664873281528512575/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时58分"
+          "time_info": "08时02分"
+        },
+        {
+          "title": "OpenAI模型失控闯祸 中国大模型救场",
+          "url": "https://www.baidu.com/s?wd=OpenAI%E6%A8%A1%E5%9E%8B%E5%A4%B1%E6%8E%A7%E9%97%AF%E7%A5%B8+%E4%B8%AD%E5%9B%BD%E5%A4%A7%E6%A8%A1%E5%9E%8B%E6%95%91%E5%9C%BA",
+          "source": "百度热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时02分"
+        },
+        {
+          "title": "【早报】美股AI服务器整机龙头，大涨近20%；特斯拉、谷歌披露财报；油价、黄金齐升；A股又一波公司启动增持回购",
+          "url": "https://www.cls.cn/detail/2434518",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时02分"
         },
         {
           "title": "AMD首次押注Anthropic：最高投资50亿美元 并锁定数百亿美元AI服务器订单",
@@ -125,19 +215,6 @@
             10,
             9,
             12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时13分 ~ 06时58分]"
-        },
-        {
-          "title": "从“靠天发电”到可控发电：光伏告别规模扩张后 AI与光储融合构筑新增长底座",
-          "url": "https://www.cls.cn/detail/2434259",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            10,
-            11
           ],
           "is_new": false,
           "appearance_count": 6,
@@ -161,31 +238,6 @@
           "source": "凤凰网",
           "ranks": [
             12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时13分 ~ 06时58分]"
-        },
-        {
-          "title": "OpenAI遭遇史上首次评测失控事故",
-          "url": "https://www.baidu.com/s?wd=OpenAI%E9%81%AD%E9%81%87%E5%8F%B2%E4%B8%8A%E9%A6%96%E6%AC%A1%E8%AF%84%E6%B5%8B%E5%A4%B1%E6%8E%A7%E4%BA%8B%E6%95%85",
-          "source": "百度热搜",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时13分 ~ 06时58分]"
-        },
-        {
-          "title": "伊朗袭击亚马逊公司设施",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E8%A2%AD%E5%87%BB%E4%BA%9A%E9%A9%AC%E9%80%8A%E5%85%AC%E5%8F%B8%E8%AE%BE%E6%96%BD",
-          "source": "百度热搜",
-          "ranks": [
-            19,
-            21,
-            23,
-            20
           ],
           "is_new": false,
           "appearance_count": 6,
@@ -258,18 +310,6 @@
           "time_info": "03时10分"
         },
         {
-          "title": "特朗普威胁：若伊朗袭击霍尔木兹海峡船只 美方将轰炸其桥梁和发电厂",
-          "url": "https://www.cls.cn/detail/2434427",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时02分 ~ 06时58分]"
-        },
-        {
           "title": "国际油价持续拉升！特朗普盯上的伊朗“镐山”有什么奥秘？",
           "url": "https://www.cls.cn/detail/2434152",
           "source": "财联社热门",
@@ -294,6 +334,19 @@
           "time_info": "[03时10分 ~ 05时03分]"
         },
         {
+          "title": "如何看待《第九区》导演发布 13 分钟全 AI 短片《阴兵》，并计划拍长片， AI 电影发展到哪步了？",
+          "url": "https://www.zhihu.com/question/2062918586486583714",
+          "source": "知乎",
+          "ranks": [
+            14,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[05时02分 ~ 08时02分]"
+        },
+        {
           "title": "特朗普：伊朗想会谈但美国“没兴趣”，“很快”重击镐山核设施，警告胡塞武装勿封红海",
           "url": "https://wallstreetcn.com/articles/3777603",
           "source": "华尔街见闻",
@@ -305,16 +358,28 @@
           "time_info": "[01时13分 ~ 03时10分]"
         },
         {
-          "title": "如何看待《第九区》导演发布 13 分钟全 AI 短片《阴兵》，并计划拍长片， AI 电影发展到哪步了？",
-          "url": "https://www.zhihu.com/question/2062918586486583714",
-          "source": "知乎",
+          "title": "美军称对伊朗发动新一轮军事打击",
+          "url": "https://wallstreetcn.com/livenews/3138450",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            14,
-            9
+            7,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时02分 ~ 06时58分]"
+          "appearance_count": 2,
+          "time_info": "[06时58分 ~ 08时02分]"
+        },
+        {
+          "title": "美国打伊朗越打敌人越多",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E6%89%93%E4%BC%8A%E6%9C%97%E8%B6%8A%E6%89%93%E6%95%8C%E4%BA%BA%E8%B6%8A%E5%A4%9A",
+          "source": "bilibili 热搜",
+          "ranks": [
+            24,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时58分 ~ 08时02分]"
         },
         {
           "title": "黄仁勋称美国无需害怕中国开源AI模型",
@@ -328,15 +393,16 @@
           "time_info": "[05时02分 ~ 05时03分]"
         },
         {
-          "title": "美军称对伊朗发动新一轮军事打击",
-          "url": "https://wallstreetcn.com/livenews/3138450",
+          "title": "马斯克表示身体不适，在回答有关供应商满足Optimus需求的问题时称自己“今天有点病”。",
+          "url": "https://wallstreetcn.com/livenews/3138443",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            14,
+            30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时58分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时58分 ~ 08时02分]"
         },
         {
           "title": "伊朗革命卫队航空航天部队司令称，如果伊朗的桥梁或发电厂遭到袭击，伊朗将切断美国地区盟友的电力供应。（伊朗塔斯尼姆通讯社Tasnim）",
@@ -378,9 +444,42 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时58分"
+        },
+        {
+          "title": "市场消息：OpenAI澳大利亚数据中心的开发商放弃了使用再生水进行冷却的计划。",
+          "url": "https://flash.jin10.com/detail/20260723070044363800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时02分"
+        },
+        {
+          "title": "美再威胁袭击伊朗基础设施 伊方回应",
+          "url": "https://www.toutiao.com/trending/7665488000930811455/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时02分"
+        },
+        {
+          "title": "OpenAI模型“越狱”攻击，救场的竟是中国AI工具",
+          "url": "https://news.ifeng.com/c/8uyaFs12NfO",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时02分"
         },
         {
           "title": "GMI Cloud：已承诺投入5亿美元资本支出，以扩大计算能力并满足不断增长的客户需求。还与一家美国领先的前沿人工智能企业签署了金额达九位数的合同。",
@@ -400,9 +499,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时58分"
+        },
+        {
+          "title": "国际原油价格大幅上涨 伊朗放话或切断海湾能源流动 | 环球市场",
+          "url": "https://www.cls.cn/detail/2434530",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时02分"
         },
         {
           "title": "伊朗外长：伊朗的防御原则很明确 即“以眼还眼”",
@@ -427,17 +537,6 @@
           "time_info": "05时03分"
         },
         {
-          "title": "马斯克表示身体不适，在回答有关供应商满足Optimus需求的问题时称自己“今天有点病”。",
-          "url": "https://wallstreetcn.com/livenews/3138443",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时58分"
-        },
-        {
           "title": "市场消息：消息人士称，美国正调查俄罗斯是否协助伊朗对海湾地区中央情报局设施发动无人机袭击。",
           "url": "https://flash.jin10.com/detail/20260723023030294800",
           "source": "金十数据",
@@ -455,7 +554,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时58分"
         },
@@ -466,7 +565,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时58分"
         },
@@ -532,7 +631,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时58分"
         },
@@ -587,7 +686,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时58分"
         },
@@ -601,17 +700,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时13分"
-        },
-        {
-          "title": "美国打伊朗越打敌人越多",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E6%89%93%E4%BC%8A%E6%9C%97%E8%B6%8A%E6%89%93%E6%95%8C%E4%BA%BA%E8%B6%8A%E5%A4%9A",
-          "source": "bilibili 热搜",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时58分"
         },
         {
           "title": "伊朗革命卫队海军：警告各方不要使用霍尔木兹海峡替代航线。",
@@ -647,6 +735,17 @@
           "time_info": "05时03分"
         },
         {
+          "title": "美军称对伊朗军事目标发起新一轮打击",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%86%9B%E7%A7%B0%E5%AF%B9%E4%BC%8A%E6%9C%97%E5%86%9B%E4%BA%8B%E7%9B%AE%E6%A0%87%E5%8F%91%E8%B5%B7%E6%96%B0%E4%B8%80%E8%BD%AE%E6%89%93%E5%87%BB",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时02分"
+        },
+        {
           "title": "金十图示：2026年07月22日（周三）热门中概股行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260723040538396800",
           "source": "金十数据",
@@ -675,7 +774,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时58分"
         }
