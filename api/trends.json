@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-25T04:18:51.125662+08:00",
-  "total_titles_processed": 475,
+  "generated_at": "2026-07-25T06:03:02.672556+08:00",
+  "total_titles_processed": 530,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai ai+ ai人工智能 人工智能 风险识别 商业风险识别 痛点 需求 商业风险 伊朗 rwa 趋势 热点 热门",
-      "match_count": 53,
+      "match_count": 59,
       "titles": [
         {
           "title": "AI开支担忧与地缘风险夹击美股，标普创月内最大跌幅，特斯拉跌超14%，油价破百，黄金重挫",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时34分 ~ 04时18分]"
+          "appearance_count": 5,
+          "time_info": "[00时34分 ~ 06时03分]"
         },
         {
           "title": "被曝向胡塞武装空运军官和武器，伊朗怎么说？",
@@ -26,19 +26,21 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时34分 ~ 04时18分]"
+          "appearance_count": 5,
+          "time_info": "[00时34分 ~ 06时03分]"
         },
         {
-          "title": "金十图示：2026年07月24日（周五）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260725041124494800",
-          "source": "金十数据",
+          "title": "AI烧钱担忧叠加中东局势，纳斯达克100指数跌幅扩大至1.2%，存储芯片板块重挫逾6%，SK海力士跌7%，油价跌超2%",
+          "url": "https://wallstreetcn.com/articles/3777833",
+          "source": "华尔街见闻",
           "ranks": [
-            1
+            6,
+            5,
+            3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时18分"
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时34分 ~ 06时03分]"
         },
         {
           "title": "据伊朗媒体Fars News：与也门航运管理部门有关联的消息人士称，几乎所有通过曼德海峡的商船都遵守也门海军部队的相关决定。",
@@ -74,16 +76,37 @@
           "time_info": "00时34分"
         },
         {
-          "title": "AI烧钱担忧叠加中东局势，纳斯达克100指数跌幅扩大至1.2%，存储芯片板块重挫逾6%，SK海力士跌7%，油价跌超2%",
-          "url": "https://wallstreetcn.com/articles/3777833",
+          "title": "特朗普称美国与伊朗仍在对话",
+          "url": "https://wallstreetcn.com/livenews/3139662",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时03分"
+        },
+        {
+          "title": "英特尔电话会：产品需求前所未见，存储、逻辑芯片等短缺将持续存在，大幅上调今明两年资本开支",
+          "url": "https://wallstreetcn.com/articles/3777822",
           "source": "华尔街见闻",
           "ranks": [
-            6,
-            5
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时34分 ~ 04时18分]"
+          "appearance_count": 5,
+          "time_info": "[00时34分 ~ 06时03分]"
+        },
+        {
+          "title": "伊朗公布美军近期袭击伤亡数据",
+          "url": "https://news.ifeng.com/c/8v0yEqjepG6",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时34分 ~ 06时03分]"
         },
         {
           "title": "SpaceX AI：今天我们将把Grok引入Google Workspace。适用于Google Workspace的Grok是一款免费的附加组件。",
@@ -108,6 +131,102 @@
           "time_info": "00时34分"
         },
         {
+          "title": "新闻蒸馏器｜OpenAI模型失控事件后，美国两党议员推动“AI终止开关法案”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33650370",
+          "source": "澎湃新闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时34分 ~ 06时03分]"
+        },
+        {
+          "title": "大摩警告：AI存储狂欢接近拐点，内存价格或于四季度见顶",
+          "url": "https://wallstreetcn.com/articles/3777849",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时34分 ~ 06时03分]"
+        },
+        {
+          "title": "据伊朗塔斯尼姆通讯社：美国第五舰队驻巴林基地遭到导弹和无人机袭击。",
+          "url": "https://flash.jin10.com/detail/20260725051459277800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时03分"
+        },
+        {
+          "title": "宁德时代回应中东订单变化：不会参与储能价格内卷，看好下半年及明年需求|直击业绩会",
+          "url": "https://www.cls.cn/detail/2436798",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时34分 ~ 06时03分]"
+        },
+        {
+          "title": "马斯克最新访谈：AI可能灭绝人类，但就像一枚20%概率会爆炸的火箭，我还是会坐上去享受旅程！",
+          "url": "https://wallstreetcn.com/articles/3777836",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时34分 ~ 06时03分]"
+        },
+        {
+          "title": "12306 优先为老年旅客分配下铺，而带娃旅客不优先，该如何平衡不同群体需求？",
+          "url": "https://www.zhihu.com/question/2062138734179628224",
+          "source": "知乎",
+          "ranks": [
+            19,
+            18,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时34分 ~ 06时03分]"
+        },
+        {
+          "title": "伊朗称袭击美国亚马逊公司一数据中心",
+          "url": "https://www.toutiao.com/trending/7665519115210899499/",
+          "source": "今日头条",
+          "ranks": [
+            14,
+            28,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时34分 ~ 06时03分]"
+        },
+        {
+          "title": "金十图示：2026年07月24日（周五）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260725041124494800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时18分 ~ 06时03分]"
+        },
+        {
           "title": "如何看待新晋菲尔兹奖得主 Jacob Tsimerman 颁奖当天宣布加入 OpenAI？",
           "url": "https://www.zhihu.com/question/2063832242242184073",
           "source": "知乎",
@@ -120,61 +239,18 @@
           "time_info": "[00时34分 ~ 02时16分]"
         },
         {
-          "title": "英特尔电话会：产品需求前所未见，存储、逻辑芯片等短缺将持续存在，大幅上调今明两年资本开支",
-          "url": "https://wallstreetcn.com/articles/3777822",
-          "source": "华尔街见闻",
+          "title": "大厂挤爆AI宠物赛道",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%A7%E5%8E%82%E6%8C%A4%E7%88%86AI%E5%AE%A0%E7%89%A9%E8%B5%9B%E9%81%93",
+          "source": "百度热搜",
           "ranks": [
-            7
+            28,
+            20,
+            29,
+            27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时34分 ~ 04时18分]"
-        },
-        {
-          "title": "伊朗公布美军近期袭击伤亡数据",
-          "url": "https://news.ifeng.com/c/8v0yEqjepG6",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时34分 ~ 04时18分]"
-        },
-        {
-          "title": "新闻蒸馏器｜OpenAI模型失控事件后，美国两党议员推动“AI终止开关法案”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33650370",
-          "source": "澎湃新闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时34分 ~ 04时18分]"
-        },
-        {
-          "title": "大摩警告：AI存储狂欢接近拐点，内存价格或于四季度见顶",
-          "url": "https://wallstreetcn.com/articles/3777849",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时34分 ~ 04时18分]"
-        },
-        {
-          "title": "宁德时代回应中东订单变化：不会参与储能价格内卷，看好下半年及明年需求|直击业绩会",
-          "url": "https://www.cls.cn/detail/2436798",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时34分 ~ 04时18分]"
+          "appearance_count": 4,
+          "time_info": "[02时16分 ~ 06时03分]"
         },
         {
           "title": "AI需求引爆十五年最强增长，英特尔Q2营收增25%大超预期，指引保持高增，盘后拉涨丨财报见闻",
@@ -182,29 +258,6 @@
           "source": "华尔街见闻",
           "ranks": [
             9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时34分 ~ 04时18分]"
-        },
-        {
-          "title": "马斯克最新访谈：AI可能灭绝人类，但就像一枚20%概率会爆炸的火箭，我还是会坐上去享受旅程！",
-          "url": "https://wallstreetcn.com/articles/3777836",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时34分 ~ 04时18分]"
-        },
-        {
-          "title": "伊朗称袭击美国亚马逊公司一数据中心",
-          "url": "https://www.toutiao.com/trending/7665519115210899499/",
-          "source": "今日头条",
-          "ranks": [
-            14,
-            28
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -224,28 +277,16 @@
           "time_info": "[00时34分 ~ 04时18分]"
         },
         {
-          "title": "12306 优先为老年旅客分配下铺，而带娃旅客不优先，该如何平衡不同群体需求？",
-          "url": "https://www.zhihu.com/question/2062138734179628224",
-          "source": "知乎",
+          "title": "据伊朗媒体Fars News：阿拉伯消息称，沙特阿拉伯对也门的荷台达港进行了空袭。",
+          "url": "https://flash.jin10.com/detail/20260725040656654800",
+          "source": "金十数据",
           "ranks": [
-            19,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时34分 ~ 04时18分]"
-        },
-        {
-          "title": "大厂挤爆AI宠物赛道",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%A7%E5%8E%82%E6%8C%A4%E7%88%86AI%E5%AE%A0%E7%89%A9%E8%B5%9B%E9%81%93",
-          "source": "百度热搜",
-          "ranks": [
-            28,
-            20
+            7,
+            25
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[02时16分 ~ 04时18分]"
+          "time_info": "[04时18分 ~ 06时03分]"
         },
         {
           "title": "摩根士丹利：如果SpaceX股价跌至10%，将意味着该公司的人工智能（AI）毫无价值。",
@@ -259,15 +300,15 @@
           "time_info": "02时16分"
         },
         {
-          "title": "据伊朗媒体Fars News：阿拉伯消息称，沙特阿拉伯对也门的荷台达港进行了空袭。",
-          "url": "https://flash.jin10.com/detail/20260725040656654800",
-          "source": "金十数据",
+          "title": "据伊朗塔斯尼姆通讯社：美国第五舰队驻巴林基地遭到导弹和无人机袭击。",
+          "url": "https://wallstreetcn.com/livenews/3139664",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时18分"
+          "time_info": "06时03分"
         },
         {
           "title": "SpaceX股价大跌后或迎来机会 摩根士丹利分析师看好其AI业务估值",
@@ -287,7 +328,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时18分"
         },
@@ -331,7 +372,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时18分"
         },
@@ -364,7 +405,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时18分"
         },
@@ -397,9 +438,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时18分"
+        },
+        {
+          "title": "金十图示：2026年07月24日（周五）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260725041219645800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时03分"
         },
         {
           "title": "伊朗称近期美国空袭造成境内59死666伤",
@@ -446,6 +498,17 @@
           "time_info": "00时34分"
         },
         {
+          "title": "伊朗和阿曼就霍尔木兹海峡问题举行会谈",
+          "url": "https://wallstreetcn.com/livenews/3139646",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时03分"
+        },
+        {
           "title": "伊朗副外长加里巴巴迪：欧洲各国必须明白，向侵略者提供基地或领土将使他们自身也被归类为侵略者。",
           "url": "https://flash.jin10.com/detail/20260724234236751800",
           "source": "金十数据",
@@ -463,7 +526,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时18分"
         },
@@ -496,7 +559,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时18分"
         },
@@ -529,7 +592,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时18分"
         },
@@ -562,7 +625,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时18分"
         },
@@ -576,6 +639,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时34分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收跌0.66%，报6104.64点，本周累计下跌2.80%，整体持续下挫。 热门中概股里，日月光半导体跌6.8%，蔚来、小鹏跌超3%，腾讯涨0.4%，美团涨1%。 XtrackersHarvest中证50（ASHS）收跌1.94%，本周反弹0.27%，此前三周先后回撤1.32%、0.87%、11.31%； 德银嘉实沪深300指数ETF（ASHR）收跌1.21%，本周反弹2.17%，上周跌4.95%； 中国科技指数ETF（CQQQ）收跌1.03%，本周累跌0.87%、延续上周回撤9.56%的表现； 中概互联网指数ETF（KWEB）收涨0.08%，本周回撤1.94%，此前三周先后反弹4.39%、5.56%、1.63%； MSCI新兴市场ex中国ETF（EMXC）收跌2.39%，本周累涨0.12%。",
+          "url": "https://wallstreetcn.com/livenews/3139635",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时03分"
         },
         {
           "title": "阿曼代表抵达伊朗首都德黑兰，将讨论霍尔木兹海峡问题。（伊朗媒体IRNA）",
