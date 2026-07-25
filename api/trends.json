@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-25T20:02:20.632901+08:00",
-  "total_titles_processed": 1163,
+  "generated_at": "2026-07-25T21:55:40.345861+08:00",
+  "total_titles_processed": 1286,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai ai+ ai人工智能 人工智能 风险识别 商业风险识别 痛点 需求 商业风险 伊朗 rwa 趋势 热点 热门",
-      "match_count": 104,
+      "match_count": 112,
       "titles": [
         {
           "title": "伊朗外长：无需更多调解者，美应改变态度",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时27分 ~ 20时02分]"
+          "appearance_count": 11,
+          "time_info": "[11时27分 ~ 21时55分]"
         },
         {
           "title": "被曝向胡塞武装空运军官和武器，伊朗怎么说？",
@@ -28,8 +28,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时34分 ~ 20时02分]"
+          "appearance_count": 16,
+          "time_info": "[00时34分 ~ 21时55分]"
         },
         {
           "title": "中国AI反超,老美急眼下黑手",
@@ -39,11 +39,12 @@
             2,
             5,
             7,
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时27分 ~ 20时02分]"
+          "appearance_count": 11,
+          "time_info": "[11时27分 ~ 21时55分]"
         },
         {
           "title": "中国模型加速AI明星“内卷”，Anthropic上新Opus 5，性能逼近Fable 5价格打对折，刷新ARC-AGI-3纪录",
@@ -55,8 +56,23 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时27分 ~ 20时02分]"
+          "appearance_count": 11,
+          "time_info": "[11时27分 ~ 21时55分]"
+        },
+        {
+          "title": "男生中考 699 分偷偷改志愿读中职，称「未来想当程序员，AI 时代也不怕」，如何看待这一升学选择？",
+          "url": "https://www.zhihu.com/question/2064272326489628784",
+          "source": "知乎",
+          "ranks": [
+            18,
+            12,
+            13,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[14时14分 ~ 21时55分]"
         },
         {
           "title": "中东全面战争风险快速积累，美国或陷入对伊朗、胡塞两线作战困局",
@@ -71,6 +87,17 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[11时27分 ~ 20时02分]"
+        },
+        {
+          "title": "美媒爆猛料，“两国首次直接袭击伊朗”",
+          "url": "https://news.ifeng.com/c/8v324dBINEL",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时36分 ~ 21时55分]"
         },
         {
           "title": "宁德时代回应中东订单变化：不会参与储能价格内卷，看好下半年及明年需求|直击业绩会",
@@ -123,31 +150,6 @@
           "time_info": "[00时34分 ~ 11时28分]"
         },
         {
-          "title": "美媒爆猛料，“两国首次直接袭击伊朗”",
-          "url": "https://news.ifeng.com/c/8v324dBINEL",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时36分 ~ 20时02分]"
-        },
-        {
-          "title": "男生中考 699 分偷偷改志愿读中职，称「未来想当程序员，AI 时代也不怕」，如何看待这一升学选择？",
-          "url": "https://www.zhihu.com/question/2064272326489628784",
-          "source": "知乎",
-          "ranks": [
-            18,
-            12,
-            13,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时14分 ~ 20时02分]"
-        },
-        {
           "title": "马斯克最新访谈：AI可能灭绝人类，但就像一枚20%概率会爆炸的火箭，我还是会坐上去享受旅程！",
           "url": "https://wallstreetcn.com/articles/3777836",
           "source": "华尔街见闻",
@@ -184,6 +186,28 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时34分 ~ 11时28分]"
+        },
+        {
+          "title": "伊朗官员：镐山设施“目前是空的”",
+          "url": "https://flash.jin10.com/detail/20260725214500074800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时55分"
+        },
+        {
+          "title": "伊朗官员：镐山设施“目前是空的”，袭击一个空置的仓库只有利于制造虚假信息",
+          "url": "https://wallstreetcn.com/livenews/3139764",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时55分"
         },
         {
           "title": "据伊朗媒体Fars News：与也门航运管理部门有关联的消息人士称，几乎所有通过曼德海峡的商船都遵守也门海军部队的相关决定。",
@@ -263,17 +287,6 @@
           "time_info": "00时34分"
         },
         {
-          "title": "伊朗公布卫星图像显示约旦一美军基地弹药库被摧毁",
-          "url": "https://wallstreetcn.com/livenews/3139738",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时02分"
-        },
-        {
           "title": "据伊朗塔斯尼姆通讯社：美国第五舰队驻巴林基地遭到导弹和无人机袭击。",
           "url": "https://flash.jin10.com/detail/20260725051459277800",
           "source": "金十数据",
@@ -294,17 +307,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时28分"
-        },
-        {
-          "title": "伊朗公布卫星图像显示约旦一美军基地弹药库被摧毁",
-          "url": "https://flash.jin10.com/detail/20260725184006843800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时02分"
         },
         {
           "title": "SK海力士：与英伟达达成长期AI内存合作协议。",
@@ -380,11 +382,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            6
+            6,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时37分 ~ 20时02分]"
+          "appearance_count": 3,
+          "time_info": "[18时37分 ~ 21时55分]"
         },
         {
           "title": "消息称，OpenAI的ChatGPT与Codex出现大范围无法使用故障。",
@@ -392,11 +395,25 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            7
+            7,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时37分 ~ 20时02分]"
+          "appearance_count": 3,
+          "time_info": "[18时37分 ~ 21时55分]"
+        },
+        {
+          "title": "泽连斯基：乌克兰袭击里海海域运送伊朗军事物资的船只",
+          "url": "https://flash.jin10.com/detail/20260725181020836800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            9,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时37分 ~ 21时55分]"
         },
         {
           "title": "金十图示：2026年07月24日（周五）热门中概股行情一览（美股收盘）",
@@ -411,6 +428,19 @@
           "time_info": "[04时18分 ~ 06时03分]"
         },
         {
+          "title": "乌克兰总统泽连斯基：乌克兰袭击了在里海海域运输涉及伊朗军事物资的船只。",
+          "url": "https://flash.jin10.com/detail/20260725180813776800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            10,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时37分 ~ 21时55分]"
+        },
+        {
           "title": "如何看待新晋菲尔兹奖得主 Jacob Tsimerman 颁奖当天宣布加入 OpenAI？",
           "url": "https://www.zhihu.com/question/2063832242242184073",
           "source": "知乎",
@@ -423,28 +453,16 @@
           "time_info": "[00时34分 ~ 02时16分]"
         },
         {
-          "title": "泽连斯基：乌克兰袭击里海海域运送伊朗军事物资的船只",
-          "url": "https://flash.jin10.com/detail/20260725181020836800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时37分 ~ 20时02分]"
-        },
-        {
-          "title": "乌克兰总统泽连斯基：乌克兰袭击了在里海海域运输涉及伊朗军事物资的船只。",
-          "url": "https://flash.jin10.com/detail/20260725180813776800",
-          "source": "金十数据",
+          "title": "伊朗公布卫星图像显示约旦一美军基地弹药库被摧毁",
+          "url": "https://wallstreetcn.com/livenews/3139738",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            10
+            20
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时37分 ~ 20时02分]"
+          "time_info": "[20时02分 ~ 21时55分]"
         },
         {
           "title": "马斯克：中国很有可能成AI领导者",
@@ -457,6 +475,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[18时36分 ~ 20时02分]"
+        },
+        {
+          "title": "伊朗公布卫星图像显示约旦一美军基地弹药库被摧毁",
+          "url": "https://flash.jin10.com/detail/20260725184006843800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时02分 ~ 21时55分]"
         },
         {
           "title": "伊朗外长说不惧威胁不屈服于美国",
@@ -499,6 +529,18 @@
           "time_info": "[16时58分 ~ 18时37分]"
         },
         {
+          "title": "韩国绑定美国AI产业链！三星、SK海力士与英伟达、博通等签9500亿美元芯片大单",
+          "url": "https://wallstreetcn.com/articles/3777926",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时01分 ~ 21时55分]"
+        },
+        {
           "title": "美国总统特朗普：伊朗现在正在与我们对话。 我认为现在还不是伊朗达成协议的时候，伊朗尚未准备好。 将出席明年的白宫记者协会晚宴。",
           "url": "https://wallstreetcn.com/livenews/3139702",
           "source": "华尔街见闻-快讯",
@@ -521,6 +563,29 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时34分 ~ 04时18分]"
+        },
+        {
+          "title": "有人呼吁美“封杀”中国大模型，黄仁勋等人急了：快开源美国AI",
+          "url": "https://news.ifeng.com/c/8v36WP0WL2Y",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时01分 ~ 21时55分]"
+        },
+        {
+          "title": "中东断供叠加AI算力爆发，电子布涨超100%，龙头急扩产",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33654798",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时36分 ~ 21时55分]"
         },
         {
           "title": "AI重现狼牙山五壮士英雄壮举",
@@ -560,28 +625,6 @@
           "time_info": "[18时37分 ~ 20时02分]"
         },
         {
-          "title": "韩国绑定美国AI产业链！三星、SK海力士与英伟达、博通等签9500亿美元芯片大单",
-          "url": "https://wallstreetcn.com/articles/3777926",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时01分 ~ 20时02分]"
-        },
-        {
-          "title": "有人呼吁美“封杀”中国大模型，黄仁勋等人急了：快开源美国AI",
-          "url": "https://news.ifeng.com/c/8v36WP0WL2Y",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时01分 ~ 20时02分]"
-        },
-        {
           "title": "伊朗军方称将对美军实施对等报复",
           "url": "https://wallstreetcn.com/livenews/3139696",
           "source": "华尔街见闻-快讯",
@@ -618,17 +661,6 @@
           "time_info": "[11时28分 ~ 14时15分]"
         },
         {
-          "title": "中东断供叠加AI算力爆发，电子布涨超100%，龙头急扩产",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33654798",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时36分 ~ 18时37分]"
-        },
-        {
           "title": "AI血检提前15年预警心脏病",
           "url": "https://s.weibo.com/weibo?q=AI%E8%A1%80%E6%A3%80%E6%8F%90%E5%89%8D15%E5%B9%B4%E9%A2%84%E8%AD%A6%E5%BF%83%E8%84%8F%E7%97%85&t=31&band_rank=20&Refer=top",
           "source": "微博",
@@ -649,6 +681,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时27分 ~ 11时28分]"
+        },
+        {
+          "title": "热浪炙烤美国中部，用电需求攀升",
+          "url": "https://flash.jin10.com/detail/20260725210602519800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时55分"
         },
         {
           "title": "摩根士丹利：如果SpaceX股价跌至10%，将意味着该公司的人工智能（AI）毫无价值。",
@@ -695,6 +738,17 @@
           "time_info": "04时18分"
         },
         {
+          "title": "黄仁勋首推支持开源AI模型，奥特曼意外呼应，马斯克称所有涉及X系统的代码将开源",
+          "url": "https://wallstreetcn.com/articles/3777898",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时55分"
+        },
+        {
           "title": "金十图示：2026年07月24日（周五）热门中概股行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260725015555373800",
           "source": "金十数据",
@@ -737,6 +791,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时59分"
+        },
+        {
+          "title": "亚洲大型股票基金转向落后股，来规避AI波动风险",
+          "url": "https://wallstreetcn.com/livenews/3139752",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时55分"
         },
         {
           "title": "特朗普称伊朗问题进展非常顺利 但称伊朗“还没准备好”达成协议",
@@ -825,6 +890,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时15分"
+        },
+        {
+          "title": "分析｜美国本轮已连续袭击伊朗13晚，以色列为何“隐身”？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33650717",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时55分"
         },
         {
           "title": "市场消息：巴基斯坦方面警告伊朗，关闭“曼德海峡”将使局势进一步复杂化。",
@@ -926,6 +1002,17 @@
           "time_info": "00时34分"
         },
         {
+          "title": "事关基础研究、人工智能、人民城市，上海这场重磅会议锚定哪些关键方向",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33656318",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时55分"
+        },
+        {
           "title": "亚马逊云服务(AWS)：OpenAI GPT-5.6 SOL、TERRA和LUNA现已在亚马逊Bedrock上正式上线。",
           "url": "https://flash.jin10.com/detail/20260724234329207800",
           "source": "金十数据",
@@ -968,6 +1055,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时03分"
+        },
+        {
+          "title": "黄仁勋发布首条推文力挺开源AI：世界需要前沿的开源模型",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33656792",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时55分"
         },
         {
           "title": "伊朗副外长加里巴巴迪：欧洲各国必须明白，向侵略者提供基地或领土将使他们自身也被归类为侵略者。",
