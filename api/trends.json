@@ -1,12 +1,37 @@
 {
-  "generated_at": "2026-07-26T07:57:55.307888+08:00",
-  "total_titles_processed": 508,
+  "generated_at": "2026-07-26T10:44:50.910923+08:00",
+  "total_titles_processed": 668,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai ai+ ai人工智能 人工智能 风险识别 商业风险识别 痛点 需求 商业风险 伊朗 rwa 趋势 热点 热门",
-      "match_count": 52,
+      "match_count": 67,
       "titles": [
+        {
+          "title": "被曝向胡塞武装空运军官和武器，伊朗怎么说？",
+          "url": "https://news.ifeng.com/c/8v0y8EzOzBv",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时10分 ~ 10时44分]"
+        },
+        {
+          "title": "韩国绑定美国AI产业链！三星、SK海力士与英伟达、博通等签9500亿美元芯片大单",
+          "url": "https://wallstreetcn.com/articles/3777926",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4,
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时10分 ~ 10时44分]"
+        },
         {
           "title": "美媒爆猛料，“两国首次直接袭击伊朗”",
           "url": "https://news.ifeng.com/c/8v324dBINEL",
@@ -19,28 +44,73 @@
           "time_info": "[00时10分 ~ 07时57分]"
         },
         {
-          "title": "被曝向胡塞武装空运军官和武器，伊朗怎么说？",
-          "url": "https://news.ifeng.com/c/8v0y8EzOzBv",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时10分 ~ 07时57分]"
-        },
-        {
-          "title": "韩国绑定美国AI产业链！三星、SK海力士与英伟达、博通等签9500亿美元芯片大单",
-          "url": "https://wallstreetcn.com/articles/3777926",
+          "title": "搞清楚市场担心什么AI风险：蛋糕大小，还是分配？",
+          "url": "https://wallstreetcn.com/articles/3777925",
           "source": "华尔街见闻",
           "ranks": [
-            5,
-            4,
-            3
+            10,
+            9,
+            6,
+            5
           ],
           "is_new": false,
           "appearance_count": 8,
-          "time_info": "[00时10分 ~ 07时57分]"
+          "time_info": "[01时57分 ~ 10时44分]"
+        },
+        {
+          "title": "Muriel Siebert首席投资官Mark Malek：在通胀和油价高企、投资者担心企业利润率扩张可能放缓的时候，现在真不是推行关税政策的时候。 我们现在必须非常非常谨慎。 尽管霍尔木兹海峡因伊朗战争而关闭，但股市此前已经出现过反弹，相当于用掉了它唯一的“免死金牌”。",
+          "url": "https://wallstreetcn.com/livenews/3139779",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            7,
+            8,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时10分 ~ 10时44分]"
+        },
+        {
+          "title": "伊朗打击亚马逊数据中心，卫星图像公布",
+          "url": "https://www.cls.cn/detail/2437013",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11,
+            10,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时10分 ~ 10时44分]"
+        },
+        {
+          "title": "中国AI反超,老美急眼下黑手",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356490&amp;topic_name=%E4%B8%AD%E5%9B%BDAI%E5%8F%8D%E8%B6%85%2C%E8%80%81%E7%BE%8E%E6%80%A5%E7%9C%BC%E4%B8%8B%E9%BB%91%E6%89%8B",
+          "source": "贴吧",
+          "ranks": [
+            13,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时10分 ~ 10时44分]"
+        },
+        {
+          "title": "事关基础研究、人工智能、人民城市，上海这场重磅会议锚定哪些关键方向",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33656318",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            17,
+            18,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时10分 ~ 10时44分]"
         },
         {
           "title": "男生中考 699 分偷偷改志愿读中职，称「未来想当程序员，AI 时代也不怕」，如何看待这一升学选择？",
@@ -73,32 +143,18 @@
           "time_info": "[00时10分 ~ 07时57分]"
         },
         {
-          "title": "Muriel Siebert首席投资官Mark Malek：在通胀和油价高企、投资者担心企业利润率扩张可能放缓的时候，现在真不是推行关税政策的时候。 我们现在必须非常非常谨慎。 尽管霍尔木兹海峡因伊朗战争而关闭，但股市此前已经出现过反弹，相当于用掉了它唯一的“免死金牌”。",
-          "url": "https://wallstreetcn.com/livenews/3139779",
-          "source": "华尔街见闻-快讯",
+          "title": "穿凉鞋的人越来越少，洞洞鞋、勃肯鞋、溯溪鞋接班，为什么大家这样选？反映出哪些消费趋势？",
+          "url": "https://www.zhihu.com/question/2062144078456648299",
+          "source": "知乎",
           "ranks": [
-            5,
+            13,
+            10,
             7,
-            8
+            3
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[00时10分 ~ 07时57分]"
-        },
-        {
-          "title": "伊朗打击亚马逊数据中心，卫星图像公布",
-          "url": "https://www.cls.cn/detail/2437013",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11,
-            10,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时10分 ~ 07时57分]"
+          "time_info": "[03时02分 ~ 10时44分]"
         },
         {
           "title": "有人呼吁美“封杀”中国大模型，黄仁勋等人急了：快开源美国AI",
@@ -106,17 +162,6 @@
           "source": "凤凰网",
           "ranks": [
             10
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时10分 ~ 07时57分]"
-        },
-        {
-          "title": "中国AI反超,老美急眼下黑手",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356490&amp;topic_name=%E4%B8%AD%E5%9B%BDAI%E5%8F%8D%E8%B6%85%2C%E8%80%81%E7%BE%8E%E6%80%A5%E7%9C%BC%E4%B8%8B%E9%BB%91%E6%89%8B",
-          "source": "贴吧",
-          "ranks": [
-            13
           ],
           "is_new": false,
           "appearance_count": 8,
@@ -135,44 +180,18 @@
           "time_info": "[00时10分 ~ 07时57分]"
         },
         {
-          "title": "事关基础研究、人工智能、人民城市，上海这场重磅会议锚定哪些关键方向",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33656318",
-          "source": "澎湃新闻",
+          "title": "伊朗官员：镐山设施“目前是空的”，袭击一个空置的仓库只有利于制造虚假信息",
+          "url": "https://wallstreetcn.com/livenews/3139764",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            19,
-            17,
-            18
+            20,
+            22,
+            23,
+            28
           ],
           "is_new": false,
           "appearance_count": 8,
-          "time_info": "[00时10分 ~ 07时57分]"
-        },
-        {
-          "title": "穿凉鞋的人越来越少，洞洞鞋、勃肯鞋、溯溪鞋接班，为什么大家这样选？反映出哪些消费趋势？",
-          "url": "https://www.zhihu.com/question/2062144078456648299",
-          "source": "知乎",
-          "ranks": [
-            13,
-            10,
-            7,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时02分 ~ 07时57分]"
-        },
-        {
-          "title": "搞清楚市场担心什么AI风险：蛋糕大小，还是分配？",
-          "url": "https://wallstreetcn.com/articles/3777925",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时57分 ~ 07时57分]"
+          "time_info": "[00时10分 ~ 10时44分]"
         },
         {
           "title": "以总理计划向特朗普递交伊朗情报",
@@ -180,36 +199,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时52分 ~ 07时57分]"
-        },
-        {
-          "title": "伊朗官员：镐山设施“目前是空的”，袭击一个空置的仓库只有利于制造虚假信息",
-          "url": "https://wallstreetcn.com/livenews/3139764",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20,
-            22,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时10分 ~ 07时57分]"
-        },
-        {
-          "title": "据地区消息认识透露，美国总统特朗普周五指示军方不要袭击伊朗。 阿曼与伊朗可能在周末达成协议。（Axios）",
-          "url": "https://wallstreetcn.com/livenews/3139790",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
             2,
-            3
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时52分 ~ 07时57分]"
+          "appearance_count": 3,
+          "time_info": "[06时52分 ~ 10时44分]"
         },
         {
           "title": "美国中央司令部：于7月24日在阿曼湾对悬挂莫桑比克国旗的“Lavine”号油轮实施使其中止航行的措施，此前该船船员多次试图违反封锁，并无视反复警告。该船已不再驶往伊朗。",
@@ -223,15 +218,28 @@
           "time_info": "[06时52分 ~ 07时57分]"
         },
         {
-          "title": "特朗普下令暂停空袭伊朗",
-          "url": "https://wallstreetcn.com/livenews/3139792",
+          "title": "据地区消息认识透露，美国总统特朗普周五指示军方不要袭击伊朗。 阿曼与伊朗可能在周末达成协议。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3139790",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            3,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时52分 ~ 10时44分]"
+        },
+        {
+          "title": "伊朗就商船遭袭召见乌克兰临时代办",
+          "url": "https://wallstreetcn.com/livenews/3139799",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时57分"
+          "time_info": "10时44分"
         },
         {
           "title": "马斯克：中国很有可能成AI领导者",
@@ -273,6 +281,17 @@
           "time_info": "[00时10分 ~ 06时52分]"
         },
         {
+          "title": "内塔尼亚胡将见特朗普，递交伊朗情报",
+          "url": "https://news.ifeng.com/c/8v48kLIyX9u",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时44分"
+        },
+        {
           "title": "据伊朗学生通讯社：伊拉克消息人士称，伊拉克基尔库克省詹布尔油田发生数次剧烈爆炸并引发大范围火灾。",
           "url": "https://flash.jin10.com/detail/20260726052806994800",
           "source": "金十数据",
@@ -283,6 +302,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时52分 ~ 07时57分]"
+        },
+        {
+          "title": "伊朗称该国商船在里海遭乌克兰袭击致1死1伤",
+          "url": "https://wallstreetcn.com/livenews/3139796",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时44分"
         },
         {
           "title": "伊朗革命卫队发言人：我们不认为当前的冲突是全面战争，而是对美国侵略的回应。",
@@ -382,6 +412,18 @@
           "time_info": "[05时52分 ~ 07时57分]"
         },
         {
+          "title": "特朗普下令暂停空袭伊朗",
+          "url": "https://wallstreetcn.com/livenews/3139792",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时57分 ~ 10时44分]"
+        },
+        {
           "title": "伊朗议会国家安全委员会发言人：伊朗与美国之间的主要争论点是霍尔木兹海峡。 海峡永远不会回到战争前的状态。",
           "url": "https://flash.jin10.com/detail/20260726025410161800",
           "source": "金十数据",
@@ -393,6 +435,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时03分 ~ 05时52分]"
+        },
+        {
+          "title": "百元油价、AI反噬、关税重启--股市多头的“艰难盛夏”",
+          "url": "https://wallstreetcn.com/articles/3777919",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时52分 ~ 10时44分]"
         },
         {
           "title": "伊朗革命卫队发言人：在15天的战斗中，我们摧毁了11架美国战斗机和直升机。",
@@ -529,18 +584,6 @@
           "time_info": "[03时03分 ~ 04时46分]"
         },
         {
-          "title": "百元油价、AI反噬、关税重启--股市多头的“艰难盛夏”",
-          "url": "https://wallstreetcn.com/articles/3777919",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时52分 ~ 07时57分]"
-        },
-        {
           "title": "伊朗官员：镐山设施“目前是空的”",
           "url": "https://flash.jin10.com/detail/20260725214500074800",
           "source": "金十数据",
@@ -596,8 +639,129 @@
             14
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时52分 ~ 10时44分]"
+        },
+        {
+          "title": "AI短剧《被裁掉的女孩》播放破2亿",
+          "url": "https://www.toutiao.com/trending/7665929964277006363/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时52分"
+          "time_info": "10时44分"
+        },
+        {
+          "title": "AI算命 个人数据意识",
+          "url": "https://s.weibo.com/weibo?q=AI%E7%AE%97%E5%91%BD%20%E4%B8%AA%E4%BA%BA%E6%95%B0%E6%8D%AE%E6%84%8F%E8%AF%86&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时44分"
+        },
+        {
+          "title": "海湾合作委员会面临危机，成员国难就伊朗问题达成一致",
+          "url": "https://flash.jin10.com/detail/20260726094333888800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时44分"
+        },
+        {
+          "title": "特朗普下令暂停空袭伊朗",
+          "url": "https://wallstreetcn.com/articles/3777934",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时44分"
+        },
+        {
+          "title": "为AI投资腾资金？美国科技巨头年内裁员近14万人",
+          "url": "https://wallstreetcn.com/articles/3777930",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时44分"
+        },
+        {
+          "title": "特朗普下令暂停空袭伊朗",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33660464",
+          "source": "澎湃新闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时44分"
+        },
+        {
+          "title": "特朗普叫停对伊朗空袭 为霍尔木兹海峡谈判留出空间",
+          "url": "https://www.cls.cn/detail/2437057",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时44分"
+        },
+        {
+          "title": "特朗普下令暂停打击伊朗",
+          "url": "https://www.toutiao.com/trending/7666608065243778606/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时44分"
+        },
+        {
+          "title": "SK崔泰源：韩国需转型为“AI原生”国家",
+          "url": "https://flash.jin10.com/detail/20260726091430894800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时44分"
+        },
+        {
+          "title": "英伟达与 SK 集团推出超 5000 亿美元双向交易 AI 合作计划，英伟达买内存，SK 买超算，如何解读？",
+          "url": "https://www.zhihu.com/question/2064306906437571115",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时44分"
+        },
+        {
+          "title": "浙大两大热门专业没录满",
+          "url": "https://www.toutiao.com/trending/7665707737108381734/",
+          "source": "今日头条",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时44分"
         },
         {
           "title": "热浪炙烤美国中部，用电需求攀升",
@@ -628,9 +792,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时57分"
+        },
+        {
+          "title": "特朗普下令暂停空袭伊朗",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8B%E4%BB%A4%E6%9A%82%E5%81%9C%E7%A9%BA%E8%A2%AD%E4%BC%8A%E6%9C%97",
+          "source": "百度热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时44分"
         },
         {
           "title": "假如莫奈遇上AI机器人",
@@ -639,7 +814,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时57分"
         }
