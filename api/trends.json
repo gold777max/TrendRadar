@@ -1,22 +1,37 @@
 {
-  "generated_at": "2026-07-29T07:08:32.629748+08:00",
-  "total_titles_processed": 572,
+  "generated_at": "2026-07-29T10:13:03.622297+08:00",
+  "total_titles_processed": 766,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai ai+ ai人工智能 人工智能 风险识别 商业风险识别 痛点 需求 商业风险 伊朗 rwa 趋势 热点 热门",
-      "match_count": 94,
+      "match_count": 106,
       "titles": [
         {
           "title": "关键时刻惠誉也来泼冷水：AI市场回调正成为全球主要信用风险",
           "url": "https://www.cls.cn/detail/2439291",
           "source": "财联社热门",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时04分 ~ 07时08分]"
+          "appearance_count": 9,
+          "time_info": "[00时04分 ~ 10时13分]"
+        },
+        {
+          "title": "AI泡沫的金丝雀，刚刚死去.....",
+          "url": "https://wallstreetcn.com/articles/3778131",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时04分 ~ 10时13分]"
         },
         {
           "title": "AI忧虑盖过油价下跌，纳指承压，半导体指数一度跌超5%，中概股逆市收涨",
@@ -48,24 +63,12 @@
           "url": "https://news.ifeng.com/c/8v8RFGTOHZW",
           "source": "凤凰网",
           "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时04分 ~ 07时08分]"
-        },
-        {
-          "title": "AI泡沫的金丝雀，刚刚死去.....",
-          "url": "https://wallstreetcn.com/articles/3778131",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
             5,
-            4
+            9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时04分 ~ 07时08分]"
+          "appearance_count": 9,
+          "time_info": "[00时04分 ~ 10时13分]"
         },
         {
           "title": "创业板跌超7%，光刻机、大消费逆势活跃，芯片、算力硬件齐跌，港股AI大模型双雄下挫、智谱跌近20%",
@@ -73,11 +76,39 @@
           "source": "华尔街见闻",
           "ranks": [
             5,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时04分 ~ 07时08分]"
+          "appearance_count": 9,
+          "time_info": "[00时04分 ~ 10时13分]"
+        },
+        {
+          "title": "黑色星期二！全球芯片股遭血洗，SK海力士重挫13%，AI回报成市场最大担心",
+          "url": "https://wallstreetcn.com/articles/3778106",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            8,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时04分 ~ 10时13分]"
+        },
+        {
+          "title": "花40亿token做出AI督学官",
+          "url": "https://search.bilibili.com/all?keyword=%E8%8A%B140%E4%BA%BFtoken%E5%81%9A%E5%87%BAAI%E7%9D%A3%E5%AD%A6%E5%AE%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            23,
+            19,
+            12,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时04分 ~ 10时13分]"
         },
         {
           "title": "印度成首个被AI做空的国家",
@@ -103,18 +134,6 @@
           "time_info": "[00时04分 ~ 07时08分]"
         },
         {
-          "title": "黑色星期二！全球芯片股遭血洗，SK海力士重挫13%，AI回报成市场最大担心",
-          "url": "https://wallstreetcn.com/articles/3778106",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时04分 ~ 07时08分]"
-        },
-        {
           "title": "效仿伊朗扼住中东原油命门？也门政府警告：胡塞武装或控制曼德海峡",
           "url": "https://www.cls.cn/detail/2439032",
           "source": "财联社热门",
@@ -128,6 +147,20 @@
           "time_info": "[00时04分 ~ 07时08分]"
         },
         {
+          "title": "AI公司 原版书籍销毁",
+          "url": "https://s.weibo.com/weibo?q=AI%E5%85%AC%E5%8F%B8%20%E5%8E%9F%E7%89%88%E4%B9%A6%E7%B1%8D%E9%94%80%E6%AF%81&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8,
+            6,
+            18,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[02时12分 ~ 10时13分]"
+        },
+        {
           "title": "伊朗导弹甩开美军多枚拦截弹画面",
           "url": "https://www.toutiao.com/trending/7666729375357865515/",
           "source": "今日头条",
@@ -139,6 +172,19 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时04分 ~ 07时08分]"
+        },
+        {
+          "title": "康宁三季度业绩指引略逊预期 AI光通信业务增速放缓 股价盘中跌近20%",
+          "url": "https://www.cls.cn/detail/2439413",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[02时12分 ~ 10时13分]"
         },
         {
           "title": "人工智能相关产品成为中国外贸新名片",
@@ -185,19 +231,6 @@
           "time_info": "04时15分"
         },
         {
-          "title": "花40亿token做出AI督学官",
-          "url": "https://search.bilibili.com/all?keyword=%E8%8A%B140%E4%BA%BFtoken%E5%81%9A%E5%87%BAAI%E7%9D%A3%E5%AD%A6%E5%AE%98",
-          "source": "bilibili 热搜",
-          "ranks": [
-            23,
-            19,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时04分 ~ 04时15分]"
-        },
-        {
           "title": "xAI面向Grok推出Build模型。 Grok Build模型处于早期测试阶段，针对的是SuperGrok Heavy超级订阅者。",
           "url": "https://wallstreetcn.com/livenews/3141119",
           "source": "华尔街见闻-快讯",
@@ -215,7 +248,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时08分"
         },
@@ -237,7 +270,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时08分"
         },
@@ -248,22 +281,21 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时08分"
         },
         {
-          "title": "AI公司 原版书籍销毁",
-          "url": "https://s.weibo.com/weibo?q=AI%E5%85%AC%E5%8F%B8%20%E5%8E%9F%E7%89%88%E4%B9%A6%E7%B1%8D%E9%94%80%E6%AF%81&t=31&band_rank=8&Refer=top",
-          "source": "微博",
+          "title": "美股收盘：AI概念延续“血色一夜” 另一场狂欢由此开启",
+          "url": "https://www.cls.cn/detail/2439531",
+          "source": "财联社热门",
           "ranks": [
-            8,
-            6,
-            18
+            9,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时12分 ~ 07时08分]"
+          "appearance_count": 3,
+          "time_info": "[07时08分 ~ 10时13分]"
         },
         {
           "title": "伊朗副外长：已提议与阿曼就霍尔木兹海峡的临时航线进行谈判",
@@ -294,7 +326,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时08分"
         },
@@ -305,21 +337,9 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时08分"
-        },
-        {
-          "title": "康宁三季度业绩指引略逊预期 AI光通信业务增速放缓 股价盘中跌近20%",
-          "url": "https://www.cls.cn/detail/2439413",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时12分 ~ 07时08分]"
         },
         {
           "title": "LNG船舶需求攀升，GTT称美国引领项目增长",
@@ -358,6 +378,18 @@
           "time_info": "[02时13分 ~ 04时15分]"
         },
         {
+          "title": "费城半导体指数跌破11200点关键支撑，AI牛市悬了！",
+          "url": "https://wallstreetcn.com/articles/3778137",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时08分 ~ 10时13分]"
+        },
+        {
           "title": "美股AI硬件板块暴跌 美光科技跌逾12%",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1AI%E7%A1%AC%E4%BB%B6%E6%9D%BF%E5%9D%97%E6%9A%B4%E8%B7%8C+%E7%BE%8E%E5%85%89%E7%A7%91%E6%8A%80%E8%B7%8C%E9%80%BE12%25",
           "source": "百度热搜",
@@ -381,6 +413,28 @@
           "time_info": "[00时04分 ~ 00时05分]"
         },
         {
+          "title": "AI剧 一本万利",
+          "url": "https://s.weibo.com/weibo?q=AI%E5%89%A7%20%E4%B8%80%E6%9C%AC%E4%B8%87%E5%88%A9&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时12分 ~ 10时13分]"
+        },
+        {
+          "title": "专家：乌克兰对伊朗商船动手，是在向美国交“投名状”",
+          "url": "https://news.ifeng.com/c/8v8Yy57TOBs",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时12分 ~ 10时13分]"
+        },
+        {
           "title": "国际观察丨对伊朗停火，美国这次是“不打了”还是“打不了”？",
           "url": "https://m.thepaper.cn/newsDetail_forward_33669415",
           "source": "澎湃新闻",
@@ -390,6 +444,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时04分 ~ 00时05分]"
+        },
+        {
+          "title": "AI存储需求炸裂，希捷上季营收超预期增近50%、毛利率大幅跃升突破50%，指引更强劲｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3778163",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时12分 ~ 10时13分]"
         },
         {
           "title": "伊朗副外长：德黑兰向阿曼提议，由伊朗负责管理霍尔木兹海峡一侧的单向航运通行，阿曼则负责管理另一侧的通行。",
@@ -404,6 +469,39 @@
           "time_info": "[02时13分 ~ 04时15分]"
         },
         {
+          "title": "工科博士谈AI时代专业选择",
+          "url": "https://search.bilibili.com/all?keyword=%E5%B7%A5%E7%A7%91%E5%8D%9A%E5%A3%AB%E8%B0%88AI%E6%97%B6%E4%BB%A3%E4%B8%93%E4%B8%9A%E9%80%89%E6%8B%A9",
+          "source": "bilibili 热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时12分 ~ 10时13分]"
+        },
+        {
+          "title": "7月29日投资避雷针：伊朗发射多枚导弹袭击驻中东美军 WTI原油期货早盘一度涨超5%",
+          "url": "https://www.cls.cn/detail/2439585",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时12分 ~ 10时13分]"
+        },
+        {
+          "title": "凤凰女记者：针对泽连斯基对立言论，伊朗内部有三种声音",
+          "url": "https://news.ifeng.com/c/8v8XXEIU4dL",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时12分 ~ 10时13分]"
+        },
+        {
           "title": "AI重现被困师生救援事件",
           "url": "https://search.bilibili.com/all?keyword=AI%E9%87%8D%E7%8E%B0%E8%A2%AB%E5%9B%B0%E5%B8%88%E7%94%9F%E6%95%91%E6%8F%B4%E4%BA%8B%E4%BB%B6",
           "source": "bilibili 热搜",
@@ -413,6 +511,39 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时12分 ~ 02时13分]"
+        },
+        {
+          "title": "抖火杯AI番外大电影",
+          "url": "https://www.douyin.com/hot/2588435",
+          "source": "抖音",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时12分 ~ 10时13分]"
+        },
+        {
+          "title": "OpenAI模型失控新的受害者曝光",
+          "url": "https://www.baidu.com/s?wd=OpenAI%E6%A8%A1%E5%9E%8B%E5%A4%B1%E6%8E%A7%E6%96%B0%E7%9A%84%E5%8F%97%E5%AE%B3%E8%80%85%E6%9B%9D%E5%85%89",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时12分 ~ 10时13分]"
+        },
+        {
+          "title": "英伟达拟为OpenAI提供巨额担保",
+          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E6%8B%9F%E4%B8%BAOpenAI%E6%8F%90%E4%BE%9B%E5%B7%A8%E9%A2%9D%E6%8B%85%E4%BF%9D",
+          "source": "bilibili 热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时12分 ~ 10时13分]"
         },
         {
           "title": "AI科技板块大跌原因",
@@ -432,7 +563,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时08分"
         },
@@ -443,7 +574,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时08分"
         },
@@ -476,7 +607,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时08分"
         },
@@ -514,17 +645,6 @@
           "time_info": "04时15分"
         },
         {
-          "title": "美股收盘：AI概念延续“血色一夜” 另一场狂欢由此开启",
-          "url": "https://www.cls.cn/detail/2439531",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时08分"
-        },
-        {
           "title": "英伟达CEO黄仁勋：呼吁支持开放权重的人工智能模型。开放权重模型对人工智能的安全和保障至关重要。",
           "url": "https://flash.jin10.com/detail/20260729012433089800",
           "source": "金十数据",
@@ -536,15 +656,15 @@
           "time_info": "02时13分"
         },
         {
-          "title": "费城半导体指数跌破11200点关键支撑，AI牛市悬了！",
-          "url": "https://wallstreetcn.com/articles/3778137",
-          "source": "华尔街见闻",
+          "title": "以色列总理内塔尼亚胡：我和特朗普都致力于实现目标。 对与伊朗的协议持怀疑态度。 如果遭到攻击将强力回击。",
+          "url": "https://wallstreetcn.com/livenews/3141337",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时08分"
+          "time_info": "10时13分"
         },
         {
           "title": "OpenAI与Anthropic员工联名致信 呼吁美政府建立机制监控AI发展",
@@ -575,9 +695,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时08分"
+        },
+        {
+          "title": "据伊朗媒体报道，伊朗用弹道导弹袭击了位于约旦的美国基地。",
+          "url": "https://wallstreetcn.com/livenews/3141335",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时13分"
         },
         {
           "title": "对约旦的最新袭击是自上周五美国暂停对伊朗的攻击以来，伊朗首次对该地区的美国基地发起导弹攻击。",
@@ -586,7 +717,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时08分"
         },
@@ -608,7 +739,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时08分"
         },
@@ -663,7 +794,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时08分"
         },
@@ -696,7 +827,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时08分"
         },
@@ -729,7 +860,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时08分"
         },
@@ -751,7 +882,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时08分"
         },
@@ -762,7 +893,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时08分"
         },
@@ -806,7 +937,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时08分"
         },
@@ -850,7 +981,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时08分"
         },
@@ -894,7 +1025,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时08分"
         },
@@ -927,7 +1058,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时08分"
         },
@@ -949,7 +1080,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时08分"
         },
@@ -982,7 +1113,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时08分"
         },
@@ -993,7 +1124,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时08分"
         },
@@ -1015,7 +1146,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时08分"
         },
@@ -1037,7 +1168,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时08分"
         },
@@ -1051,6 +1182,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时15分"
+        },
+        {
+          "title": "伊朗消息人士否认沙特境内目标受袭与伊朗有关",
+          "url": "https://wallstreetcn.com/livenews/3141308",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时13分"
         },
         {
           "title": "伊朗驻华大使称伊朗未介入曼德海峡问题，呼吁从源头解决也门危机",
