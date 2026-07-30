@@ -1,13 +1,11 @@
 {
-  "generated_at": "2026-07-30T07:00:57.614876+08:00",
-  "total_titles_processed": 567,
-  "failed_sources": [
-    "wallstreetcn-quick"
-  ],
+  "generated_at": "2026-07-30T08:05:18.330967+08:00",
+  "total_titles_processed": 667,
+  "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai ai+ ai人工智能 人工智能 风险识别 商业风险识别 痛点 需求 商业风险 伊朗 rwa 趋势 热点 热门",
-      "match_count": 51,
+      "match_count": 61,
       "titles": [
         {
           "title": "特朗普称美国将强力打击伊朗 中东局势升级推动国际油价大幅飙升",
@@ -15,11 +13,12 @@
           "source": "财联社热门",
           "ranks": [
             2,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时50分 ~ 07时00分]"
+          "appearance_count": 8,
+          "time_info": "[01时50分 ~ 08时05分]"
         },
         {
           "title": "FOMC和巨头财报在即，特朗普称将对伊朗进行打击，美股指跌幅扩大，道指跌超1.5%，布油涨超6%",
@@ -31,6 +30,32 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时50分 ~ 05时57分]"
+        },
+        {
+          "title": "有说法称印度成首个被 AI 做空的国家，真的是这样吗？会对印度经济产生哪些影响？",
+          "url": "https://www.zhihu.com/question/2065710393360479149",
+          "source": "知乎",
+          "ranks": [
+            15,
+            13,
+            6,
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时50分 ~ 08时05分]"
+        },
+        {
+          "title": "特朗普：伊朗请求不要发动打击，但美国将给他们一个教训",
+          "url": "https://news.ifeng.com/c/8vAUYfWwMg3",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[05时57分 ~ 08时05分]"
         },
         {
           "title": "布油大涨7%！特朗普警告：将对伊朗“大力打击”",
@@ -46,26 +71,16 @@
           "time_info": "[01时50分 ~ 04时52分]"
         },
         {
-          "title": "特朗普：伊朗请求不要发动打击，但美国将给他们一个教训",
-          "url": "https://news.ifeng.com/c/8vAUYfWwMg3",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时57分 ~ 07时00分]"
-        },
-        {
           "title": "股价仍跌超10%！SK海力士电话会：未见AI投资放缓迹象，HBM4已提前量产，长协不会导致供应过剩",
           "url": "https://wallstreetcn.com/articles/3778177",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时50分 ~ 07时00分]"
+          "appearance_count": 8,
+          "time_info": "[01时50分 ~ 08时05分]"
         },
         {
           "title": "KT宫斗实锤,Aiming被抬走",
@@ -75,22 +90,67 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时50分 ~ 07时00分]"
+          "appearance_count": 8,
+          "time_info": "[01时50分 ~ 08时05分]"
         },
         {
-          "title": "有说法称印度成首个被 AI 做空的国家，真的是这样吗？会对印度经济产生哪些影响？",
-          "url": "https://www.zhihu.com/question/2065710393360479149",
-          "source": "知乎",
+          "title": "法学何为｜张凌寒：法律如何回应人工智能时代的责任追问？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33672802",
+          "source": "澎湃新闻",
           "ranks": [
+            17,
             15,
-            13,
-            6,
-            8
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时50分 ~ 07时00分]"
+          "appearance_count": 8,
+          "time_info": "[01时50分 ~ 08时05分]"
+        },
+        {
+          "title": "AI漫剧走红,国动流量狂跌",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356621&amp;topic_name=AI%E6%BC%AB%E5%89%A7%E8%B5%B0%E7%BA%A2%2C%E5%9B%BD%E5%8A%A8%E6%B5%81%E9%87%8F%E7%8B%82%E8%B7%8C",
+          "source": "贴吧",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时50分 ~ 08时05分]"
+        },
+        {
+          "title": "赢学入脑,法国声称AI超中国",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356609&amp;topic_name=%E8%B5%A2%E5%AD%A6%E5%85%A5%E8%84%91%2C%E6%B3%95%E5%9B%BD%E5%A3%B0%E7%A7%B0AI%E8%B6%85%E4%B8%AD%E5%9B%BD",
+          "source": "贴吧",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时50分 ~ 08时05分]"
+        },
+        {
+          "title": "伊朗武装部队警告特朗普",
+          "url": "https://www.douyin.com/hot/2589723",
+          "source": "抖音",
+          "ranks": [
+            29,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时50分 ~ 08时05分]"
+        },
+        {
+          "title": "布油盘中涨超8%！特朗普一再警告“狠狠打击”伊朗，寻求对伊加征关税",
+          "url": "https://wallstreetcn.com/articles/3778237",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时00分 ~ 08时05分]"
         },
         {
           "title": "Meta Platforms(META.O)首席执行官：得益于人工智能，公司正在打造全新体验，产品交付速度加快。",
@@ -104,59 +164,23 @@
           "time_info": "04时52分"
         },
         {
+          "title": "AI热潮下的“冰火两重天”：芯片商笑纳现金，云厂商仍在等回报",
+          "url": "https://flash.jin10.com/detail/20260730073649960800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时05分"
+        },
+        {
           "title": "【焦点复盘】双创指数现放量“深V”，游戏等AI应用端持续回暖，长鑫科技午后一度涨近15%",
           "url": "https://www.cls.cn/detail/2440260",
           "source": "财联社热门",
           "ranks": [
             10,
             11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时50分 ~ 07时00分]"
-        },
-        {
-          "title": "法学何为｜张凌寒：法律如何回应人工智能时代的责任追问？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33672802",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            15,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时50分 ~ 07时00分]"
-        },
-        {
-          "title": "AI漫剧走红,国动流量狂跌",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356621&amp;topic_name=AI%E6%BC%AB%E5%89%A7%E8%B5%B0%E7%BA%A2%2C%E5%9B%BD%E5%8A%A8%E6%B5%81%E9%87%8F%E7%8B%82%E8%B7%8C",
-          "source": "贴吧",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时50分 ~ 07时00分]"
-        },
-        {
-          "title": "赢学入脑,法国声称AI超中国",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356609&amp;topic_name=%E8%B5%A2%E5%AD%A6%E5%85%A5%E8%84%91%2C%E6%B3%95%E5%9B%BD%E5%A3%B0%E7%A7%B0AI%E8%B6%85%E4%B8%AD%E5%9B%BD",
-          "source": "贴吧",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时50分 ~ 07时00分]"
-        },
-        {
-          "title": "伊朗武装部队警告特朗普",
-          "url": "https://www.douyin.com/hot/2589723",
-          "source": "抖音",
-          "ranks": [
-            29,
-            20
           ],
           "is_new": false,
           "appearance_count": 6,
@@ -205,17 +229,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时57分"
-        },
-        {
-          "title": "布油盘中涨超8%！特朗普一再警告“狠狠打击”伊朗，寻求对伊加征关税",
-          "url": "https://wallstreetcn.com/articles/3778237",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时00分"
         },
         {
           "title": "市场消息：美国将于9月8日在秘鲁首都利马召开人工智能领域峰会。",
@@ -284,6 +297,19 @@
           "time_info": "[01时50分 ~ 05时57分]"
         },
         {
+          "title": "如何看待某历史学老师在期中考试的题目中加入白色隐藏文字，导致 35 位学生中的 32 位因使用 AI 成绩不及格？",
+          "url": "https://www.zhihu.com/question/2065158710427751418",
+          "source": "知乎",
+          "ranks": [
+            17,
+            15,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时50分 ~ 08时05分]"
+        },
+        {
           "title": "欧莱雅首席执行官尼古拉·希罗尼穆斯（Nicolas Hieronimus）指出，巴黎欧莱雅、卡诗、理肤泉和圣罗兰（YSL）是贡献增长的四大主力品牌。 他补充说，GLP-1类减肥药也在提振护发产品的需求，因为部分人群在服药期间会经历脱发。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3141816",
           "source": "华尔街见闻-快讯",
@@ -319,6 +345,18 @@
           "time_info": "[01时50分 ~ 04时52分]"
         },
         {
+          "title": "美称伊朗发射导弹袭击驻中东美军",
+          "url": "https://www.douyin.com/hot/2588834",
+          "source": "抖音",
+          "ranks": [
+            18,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[05时57分 ~ 08时05分]"
+        },
+        {
           "title": "对伊朗军事行动以来，美以领导人首次会晤",
           "url": "https://m.thepaper.cn/newsDetail_forward_33678142",
           "source": "澎湃新闻",
@@ -328,18 +366,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时50分 ~ 03时09分]"
-        },
-        {
-          "title": "如何看待某历史学老师在期中考试的题目中加入白色隐藏文字，导致 35 位学生中的 32 位因使用 AI 成绩不及格？",
-          "url": "https://www.zhihu.com/question/2065158710427751418",
-          "source": "知乎",
-          "ranks": [
-            17,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时50分 ~ 07时00分]"
         },
         {
           "title": "AI手机大战全面开打",
@@ -354,6 +380,17 @@
           "time_info": "[01时50分 ~ 07时00分]"
         },
         {
+          "title": "微软上季云+AI强劲答卷：Azure收入增超40%，资本支出低于预期，新增数据中心租约超1300亿｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3778264",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时04分 ~ 08时05分]"
+        },
+        {
           "title": "扎克伯格反对封禁中国AI：美国应解决自身问题 而非封禁竞争对手",
           "url": "https://www.cls.cn/detail/2440344",
           "source": "财联社热门",
@@ -365,16 +402,26 @@
           "time_info": "[01时50分 ~ 01时51分]"
         },
         {
-          "title": "美称伊朗发射导弹袭击驻中东美军",
-          "url": "https://www.douyin.com/hot/2588834",
-          "source": "抖音",
+          "title": "曝多家 AI 公司大量收购旧书训练模型后销毁，此前先例被法院认定合理，这会成为常态吗？可能带来哪些影响？",
+          "url": "https://www.zhihu.com/question/2065707692950123437",
+          "source": "知乎",
           "ranks": [
-            18,
-            14
+            13
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[05时57分 ~ 07时00分]"
+          "time_info": "[08时04分 ~ 08时05分]"
+        },
+        {
+          "title": "以色列总理内塔尼亚胡谈伊朗问题选项：这是特朗普的决定。",
+          "url": "https://wallstreetcn.com/livenews/3141964",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时05分"
         },
         {
           "title": "Meta：根本就不接近获得足够算力来满足需求。 通过出售全部算力来换取短期利润是愚蠢的行为。",
@@ -388,6 +435,17 @@
           "time_info": "05时57分"
         },
         {
+          "title": "特朗普：我们已对伊朗进行重创，我们很快就会彻底解决伊朗。",
+          "url": "https://wallstreetcn.com/livenews/3141963",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时05分"
+        },
+        {
           "title": "微软(MSFT.O)：第四财季OpenAI投资对每股收益的影响为-7美分。",
           "url": "https://flash.jin10.com/detail/20260730041831120800",
           "source": "金十数据",
@@ -397,6 +455,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时52分"
+        },
+        {
+          "title": "OpenAI首席财务官：公司7月份的年化收入已经超过了整个第二季度的总和。",
+          "url": "https://flash.jin10.com/detail/20260730071758962800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时05分"
         },
         {
           "title": "OpenAI针对学术研究员推出ChatGPT。 将向10万名研究员免费提供前沿模型的接触权限。 2026年夏季，将首先由1万名研究员可以使用相关模型。",
@@ -410,6 +479,17 @@
           "time_info": "01时51分"
         },
         {
+          "title": "美军正在伊朗境内进行空袭。（AXIOS）",
+          "url": "https://wallstreetcn.com/livenews/3141962",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时05分"
+        },
+        {
           "title": "特朗普称将痛击伊朗 寻求对伊朗加关税的授权",
           "url": "https://flash.jin10.com/detail/20260730041820706800",
           "source": "金十数据",
@@ -419,6 +499,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时52分"
+        },
+        {
+          "title": "据Axios：美国官员称，美国军方正在对伊朗进行空袭。",
+          "url": "https://flash.jin10.com/detail/20260730071212541800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时05分"
         },
         {
           "title": "纳斯达克金龙中国指数初步收涨1.7%。 热门中概股里，新东方初步收涨14.7%，小米涨8.1%，理想涨4.6%，拼多多、腾讯涨3.2%，B站、小鹏涨超2%，网易涨1.8%，日月光半导体跌6.8%。 ETF中，KWEB初步收涨1.8%，CQQQ涨0.2%。",
@@ -432,6 +523,17 @@
           "time_info": "04时52分"
         },
         {
+          "title": "微软CEO：AI模型应易于切换",
+          "url": "https://flash.jin10.com/detail/20260730065749615800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时05分"
+        },
+        {
           "title": "OpenAI首席执行官与美国立法者探讨下一代AI模型",
           "url": "https://wallstreetcn.com/livenews/3141802",
           "source": "华尔街见闻-快讯",
@@ -441,6 +543,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时51分"
+        },
+        {
+          "title": "市场消息：英特尔(INTC.O)向初创公司RosaicLabs提供了一些技术的访问权限，该公司CEO是英特尔CEO在其他公司的共同投资人。",
+          "url": "https://flash.jin10.com/detail/20260730065409051800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时05分"
         },
         {
           "title": "道指狂泄超千点，跌幅扩大至2.1%，标普跌1.1%，纳指跌1.1%，半导体指数跌3.8%，特朗普称“会稍微教训一下伊朗”。",
@@ -471,7 +584,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时00分"
         },
@@ -537,7 +650,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时00分"
         },
