@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-30T14:25:19.787250+08:00",
-  "total_titles_processed": 1039,
+  "generated_at": "2026-07-30T17:28:47.729319+08:00",
+  "total_titles_processed": 1231,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai ai+ ai人工智能 人工智能 风险识别 商业风险识别 痛点 需求 商业风险 伊朗 rwa 趋势 热点 热门",
-      "match_count": 81,
+      "match_count": 92,
       "titles": [
         {
           "title": "特朗普称美国将强力打击伊朗 中东局势升级推动国际油价大幅飙升",
@@ -31,11 +31,12 @@
             12,
             11,
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时50分 ~ 14时25分]"
+          "appearance_count": 12,
+          "time_info": "[01时50分 ~ 17时28分]"
         },
         {
           "title": "布油盘中涨超8%！特朗普一再警告“狠狠打击”伊朗，寻求对伊加征关税",
@@ -46,8 +47,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时00分 ~ 14时25分]"
+          "appearance_count": 7,
+          "time_info": "[07时00分 ~ 17时28分]"
         },
         {
           "title": "KT宫斗实锤,Aiming被抬走",
@@ -56,11 +57,12 @@
           "ranks": [
             8,
             13,
-            16
+            16,
+            24
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时50分 ~ 14时25分]"
+          "appearance_count": 12,
+          "time_info": "[01时50分 ~ 17时28分]"
         },
         {
           "title": "AI漫剧走红,国动流量狂跌",
@@ -98,6 +100,20 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时50分 ~ 05时57分]"
+        },
+        {
+          "title": "微软上季云+AI强劲答卷：Azure收入增超40%，资本支出低于预期，新增数据中心租约超1300亿｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3778264",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[08时04分 ~ 17时28分]"
         },
         {
           "title": "有说法称印度成首个被 AI 做空的国家，真的是这样吗？会对印度经济产生哪些影响？",
@@ -138,6 +154,18 @@
           "time_info": "[05时57分 ~ 08时05分]"
         },
         {
+          "title": "曝多家 AI 公司大量收购旧书训练模型后销毁，此前先例被法院认定合理，这会成为常态吗？可能带来哪些影响？",
+          "url": "https://www.zhihu.com/question/2065707692950123437",
+          "source": "知乎",
+          "ranks": [
+            13,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[08时04分 ~ 17时28分]"
+        },
+        {
           "title": "布油大涨7%！特朗普警告：将对伊朗“大力打击”",
           "url": "https://wallstreetcn.com/articles/3778237",
           "source": "华尔街见闻",
@@ -163,40 +191,16 @@
           "time_info": "[01时50分 ~ 08时05分]"
         },
         {
-          "title": "微软上季云+AI强劲答卷：Azure收入增超40%，资本支出低于预期，新增数据中心租约超1300亿｜财报见闻",
-          "url": "https://wallstreetcn.com/articles/3778264",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时04分 ~ 14时25分]"
-        },
-        {
-          "title": "曝多家 AI 公司大量收购旧书训练模型后销毁，此前先例被法院认定合理，这会成为常态吗？可能带来哪些影响？",
-          "url": "https://www.zhihu.com/question/2065707692950123437",
-          "source": "知乎",
-          "ranks": [
-            13,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时04分 ~ 14时25分]"
-        },
-        {
           "title": "沃什：2%通胀目标不动摇，保持独立性，关注AI变革（附全文）",
           "url": "https://wallstreetcn.com/articles/3778258",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时55分 ~ 14时25分]"
+          "appearance_count": 4,
+          "time_info": "[11时55分 ~ 17时28分]"
         },
         {
           "title": "Meta Platforms(META.O)首席执行官：得益于人工智能，公司正在打造全新体验，产品交付速度加快。",
@@ -233,6 +237,28 @@
           "time_info": "[01时50分 ~ 07时00分]"
         },
         {
+          "title": "科威特军方：伊朗袭击该国北部致一中企雇员死亡",
+          "url": "https://news.ifeng.com/c/8vBRvOidAuY",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时28分"
+        },
+        {
+          "title": "硅谷烧书训AI,焚书坑儒2.0",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356640&amp;topic_name=%E7%A1%85%E8%B0%B7%E7%83%A7%E4%B9%A6%E8%AE%ADAI%2C%E7%84%9A%E4%B9%A6%E5%9D%91%E5%84%922.0",
+          "source": "贴吧",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时28分"
+        },
+        {
           "title": "Meta Platforms(META.O)首席执行官：人工智能投资正在加速核心业务的每个主要部分。",
           "url": "https://flash.jin10.com/detail/20260730043857979800",
           "source": "金十数据",
@@ -264,6 +290,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时57分"
+        },
+        {
+          "title": "什么信号？多家银行近期密集上调数百款基金产品风险评级，不乏热门“光基金”",
+          "url": "https://www.cls.cn/detail/2441069",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时24分 ~ 17时28分]"
         },
         {
           "title": "布油盘中涨超8%！特朗普一再警告“狠狠打击”伊朗",
@@ -305,7 +343,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时25分"
         },
@@ -327,7 +365,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时25分"
         },
@@ -413,6 +451,18 @@
           "time_info": "[01时50分 ~ 04时52分]"
         },
         {
+          "title": "历史性一刻，伊朗先发制人袭击美军基地",
+          "url": "https://v.ifeng.com/c/8vA9hUsD4WZ",
+          "source": "凤凰网",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时55分 ~ 17时28分]"
+        },
+        {
           "title": "美称伊朗发射导弹袭击驻中东美军",
           "url": "https://www.douyin.com/hot/2588834",
           "source": "抖音",
@@ -437,16 +487,16 @@
           "time_info": "[11时55分 ~ 14时25分]"
         },
         {
-          "title": "历史性一刻，伊朗先发制人袭击美军基地",
-          "url": "https://v.ifeng.com/c/8vA9hUsD4WZ",
-          "source": "凤凰网",
+          "title": "Meta大跌！营收超预期难掩AI投入焦虑，Q3指引逊色、自由现金流创四年新低｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3778263",
+          "source": "华尔街见闻",
           "ranks": [
             10,
             9
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[11时55分 ~ 14时25分]"
+          "time_info": "[14时24分 ~ 17时28分]"
         },
         {
           "title": "对伊朗军事行动以来，美以领导人首次会晤",
@@ -483,33 +533,11 @@
           "time_info": "[01时50分 ~ 07时00分]"
         },
         {
-          "title": "什么信号？多家银行近期密集上调数百款基金产品风险评级，不乏热门“光基金”",
-          "url": "https://www.cls.cn/detail/2441069",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时24分 ~ 14时25分]"
-        },
-        {
           "title": "Margin Call响起！AI暴跌导致对冲基金“史诗级”亏损，高盛、摩根大通率先追保",
           "url": "https://wallstreetcn.com/articles/3778220",
           "source": "华尔街见闻",
           "ranks": [
             9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时24分 ~ 14时25分]"
-        },
-        {
-          "title": "Meta大跌！营收超预期难掩AI投入焦虑，Q3指引逊色、自由现金流创四年新低｜财报见闻",
-          "url": "https://wallstreetcn.com/articles/3778263",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -560,6 +588,17 @@
           "time_info": "[14时24分 ~ 14时25分]"
         },
         {
+          "title": "有报道称中方将提供400枚肩扛式导弹给伊朗，外交部：毫无根据",
+          "url": "https://news.ifeng.com/c/8vBNVZCUP9m",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时28分"
+        },
+        {
           "title": "以色列总理内塔尼亚胡谈伊朗问题选项：这是特朗普的决定。",
           "url": "https://wallstreetcn.com/livenews/3141964",
           "source": "华尔街见闻-快讯",
@@ -599,7 +638,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时25分"
         },
@@ -648,6 +687,17 @@
           "time_info": "08时05分"
         },
         {
+          "title": "字节跳动重构ToB版图：飞书与豆包将整合 大厂激战“AI工作入口”",
+          "url": "https://www.cls.cn/detail/2441092",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时28分"
+        },
+        {
           "title": "特朗普称将痛击伊朗 寻求对伊朗加关税的授权",
           "url": "https://flash.jin10.com/detail/20260730041820706800",
           "source": "金十数据",
@@ -668,6 +718,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时05分"
+        },
+        {
+          "title": "微软电话会：2026年资本开支“变相”下降，Azure需求持续超越可用容量，AI变现进入加速轨道",
+          "url": "https://wallstreetcn.com/articles/3778268",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时28分"
+        },
+        {
+          "title": "同比暴增1814%！三星营业利润再创历史新高 料存储需求增长将加速",
+          "url": "https://www.cls.cn/detail/2440923",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时28分"
+        },
+        {
+          "title": "据伊朗媒体：伊朗情报部门总部在阿瓦士遭轰炸。",
+          "url": "https://flash.jin10.com/detail/20260730170214849800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时28分"
         },
         {
           "title": "沙特刚与美国打击亲伊武装后急闯白宫，推动伊朗局势降温",
@@ -720,7 +803,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时25分"
         },
@@ -734,6 +817,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时51分"
+        },
+        {
+          "title": "伊朗将接收中国造肩扛式防空导弹发射装置？外交部：不符合事实",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33684903",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时28分"
         },
         {
           "title": "市场消息：英特尔(INTC.O)向初创公司RosaicLabs提供了一些技术的访问权限，该公司CEO是英特尔CEO在其他公司的共同投资人。",
@@ -753,7 +847,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时25分"
         },
@@ -769,6 +863,17 @@
           "time_info": "04时52分"
         },
         {
+          "title": "AI 焚书",
+          "url": "https://s.weibo.com/weibo?q=AI%20%E7%84%9A%E4%B9%A6&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时28分"
+        },
+        {
           "title": "美国总统特朗普：（谈论人工智能）正在研究管控AI的措施。",
           "url": "https://wallstreetcn.com/livenews/3141881",
           "source": "华尔街见闻-快讯",
@@ -778,6 +883,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时52分"
+        },
+        {
+          "title": "内塔尼亚胡否认误导特朗普打伊朗",
+          "url": "https://wallstreetcn.com/livenews/3142298",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时28分"
         },
         {
           "title": "美媒称美军正在对伊朗进行空袭",
@@ -808,7 +924,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时25分"
         },
@@ -912,6 +1028,17 @@
           "time_info": "03时09分"
         },
         {
+          "title": "科威特军方：伊朗袭击该国北部致一中企雇员死亡",
+          "url": "https://wallstreetcn.com/livenews/3142289",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时28分"
+        },
+        {
           "title": "特朗普：轮到我们袭击伊朗了",
           "url": "https://wallstreetcn.com/livenews/3141873",
           "source": "华尔街见闻-快讯",
@@ -929,7 +1056,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时25分"
         }
