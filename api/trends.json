@@ -1,34 +1,23 @@
 {
-  "generated_at": "2026-08-06T02:19:49.564789+08:00",
-  "total_titles_processed": 393,
+  "generated_at": "2026-08-06T04:24:25.169936+08:00",
+  "total_titles_processed": 467,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai ai+ ai人工智能 人工智能 风险识别 商业风险识别 痛点 需求 商业风险 伊朗 rwa 趋势 热点 热门",
-      "match_count": 34,
+      "match_count": 55,
       "titles": [
         {
           "title": "美伊谈判悬而未决，经济数据与AI需求驱动美股走高，SpaceX跌12%、AMD跌7%，黄金涨3%突破4200，布油涨1%",
           "url": "https://wallstreetcn.com/articles/3778704",
           "source": "华尔街见闻",
           "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时30分 ~ 02时19分]"
-        },
-        {
-          "title": "梁文锋会不会成为中国AI里程碑人物？",
-          "url": "https://www.zhihu.com/question/10315979917",
-          "source": "知乎",
-          "ranks": [
             2,
-            3
+            1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时30分 ~ 02时19分]"
+          "appearance_count": 4,
+          "time_info": "[00时30分 ~ 04时24分]"
         },
         {
           "title": "伊朗的最后一张牌",
@@ -38,8 +27,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时30分 ~ 02时19分]"
+          "appearance_count": 4,
+          "time_info": "[00时30分 ~ 04时24分]"
         },
         {
           "title": "SpaceX上市后首份财报营收增92%大超预期，星链独撑利润，AI亏损收窄但支出高于预期｜财报见闻",
@@ -47,6 +36,18 @@
           "source": "华尔街见闻",
           "ranks": [
             4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时30分 ~ 04时24分]"
+        },
+        {
+          "title": "梁文锋会不会成为中国AI里程碑人物？",
+          "url": "https://www.zhihu.com/question/10315979917",
+          "source": "知乎",
+          "ranks": [
+            2,
+            3
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -70,9 +71,31 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时19分"
+        },
+        {
+          "title": "金十图示：2026年08月05日（周三）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260806040522076800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时24分"
+        },
+        {
+          "title": "伊朗塔斯尼姆通讯社援引叙利亚当地消息源：以色列间谍直升机及飞机飞越德拉省与库奈特拉省上空。",
+          "url": "https://wallstreetcn.com/livenews/3145575",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时24分"
         },
         {
           "title": "据微软(MSFT.O)披露的信息，OpenAI约占其人工智能销售额的70%，OpenAI在2026财年的收入达到241亿美元。",
@@ -81,7 +104,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时19分"
         },
@@ -92,9 +115,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时19分"
+        },
+        {
+          "title": "周三（8月5日）纽约尾盘，彭博电动汽车价格回报指数涨1.21%，报3438.09点，亚太时段显著上涨、北京时间10:00以来高位持稳——震荡于3440点附近。 日线图上，7月28日跌至3210.83点以来，呈现出逐步反弹的趋势。",
+          "url": "https://wallstreetcn.com/livenews/3145574",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时24分"
         },
         {
           "title": "伊朗：美国仅仅履行《伊斯兰堡谅解备忘录》中的承诺是远远不够的",
@@ -103,20 +137,32 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时19分"
+        },
+        {
+          "title": "伊朗国家广播电视台（IRIB）： 埃及、土耳其、巴基斯坦、沙特阿拉伯四国外长于约旦首都安曼会晤，商讨缓和地区紧张局势的途径，重点围绕霍尔木兹海峡的安全问题展开。",
+          "url": "https://wallstreetcn.com/livenews/3145573",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时24分"
         },
         {
           "title": "【焦点复盘】AI硬件端持续回暖，科创50指数连续2日涨逾4%，光模块龙头5日内2度刷新历史天量",
           "url": "https://www.cls.cn/detail/2446407",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时30分 ~ 02时19分]"
+          "appearance_count": 4,
+          "time_info": "[00时30分 ~ 04时24分]"
         },
         {
           "title": "怎么看 OpenAI 提到下一代 Harness 将脱离 PC，两三个月后现在的 Codex 工作方式会淘汰？",
@@ -127,8 +173,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时30分 ~ 02时19分]"
+          "appearance_count": 4,
+          "time_info": "[00时30分 ~ 04时24分]"
         },
         {
           "title": "华夏出版社标注「书籍内容禁用于 AI 训练」，这种标注实际约束力有多大？能作为维权依据吗？",
@@ -136,11 +182,12 @@
           "source": "知乎",
           "ranks": [
             20,
-            19
+            19,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时30分 ~ 02时19分]"
+          "appearance_count": 4,
+          "time_info": "[00时30分 ~ 04时24分]"
         },
         {
           "title": "AI做题吊打日本名校状元",
@@ -151,8 +198,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时30分 ~ 02时19分]"
+          "appearance_count": 4,
+          "time_info": "[00时30分 ~ 04时24分]"
         },
         {
           "title": "谷歌AI核心人物Jeff Dean离职 创办AI初创公司",
@@ -166,15 +213,48 @@
           "time_info": "00时31分"
         },
         {
+          "title": "据伊朗法尔斯通讯社：伊朗谈判团队消息人士表示，与一些猜测和媒体宣传相反，美国财政部取消少数伊朗制裁措施一事，是与伊拉克政府和华盛顿之间的互动有关，与伊朗和美国之间的谅解备忘录无关。（注：美国财政部此前解除对巴格达航空相关制裁，巴格达航空因被指与伊朗伊斯兰革命卫队“圣城旅”有关联而受到制裁。）",
+          "url": "https://flash.jin10.com/detail/20260806035340632800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时24分"
+        },
+        {
+          "title": "数日前伊朗威胁反击能源设施 海湾国家敦促特朗普放弃袭击计划",
+          "url": "https://flash.jin10.com/detail/20260806035154028800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时24分"
+        },
+        {
           "title": "伊朗：将在未来2-4个月内激活新版霍尔木兹海峡航线。（IRNA）",
           "url": "https://wallstreetcn.com/livenews/3145528",
           "source": "华尔街见闻-快讯",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时19分"
+        },
+        {
+          "title": "AI风险需要更严厉的网络防御，美国高级官员警告",
+          "url": "https://wallstreetcn.com/livenews/3145570",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时24分"
         },
         {
           "title": "伊朗副外长：有关巴基斯坦邀请伊朗外长和议长的消息属实，但最终安排尚未确定。",
@@ -183,9 +263,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时19分"
+        },
+        {
+          "title": "据路透社：五名消息人士称，伊朗已警告海湾国家，美国任何新的袭击伊朗领土的行动都将引发伊朗对该地区关键能源基础设施的报复。",
+          "url": "https://flash.jin10.com/detail/20260806034009632800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时24分"
         },
         {
           "title": "谷歌(GOOG.O)首席科学家在任27年后离职，将创办自己的人工智能公司。",
@@ -205,7 +296,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时19分"
         },
@@ -227,9 +318,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时19分"
+        },
+        {
+          "title": "Yardeni Research Inc.总裁兼首席投资策略师Yardeni认为，对于一个高增长行业来说，那是比较低的估值倍数。 抛售科技板块的投资者“已经发现他们实际上把这些这些股票变成了促销品”。 将纳斯达克100指数推进技术性回调的抛售也消除了其过高的估值，从而为反弹创造了条件。 加之强劲的季报和持续旺盛的人工智能需求，进一步上涨也有了稳固的基础。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3145567",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时24分"
         },
         {
           "title": "伊朗方面称，目前尚未就美国谈判第二阶段作出决定。",
@@ -238,9 +340,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时19分"
+        },
+        {
+          "title": "Meta Platforms(META.O)首席人工智能官：Muse Code测试版已上线。这是来自Meta超级智能实验室（MSL）的首个编程智能体，基于Muse Spark 1.2构建。",
+          "url": "https://flash.jin10.com/detail/20260806031659563800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时24分"
         },
         {
           "title": "巴林国王媒体顾问表示，巴林防空部队正在抵御伊朗空中攻击。据他称，最近数小时内已击退多次伊朗空中袭击。此前，巴林因空袭威胁拉响了防空警报。",
@@ -254,15 +367,37 @@
           "time_info": "00时31分"
         },
         {
+          "title": "外媒：伊朗寻求对海峡过境船只收取货物价值5%至7%的费用",
+          "url": "https://flash.jin10.com/detail/20260806031639723800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时24分"
+        },
+        {
           "title": "AI股抛售冲击对冲基金，Balyasny和Verition上月双双亏损",
           "url": "https://wallstreetcn.com/livenews/3145522",
           "source": "华尔街见闻-快讯",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时19分"
+        },
+        {
+          "title": "报道：伊朗寻求对海峡过境船只收取货物价值5%-7%的费用",
+          "url": "https://wallstreetcn.com/livenews/3145562",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时24分"
         },
         {
           "title": "伊朗副外长Gharibabadi：伊朗不会接受外国势力干涉霍尔木兹海峡。 伊朗与阿曼达成协议，并不代表执行《伊斯兰堡谅解备忘录》第5条。（伊朗媒体IRNA）",
@@ -271,9 +406,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时19分"
+        },
+        {
+          "title": "Meta推出首款AI编程智能体，正面挑战Anthropic与OpenAI",
+          "url": "https://wallstreetcn.com/livenews/3145560",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时24分"
         },
         {
           "title": "伊朗副外长：我们与阿曼讨论了在霍尔木兹海峡建立联合航行管理中心。",
@@ -282,9 +428,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时19分"
+        },
+        {
+          "title": "侧重于AI投资的Altimeter资产管理规模在7月份缩水11%。 数据显示，多家基金公司已经在7月表现惨淡。",
+          "url": "https://wallstreetcn.com/livenews/3145558",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时24分"
         },
         {
           "title": "伊朗副外长：近期未与美国进行谈判。",
@@ -293,9 +450,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时19分"
+        },
+        {
+          "title": "伊朗总统回应此前伊朗最高领袖关于停火谅解备忘录消息引发的争议。伊朗总统称：“他们发布了一条消息，称‘原则上，我并不赞成’，但最终，他们允许这一进程继续进行。一些试图制造分裂、利用现有分歧并实现自身派系目标的人夸大了这一问题。”",
+          "url": "https://flash.jin10.com/detail/20260806025420387800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时24分"
         },
         {
           "title": "机构：霍尔木兹海峡重开后，伊朗仍将建立机制“确保维持和平”",
@@ -304,7 +472,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时19分"
         },
@@ -315,9 +483,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时19分"
+        },
+        {
+          "title": "伊朗总统：敌人对任何象征我们能力的事物都感到不安。",
+          "url": "https://flash.jin10.com/detail/20260806024943969800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时24分"
         },
         {
           "title": "伊朗副外长：新一轮冲突开始约4至5天后，美国发出信息，要求进行谈判并解决相关问题。",
@@ -326,9 +505,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时19分"
+        },
+        {
+          "title": "伊朗总统：目前与伊朗最高领袖的沟通“非常困难”。",
+          "url": "https://flash.jin10.com/detail/20260806024752219800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时24分"
         },
         {
           "title": "伊朗副外长：（与阿曼的）会谈涉及规范商船通行以及为未来管理海峡制定基础框架。",
@@ -337,9 +527,31 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时19分"
+        },
+        {
+          "title": "伊朗总统：敌人试图通过战争和制裁，让伊朗重演叙利亚的命运。伊朗人民的韧性和决心挫败了敌人的阴谋。",
+          "url": "https://flash.jin10.com/detail/20260806024045255800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时24分"
+        },
+        {
+          "title": "伊朗总统佩泽希齐扬在国家电视台发表讲话：联系最高领袖“非常困难”。 国家安全委员会会议遭轰炸后，我身负伤势，我们仍前去会见最高领袖。 在那次会面中，他向我们作出指示，并为我们祈福。",
+          "url": "https://wallstreetcn.com/livenews/3145551",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时24分"
         },
         {
           "title": "伊朗称与阿曼的联合声明正处于终审阶段 双方就航运路线达成一致",
@@ -359,9 +571,20 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时19分"
+        },
+        {
+          "title": "伊朗副外长：霍尔木兹海峡新安排将关闭临时航道",
+          "url": "https://wallstreetcn.com/livenews/3145550",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时24分"
         },
         {
           "title": "伊朗称和阿曼就霍尔木兹海峡拟定航道坐标达成一致",
@@ -384,6 +607,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时31分"
+        },
+        {
+          "title": "大摩：两家AI实验室的芯片融资需求或达6000亿美元",
+          "url": "https://wallstreetcn.com/livenews/3145547",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时24分"
         }
       ]
     }
