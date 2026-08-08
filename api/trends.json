@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-08T22:29:30.807804+08:00",
-  "total_titles_processed": 1533,
+  "generated_at": "2026-08-08T23:26:46.271142+08:00",
+  "total_titles_processed": 1594,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai ai+ ai人工智能 人工智能 风险识别 商业风险识别 痛点 需求 商业风险 伊朗 rwa 趋势 热点 热门",
-      "match_count": 106,
+      "match_count": 115,
       "titles": [
         {
           "title": "伊朗最高领袖给总统下了“最后警告”？",
@@ -17,6 +17,19 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时51分 ~ 09时17分]"
+        },
+        {
+          "title": "伊朗战事打不下去了？美军参联会主席力主“翻篇”",
+          "url": "https://news.ifeng.com/c/8vQJU1FtdBd",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[16时36分 ~ 23时26分]"
         },
         {
           "title": "以情报高官疑因伊朗行动失败被解职",
@@ -43,19 +56,6 @@
           "time_info": "[11时22分 ~ 18时28分]"
         },
         {
-          "title": "伊朗战事打不下去了？美军参联会主席力主“翻篇”",
-          "url": "https://news.ifeng.com/c/8vQJU1FtdBd",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时36分 ~ 22时29分]"
-        },
-        {
           "title": "爆仓之后，资本反而扑向\"AI股神\"",
           "url": "https://wallstreetcn.com/articles/3778984",
           "source": "华尔街见闻",
@@ -66,8 +66,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[14时44分 ~ 22时29分]"
+          "appearance_count": 12,
+          "time_info": "[14时44分 ~ 23时26分]"
         },
         {
           "title": "伊朗媒体发布“被击落美以战机残骸”画面",
@@ -78,8 +78,49 @@
             3
           ],
           "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时28分 ~ 23时26分]"
+        },
+        {
+          "title": "伊媒发布伊朗最高领袖视频",
+          "url": "https://news.ifeng.com/c/8vQYDcdSi9T",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
           "appearance_count": 6,
-          "time_info": "[18时28分 ~ 22时29分]"
+          "time_info": "[19时24分 ~ 23时26分]"
+        },
+        {
+          "title": "李开复：AI时代，人的优势在“右脑”，做出数据不能预测的事情",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33740664",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            7,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[12时53分 ~ 23时26分]"
+        },
+        {
+          "title": "为什么体制内至今仍不鼓励用人工智能？",
+          "url": "https://www.zhihu.com/question/2042649810709239000",
+          "source": "知乎",
+          "ranks": [
+            18,
+            7,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[17时34分 ~ 23时26分]"
         },
         {
           "title": "中国人能飞AI版vs实拍版",
@@ -103,21 +144,6 @@
           "is_new": false,
           "appearance_count": 21,
           "time_info": "[00时51分 ~ 19时25分]"
-        },
-        {
-          "title": "李开复：AI时代，人的优势在“右脑”，做出数据不能预测的事情",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33740664",
-          "source": "澎湃新闻",
-          "ranks": [
-            10,
-            9,
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时53分 ~ 22时29分]"
         },
         {
           "title": "印度要搞自主AI：模型靠中国，芯片靠美国",
@@ -146,15 +172,17 @@
           "time_info": "[00时51分 ~ 13时40分]"
         },
         {
-          "title": "伊媒发布伊朗最高领袖视频",
-          "url": "https://news.ifeng.com/c/8vQYDcdSi9T",
-          "source": "凤凰网",
+          "title": "AI快问快答,D老师语出惊人",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356965&amp;topic_name=AI%E5%BF%AB%E9%97%AE%E5%BF%AB%E7%AD%94%2CD%E8%80%81%E5%B8%88%E8%AF%AD%E5%87%BA%E6%83%8A%E4%BA%BA",
+          "source": "贴吧",
           "ranks": [
-            1
+            28,
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时24分 ~ 22时29分]"
+          "appearance_count": 7,
+          "time_info": "[18时28分 ~ 23时26分]"
         },
         {
           "title": "大厂“集中兵力”抢入口 AI办公赛道突然“挤”了起来",
@@ -215,18 +243,16 @@
           "time_info": "[03时50分 ~ 20时39分]"
         },
         {
-          "title": "为什么体制内至今仍不鼓励用人工智能？",
-          "url": "https://www.zhihu.com/question/2042649810709239000",
-          "source": "知乎",
+          "title": "伊媒发布伊朗最高领袖视频",
+          "url": "https://www.toutiao.com/trending/7671613890689502783/",
+          "source": "今日头条",
           "ranks": [
-            18,
-            7,
-            6,
-            4
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时34分 ~ 22时29分]"
+          "appearance_count": 4,
+          "time_info": "[20时39分 ~ 23时26分]"
         },
         {
           "title": "释疑｜建多少数据中心才够？美国AI基建热潮撞上“社区保卫战”",
@@ -257,28 +283,27 @@
           "time_info": "[09时16分 ~ 16时36分]"
         },
         {
-          "title": "AI快问快答,D老师语出惊人",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356965&amp;topic_name=AI%E5%BF%AB%E9%97%AE%E5%BF%AB%E7%AD%94%2CD%E8%80%81%E5%B8%88%E8%AF%AD%E5%87%BA%E6%83%8A%E4%BA%BA",
-          "source": "贴吧",
+          "title": "深度探访伊朗遇袭女子学校",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%BA%A6%E6%8E%A2%E8%AE%BF%E4%BC%8A%E6%9C%97%E9%81%87%E8%A2%AD%E5%A5%B3%E5%AD%90%E5%AD%A6%E6%A0%A1",
+          "source": "bilibili 热搜",
           "ranks": [
-            28,
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时28分 ~ 22时29分]"
+          "appearance_count": 3,
+          "time_info": "[21时42分 ~ 23时26分]"
         },
         {
-          "title": "伊媒发布伊朗最高领袖视频",
-          "url": "https://www.toutiao.com/trending/7671613890689502783/",
+          "title": "伊总统：伊朗要学中国做好自己的事",
+          "url": "https://www.toutiao.com/trending/7670977056377618495/",
           "source": "今日头条",
           "ranks": [
-            2,
-            1
+            5,
+            4
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[20时39分 ~ 22时29分]"
+          "time_info": "[21时42分 ~ 23时26分]"
         },
         {
           "title": "美官员：预计伊朗与阿曼将很快就霍尔木兹海峡问题达成协议",
@@ -406,17 +431,6 @@
           "time_info": "[12时53分 ~ 16时36分]"
         },
         {
-          "title": "深度探访伊朗遇袭女子学校",
-          "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%BA%A6%E6%8E%A2%E8%AE%BF%E4%BC%8A%E6%9C%97%E9%81%87%E8%A2%AD%E5%A5%B3%E5%AD%90%E5%AD%A6%E6%A0%A1",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时42分 ~ 22时29分]"
-        },
-        {
           "title": "伊朗总统：伊方未在涉谅解备忘录的谈判中作任何让步",
           "url": "https://flash.jin10.com/detail/20260808032152103800",
           "source": "金十数据",
@@ -440,18 +454,6 @@
           "time_info": "[05时36分 ~ 09时17分]"
         },
         {
-          "title": "伊总统：伊朗要学中国做好自己的事",
-          "url": "https://www.toutiao.com/trending/7670977056377618495/",
-          "source": "今日头条",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时42分 ~ 22时29分]"
-        },
-        {
           "title": "金十图示：2026年08月07日（周五）热门中概股行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260808040559195800",
           "source": "金十数据",
@@ -473,6 +475,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时51分"
+        },
+        {
+          "title": "伊朗总统佩泽希齐扬：问题不能仅靠战争解决。致力于根据谅解备忘录的条款推进和平进程。",
+          "url": "https://flash.jin10.com/detail/20260808225609300800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
         },
         {
           "title": "OpenAI：为高性能模型及相关业务落实更严格的安全管控，其中包括隔离测试环境",
@@ -508,6 +521,21 @@
           "time_info": "18时28分"
         },
         {
+          "title": "伊朗媒体发布伊朗最高领袖视频",
+          "url": "https://wallstreetcn.com/livenews/3146994",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            15,
+            20,
+            27,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时25分 ~ 23时26分]"
+        },
+        {
           "title": "伊朗总统称敌人未能将伊朗推入崩溃",
           "url": "https://wallstreetcn.com/livenews/3146979",
           "source": "华尔街见闻-快讯",
@@ -523,15 +551,39 @@
           "time_info": "[16时36分 ~ 20时39分]"
         },
         {
-          "title": "据阿曼国家通讯社：阿曼方面谴责（伊朗）在霍尔木兹海峡过境时对船只的反复攻击。",
-          "url": "https://flash.jin10.com/detail/20260808215846341800",
+          "title": "美国副总统万斯：伊朗已通知美国将允许最大流量的石油通过海峡，但我们不信任他们。",
+          "url": "https://flash.jin10.com/detail/20260808225312164800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
+        },
+        {
+          "title": "美国副总统万斯：美国将继续对伊朗施加压力。",
+          "url": "https://flash.jin10.com/detail/20260808225228376800",
           "source": "金十数据",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时29分"
+          "time_info": "23时26分"
+        },
+        {
+          "title": "几元成本的AI广告导致千万市值蒸发",
+          "url": "https://www.baidu.com/s?wd=%E5%87%A0%E5%85%83%E6%88%90%E6%9C%AC%E7%9A%84AI%E5%B9%BF%E5%91%8A%E5%AF%BC%E8%87%B4%E5%8D%83%E4%B8%87%E5%B8%82%E5%80%BC%E8%92%B8%E5%8F%91",
+          "source": "百度热搜",
+          "ranks": [
+            23,
+            12,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时39分 ~ 23时26分]"
         },
         {
           "title": "万斯介绍伊朗“谈判”：过去几天取得了一些进展",
@@ -540,23 +592,34 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时29分"
         },
         {
-          "title": "伊朗媒体发布伊朗最高领袖视频",
-          "url": "https://wallstreetcn.com/livenews/3146994",
+          "title": "伊官员：有证据显示美军使用磷弹轰炸伊朗多地",
+          "url": "https://wallstreetcn.com/livenews/3147008",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1,
-            15,
-            20,
-            27
+            2,
+            7,
+            14,
+            16
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[19时25分 ~ 22时29分]"
+          "time_info": "[20时39分 ~ 23时26分]"
+        },
+        {
+          "title": "美国副总统万斯：已经大幅削弱了伊朗的非对称军事能力。",
+          "url": "https://flash.jin10.com/detail/20260808224916124800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
         },
         {
           "title": "消息人士：美军高层寻找摆脱伊朗战事的途径",
@@ -585,19 +648,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[19时25分 ~ 22时29分]"
-        },
-        {
-          "title": "伊官员：有证据显示美军使用磷弹轰炸伊朗多地",
-          "url": "https://wallstreetcn.com/livenews/3147008",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            7,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时39分 ~ 22时29分]"
         },
         {
           "title": "伊朗革命卫队发言人：霍尔木兹海峡的重新开放取决于美国完全接受伊朗的条件；与伊朗和阿曼之间的谈判无关。",
@@ -661,6 +711,17 @@
           "time_info": "[03时30分 ~ 03时51分]"
         },
         {
+          "title": "以媒称伊朗最高领袖被紧急送医，真实性如何？会怎样影响当前局势？",
+          "url": "https://www.zhihu.com/question/2069421184177763676",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时39分 ~ 23时26分]"
+        },
+        {
           "title": "阿联酋外交部：将霍尔木兹海峡作为施压或勒索的工具是伊朗革命卫队的海盗行为。",
           "url": "https://flash.jin10.com/detail/20260808184619844800",
           "source": "金十数据",
@@ -671,6 +732,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[19时25分 ~ 20时39分]"
+        },
+        {
+          "title": "据阿曼国家通讯社：阿曼方面谴责（伊朗）在霍尔木兹海峡过境时对船只的反复攻击。",
+          "url": "https://flash.jin10.com/detail/20260808215846341800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时29分 ~ 23时26分]"
         },
         {
           "title": "美国财长贝森特谈及霍尔木兹海峡：该海峡再也回不到过去的状态，因为伊朗已经将其用作，或试图将其用作咽喉要道。 未来两年我们将看到，这条海峡的重要性将会不复存在。 它将仅仅成为一片普通水域。 我认为，目前经由该海峡运输的能源中，超过50%至70%将会转由地下管道输送。",
@@ -695,6 +768,20 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时30分 ~ 03时51分]"
+        },
+        {
+          "title": "伊朗媒体发布伊朗最高领袖视频",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%AA%92%E4%BD%93%E5%8F%91%E5%B8%83%E4%BC%8A%E6%9C%97%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E8%A7%86%E9%A2%91",
+          "source": "百度热搜",
+          "ranks": [
+            17,
+            6,
+            13,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时39分 ~ 23时26分]"
         },
         {
           "title": "阿联酋外交部：我们强烈谴责伊朗对阿布扎比国家石油公司（ADNOC）油轮进行袭击。",
@@ -747,6 +834,33 @@
           "time_info": "[16时36分 ~ 19时25分]"
         },
         {
+          "title": "苹果AI 千问",
+          "url": "https://s.weibo.com/weibo?q=%E8%8B%B9%E6%9E%9CAI%20%E5%8D%83%E9%97%AE&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18,
+            17,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时39分 ~ 23时26分]"
+        },
+        {
+          "title": "伊朗外长：伊朗与阿曼就霍尔木兹海峡管理达成协议已非常接近",
+          "url": "https://wallstreetcn.com/livenews/3146996",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            18,
+            25,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时39分 ~ 23时26分]"
+        },
+        {
           "title": "朋友圈可AI帮写、点评？腾讯客服：AI相关功能逐步开放中",
           "url": "https://wallstreetcn.com/livenews/3146973",
           "source": "华尔街见闻-快讯",
@@ -771,30 +885,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[18时28分 ~ 20时39分]"
-        },
-        {
-          "title": "以媒称伊朗最高领袖被紧急送医，真实性如何？会怎样影响当前局势？",
-          "url": "https://www.zhihu.com/question/2069421184177763676",
-          "source": "知乎",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时39分 ~ 22时29分]"
-        },
-        {
-          "title": "伊朗媒体发布伊朗最高领袖视频",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%AA%92%E4%BD%93%E5%8F%91%E5%B8%83%E4%BC%8A%E6%9C%97%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E8%A7%86%E9%A2%91",
-          "source": "百度热搜",
-          "ranks": [
-            17,
-            6,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时39分 ~ 22时29分]"
         },
         {
           "title": "伊拉克石油部长：伊拉克正与伊朗谈判以允许伊拉克石油出口，但相关安排尚未生效。 新建巴士拉-菲什哈布尔输油管道预计耗资不超过150亿美元。 该管道将包括从哈迪塞到巴尼亚斯的支线，以及泵站和储存设施。",
@@ -823,42 +913,42 @@
           "time_info": "[11时22分 ~ 13时40分]"
         },
         {
-          "title": "苹果AI 千问",
-          "url": "https://s.weibo.com/weibo?q=%E8%8B%B9%E6%9E%9CAI%20%E5%8D%83%E9%97%AE&t=31&band_rank=18&Refer=top",
-          "source": "微博",
+          "title": "英伟达盯上OpenAI“星际之门”背后的电力商，30亿美元直接入股",
+          "url": "https://wallstreetcn.com/articles/3778988",
+          "source": "华尔街见闻",
           "ranks": [
-            18,
-            17,
-            10
+            10,
+            9
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[20时39分 ~ 22时29分]"
+          "time_info": "[21时42分 ~ 23时26分]"
         },
         {
-          "title": "几元成本的AI广告导致千万市值蒸发",
-          "url": "https://www.baidu.com/s?wd=%E5%87%A0%E5%85%83%E6%88%90%E6%9C%AC%E7%9A%84AI%E5%B9%BF%E5%91%8A%E5%AF%BC%E8%87%B4%E5%8D%83%E4%B8%87%E5%B8%82%E5%80%BC%E8%92%B8%E5%8F%91",
-          "source": "百度热搜",
+          "title": "苹果与阿里巴巴合作，千问AI功能上线Mac",
+          "url": "https://flash.jin10.com/detail/20260808204416510800",
+          "source": "金十数据",
           "ranks": [
-            23,
-            12
+            9,
+            14,
+            24
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[20时39分 ~ 22时29分]"
+          "time_info": "[21时42分 ~ 23时26分]"
         },
         {
-          "title": "伊朗外长：伊朗与阿曼就霍尔木兹海峡管理达成协议已非常接近",
-          "url": "https://wallstreetcn.com/livenews/3146996",
-          "source": "华尔街见闻-快讯",
+          "title": "据沙特媒体哈达斯：伊朗总统表示，停止或继续战争的决定掌握在伊朗军事领导人手中。",
+          "url": "https://flash.jin10.com/detail/20260808204142320800",
+          "source": "金十数据",
           "ranks": [
-            13,
-            18,
+            10,
+            15,
             25
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[20时39分 ~ 22时29分]"
+          "time_info": "[21时42分 ~ 23时26分]"
         },
         {
           "title": "伊朗官员称已与阿曼就霍尔木兹海峡通行问题明确总体框架",
@@ -930,42 +1020,6 @@
           "time_info": "[01时46分 ~ 03时30分]"
         },
         {
-          "title": "英伟达盯上OpenAI“星际之门”背后的电力商，30亿美元直接入股",
-          "url": "https://wallstreetcn.com/articles/3778988",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时42分 ~ 22时29分]"
-        },
-        {
-          "title": "苹果与阿里巴巴合作，千问AI功能上线Mac",
-          "url": "https://flash.jin10.com/detail/20260808204416510800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时42分 ~ 22时29分]"
-        },
-        {
-          "title": "据沙特媒体哈达斯：伊朗总统表示，停止或继续战争的决定掌握在伊朗军事领导人手中。",
-          "url": "https://flash.jin10.com/detail/20260808204142320800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时42分 ~ 22时29分]"
-        },
-        {
           "title": "伊朗总统：伊方未在涉谅解备忘录的谈判中作任何让步",
           "url": "https://wallstreetcn.com/livenews/3146892",
           "source": "华尔街见闻-快讯",
@@ -988,6 +1042,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[20时39分 ~ 21时42分]"
+        },
+        {
+          "title": "AI硬件涨价潮传导3C租赁：需求翻倍，租赁商拆售显卡内存|一线",
+          "url": "https://www.cls.cn/detail/2449139",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时29分 ~ 23时26分]"
         },
         {
           "title": "伊朗学生通讯社（IRNA）：伊朗副外长加里巴巴迪表示，海湾安全必须由地区国家自行保障，不得有外部势力介入。",
@@ -1059,6 +1125,30 @@
           "time_info": "[03时30分 ~ 03时51分]"
         },
         {
+          "title": "当AI反过来问你问题",
+          "url": "https://www.douyin.com/hot/2600930",
+          "source": "抖音",
+          "ranks": [
+            21,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时29分 ~ 23时26分]"
+        },
+        {
+          "title": "伊朗：与阿曼“接近”达成协议，但并不意味重开海峡",
+          "url": "https://wallstreetcn.com/livenews/3146999",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时29分 ~ 23时26分]"
+        },
+        {
           "title": "据伊朗迈赫尔通讯社：伊朗总统佩泽希齐扬表示：尽管美国和以色列政权通过阴谋以及最近的战争，试图在伊朗与波斯湾沿岸国家之间制造分歧，但我们已经解决了与许多邻国之间的诸多问题。",
           "url": "https://flash.jin10.com/detail/20260808025336517800",
           "source": "金十数据",
@@ -1081,6 +1171,28 @@
           "time_info": "[09时16分 ~ 09时17分]"
         },
         {
+          "title": "万斯：过去几天在伊朗谈判方面取得了一些进展，对方不会征收海峡过境费",
+          "url": "https://wallstreetcn.com/livenews/3147022",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
+        },
+        {
+          "title": "据福克斯新闻：美国副总统万斯表示，伊朗已通知美国，尽管政权内部人士发表了将对霍尔木兹海峡征收过境费的声明，但伊朗不会征收此类费用。",
+          "url": "https://flash.jin10.com/detail/20260808224359664800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
+        },
+        {
           "title": "伊朗副外长：波斯湾地区安全应由本地区国家共同维护",
           "url": "https://flash.jin10.com/detail/20260808000114815800",
           "source": "金十数据",
@@ -1090,6 +1202,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时51分"
+        },
+        {
+          "title": "据伊朗媒体：伊朗总统佩泽希齐扬表示，现在达成协议的最佳时机，因为伊朗是“强大而团结的，在战争中被视为胜利者”。",
+          "url": "https://flash.jin10.com/detail/20260808224230628800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
+        },
+        {
+          "title": "分析师：美国在伊朗战争中付出的代价之一是自身信誉的流失，或导致......",
+          "url": "https://flash.jin10.com/detail/20260808223941497800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
         },
         {
           "title": "以媒称伊朗最高领袖穆杰塔巴病危",
@@ -1114,17 +1248,6 @@
           "time_info": "00时51分"
         },
         {
-          "title": "AI硬件涨价潮传导3C租赁：需求翻倍，租赁商拆售显卡内存|一线",
-          "url": "https://www.cls.cn/detail/2449139",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时29分"
-        },
-        {
           "title": "伊朗德黑兰市长扎卡尼：想通过霍尔木兹海峡，必须取消制裁并支付赔偿。",
           "url": "https://flash.jin10.com/detail/20260807234805603800",
           "source": "金十数据",
@@ -1134,6 +1257,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时51分"
+        },
+        {
+          "title": "马上评｜AI演员带货，真人演员授权：AI时代如何重构信任关系",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33744426",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
         },
         {
           "title": "伊朗外长阿拉格齐：霍尔木兹海峡原有航道分隔方案已失效，需重新划定航线。",
@@ -1244,28 +1378,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时30分"
-        },
-        {
-          "title": "当AI反过来问你问题",
-          "url": "https://www.douyin.com/hot/2600930",
-          "source": "抖音",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时29分"
-        },
-        {
-          "title": "伊朗：与阿曼“接近”达成协议，但并不意味重开海峡",
-          "url": "https://wallstreetcn.com/livenews/3146999",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时29分"
         },
         {
           "title": "伊朗敦促海湾国家说服特朗普停止军事行动",
