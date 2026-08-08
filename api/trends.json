@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-09T06:25:07.355214+08:00",
-  "total_titles_processed": 458,
+  "generated_at": "2026-08-09T07:25:36.475978+08:00",
+  "total_titles_processed": 479,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai ai+ ai人工智能 人工智能 风险识别 商业风险识别 痛点 需求 商业风险 伊朗 rwa 趋势 热点 热门",
-      "match_count": 43,
+      "match_count": 45,
       "titles": [
         {
           "title": "伊媒发布伊朗最高领袖视频",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时28分 ~ 06时25分]"
+          "appearance_count": 11,
+          "time_info": "[00时28分 ~ 07时25分]"
         },
         {
           "title": "伊媒发布伊朗最高领袖视频",
@@ -26,19 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时28分 ~ 06时25分]"
-        },
-        {
-          "title": "几元成本的AI广告导致千万市值蒸发",
-          "url": "https://www.baidu.com/s?wd=%E5%87%A0%E5%85%83%E6%88%90%E6%9C%AC%E7%9A%84AI%E5%B9%BF%E5%91%8A%E5%AF%BC%E8%87%B4%E5%8D%83%E4%B8%87%E5%B8%82%E5%80%BC%E8%92%B8%E5%8F%91",
-          "source": "百度热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时28分 ~ 06时25分]"
+          "appearance_count": 11,
+          "time_info": "[00时28分 ~ 07时25分]"
         },
         {
           "title": "爆仓之后，资本反而扑向\"AI股神\"",
@@ -48,13 +37,24 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时28分 ~ 06时25分]"
+          "appearance_count": 11,
+          "time_info": "[00时28分 ~ 07时25分]"
         },
         {
           "title": "伊朗战事打不下去了？美军参联会主席力主“翻篇”",
           "url": "https://news.ifeng.com/c/8vQJU1FtdBd",
           "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时28分 ~ 07时25分]"
+        },
+        {
+          "title": "几元成本的AI广告导致千万市值蒸发",
+          "url": "https://www.baidu.com/s?wd=%E5%87%A0%E5%85%83%E6%88%90%E6%9C%AC%E7%9A%84AI%E5%B9%BF%E5%91%8A%E5%AF%BC%E8%87%B4%E5%8D%83%E4%B8%87%E5%B8%82%E5%80%BC%E8%92%B8%E5%8F%91",
+          "source": "百度热搜",
           "ranks": [
             2
           ],
@@ -70,31 +70,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时28分 ~ 06时25分]"
+          "appearance_count": 11,
+          "time_info": "[00时28分 ~ 07时25分]"
         },
         {
           "title": "伊总统：伊朗要学中国做好自己的事",
           "url": "https://www.toutiao.com/trending/7670977056377618495/",
           "source": "今日头条",
           "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时28分 ~ 06时25分]"
-        },
-        {
-          "title": "李开复：AI时代，人的优势在“右脑”，做出数据不能预测的事情",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33740664",
-          "source": "澎湃新闻",
-          "ranks": [
             4,
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时28分 ~ 06时25分]"
+          "appearance_count": 11,
+          "time_info": "[00时28分 ~ 07时25分]"
         },
         {
           "title": "AI快问快答,D老师语出惊人",
@@ -105,8 +94,21 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时28分 ~ 06时25分]"
+          "appearance_count": 11,
+          "time_info": "[00时28分 ~ 07时25分]"
+        },
+        {
+          "title": "李开复：AI时代，人的优势在“右脑”，做出数据不能预测的事情",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33740664",
+          "source": "澎湃新闻",
+          "ranks": [
+            4,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时28分 ~ 07时25分]"
         },
         {
           "title": "AI硬件涨价潮传导3C租赁：需求翻倍，租赁商拆售显卡内存|一线",
@@ -115,11 +117,12 @@
           "ranks": [
             9,
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时28分 ~ 06时25分]"
+          "appearance_count": 11,
+          "time_info": "[00时28分 ~ 07时25分]"
         },
         {
           "title": "以媒称伊朗最高领袖被紧急送医，真实性如何？会怎样影响当前局势？",
@@ -129,8 +132,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时28分 ~ 06时25分]"
+          "appearance_count": 11,
+          "time_info": "[00时28分 ~ 07时25分]"
         },
         {
           "title": "英伟达盯上OpenAI“星际之门”背后的电力商，30亿美元直接入股",
@@ -143,8 +146,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时28分 ~ 06时25分]"
+          "appearance_count": 11,
+          "time_info": "[00时28分 ~ 07时25分]"
         },
         {
           "title": "伊朗媒体发布伊朗最高领袖视频",
@@ -153,11 +156,12 @@
           "ranks": [
             17,
             14,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时28分 ~ 06时25分]"
+          "appearance_count": 11,
+          "time_info": "[00时28分 ~ 07时25分]"
         },
         {
           "title": "马上评｜AI演员带货，真人演员授权：AI时代如何重构信任关系",
@@ -166,11 +170,27 @@
           "ranks": [
             15,
             16,
-            18
+            18,
+            20
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时28分 ~ 06时25分]"
+          "appearance_count": 11,
+          "time_info": "[00时28分 ~ 07时25分]"
+        },
+        {
+          "title": "当AI反过来问你问题",
+          "url": "https://www.douyin.com/hot/2600930",
+          "source": "抖音",
+          "ranks": [
+            27,
+            25,
+            28,
+            26,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时26分 ~ 07时25分]"
         },
         {
           "title": "为什么体制内至今仍不鼓励用人工智能？",
@@ -181,25 +201,12 @@
             6,
             7,
             19,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时28分 ~ 06时25分]"
-        },
-        {
-          "title": "当AI反过来问你问题",
-          "url": "https://www.douyin.com/hot/2600930",
-          "source": "抖音",
-          "ranks": [
-            27,
-            25,
-            28,
-            26
+            14,
+            15
           ],
           "is_new": false,
           "appearance_count": 8,
-          "time_info": "[01时26分 ~ 06时25分]"
+          "time_info": "[00时28分 ~ 07时25分]"
         },
         {
           "title": "万斯：过去几天在伊朗谈判方面取得了一些进展，对方不会征收海峡过境费",
@@ -211,8 +218,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时29分 ~ 06时25分]"
+          "appearance_count": 8,
+          "time_info": "[00时29分 ~ 07时25分]"
         },
         {
           "title": "伊官员：有证据显示美军使用磷弹轰炸伊朗多地",
@@ -224,8 +231,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时29分 ~ 06时25分]"
+          "appearance_count": 8,
+          "time_info": "[00时29分 ~ 07时25分]"
         },
         {
           "title": "伊朗：与阿曼“接近”达成协议，但并不意味重开海峡",
@@ -237,8 +244,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时29分 ~ 06时25分]"
+          "appearance_count": 8,
+          "time_info": "[00时29分 ~ 07时25分]"
         },
         {
           "title": "伊朗外长：伊朗与阿曼就霍尔木兹海峡管理达成协议已非常接近",
@@ -250,8 +257,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时29分 ~ 06时25分]"
+          "appearance_count": 8,
+          "time_info": "[00时29分 ~ 07时25分]"
         },
         {
           "title": "伊朗革命卫队指挥官：美国和以色列在实现其针对伊斯兰体制的目标上已完全失败，其领导人在面对公众舆论、精英和本国人民时，对其接连不断的失败已无任何回应。",
@@ -260,9 +267,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时25分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时25分 ~ 07时25分]"
         },
         {
           "title": "伊朗媒体发布伊朗最高领袖视频",
@@ -285,8 +292,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时26分 ~ 06时25分]"
+          "appearance_count": 3,
+          "time_info": "[05时26分 ~ 07时25分]"
         },
         {
           "title": "海湾国家担忧伊朗“以钱换通航”，但应对空间极为有限",
@@ -298,8 +305,20 @@
             19
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时25分 ~ 07时25分]"
+        },
+        {
+          "title": "据伊朗法尔斯通讯社：保加利亚方面声称，今天上午一架乌克兰无人机向跨巴尔干天然气管道发动袭击，该管道经由土耳其将俄罗斯天然气输送至欧洲。",
+          "url": "https://flash.jin10.com/detail/20260809045339955800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            12
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[04时25分 ~ 06时25分]"
+          "time_info": "[05时26分 ~ 07时25分]"
         },
         {
           "title": "伊朗总统佩泽希齐扬：问题不能仅靠战争解决。致力于根据谅解备忘录的条款推进和平进程。",
@@ -350,18 +369,6 @@
           "time_info": "[02时32分 ~ 03时26分]"
         },
         {
-          "title": "据伊朗法尔斯通讯社：保加利亚方面声称，今天上午一架乌克兰无人机向跨巴尔干天然气管道发动袭击，该管道经由土耳其将俄罗斯天然气输送至欧洲。",
-          "url": "https://flash.jin10.com/detail/20260809045339955800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时26分 ~ 06时25分]"
-        },
-        {
           "title": "美国副总统万斯：美国将继续对伊朗施加压力。",
           "url": "https://flash.jin10.com/detail/20260808225228376800",
           "source": "金十数据",
@@ -372,6 +379,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时29分 ~ 01时26分]"
+        },
+        {
+          "title": "Apollo首席经济学家：AI烧钱速度创历史之最，警惕“次贷危机式”逆转冲击",
+          "url": "https://wallstreetcn.com/articles/3778982",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[05时26分 ~ 07时25分]"
         },
         {
           "title": "美国中央司令部：美国海军在“亚伯拉罕·林肯”号航空母舰（CVN 72）飞行甲板上对F/A-18E“超级大黄蜂”战斗机进行维护，以确保航母打击群资产保持战备状态，执行美国对伊朗的海上封锁任务。",
@@ -385,18 +404,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时26分 ~ 05时26分]"
-        },
-        {
-          "title": "Apollo首席经济学家：AI烧钱速度创历史之最，警惕“次贷危机式”逆转冲击",
-          "url": "https://wallstreetcn.com/articles/3778982",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时26分 ~ 06时25分]"
         },
         {
           "title": "美国副总统万斯：已经大幅削弱了伊朗的非对称军事能力。",
@@ -493,6 +500,17 @@
           "time_info": "[00时28分 ~ 00时29分]"
         },
         {
+          "title": "非农转负的另一种读法：贝莱德固收CIO称AI正让就业数据失效，加息“已无意义”",
+          "url": "https://wallstreetcn.com/articles/3778981",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时25分"
+        },
+        {
           "title": "分析师：美国在伊朗战争中付出的代价之一是自身信誉的流失，或导致......",
           "url": "https://flash.jin10.com/detail/20260808223941497800",
           "source": "金十数据",
@@ -513,6 +531,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时29分"
+        },
+        {
+          "title": "AI帮你开发以前要花钱的功能",
+          "url": "https://s.weibo.com/weibo?q=AI%E5%B8%AE%E4%BD%A0%E5%BC%80%E5%8F%91%E4%BB%A5%E5%89%8D%E8%A6%81%E8%8A%B1%E9%92%B1%E7%9A%84%E5%8A%9F%E8%83%BD&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时25分"
         },
         {
           "title": "苹果与阿里巴巴合作，千问AI功能上线Mac",
