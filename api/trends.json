@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-10T09:23:28.255471+08:00",
-  "total_titles_processed": 660,
+  "generated_at": "2026-08-10T11:51:14.769198+08:00",
+  "total_titles_processed": 828,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai ai+ ai人工智能 人工智能 风险识别 商业风险识别 痛点 需求 商业风险 伊朗 rwa 趋势 热点 热门",
-      "match_count": 48,
+      "match_count": 53,
       "titles": [
         {
           "title": "中国7月CPI同比涨幅收窄至0.5%，PPI同比上涨3.5%，AI驱动平板电脑价格环比上涨11.3%",
@@ -42,29 +42,31 @@
           "time_info": "[00时31分 ~ 09时23分]"
         },
         {
+          "title": "伊朗最高领袖与总统会谈，重点讨论了这几个问题",
+          "url": "https://news.ifeng.com/c/8vS3pS8BvYm",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 16,
+          "time_info": "[00时31分 ~ 11时51分]"
+        },
+        {
           "title": "伊朗最高领袖与总统会谈",
           "url": "https://www.toutiao.com/trending/7670941843498287158/",
           "source": "今日头条",
           "ranks": [
             4,
             2,
-            27
+            27,
+            16
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时31分 ~ 09时23分]"
-        },
-        {
-          "title": "伊朗最高领袖与总统会谈，重点讨论了这几个问题",
-          "url": "https://news.ifeng.com/c/8vS3pS8BvYm",
-          "source": "凤凰网",
-          "ranks": [
-            1,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时31分 ~ 09时23分]"
+          "appearance_count": 16,
+          "time_info": "[00时31分 ~ 11时51分]"
         },
         {
           "title": "AI硬件涨价潮传导3C租赁：需求翻倍，租赁商拆售显卡内存|一线",
@@ -127,19 +129,31 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时31分 ~ 09时23分]"
+          "appearance_count": 16,
+          "time_info": "[00时31分 ~ 11时51分]"
         },
         {
           "title": "AI快问快答,D老师语出惊人",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356965&amp;topic_name=AI%E5%BF%AB%E9%97%AE%E5%BF%AB%E7%AD%94%2CD%E8%80%81%E5%B8%88%E8%AF%AD%E5%87%BA%E6%83%8A%E4%BA%BA",
           "source": "贴吧",
           "ranks": [
-            20
+            20,
+            25
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时31分 ~ 09时23分]"
+          "appearance_count": 16,
+          "time_info": "[00时31分 ~ 11时51分]"
+        },
+        {
+          "title": "伊朗高层变动，最高领袖发出新任命",
+          "url": "https://news.ifeng.com/c/8vSqCKLbBLT",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时23分 ~ 11时51分]"
         },
         {
           "title": "俄媒称伊朗布什尔核电站新机组建设仍在继续",
@@ -224,24 +238,13 @@
           "time_info": "[01时28分 ~ 05时28分]"
         },
         {
-          "title": "伊朗高层变动，最高领袖发出新任命",
-          "url": "https://news.ifeng.com/c/8vSqCKLbBLT",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时23分"
-        },
-        {
           "title": "摩根士丹利：看好阿里巴巴，因其覆盖全产业链的AI能力、算力方面的优势，以及多年的云增长和完整的利润扩张。",
           "url": "https://wallstreetcn.com/livenews/3147178",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时23分"
         },
@@ -252,7 +255,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时23分"
         },
@@ -274,7 +277,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时23分"
         },
@@ -302,6 +305,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时35分 ~ 05时28分]"
+        },
+        {
+          "title": "为什么程序员大多都拥抱 AI，而音乐人却抗拒并隔离 AI 音乐池？",
+          "url": "https://www.zhihu.com/question/2063944037544023265",
+          "source": "知乎",
+          "ranks": [
+            9,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时23分 ~ 11时51分]"
         },
         {
           "title": "伊朗公布美军基地遭袭前后最新卫星对比图",
@@ -433,6 +448,17 @@
           "time_info": "[00时31分 ~ 07时28分]"
         },
         {
+          "title": "美军基地遭袭，伊朗公布最新卫星对比图",
+          "url": "https://news.ifeng.com/c/8vT6dxUIQom",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时23分 ~ 11时51分]"
+        },
+        {
           "title": "伊朗陆军司令称部队全面战备，警告美军勿踏足伊朗领土",
           "url": "https://flash.jin10.com/detail/20260809234510218800",
           "source": "金十数据",
@@ -458,6 +484,40 @@
           "time_info": "[04时28分 ~ 05时28分]"
         },
         {
+          "title": "67 岁农户听信 AI 喷农药致 150 亩地一夜枯萎，老人听 AI 翻车的事层出不穷，有啥办法能帮助他们辨别吗？",
+          "url": "https://www.zhihu.com/question/2069770698055050765",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时50分 ~ 11时51分]"
+        },
+        {
+          "title": "OpenAI曝光GPT-6！传10万亿参数，8月强行发布",
+          "url": "https://wallstreetcn.com/articles/3779038",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时50分 ~ 11时51分]"
+        },
+        {
+          "title": "期货热点追踪",
+          "url": "https://flash.jin10.com/detail/20260810081531150800",
+          "source": "金十数据",
+          "ranks": [
+            23,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时23分 ~ 11时51分]"
+        },
+        {
           "title": "伊朗高层重要人事变动",
           "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E9%AB%98%E5%B1%82%E9%87%8D%E8%A6%81%E4%BA%BA%E4%BA%8B%E5%8F%98%E5%8A%A8%23&t=31&band_rank=20&Refer=top",
           "source": "微博",
@@ -469,6 +529,28 @@
           "time_info": "[05时27分 ~ 05时28分]"
         },
         {
+          "title": "建议每个人都用AI做的三件事",
+          "url": "https://s.weibo.com/weibo?q=%E5%BB%BA%E8%AE%AE%E6%AF%8F%E4%B8%AA%E4%BA%BA%E9%83%BD%E7%94%A8AI%E5%81%9A%E7%9A%84%E4%B8%89%E4%BB%B6%E4%BA%8B&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时50分 ~ 11时51分]"
+        },
+        {
+          "title": "避暑大军已抵达山西，山西为何成为夏季热门避暑选择？",
+          "url": "https://www.zhihu.com/question/2068868168844587381",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时50分 ~ 11时51分]"
+        },
+        {
           "title": "伊朗陆军司令：将回应任何敌对行动",
           "url": "https://www.toutiao.com/trending/7671949132243763263/",
           "source": "今日头条",
@@ -478,28 +560,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时34分 ~ 02时35分]"
-        },
-        {
-          "title": "美军基地遭袭，伊朗公布最新卫星对比图",
-          "url": "https://news.ifeng.com/c/8vT6dxUIQom",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时23分"
-        },
-        {
-          "title": "为什么程序员大多都拥抱 AI，而音乐人却抗拒并隔离 AI 音乐池？",
-          "url": "https://www.zhihu.com/question/2063944037544023265",
-          "source": "知乎",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时23分"
         },
         {
           "title": "伊朗最高领袖与总统会谈",
@@ -535,24 +595,13 @@
           "time_info": "00时31分"
         },
         {
-          "title": "期货热点追踪",
-          "url": "https://flash.jin10.com/detail/20260810081531150800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时23分"
-        },
-        {
           "title": "日本央行7月货币政策会议审议委员意见摘要：一名委员表示，中东局势发展、不断扩大的AI相关需求以及日元走软均有助于推高物价。 一名委员表示，预计入秋后消费品通胀将再次加速。 一名委员表示，尽管生产价格受进口成本上涨影响有所上升，但消费者通胀率仍低于2%。 一名委员表示，警惕受日元走软和AI相关需求强劲影响所带来的通胀上行风险。 一名委员表示，通胀前景面临巨大的上行风险，主要由于石油成本上涨传导至消费者通胀，同时全球AI需求与日本扩张性财政政策提振了需求。 一名委员表示，金融环境仍保持宽松，因为短期实际利率依然为负。 一名委员表示，在本次会议上维持利率稳定是恰当的，因为过去的加息对通胀和国内经济产生影响存在1至1.5年的滞后。 一名委员表示，我们目前处于需要警惕核心通胀可能向上偏离风险的阶段。 一名委员表示，在评估日本核心通胀能否稳定在符合日本央行价格目标的水平时，必须仔细审查中长期通胀预期是否稳定在2%左右。",
           "url": "https://wallstreetcn.com/livenews/3147151",
           "source": "华尔街见闻-快讯",
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时23分"
         },
@@ -563,7 +612,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时23分"
         },
@@ -585,9 +634,20 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时23分"
+        },
+        {
+          "title": "Academy Securities：AI股票承受资本开支压力，AI债券却出现另一种机会",
+          "url": "https://flash.jin10.com/detail/20260810105752542800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时51分"
         }
       ]
     }
