@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-11T04:38:22.923294+08:00",
-  "total_titles_processed": 499,
+  "generated_at": "2026-08-11T05:38:38.859839+08:00",
+  "total_titles_processed": 544,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai ai+ ai人工智能 人工智能 风险识别 商业风险识别 痛点 需求 商业风险 伊朗 rwa 趋势 热点 热门",
-      "match_count": 65,
+      "match_count": 75,
       "titles": [
         {
           "title": "还剩85天，特朗普全面收缩，伊朗左冲右突",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时53分 ~ 04时38分]"
+          "appearance_count": 8,
+          "time_info": "[00时53分 ~ 05时38分]"
         },
         {
           "title": "伊朗最高安全官员换人，雷扎伊何许人也？",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时53分 ~ 04时38分]"
+          "appearance_count": 8,
+          "time_info": "[00时53分 ~ 05时38分]"
         },
         {
           "title": "MLCC供应告急引发抢货潮！国巨：越来越多AI客户抢签长协锁定产能",
@@ -37,8 +37,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时53分 ~ 04时38分]"
+          "appearance_count": 8,
+          "time_info": "[00时53分 ~ 05时38分]"
         },
         {
           "title": "伊朗回应特朗普“棋局”比喻：伊朗人是“专业棋手”",
@@ -48,8 +48,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时53分 ~ 04时38分]"
+          "appearance_count": 8,
+          "time_info": "[00时53分 ~ 05时38分]"
         },
         {
           "title": "Meta发布小型AI模型，一块显卡即可本地运行，扎克伯格喊话美国政府：降低对开源AI的准入门槛",
@@ -59,8 +59,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时53分 ~ 04时38分]"
+          "appearance_count": 8,
+          "time_info": "[00时53分 ~ 05时38分]"
         },
         {
           "title": "伊朗的5个条件，美国是否会照单全收？",
@@ -81,8 +81,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时53分 ~ 04时38分]"
+          "appearance_count": 4,
+          "time_info": "[03时53分 ~ 05时38分]"
         },
         {
           "title": "OpenAI曝光GPT-6！传10万亿参数，8月强行发布",
@@ -93,8 +93,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时53分 ~ 04时38分]"
+          "appearance_count": 8,
+          "time_info": "[00时53分 ~ 05时38分]"
         },
         {
           "title": "【焦点复盘】微盘股指数7连涨站上年线，全市场近百股涨停，AI赋能持续催热创新药概念",
@@ -104,8 +104,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时53分 ~ 04时38分]"
+          "appearance_count": 8,
+          "time_info": "[00时53分 ~ 05时38分]"
         },
         {
           "title": "伊朗称“目前伊美没有进行任何谈判”，特朗普表态“正在低调处理”",
@@ -115,8 +115,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时53分 ~ 04时38分]"
+          "appearance_count": 8,
+          "time_info": "[00时53分 ~ 05时38分]"
         },
         {
           "title": "AI挤占短剧业,真人演员遭偷家",
@@ -126,8 +126,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时53分 ~ 04时38分]"
+          "appearance_count": 8,
+          "time_info": "[00时53分 ~ 05时38分]"
         },
         {
           "title": "OpenAI：我们正在扩展网络安全计划Daybreak，并推出新模型GPT-5.6-Cyber，用于开展先进且经过授权的网络安全工作。",
@@ -141,50 +141,6 @@
           "time_info": "01时51分"
         },
         {
-          "title": "英伟达宣布联手六大金融巨头，布局5000亿美元AI基建融资体系",
-          "url": "https://flash.jin10.com/detail/20260811041811135800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时38分"
-        },
-        {
-          "title": "大摩：计划未来十年促成最高1.5万亿美元资金，用于美国创新基建计划，涵盖AI、半导体等战略领域",
-          "url": "https://wallstreetcn.com/livenews/3147686",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时38分"
-        },
-        {
-          "title": "德国外长瓦德富尔：在与伊朗外长阿拉格奇的通话中，我敦促伊朗与地区邻国和美国进行建设性谈判，以结束冲突。霍尔木兹海峡必须无条件开放，确保所有船只自由安全地航行。",
-          "url": "https://flash.jin10.com/detail/20260811041240333800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时38分"
-        },
-        {
-          "title": "伊朗总统称与最高领袖会谈七八个小时，其健康状况很好",
-          "url": "https://wallstreetcn.com/livenews/3147684",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时38分"
-        },
-        {
           "title": "美国得克萨斯州州长阿博特：OpenAI已经作出承诺，会严格遵循当地数据中心的相关规范标准。",
           "url": "https://flash.jin10.com/detail/20260811021755846800",
           "source": "金十数据",
@@ -196,15 +152,29 @@
           "time_info": "02时52分"
         },
         {
-          "title": "英伟达(NVDA.O)：全新融资平台将英伟达计算和全栈人工智能基础设施转变为全球资本可投资的资产类别。",
-          "url": "https://flash.jin10.com/detail/20260811040810116800",
+          "title": "伊朗“圣城旅”指挥官到访巴格达 同伊拉克多方会晤",
+          "url": "https://flash.jin10.com/detail/20260811045926051800",
           "source": "金十数据",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时38分"
+          "time_info": "05时38分"
+        },
+        {
+          "title": "伊朗最高领袖将任命数名高级指挥官",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E5%B0%86%E4%BB%BB%E5%91%BD%E6%95%B0%E5%90%8D%E9%AB%98%E7%BA%A7%E6%8C%87%E6%8C%A5%E5%AE%98",
+          "source": "百度热搜",
+          "ranks": [
+            26,
+            21,
+            19,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时52分 ~ 05时38分]"
         },
         {
           "title": "OpenAI：新的高级席位（Premium Seat）使用额度相比标准版提升5倍，无5小时使用限制，并提供可预测的每周使用额度重置。",
@@ -217,6 +187,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时54分 ~ 01时51分]"
+        },
+        {
+          "title": "英伟达宣布联手六大金融巨头，布局5000亿美元AI基建融资体系",
+          "url": "https://flash.jin10.com/detail/20260811041811135800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时38分 ~ 05时38分]"
+        },
+        {
+          "title": "大摩：计划未来十年促成最高1.5万亿美元资金，用于美国创新基建计划，涵盖AI、半导体等战略领域",
+          "url": "https://wallstreetcn.com/livenews/3147686",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时38分 ~ 05时38分]"
         },
         {
           "title": "特朗普要求伊朗赔偿",
@@ -268,6 +262,18 @@
           "time_info": "[01时51分 ~ 02时52分]"
         },
         {
+          "title": "德国外长瓦德富尔：在与伊朗外长阿拉格奇的通话中，我敦促伊朗与地区邻国和美国进行建设性谈判，以结束冲突。霍尔木兹海峡必须无条件开放，确保所有船只自由安全地航行。",
+          "url": "https://flash.jin10.com/detail/20260811041240333800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时38分 ~ 05时38分]"
+        },
+        {
           "title": "OpenAI刊发针对AI基础设施问题向美国得州州长发送的信函。",
           "url": "https://wallstreetcn.com/livenews/3147639",
           "source": "华尔街见闻-快讯",
@@ -292,6 +298,18 @@
           "time_info": "[03时54分 ~ 04时38分]"
         },
         {
+          "title": "伊朗总统称与最高领袖会谈七八个小时，其健康状况很好",
+          "url": "https://wallstreetcn.com/livenews/3147684",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时38分 ~ 05时38分]"
+        },
+        {
           "title": "OpenAI：为ChatGPT Business推出高级席位（Premium Seats）。",
           "url": "https://flash.jin10.com/detail/20260811005120672800",
           "source": "金十数据",
@@ -304,17 +322,16 @@
           "time_info": "[00时54分 ~ 01时51分]"
         },
         {
-          "title": "伊朗最高领袖将任命数名高级指挥官",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E5%B0%86%E4%BB%BB%E5%91%BD%E6%95%B0%E5%90%8D%E9%AB%98%E7%BA%A7%E6%8C%87%E6%8C%A5%E5%AE%98",
-          "source": "百度热搜",
+          "title": "英伟达(NVDA.O)：全新融资平台将英伟达计算和全栈人工智能基础设施转变为全球资本可投资的资产类别。",
+          "url": "https://flash.jin10.com/detail/20260811040810116800",
+          "source": "金十数据",
           "ranks": [
-            26,
-            21,
-            19
+            5,
+            22
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时52分 ~ 04时38分]"
+          "appearance_count": 2,
+          "time_info": "[04时38分 ~ 05时38分]"
         },
         {
           "title": "JeffDean 称「AI agent 编写代码，品味成稀缺技能」，你如何理解「品味」？",
@@ -327,6 +344,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时53分 ~ 01时51分]"
+        },
+        {
+          "title": "英伟达(NVDA.O)：本公司及合作伙伴将为人工智能基础设施客户创建专用资金池。",
+          "url": "https://flash.jin10.com/detail/20260811040700664800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时38分 ~ 05时38分]"
         },
         {
           "title": "OpenAI推出GPT-5.6-Cyber，面向安全人员开放更强AI能力",
@@ -353,6 +382,30 @@
           "time_info": "[03时54分 ~ 04时38分]"
         },
         {
+          "title": "英伟达：联手高盛等华尔街巨头，建立AI算力基础设施融资平台，来撬动超过5000亿美元的第三方资本",
+          "url": "https://wallstreetcn.com/livenews/3147680",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时38分 ~ 05时38分]"
+        },
+        {
+          "title": "金十图示：2026年08月10日（周一）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260811040544089800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时38分 ~ 05时38分]"
+        },
+        {
           "title": "伊朗革命卫队海军司令：任何外国船只经过霍尔木兹海峡，都逃不过伊朗军方的识别、追踪与监控。",
           "url": "https://wallstreetcn.com/livenews/3147616",
           "source": "华尔街见闻-快讯",
@@ -363,6 +416,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时54分 ~ 01时51分]"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收涨1.65%，报6730.14点。 热门中概股里，陆控初步收涨14.3%，BOSS直聘涨5.4%，小马智行涨4.2%，阿里巴巴涨2.9%，新东方涨2.6%，世纪互联涨2.5%，比亚迪涨2%，携程涨1.9%，拼多多涨1.1%，日月光半导体、B站、百胜中国、中通快递、再鼎医药、亚朵至少涨0.7%，腾讯跌0.7%，理想跌0.9%，小鹏跌1.2%。 ETF中，中概互联网指数ETF（KWEB）收涨1.61%，中国科技指数ETF（CQQQ）收跌0.40%。 XtrackersHarvest中证50（ASHS）收跌0.19%，德银嘉实沪深300指数ETF（ASHR）收跌0.46%，MSCI新兴市场ex中国ETF（EMXC）收跌1.01%。",
+          "url": "https://wallstreetcn.com/livenews/3147676",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时38分 ~ 05时38分]"
         },
         {
           "title": "金十图示：2026年08月10日（周一）美股热门股票行情一览（美股盘中）",
@@ -423,6 +488,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时54分 ~ 01时51分]"
+        },
+        {
+          "title": "金十图示：2026年08月10日（周一）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260811040524679800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时38分 ~ 05时38分]"
         },
         {
           "title": "特朗普要求伊朗赔偿 称将纳入未来谈判",
@@ -532,28 +609,6 @@
           "time_info": "[00时53分 ~ 00时54分]"
         },
         {
-          "title": "英伟达(NVDA.O)：本公司及合作伙伴将为人工智能基础设施客户创建专用资金池。",
-          "url": "https://flash.jin10.com/detail/20260811040700664800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时38分"
-        },
-        {
-          "title": "英伟达：联手高盛等华尔街巨头，建立AI算力基础设施融资平台，来撬动超过5000亿美元的第三方资本",
-          "url": "https://wallstreetcn.com/livenews/3147680",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时38分"
-        },
-        {
           "title": "布伦特原油期货上涨4美元/桶，因伊朗与美国互相提出赔偿要求，霍尔木兹海峡重启希望减弱。",
           "url": "https://flash.jin10.com/detail/20260811020633941800",
           "source": "金十数据",
@@ -565,37 +620,92 @@
           "time_info": "02时52分"
         },
         {
-          "title": "金十图示：2026年08月10日（周一）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260811040544089800",
+          "title": "英伟达(NVDA.O)CEO黄仁勋：人工智能实验室和人工智能初创公司需要计算能力。",
+          "url": "https://flash.jin10.com/detail/20260811045201910800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时38分"
+        },
+        {
+          "title": "英伟达(NVDA.O)CEO黄仁勋：没有人拒绝新的人工智能融资计划。",
+          "url": "https://flash.jin10.com/detail/20260811045118217800",
           "source": "金十数据",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时38分"
+          "time_info": "05时38分"
         },
         {
-          "title": "纳斯达克金龙中国指数收涨1.65%，报6730.14点。 热门中概股里，陆控初步收涨14.3%，BOSS直聘涨5.4%，小马智行涨4.2%，阿里巴巴涨2.9%，新东方涨2.6%，世纪互联涨2.5%，比亚迪涨2%，携程涨1.9%，拼多多涨1.1%，日月光半导体、B站、百胜中国、中通快递、再鼎医药、亚朵至少涨0.7%，腾讯跌0.7%，理想跌0.9%，小鹏跌1.2%。 ETF中，中概互联网指数ETF（KWEB）收涨1.61%，中国科技指数ETF（CQQQ）收跌0.40%。 XtrackersHarvest中证50（ASHS）收跌0.19%，德银嘉实沪深300指数ETF（ASHR）收跌0.46%，MSCI新兴市场ex中国ETF（EMXC）收跌1.01%。",
-          "url": "https://wallstreetcn.com/livenews/3147676",
+          "title": "伊朗“圣城旅”指挥官到访巴格达，同伊拉克多方会晤",
+          "url": "https://wallstreetcn.com/livenews/3147698",
           "source": "华尔街见闻-快讯",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时38分"
+          "time_info": "05时38分"
         },
         {
-          "title": "金十图示：2026年08月10日（周一）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260811040524679800",
+          "title": "大摩启动1.5万亿美元美国创新基础设施计划 聚焦AI等前沿技术",
+          "url": "https://flash.jin10.com/detail/20260811044638936800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时38分"
+        },
+        {
+          "title": "OpenAI回购70亿美元员工股份",
+          "url": "https://wallstreetcn.com/livenews/3147697",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时38分"
+        },
+        {
+          "title": "据悉OpenAI回购70亿美元员工股份",
+          "url": "https://flash.jin10.com/detail/20260811044344828800",
           "source": "金十数据",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时38分"
+          "time_info": "05时38分"
+        },
+        {
+          "title": "英伟达：AI实验室与AI初创公司都需要计算。",
+          "url": "https://wallstreetcn.com/livenews/3147696",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时38分"
+        },
+        {
+          "title": "英伟达(NVDA.O)CEO黄仁勋：（谈5000亿美元AI基建融资计划）相关交易将支持人工智能的广泛应用。资金全部来自第三方资本。",
+          "url": "https://flash.jin10.com/detail/20260811042651352800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时38分"
         },
         {
           "title": "美国总统特朗普：关于伊朗谈判，伊朗应对其给黎巴嫩、叙利亚、也门和加沙人民造成的损害及死亡负责。",
@@ -629,6 +739,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时54分"
+        },
+        {
+          "title": "英伟达CEO黄仁勋：相关交易将支持AI的大范围建设。 （与5000亿美元融资相关的）所有资金都是第三方资本。 对于新一轮人工智能融资计划，无人拒绝。（CNBC）",
+          "url": "https://wallstreetcn.com/livenews/3147688",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时38分"
         },
         {
           "title": "Meta发布可单卡运行轻量AI模型，扎克伯格描绘“个人赋能新时代”",
