@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-12T19:02:29.051911+08:00",
-  "total_titles_processed": 1410,
+  "generated_at": "2026-08-12T21:01:40.270338+08:00",
+  "total_titles_processed": 1564,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai ai+ ai人工智能 人工智能 风险识别 商业风险识别 痛点 需求 商业风险 伊朗 rwa 趋势 热点 热门",
-      "match_count": 119,
+      "match_count": 123,
       "titles": [
         {
           "title": "中东僵局再撑油价，AI泡沫隐忧打压美科技股，纳指跌0.6%，黄金回落",
@@ -13,11 +13,12 @@
           "source": "华尔街见闻",
           "ranks": [
             4,
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[06时38分 ~ 19时02分]"
+          "appearance_count": 10,
+          "time_info": "[06时38分 ~ 21时01分]"
         },
         {
           "title": "特朗普称伊朗谈判代表“非常狡猾”，但美有三种策略",
@@ -54,6 +55,19 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时56分 ~ 07时36分]"
+        },
+        {
+          "title": "光速关服,AI虚拟歌姬停运",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357199&amp;topic_name=%E5%85%89%E9%80%9F%E5%85%B3%E6%9C%8D%2CAI%E8%99%9A%E6%8B%9F%E6%AD%8C%E5%A7%AC%E5%81%9C%E8%BF%90",
+          "source": "贴吧",
+          "ranks": [
+            2,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时11分 ~ 21时01分]"
         },
         {
           "title": "伊朗密集换将，特朗普提“索赔”，美伊协议“希望渺茫”？",
@@ -93,6 +107,19 @@
           "time_info": "[01时56分 ~ 12时05分]"
         },
         {
+          "title": "AI光通信需求强劲，Lumentum上季营收翻倍，本季指引更超预期，债务重组致超70亿巨亏｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3779219",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            4,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时29分 ~ 21时01分]"
+        },
+        {
           "title": "给AI时代一点手搓实拍的小震撼",
           "url": "https://www.douyin.com/hot/2605459",
           "source": "抖音",
@@ -106,19 +133,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时56分 ~ 14时11分]"
-        },
-        {
-          "title": "光速关服,AI虚拟歌姬停运",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357199&amp;topic_name=%E5%85%89%E9%80%9F%E5%85%B3%E6%9C%8D%2CAI%E8%99%9A%E6%8B%9F%E6%AD%8C%E5%A7%AC%E5%81%9C%E8%BF%90",
-          "source": "贴吧",
-          "ranks": [
-            2,
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时11分 ~ 19时02分]"
         },
         {
           "title": "回应“5000亿美元融资质疑”！黄仁勋：英伟达“AI工厂”正成为“投资级资产”，需求真实存在，绝非“循环融资”",
@@ -170,19 +184,6 @@
           "time_info": "[01时56分 ~ 12时05分]"
         },
         {
-          "title": "AI光通信需求强劲，Lumentum上季营收翻倍，本季指引更超预期，债务重组致超70亿巨亏｜财报见闻",
-          "url": "https://wallstreetcn.com/articles/3779219",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            4,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时29分 ~ 19时02分]"
-        },
-        {
           "title": "结束会晤后，伊朗总统透露最高领袖身体状况",
           "url": "https://news.ifeng.com/c/8vUxlx302vt",
           "source": "凤凰网",
@@ -206,6 +207,20 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时29分 ~ 16时14分]"
+        },
+        {
+          "title": "Lumentum电话会：CEO称“超大功率激光器需求正远超产能”，“NPO机会完全是增量”",
+          "url": "https://wallstreetcn.com/articles/3779226",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时05分 ~ 21时01分]"
         },
         {
           "title": "城市竞争进入AI答案时代",
@@ -357,7 +372,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时02分"
         },
@@ -401,23 +416,9 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时02分"
-        },
-        {
-          "title": "Lumentum电话会：CEO称“超大功率激光器需求正远超产能”，“NPO机会完全是增量”",
-          "url": "https://wallstreetcn.com/articles/3779226",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7,
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时05分 ~ 19时02分]"
         },
         {
           "title": "伊朗，密集“换帅”",
@@ -633,6 +634,17 @@
           "time_info": "[14时11分 ~ 17时59分]"
         },
         {
+          "title": "美国人吓坏了：伊朗知道特朗普住哪一层，还发现肩扛防空导弹",
+          "url": "https://news.ifeng.com/c/8vX4SqfjB1V",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时00分 ~ 21时01分]"
+        },
+        {
           "title": "亚马逊云服务(AWS)：OpenAI的Daybreak Red和Daybreak Blue现已面向Amazon Bedrock上的符合条件的客户开放。",
           "url": "https://flash.jin10.com/detail/20260812055132698800",
           "source": "金十数据",
@@ -643,6 +655,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时38分 ~ 07时36分]"
+        },
+        {
+          "title": "马斯克最新讲话：五年后AI占SpaceX价值99%，我们必须取得AI的胜利！",
+          "url": "https://wallstreetcn.com/articles/3779250",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时00分 ~ 21时01分]"
         },
         {
           "title": "SpaceXAI：Grok聊天机器人已处于测试阶段，今日起向订阅SuperGrok Heavy、Cursor Ultra与Cursor Teams Premium套餐的桌面端及iOS用户开放使用。",
@@ -667,6 +690,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时38分 ~ 07时36分]"
+        },
+        {
+          "title": "大幅增加算力采购！腾讯看到AI变现的曙光了？",
+          "url": "https://www.cls.cn/detail/2452579",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时00分 ~ 21时01分]"
         },
         {
           "title": "国行苹果AI支持机型",
@@ -735,7 +769,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时02分"
         },
@@ -801,7 +835,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时02分"
         },
@@ -1026,6 +1060,17 @@
           "time_info": "06时38分"
         },
         {
+          "title": "OPEC月报：将2026年全球石油需求增长预测下调至每日58万桶（此前预测为每日78万桶）。 OPEC+原油产量（包括前成员国阿联酋）2026年7月平均为每日3766万桶，较6月增加约142万桶/日，主要得益于海湾产油国的增产。 将2027年全球石油需求增长预测上调至每日216万桶（此前预测为每日194万桶）。",
+          "url": "https://wallstreetcn.com/livenews/3148618",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时01分"
+        },
+        {
           "title": "期货热点追踪",
           "url": "https://flash.jin10.com/detail/20260812111848564800",
           "source": "金十数据",
@@ -1087,7 +1132,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时02分"
         },
