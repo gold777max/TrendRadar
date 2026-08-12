@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-12T14:11:27.632262+08:00",
-  "total_titles_processed": 1029,
+  "generated_at": "2026-08-12T16:14:21.372889+08:00",
+  "total_titles_processed": 1173,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai ai+ ai人工智能 人工智能 风险识别 商业风险识别 痛点 需求 商业风险 伊朗 rwa 趋势 热点 热门",
-      "match_count": 92,
+      "match_count": 106,
       "titles": [
         {
           "title": "特朗普称伊朗谈判代表“非常狡猾”，但美有三种策略",
@@ -30,6 +30,18 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时56分 ~ 07时36分]"
+        },
+        {
+          "title": "中东僵局再撑油价，AI泡沫隐忧打压美科技股，纳指跌0.6%，黄金回落",
+          "url": "https://wallstreetcn.com/articles/3779161",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[06时38分 ~ 16时14分]"
         },
         {
           "title": "AI担忧惹的祸？ 韩国股市7月外资“大撤退” 亚洲股市连续“失血”九个月",
@@ -79,18 +91,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时56分 ~ 12时05分]"
-        },
-        {
-          "title": "中东僵局再撑油价，AI泡沫隐忧打压美科技股，纳指跌0.6%，黄金回落",
-          "url": "https://wallstreetcn.com/articles/3779161",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时38分 ~ 14时11分]"
         },
         {
           "title": "给AI时代一点手搓实拍的小震撼",
@@ -168,6 +168,32 @@
           "time_info": "[01时56分 ~ 02时57分]"
         },
         {
+          "title": "但斌回应质疑：没有恐慌割肉、没有大幅减仓，对AI从未动摇，依旧满仓坚守",
+          "url": "https://www.cls.cn/detail/2451840",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            4,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时29分 ~ 16时14分]"
+        },
+        {
+          "title": "光速关服,AI虚拟歌姬停运",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357199&amp;topic_name=%E5%85%89%E9%80%9F%E5%85%B3%E6%9C%8D%2CAI%E8%99%9A%E6%8B%9F%E6%AD%8C%E5%A7%AC%E5%81%9C%E8%BF%90",
+          "source": "贴吧",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时11分 ~ 16时14分]"
+        },
+        {
           "title": "城市竞争进入AI答案时代",
           "url": "https://m.thepaper.cn/newsDetail_forward_33753662",
           "source": "澎湃新闻",
@@ -179,6 +205,18 @@
           "time_info": "[01时56分 ~ 07时36分]"
         },
         {
+          "title": "AI光通信需求强劲，Lumentum上季营收翻倍，本季指引更超预期，债务重组致超70亿巨亏｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3779219",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时29分 ~ 16时14分]"
+        },
+        {
           "title": "韩国股市暴跌，聚焦三星电子和SK海力士的投资节目成娱乐新热点",
           "url": "https://news.ifeng.com/c/8vVaQwUQJEb",
           "source": "凤凰网",
@@ -188,19 +226,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时56分 ~ 07时36分]"
-        },
-        {
-          "title": "但斌回应质疑：没有恐慌割肉、没有大幅减仓，对AI从未动摇，依旧满仓坚守",
-          "url": "https://www.cls.cn/detail/2451840",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时29分 ~ 14时11分]"
         },
         {
           "title": "美军情报评估伊朗战略重点已从核计划转向霍尔木兹海峡",
@@ -263,17 +288,6 @@
           "time_info": "[01时56分 ~ 07时36分]"
         },
         {
-          "title": "光速关服,AI虚拟歌姬停运",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357199&amp;topic_name=%E5%85%89%E9%80%9F%E5%85%B3%E6%9C%8D%2CAI%E8%99%9A%E6%8B%9F%E6%AD%8C%E5%A7%AC%E5%81%9C%E8%BF%90",
-          "source": "贴吧",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时11分"
-        },
-        {
           "title": "美军直接打击商船、胡塞再袭红海：伊朗称美国不满足条件，霍尔木兹不开",
           "url": "https://flash.jin10.com/detail/20260812070423579800",
           "source": "金十数据",
@@ -285,16 +299,15 @@
           "time_info": "07时36分"
         },
         {
-          "title": "AI光通信需求强劲，Lumentum上季营收翻倍，本季指引更超预期，债务重组致超70亿巨亏｜财报见闻",
-          "url": "https://wallstreetcn.com/articles/3779219",
-          "source": "华尔街见闻",
+          "title": "“千问AI Arena”上线 首个任务聚焦跨境电商",
+          "url": "https://wallstreetcn.com/livenews/3148509",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            7,
-            4
+            3
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时29分 ~ 14时11分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时14分"
         },
         {
           "title": "中国央行：根据公开市场业务一级交易商的需求，2026年8月12日7天期逆回购操作量为零。",
@@ -317,6 +330,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时57分"
+        },
+        {
+          "title": "伊朗，密集“换帅”",
+          "url": "https://news.ifeng.com/c/8vWOAc0ERio",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时29分 ~ 16时14分]"
         },
         {
           "title": "AI产业给韩国人带来什么",
@@ -391,6 +415,20 @@
           "time_info": "[02时57分 ~ 04时01分]"
         },
         {
+          "title": "深圳大学拟拿出 5.3 亿元，买下整栋商品房给学生当宿舍，背后有哪些考量？买商品房当宿舍会成为趋势吗？",
+          "url": "https://www.zhihu.com/question/2070596779347916555",
+          "source": "知乎",
+          "ranks": [
+            18,
+            7,
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时29分 ~ 16时14分]"
+        },
+        {
           "title": "据伊朗塔斯尼姆通讯社：也门武装部队在曼德海峡袭击一艘载有沙特军事装备的船只。",
           "url": "https://wallstreetcn.com/livenews/3148202",
           "source": "华尔街见闻-快讯",
@@ -401,6 +439,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时57分 ~ 04时01分]"
+        },
+        {
+          "title": "伊朗和阿曼“正式开始”向霍尔木兹海峡船舶收费了？",
+          "url": "https://news.ifeng.com/c/8vWSsJCqjj0",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时29分 ~ 16时14分]"
         },
         {
           "title": "据伊朗伊斯兰共和国广播电视台（IRIB）：伊朗总统会见了巴基斯坦内政部长。",
@@ -464,51 +514,29 @@
           "time_info": "[06时38分 ~ 07时36分]"
         },
         {
-          "title": "伊朗，密集“换帅”",
-          "url": "https://news.ifeng.com/c/8vWOAc0ERio",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时29分 ~ 14时11分]"
-        },
-        {
-          "title": "深圳大学拟拿出 5.3 亿元，买下整栋商品房给学生当宿舍，背后有哪些考量？买商品房当宿舍会成为趋势吗？",
-          "url": "https://www.zhihu.com/question/2070596779347916555",
-          "source": "知乎",
-          "ranks": [
-            18,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时29分 ~ 14时11分]"
-        },
-        {
-          "title": "伊朗和阿曼“正式开始”向霍尔木兹海峡船舶收费了？",
-          "url": "https://news.ifeng.com/c/8vWSsJCqjj0",
-          "source": "凤凰网",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时29分 ~ 14时11分]"
-        },
-        {
           "title": "伊朗官员称在伊方条件满足前霍尔木兹海峡不会开放 | 环球市场",
           "url": "https://www.cls.cn/detail/2451814",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时29分 ~ 16时14分]"
+        },
+        {
+          "title": "Lumentum电话会：CEO称“超大功率激光器需求正远超产能”，“NPO机会完全是增量”",
+          "url": "https://wallstreetcn.com/articles/3779226",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            8
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[09时29分 ~ 14时11分]"
+          "time_info": "[12时05分 ~ 16时14分]"
         },
         {
           "title": "伊朗称在美国满足条件前霍尔木兹海峡不会重开 国际油价短线冲高",
@@ -533,18 +561,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时38分 ~ 07时36分]"
-        },
-        {
-          "title": "Lumentum电话会：CEO称“超大功率激光器需求正远超产能”，“NPO机会完全是增量”",
-          "url": "https://wallstreetcn.com/articles/3779226",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时05分 ~ 14时11分]"
         },
         {
           "title": "SpaceXAI：Grok聊天机器人已处于测试阶段，今日起向订阅SuperGrok Heavy、Cursor Ultra与Cursor Teams Premium套餐的桌面端及iOS用户开放使用。",
@@ -581,6 +597,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时29分 ~ 12时05分]"
+        },
+        {
+          "title": "暑期真的是学车的好时机吗？没有开车需求还有必要考驾照吗？",
+          "url": "https://www.zhihu.com/roundtable/letsxuekaiche",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时11分 ~ 16时14分]"
         },
         {
           "title": "趋势基金创纪录做空全球债券，美国CPI报告料成为盈亏关键",
@@ -724,9 +751,42 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时11分"
+        },
+        {
+          "title": "IEA月报：预计2027年全球石油需求将较此前预测的190万桶/日增加240万桶/日。",
+          "url": "https://flash.jin10.com/detail/20260812160325817800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时14分"
+        },
+        {
+          "title": "IEA月报：IEA将其对第三季度石油缺口的预估值上调了一倍。 7月份全球石油供应量增加240万桶/日。 将2026年下半年石油需求预估下调约55万桶/日。 将2026年石油需求降幅预估上调51万桶/日。 预计2026年全球石油需求将下降160万桶/日。 预计2027年全球石油需求将增长240万桶/日。 预计2027年全球石油供应量将回升830万桶/日。 7月全球石油供应量仍同比下降630万桶/日。 预计第四季度全球石油需求将同比增长58万桶/日。",
+          "url": "https://wallstreetcn.com/livenews/3148502",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时14分"
+        },
+        {
+          "title": "AI科创润童心 网络安全伴成长",
+          "url": "https://www.toutiao.com/trending/7672213418782588964/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时14分"
         },
         {
           "title": "美军称使用导弹袭击一艘驶向伊朗港口的商船",
@@ -738,6 +798,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时01分"
+        },
+        {
+          "title": "IEA月报：全球需求在第二季度下降了490万桶/日。",
+          "url": "https://flash.jin10.com/detail/20260812160251270800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时14分"
         },
         {
           "title": "美国得州数据中心暂停后，电力需求预测被下调",
@@ -773,6 +844,17 @@
           "time_info": "07时36分"
         },
         {
+          "title": "国际能源署：全球需求预计在第三季度下降280万桶/日。",
+          "url": "https://flash.jin10.com/detail/20260812160235606800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时14分"
+        },
+        {
           "title": "美军称使用导弹袭击一艘驶向伊朗港口的商船",
           "url": "https://wallstreetcn.com/livenews/3148212",
           "source": "华尔街见闻-快讯",
@@ -793,6 +875,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时36分"
+        },
+        {
+          "title": "AI科创润童心 网络安全伴成长",
+          "url": "https://www.douyin.com/hot/2607024",
+          "source": "抖音",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时14分"
         },
         {
           "title": "伊朗议会国家安全和外交政策委员会主席阿齐兹：核问题是公众的关键诉求，将是谈判中的复杂部分。谈判将非常困难。",
@@ -828,17 +921,6 @@
           "time_info": "12时05分"
         },
         {
-          "title": "暑期真的是学车的好时机吗？没有开车需求还有必要考驾照吗？",
-          "url": "https://www.zhihu.com/roundtable/letsxuekaiche",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时11分"
-        },
-        {
           "title": "超微电脑(SMCI.O)CFO：第四季度企业和渠道客户升级计算、存储和网络基础设施的需求有所增长。",
           "url": "https://flash.jin10.com/detail/20260812052938272800",
           "source": "金十数据",
@@ -872,6 +954,17 @@
           "time_info": "09时29分"
         },
         {
+          "title": "IEA月报：预计2027年全球石油供应将比总需求高出461万桶/日（之前预测为462万桶/日）。",
+          "url": "https://flash.jin10.com/detail/20260812160116959800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时14分"
+        },
+        {
           "title": "美国军方：该船不再违反美国封锁驶往伊朗。",
           "url": "https://flash.jin10.com/detail/20260812030104095800",
           "source": "金十数据",
@@ -883,6 +976,17 @@
           "time_info": "04时01分"
         },
         {
+          "title": "胡锡进称抵制AI短剧",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%83%A1%E9%94%A1%E8%BF%9B%E7%A7%B0%E6%8A%B5%E5%88%B6AI%E7%9F%AD%E5%89%A7%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时14分"
+        },
+        {
           "title": "美国能源信息署预计，由于全球对美国出口的高需求和美国进口的低水平，预计美国原油净进口将在2027年前保持低于平均水平。",
           "url": "https://flash.jin10.com/detail/20260812005943558800",
           "source": "金十数据",
@@ -892,6 +996,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时57分"
+        },
+        {
+          "title": "IEA月报：预计2026年全球石油供应将比需求低127万桶/日（此前预计为低86万桶/日）。",
+          "url": "https://flash.jin10.com/detail/20260812160101302800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时14分"
+        },
+        {
+          "title": "日本首相高市早苗与伊朗总统通电话。（共同社）",
+          "url": "https://wallstreetcn.com/livenews/3148490",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时14分"
         },
         {
           "title": "SpaceXAI：Grok Bot聊天机器人目前处于测试阶段，今日向SuperGrok Heavy、Cursor Ultra和Cursor Teams Premium订阅用户开放，支持桌面端和iOS端使用。",
@@ -927,6 +1053,17 @@
           "time_info": "01时57分"
         },
         {
+          "title": "摩萨德前局长称以方人员多次“踩点”伊朗核设施",
+          "url": "https://wallstreetcn.com/livenews/3148488",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时14分"
+        },
+        {
           "title": "AI乐观情绪推动芯片股大幅上涨 韩国股市连续第三个交易日走高",
           "url": "https://flash.jin10.com/detail/20260812111447024800",
           "source": "金十数据",
@@ -936,6 +1073,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时05分"
+        },
+        {
+          "title": "IEA月报：预计2026年全球石油需求将因霍尔木兹海峡的干扰和高油价下降160万桶/日（之前预测为下降100万桶/日）。",
+          "url": "https://flash.jin10.com/detail/20260812160037375800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时14分"
         },
         {
           "title": "法兴银行：预计AI资本支出下半年继续加速，或到2027年上半年才见峰值",
@@ -1026,6 +1174,17 @@
           "time_info": "06时38分"
         },
         {
+          "title": "巴基斯坦：内政部长向伊朗领导人传递一则“特殊且重要”信息",
+          "url": "https://wallstreetcn.com/livenews/3148480",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时14分"
+        },
+        {
           "title": "伊朗革命卫队发言人：今日波斯湾海域没有美国军舰部署。",
           "url": "https://wallstreetcn.com/livenews/3148164",
           "source": "华尔街见闻-快讯",
@@ -1043,7 +1202,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时11分"
         },
@@ -1054,7 +1213,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时11分"
         },
@@ -1065,7 +1224,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时11分"
         }
