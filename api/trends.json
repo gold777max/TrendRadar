@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-14T03:56:48.157172+08:00",
-  "total_titles_processed": 480,
+  "generated_at": "2026-08-14T04:39:18.185277+08:00",
+  "total_titles_processed": 509,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai ai+ ai人工智能 人工智能 风险识别 商业风险识别 痛点 需求 商业风险 伊朗 rwa 趋势 热点 热门",
-      "match_count": 39,
+      "match_count": 43,
       "titles": [
         {
           "title": "伊朗：将以持久战消耗美国",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时53分 ~ 03时56分]"
+          "appearance_count": 9,
+          "time_info": "[00时53分 ~ 04时39分]"
         },
         {
           "title": "被伊朗打成外交收缩？美驻中东使馆拟长期精简人员",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时53分 ~ 03时56分]"
+          "appearance_count": 9,
+          "time_info": "[00时53分 ~ 04时39分]"
         },
         {
           "title": "伊朗将正式加入金砖国家新开发银行",
@@ -37,8 +37,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时53分 ~ 03时56分]"
+          "appearance_count": 9,
+          "time_info": "[00时53分 ~ 04时39分]"
         },
         {
           "title": "AI给假网,吧友中招银狐病毒",
@@ -48,8 +48,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时53分 ~ 03时56分]"
+          "appearance_count": 9,
+          "time_info": "[00时53分 ~ 04时39分]"
         },
         {
           "title": "光通信巨头Coherent业绩与指引全面超预期，称新财年需求异常强劲，盘后仍跳水｜财报见闻",
@@ -59,8 +59,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时53分 ~ 03时56分]"
+          "appearance_count": 9,
+          "time_info": "[00时53分 ~ 04时39分]"
         },
         {
           "title": "AI服务器订单爆发！联想Q1财季营收同比增43%，经调整净利润增176%，股价大涨创新高 | 财报见闻",
@@ -70,8 +70,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时53分 ~ 03时56分]"
+          "appearance_count": 9,
+          "time_info": "[00时53分 ~ 04时39分]"
         },
         {
           "title": "受益AI需求外溢，中芯国际Q2营收突破30亿美元，净利暴增近4倍，Q3收入环比预增2%至4%｜财报见闻",
@@ -81,8 +81,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时53分 ~ 03时56分]"
+          "appearance_count": 9,
+          "time_info": "[00时53分 ~ 04时39分]"
         },
         {
           "title": "用AI给小时候的自己做头像",
@@ -94,8 +94,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时53分 ~ 03时56分]"
+          "appearance_count": 9,
+          "time_info": "[00时53分 ~ 04时39分]"
         },
         {
           "title": "AI拍出中国版怪奇物语",
@@ -105,11 +105,12 @@
             23,
             18,
             22,
-            21
+            21,
+            17
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时53分 ~ 03时56分]"
+          "appearance_count": 9,
+          "time_info": "[00时53分 ~ 04时39分]"
         },
         {
           "title": "用AI给朋友做个专属小游戏",
@@ -117,11 +118,12 @@
           "source": "抖音",
           "ranks": [
             19,
-            21
+            21,
+            23
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时53分 ~ 03时56分]"
+          "appearance_count": 9,
+          "time_info": "[00时53分 ~ 04时39分]"
         },
         {
           "title": "光速关服,AI虚拟歌姬停运",
@@ -132,8 +134,19 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时53分 ~ 03时56分]"
+          "appearance_count": 9,
+          "time_info": "[00时53分 ~ 04时39分]"
+        },
+        {
+          "title": "金十图示：2026年08月13日（周四）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260814040642401800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时39分"
         },
         {
           "title": "金十图示：2026年08月13日（周四）美股热门股票行情一览（美股盘中）",
@@ -147,6 +160,17 @@
           "time_info": "00时54分"
         },
         {
+          "title": "金十图示：2026年08月13日（周四）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260814040536854800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时39分"
+        },
+        {
           "title": "金十图示：2026年08月13日（周四）热门中概股行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260814003048572800",
           "source": "金十数据",
@@ -156,17 +180,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时54分"
-        },
-        {
-          "title": "伊朗革命卫队：真相要到战场上去看",
-          "url": "https://flash.jin10.com/detail/20260814031916413800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时56分"
         },
         {
           "title": "美防长称可无限期封锁伊朗",
@@ -193,6 +206,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时54分 ~ 02时59分]"
+        },
+        {
+          "title": "伊朗革命卫队：真相要到战场上去看",
+          "url": "https://flash.jin10.com/detail/20260814031916413800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时56分 ~ 04时39分]"
         },
         {
           "title": "苹果在休斯顿开设先进制造中心，宣布将在今年开始在休斯顿生产Mac Mini。 苹果在休斯顿投资数亿美元，首批先进AI服务器已发货。",
@@ -290,6 +315,18 @@
           "time_info": "[00时54分 ~ 01时57分]"
         },
         {
+          "title": "受Workday被收购报道影响，AI应用软件股集体冲高，Cloudflare、MongoDB涨超6%，Palantir、赛富时涨超4%，Applovin、ServiceNow涨超3%； 扩展科技软件行业ETF-iShares (IGV.US)涨超2%。",
+          "url": "https://wallstreetcn.com/livenews/3149282",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时56分 ~ 04时39分]"
+        },
+        {
           "title": "苹果(AAPL.O)在休斯顿投资数亿美元，首批先进AI服务器已发货。",
           "url": "https://flash.jin10.com/detail/20260814023226248800",
           "source": "金十数据",
@@ -321,6 +358,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时59分"
+        },
+        {
+          "title": "伊朗官员重申霍尔木兹海峡处于关闭状态",
+          "url": "https://wallstreetcn.com/livenews/3149303",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时39分"
+        },
+        {
+          "title": "美光创投推出2.5亿美元基金，投资下一代人工智能。",
+          "url": "https://flash.jin10.com/detail/20260814040156968800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时39分"
         },
         {
           "title": "伊朗外交部再次谴责美以违反国际人道法",
@@ -376,17 +435,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时54分"
-        },
-        {
-          "title": "受Workday被收购报道影响，AI应用软件股集体冲高，Cloudflare、MongoDB涨超6%，Palantir、赛富时涨超4%，Applovin、ServiceNow涨超3%； 扩展科技软件行业ETF-iShares (IGV.US)涨超2%。",
-          "url": "https://wallstreetcn.com/livenews/3149282",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时56分"
         },
         {
           "title": "OpenAI任命达利·拉季奇为首席营收官。",
