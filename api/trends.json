@@ -1,198 +1,44 @@
 {
-  "generated_at": "2026-08-14T22:16:07.680840+08:00",
-  "total_titles_processed": 1486,
+  "generated_at": "2026-08-15T05:04:59.495333+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai ai+ ai人工智能 人工智能 风险识别 商业风险识别 痛点 需求 商业风险 伊朗 rwa 趋势 热点 热门",
-      "match_count": 82,
+      "match_count": 22,
       "titles": [
         {
-          "title": "被伊朗打成外交收缩？美驻中东使馆拟长期精简人员",
-          "url": "https://news.ifeng.com/c/8vYdi6QKWQt",
-          "source": "凤凰网",
+          "title": "伊朗副外长加里巴巴迪：（回应特朗普称将宣布霍尔木兹海峡为美国领土的言论）不会被美国的威胁或武力展示所吓倒。",
+          "url": "https://flash.jin10.com/detail/20260815050235011800",
+          "source": "金十数据",
           "ranks": [
-            3
+            2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时53分 ~ 09时38分]"
+          "appearance_count": 1,
+          "time_info": "05时04分"
         },
         {
-          "title": "伊朗将正式加入金砖国家新开发银行",
-          "url": "https://news.ifeng.com/c/8vYalXCyC9Z",
-          "source": "凤凰网",
+          "title": "特朗普表示，每周从委内瑞拉获取数百万桶石油。 伊朗仍拥有导弹和无人机，但数量并不多。伊朗已无防御力量。伊朗货币毫无价值。 我们在伊朗问题上取得了重大胜利。",
+          "url": "https://wallstreetcn.com/livenews/3149874",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时53分 ~ 04时39分]"
-        },
-        {
-          "title": "伊朗：将以持久战消耗美国",
-          "url": "https://news.ifeng.com/c/8vYfWkn57YW",
-          "source": "凤凰网",
-          "ranks": [
-            1,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时53分 ~ 09时38分]"
-        },
-        {
-          "title": "中国AI把价格打下来，美国巨头一口气降80%",
-          "url": "https://news.ifeng.com/c/8vaN8Ao6xPg",
-          "source": "凤凰网",
-          "ranks": [
-            1,
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时02分 ~ 22时16分]"
-        },
-        {
-          "title": "AI给假网,吧友中招银狐病毒",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357340&amp;topic_name=AI%E7%BB%99%E5%81%87%E7%BD%91%2C%E5%90%A7%E5%8F%8B%E4%B8%AD%E6%8B%9B%E9%93%B6%E7%8B%90%E7%97%85%E6%AF%92",
-          "source": "贴吧",
-          "ranks": [
-            4,
-            10,
-            11,
-            12,
-            13,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时53分 ~ 22时16分]"
+          "appearance_count": 1,
+          "time_info": "05时04分"
         },
         {
           "title": "如何评价北京协和医院住院医用 AI 解决了困扰数学界的难题 Crouzeix 猜想？",
           "url": "https://www.zhihu.com/question/2071486982732223991",
           "source": "知乎",
           "ranks": [
-            17,
-            6,
-            4,
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时13分 ~ 22时16分]"
-        },
-        {
-          "title": "受益AI需求外溢，中芯国际Q2营收突破30亿美元，净利暴增近4倍，Q3收入环比预增2%至4%｜财报见闻",
-          "url": "https://wallstreetcn.com/articles/3779371",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时53分 ~ 16时13分]"
-        },
-        {
-          "title": "AI服务器订单爆发！联想Q1财季营收同比增43%，经调整净利润增176%，股价大涨创新高 | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3779354",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时53分 ~ 09时38分]"
-        },
-        {
-          "title": "用AI给小时候的自己做头像",
-          "url": "https://www.douyin.com/hot/2608882",
-          "source": "抖音",
-          "ranks": [
-            13,
-            10,
-            11,
-            12,
-            14,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时53分 ~ 22时16分]"
-        },
-        {
-          "title": "用AI给朋友做个专属小游戏",
-          "url": "https://www.douyin.com/hot/2608715",
-          "source": "抖音",
-          "ranks": [
-            19,
-            21,
-            23,
-            15,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时53分 ~ 16时13分]"
-        },
-        {
-          "title": "AI拍出中国版怪奇物语",
-          "url": "https://www.douyin.com/hot/2608564",
-          "source": "抖音",
-          "ranks": [
-            23,
-            18,
-            22,
-            21,
-            17,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时53分 ~ 18时02分]"
-        },
-        {
-          "title": "光速关服,AI虚拟歌姬停运",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357199&amp;topic_name=%E5%85%89%E9%80%9F%E5%85%B3%E6%9C%8D%2CAI%E8%99%9A%E6%8B%9F%E6%AD%8C%E5%A7%AC%E5%81%9C%E8%BF%90",
-          "source": "贴吧",
-          "ranks": [
-            25,
-            26,
-            29,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时53分 ~ 18时02分]"
-        },
-        {
-          "title": "光通信巨头Coherent业绩与指引全面超预期，称新财年需求异常强劲，盘后仍跳水｜财报见闻",
-          "url": "https://wallstreetcn.com/articles/3779317",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时53分 ~ 04时39分]"
-        },
-        {
-          "title": "SK海力士崔泰源：明年将迎最严重“存储荒” AI客户需求几乎翻倍",
-          "url": "https://www.cls.cn/detail/2454270",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            8,
-            7,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时13分 ~ 22时16分]"
+          "appearance_count": 1,
+          "time_info": "05时04分"
         },
         {
           "title": "人工智能激活力 “新”意盎然促发展",
@@ -202,764 +48,206 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时57分 ~ 22时16分]"
-        },
-        {
-          "title": "发力中国市场！据称苹果训练了一款“中国定制”大模型，开启AI双轨布局",
-          "url": "https://www.cls.cn/detail/2454596",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            10,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时02分 ~ 22时16分]"
-        },
-        {
-          "title": "下黑手！特朗普政府开发AI工具打击贸易伙伴：让你们帮中国",
-          "url": "https://news.ifeng.com/c/8vYz7iCdmvg",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时13分 ~ 18时02分]"
-        },
-        {
-          "title": "金十图示：2026年08月13日（周四）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260814040642401800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时39分"
+          "time_info": "05时04分"
         },
         {
-          "title": "金十图示：2026年08月14日（周五）美股热门股票行情一览",
-          "url": "https://flash.jin10.com/detail/20260814214258805800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时16分"
-        },
-        {
-          "title": "金十图示：2026年08月13日（周四）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260814003306234800",
+          "title": "伊朗副外长加里巴巴迪：霍尔木兹海峡的开放或关闭只能由伊朗决定。",
+          "url": "https://flash.jin10.com/detail/20260815050027660800",
           "source": "金十数据",
           "ranks": [
             3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时54分"
-        },
-        {
-          "title": "金十图示：2026年08月13日（周四）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260814040536854800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时39分"
-        },
-        {
-          "title": "金十图示：2026年08月13日（周四）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260814003048572800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时54分"
-        },
-        {
-          "title": "OpenAI商业化加速：年化收入超400亿美元，7月单月增长超过20%",
-          "url": "https://flash.jin10.com/detail/20260814160403026800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时13分"
-        },
-        {
-          "title": "金十图示：2026年08月14日（周五）热门中概股行情一览",
-          "url": "https://flash.jin10.com/detail/20260814213529827800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时16分"
-        },
-        {
-          "title": "美防长称可无限期封锁伊朗",
-          "url": "https://wallstreetcn.com/livenews/3149271",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            11,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时57分 ~ 03时56分]"
-        },
-        {
-          "title": "特朗普品牌马尔代夫度假村推迟数字代币计划，伊朗战争扰乱地区旅游",
-          "url": "https://wallstreetcn.com/livenews/3149255",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            17,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时54分 ~ 02时59分]"
-        },
-        {
-          "title": "伊朗革命卫队：真相要到战场上去看",
-          "url": "https://flash.jin10.com/detail/20260814031916413800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时56分 ~ 04时39分]"
-        },
-        {
-          "title": "苹果在休斯顿开设先进制造中心，宣布将在今年开始在休斯顿生产Mac Mini。 苹果在休斯顿投资数亿美元，首批先进AI服务器已发货。",
-          "url": "https://wallstreetcn.com/livenews/3149278",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时59分 ~ 03时56分]"
-        },
-        {
-          "title": "戚薇推出数字分身，成为首位内娱开放 AI 授权的艺人，明星拥抱数字分身将带来哪些新变化？",
-          "url": "https://www.zhihu.com/question/2068993919958742400",
-          "source": "知乎",
-          "ranks": [
-            5,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时13分 ~ 18时56分]"
+          "time_info": "05时04分"
         },
         {
           "title": "英伟达CPO交换机全面量产，AI数据中心迈入“硅光时代”！",
           "url": "https://wallstreetcn.com/articles/3779448",
           "source": "华尔街见闻",
           "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时04分"
+        },
+        {
+          "title": "中国AI把价格打下来，美国巨头一口气降80%",
+          "url": "https://news.ifeng.com/c/8vaN8Ao6xPg",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时04分"
+        },
+        {
+          "title": "美国总统特朗普表示，我很快将宣布霍尔木兹海峡为美国领土。美国对伊朗的封锁“势不可挡”，是一道“钢铁之墙”。 特朗普称，美国已经做好应对伊朗的充分准备，不会允许伊朗继续所作所为，也不会允许伊朗拥有核武器。",
+          "url": "https://wallstreetcn.com/livenews/3149869",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时15分 ~ 22时16分]"
+          "appearance_count": 1,
+          "time_info": "05时04分"
         },
         {
-          "title": "美防长称可“无限期”对伊朗进行海上封锁",
-          "url": "https://news.ifeng.com/c/8vZaxoRoYIe",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时13分 ~ 18时02分]"
-        },
-        {
-          "title": "美防长称可无限期封锁伊朗 美联储官员重申现在必须加息 | 环球市场",
-          "url": "https://www.cls.cn/detail/2454017",
+          "title": "发力中国市场！据称苹果训练了一款“中国定制”大模型，开启AI双轨布局",
+          "url": "https://www.cls.cn/detail/2454596",
           "source": "财联社热门",
           "ranks": [
-            13,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时38分 ~ 16时13分]"
-        },
-        {
-          "title": "OpenAI：GPT-5.6 Sol超高速模式（UltraFast Mode）已向部分客户群体开放有限预览。",
-          "url": "https://wallstreetcn.com/livenews/3149264",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时57分 ~ 02时59分]"
-        },
-        {
-          "title": "AI“循环融资”越来越仰赖一件事：英伟达GPU能保值多久……",
-          "url": "https://www.cls.cn/detail/2453237",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时53分 ~ 00时54分]"
-        },
-        {
-          "title": "谷歌推出新版 Gemini Flash，但顶级AI模型仍延迟发布",
-          "url": "https://wallstreetcn.com/livenews/3149263",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时57分 ~ 02时59分]"
-        },
-        {
-          "title": "伊朗外交部再次谴责美以违反国际人道法",
-          "url": "https://wallstreetcn.com/livenews/3149273",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时59分 ~ 03时56分]"
-        },
-        {
-          "title": "OpenAI在不到一年内任命新首席营收官",
-          "url": "https://wallstreetcn.com/livenews/3149247",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时54分 ~ 01时57分]"
-        },
-        {
-          "title": "美国在伊朗冲突中损失约25%的“死神”无人机。（华盛顿邮报）",
-          "url": "https://wallstreetcn.com/livenews/3149244",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时54分 ~ 01时57分]"
-        },
-        {
-          "title": "位列全球第二，国内高校团队AI安全攻防测评获佳绩",
-          "url": "https://wallstreetcn.com/livenews/3149243",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时54分 ~ 01时57分]"
-        },
-        {
-          "title": "受Workday被收购报道影响，AI应用软件股集体冲高，Cloudflare、MongoDB涨超6%，Palantir、赛富时涨超4%，Applovin、ServiceNow涨超3%； 扩展科技软件行业ETF-iShares (IGV.US)涨超2%。",
-          "url": "https://wallstreetcn.com/livenews/3149282",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时56分 ~ 04时39分]"
-        },
-        {
-          "title": "苹果(AAPL.O)在休斯顿投资数亿美元，首批先进AI服务器已发货。",
-          "url": "https://flash.jin10.com/detail/20260814023226248800",
-          "source": "金十数据",
-          "ranks": [
-            6
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时59分"
+          "time_info": "05时04分"
         },
         {
-          "title": "美国30年期国债拍卖中标收益率创2001年以来新高，需求略逊预期",
-          "url": "https://wallstreetcn.com/livenews/3149266",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时57分"
-        },
-        {
-          "title": "伊朗：美若敢用核弹 全球基地将成靶子",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%EF%BC%9A%E7%BE%8E%E8%8B%A5%E6%95%A2%E7%94%A8%E6%A0%B8%E5%BC%B9+%E5%85%A8%E7%90%83%E5%9F%BA%E5%9C%B0%E5%B0%86%E6%88%90%E9%9D%B6%E5%AD%90",
-          "source": "百度热搜",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时38分"
-        },
-        {
-          "title": "伊朗议会国家安全委员会主席阿齐兹：若有人继续向伊朗的敌人屈服，你们的主权就将持续面临风险，国家地位也会被削弱。但若有人甘当敌人的工具，在地区内轻举妄动，伊朗将作出果断而强硬的回应。",
-          "url": "https://flash.jin10.com/detail/20260814023025307800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时59分"
-        },
-        {
-          "title": "伊朗官员重申霍尔木兹海峡处于关闭状态",
-          "url": "https://wallstreetcn.com/livenews/3149303",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时39分"
-        },
-        {
-          "title": "iPhoneAir2再爆料",
-          "url": "https://s.weibo.com/weibo?q=%23iPhoneAir2%E5%86%8D%E7%88%86%E6%96%99%23&t=31&band_rank=9&Refer=top",
-          "source": "微博",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时13分"
-        },
-        {
-          "title": "美光创投推出2.5亿美元基金，投资下一代人工智能。",
-          "url": "https://flash.jin10.com/detail/20260814040156968800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时39分"
-        },
-        {
-          "title": "中芯国际赵海军：下半年人工智能产生的产业推动与溢出效应还将持续",
-          "url": "https://wallstreetcn.com/livenews/3149402",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时38分"
-        },
-        {
-          "title": "华强北AI眼镜销量暴涨100%",
-          "url": "https://wallstreetcn.com/livenews/3149755",
+          "title": "甲骨文：AI数据中心园区项目朱庇特计划仍按计划推进，我们将继续与合作伙伴密切合作，推动该项目向前发展。甲骨文跌幅收窄，现跌3.5%，此前一度跌4.7%。",
+          "url": "https://wallstreetcn.com/livenews/3149866",
           "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时57分"
+          "time_info": "05时04分"
         },
         {
-          "title": "中国央行：根据公开市场业务一级交易商的需求，2026年8月14日7天期逆回购操作量为零。",
-          "url": "https://flash.jin10.com/detail/20260814092058175800",
+          "title": "围棋与境界、修养之类的东西毫无关系，能赢是因为计算力强，这么明显的道理在 AI 以前人们怎么不懂？",
+          "url": "https://www.zhihu.com/question/2068917345393940011",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时04分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗仍有导弹和无人机，但已经不多了。",
+          "url": "https://flash.jin10.com/detail/20260815042631790800",
           "source": "金十数据",
           "ranks": [
             12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时38分"
+          "time_info": "05时04分"
         },
         {
-          "title": "据Axios：OpenAI在IPO前进行高管更换。",
-          "url": "https://flash.jin10.com/detail/20260814173053117800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时02分"
-        },
-        {
-          "title": "伊朗外交部再次谴责美以违反国际人道法",
-          "url": "https://flash.jin10.com/detail/20260814020208321800",
+          "title": "美国总统特朗普：没人知道我们在伊朗有多成功。你知道谁最清楚我们做得有多好吗？伊朗。",
+          "url": "https://flash.jin10.com/detail/20260815042546976800",
           "source": "金十数据",
           "ranks": [
             13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时59分"
+          "time_info": "05时04分"
         },
         {
-          "title": "OpenAI：GPT-5.6 Sol超高速模式（UltraFast Mode）已向部分客户群体开放有限预览。",
-          "url": "https://flash.jin10.com/detail/20260814010146739800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时57分"
-        },
-        {
-          "title": "中芯国际联合首席执行官赵海军：人工智能支持的芯片需求上升40%。",
-          "url": "https://flash.jin10.com/detail/20260814091801763800",
-          "source": "金十数据",
+          "title": "美国总统特朗普：我不在乎在中期选举前打击伊朗经济。",
+          "url": "https://wallstreetcn.com/livenews/3149861",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             15
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时38分"
+          "time_info": "05时04分"
         },
         {
-          "title": "OpenAI：丹尼斯·德雷瑟将在过渡期后离开OpenAI，寻求其他发展机会。",
-          "url": "https://flash.jin10.com/detail/20260814000639384800",
+          "title": "美国总统特朗普：美国有能力摧毁伊朗，但我们不想这样做。",
+          "url": "https://flash.jin10.com/detail/20260815042110296800",
           "source": "金十数据",
           "ranks": [
             16
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时54分"
+          "time_info": "05时04分"
         },
         {
-          "title": "伊朗外交部副部长加里巴巴迪：今天是伊斯兰抵抗日，它提醒人们要抵御侵略，并粉碎基于武力的算计。地区局势再次表明，各国人民抵抗侵略的坚定立场，依然在地区格局中发挥着决定性作用。",
-          "url": "https://flash.jin10.com/detail/20260814211912567800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时16分"
-        },
-        {
-          "title": "百度文库网盘GenFlow官宣中文名「库库AI」，推出「库库AI」办公独立端",
-          "url": "https://wallstreetcn.com/livenews/3149649",
+          "title": "博通AI客户融资平台引担忧，盘中股价跌近7%",
+          "url": "https://wallstreetcn.com/livenews/3149860",
           "source": "华尔街见闻-快讯",
           "ranks": [
             16
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时02分"
+          "time_info": "05时04分"
         },
         {
-          "title": "中疾控：新冠在部分省份出现下降趋势",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E7%96%BE%E6%8E%A7%EF%BC%9A%E6%96%B0%E5%86%A0%E5%9C%A8%E9%83%A8%E5%88%86%E7%9C%81%E4%BB%BD%E5%87%BA%E7%8E%B0%E4%B8%8B%E9%99%8D%E8%B6%8B%E5%8A%BF",
-          "source": "百度热搜",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时56分"
-        },
-        {
-          "title": "OpenAI：与查德·皮茨和RPT Partners建立了战略合作伙伴关系。",
-          "url": "https://flash.jin10.com/detail/20260814000628612800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时54分"
-        },
-        {
-          "title": "伊朗最高领袖顾问：若条件得不到满足 或升级冲突",
-          "url": "https://wallstreetcn.com/livenews/3149241",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时54分"
-        },
-        {
-          "title": "OpenAI任命达利·拉季奇为首席营收官。",
-          "url": "https://flash.jin10.com/detail/20260814000501554800",
-          "source": "金十数据",
+          "title": "AI给假网,吧友中招银狐病毒",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357340&amp;topic_name=AI%E7%BB%99%E5%81%87%E7%BD%91%2C%E5%90%A7%E5%8F%8B%E4%B8%AD%E6%8B%9B%E9%93%B6%E7%8B%90%E7%97%85%E6%AF%92",
+          "source": "贴吧",
           "ranks": [
             18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时54分"
+          "time_info": "05时04分"
         },
         {
-          "title": "AI企业扎堆内蒙古抢风",
-          "url": "https://s.weibo.com/weibo?q=%23AI%E4%BC%81%E4%B8%9A%E6%89%8E%E5%A0%86%E5%86%85%E8%92%99%E5%8F%A4%E6%8A%A2%E9%A3%8E%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
+          "title": "伊朗方面的最新表态传递出哪些信号",
+          "url": "https://www.toutiao.com/trending/7673859930650054186/",
+          "source": "今日头条",
           "ranks": [
-            20
+            19
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时38分"
+          "time_info": "05时04分"
         },
         {
-          "title": "中芯国际赵海军：下半年人工智能产生的产业推动与溢出效应还将持续",
-          "url": "https://flash.jin10.com/detail/20260814091603701800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时38分"
-        },
-        {
-          "title": "中芯国际高管：下半年，人工智能产生的产业推动与溢出效应还将继续为集成电路制造带来广泛需求。",
-          "url": "https://wallstreetcn.com/livenews/3149386",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时38分"
-        },
-        {
-          "title": "OpenAI首席营收官任职不到一年离职",
-          "url": "https://wallstreetcn.com/livenews/3149682",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时56分"
-        },
-        {
-          "title": "金十数据整理：每日热门ETF要闻汇总（2026-08-14）",
-          "url": "https://flash.jin10.com/detail/20260814091540994800",
+          "title": "金十图示：2026年08月14日（周五）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260815040705233800",
           "source": "金十数据",
           "ranks": [
             21
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时38分"
+          "time_info": "05时04分"
         },
         {
-          "title": "如果算力期货上市，AI泡沫会被放大吗？",
-          "url": "https://flash.jin10.com/detail/20260814155121344800",
-          "source": "金十数据",
+          "title": "用AI给小时候的自己做头像",
+          "url": "https://www.douyin.com/hot/2608882",
+          "source": "抖音",
           "ranks": [
             21
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时13分"
+          "time_info": "05时04分"
         },
         {
-          "title": "AI算力CPI",
-          "url": "https://flash.jin10.com/detail/20260814211050407800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时16分"
-        },
-        {
-          "title": "OpenAI在不到一年内任命新首席营收官。",
-          "url": "https://flash.jin10.com/detail/20260813235531398800",
+          "title": "金十图示：2026年08月14日（周五）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260815040702357800",
           "source": "金十数据",
           "ranks": [
             22
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时54分"
+          "time_info": "05时04分"
         },
         {
-          "title": "OpenAI营收部门二度换帅 加速营收增长为上市铺路",
-          "url": "https://flash.jin10.com/detail/20260814004747744800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时57分"
-        },
-        {
-          "title": "人工智能芯片制造商Cerebras：对AMD联合产品的需求巨大。",
-          "url": "https://flash.jin10.com/detail/20260813235516723800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时54分"
-        },
-        {
-          "title": "智洋创新：拟定增募资不超9.04亿元，用于多垂域具身智能及人工智能体研发等项目",
-          "url": "https://flash.jin10.com/detail/20260814210933708800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时16分"
-        },
-        {
-          "title": "人工智能芯片制造商Cerebras：业务将以卓越的速度增长。",
-          "url": "https://flash.jin10.com/detail/20260813235012843800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时54分"
-        },
-        {
-          "title": "人工智能芯片制造商Cerebras：数据中心对所有人都是挑战。",
-          "url": "https://flash.jin10.com/detail/20260813235006266800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时54分"
-        },
-        {
-          "title": "AI就业真相：一边裁员白领，一边催生蓝领",
-          "url": "https://flash.jin10.com/detail/20260814154938772800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时13分"
-        },
-        {
-          "title": "又一“大空头”质疑AI繁荣：最大软肋可能在两家公司上",
-          "url": "https://flash.jin10.com/detail/20260814170743373800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时02分"
-        },
-        {
-          "title": "SpaceX豪掷600亿收购Cursor 马斯克AI版图再落重子",
-          "url": "https://flash.jin10.com/detail/20260814210317465800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时16分"
-        },
-        {
-          "title": "伊朗称拦截并摧毁一架MQ-9无人机",
-          "url": "https://wallstreetcn.com/livenews/3149735",
+          "title": "白宫新闻秘书莱维特表示，美国还有更多施压伊朗的手段。美国可以继续惩罚伊朗并削弱其经济。",
+          "url": "https://wallstreetcn.com/livenews/3149851",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            27
+            24
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时57分"
-        },
-        {
-          "title": "伊朗最高领袖已明确作出战略决策",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E5%B7%B2%E6%98%8E%E7%A1%AE%E4%BD%9C%E5%87%BA%E6%88%98%E7%95%A5%E5%86%B3%E7%AD%96%23&t=31&band_rank=28&Refer=top",
-          "source": "微博",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时13分"
-        },
-        {
-          "title": "当AI汽车长了双灵眸大眼",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%BD%93AI%E6%B1%BD%E8%BD%A6%E9%95%BF%E4%BA%86%E5%8F%8C%E7%81%B5%E7%9C%B8%E5%A4%A7%E7%9C%BC%23&t=31&band_rank=28&Refer=top",
-          "source": "微博",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时02分"
-        },
-        {
-          "title": "美银：共和党若赢下中期选举，AI热潮或延续至2027年",
-          "url": "https://flash.jin10.com/detail/20260814210223473800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时16分"
-        },
-        {
-          "title": "AI如何改变灾害管理：兰德智库报告称已有超1100种工具，但真正落地仍面临挑战",
-          "url": "https://flash.jin10.com/detail/20260814175301353800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时56分"
+          "time_info": "05时04分"
         }
       ]
     }
